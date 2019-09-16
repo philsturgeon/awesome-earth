@@ -16,6 +16,7 @@ A collection of resources, services, products, and ideas that you can use to imp
 ## Sustainable Lifestyle
 
 - [The Fixmas](https://thefixmas.com/) - Making Christmas sustainable.
+- [Sonny](https://www.indiegogo.com/projects/sonny-a-portable-bidet-for-eco-conscious-humans/x/17318484#/) -  A sustainable alternative to wipes and paper for better hygiene and a greener planet.
 
 ## Zero Waste
 
