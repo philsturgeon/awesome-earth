@@ -4,9 +4,18 @@ A collection of resources, services, products, and ideas that you can use to imp
 
 ## Carbon Reduction
 
+ Billionaires and scientists are [scaling up carbon trapping programs](https://www.theguardian.com/environment/2018/feb/04/carbon-emissions-negative-emissions-technologies-capture-storage-bill-gates) with big old turbines, even looking at turning that byproduct into fuel, but those same scientists are begging us to live less carbon intensive lives and fund offsetting programs. They need our help, so figure out your footprint, reduce it over time, and offset the rest.
+
 - [CarbonFund.org](https://carbonfund.org/) - 🇺🇸 Calculate your footprint based on flights, driving, shipping, and make tax-deductible donations to offset your emissions.
 - [Offset Earth](https://offset.earth/) - 🇬🇧 Monthly subscriptions for your, your family, and your business, where money goes to Eden Reforestation Projects who plant trees and offset and reduce carbon emissions around the world in a myriad of ways.
 - [Leave Me Alone](https://leavemealone.app/save-the-planet/) - 🌎 Emails contribute to 986,000 tonnes of CO2 being dumped into the atmosphere every day. Unsubscribe from unwanted subscription emails and reduce your carbon footprint.
+
+## Reforestation
+
+ We need to [reforest an area the size of the USA](https://theconversation.com/reforesting-an-area-the-size-of-the-us-needed-to-help-avert-climate-breakdown-say-researchers-are-they-right-119842) as quickly as possible. Why the urgency? Ice shelves in Greenland are melting so fast that [197 billion tons melted in _July 2019 alone_](https://apnews.com/65694195c91d4b62b275bd14a6955b4c), and abnormally vicious [heatwaves all over Europe are becoming more intense](https://www.bbc.com/news/world-europe-48756480) and more frequent. We're rapidly reaching a point where large areas of the planet will be too hot to plant forests, so we need to get it done now.
+
+- [Eden Reforestation Projects](https://edenprojects.org/) - 🌎 Eden Reforestation projects reduces extreme poverty and restores healthy forests by employing local villagers to plant millions of trees every year.
+- [Tree-Nation](https://tree-nation.com/projects) - 🌎 Discover the projects where you can start planting now.
 
 ## Green Energy
 
