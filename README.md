@@ -25,3 +25,5 @@ A collection of resources, services, products, and ideas that you can use to imp
 - [Rethink Food NYC](https://www.rethinkfood.nyc/) - 🇺🇸 We pick up unused, excess food from restaurants, farms, and other food purveyors to repurpose it into delicious and nutritious meals for under-served New Yorkers.
 - [Unverpakt](https://original-unverpackt.de/) - 🇩🇪 Zero packaging supermarket in Berlin. _Original Unverpackt hat sich als erster Supermarkt weltweit dem Zero-Waste-Lifestyle gewidmet._
 - [Plant-based Trash Bags](https://www.amazon.com/Plant-Based-Kitchen-Handles-Gallon/dp/B071JMFKM5/) - 🇺🇸 Made from Plant Based (sugar cane) materials instead of fossil fuel.
+- [Share food you will waste](https://olioex.com/) - 🇬🇧
+- [Compostable food bags and other items](https://www.all-green.co.uk/) - 🇬🇧
