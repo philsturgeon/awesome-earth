@@ -9,6 +9,7 @@ A collection of resources, services, products, and ideas that you can use to imp
 - [CarbonFund.org](https://carbonfund.org/) - 🇺🇸 Calculate your footprint based on flights, driving, shipping, and make tax-deductible donations to offset your emissions.
 - [Offset Earth](https://offset.earth/) - 🇬🇧 Monthly subscriptions for your, your family, and your business, where money goes to Eden Reforestation Projects who plant trees and offset and reduce carbon emissions around the world in a myriad of ways.
 - [Leave Me Alone](https://leavemealone.app/save-the-planet/) - 🌎 Emails contribute to 986,000 tonnes of CO2 being dumped into the atmosphere every day. Unsubscribe from unwanted subscription emails and reduce your carbon footprint.
+- [Waze Carpool](https://www.waze.com/carpool) - 🌎 Carpool Choose to drive or ride, and match with people based on route and time of day.
 
 ## Reforestation
 
