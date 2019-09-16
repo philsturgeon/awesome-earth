@@ -7,9 +7,9 @@ A collection of resources, services, products, and ideas that you can use to imp
  Billionaires and scientists are [scaling up carbon trapping programs](https://www.theguardian.com/environment/2018/feb/04/carbon-emissions-negative-emissions-technologies-capture-storage-bill-gates) with big old turbines, even looking at turning that byproduct into fuel, but those same scientists are begging us to live less carbon intensive lives and fund offsetting programs. They need our help, so figure out your footprint, reduce it over time, and offset the rest.
 
 - [CarbonFund.org](https://carbonfund.org/) - 🇺🇸 Calculate your footprint based on flights, driving, shipping, and make tax-deductible donations to offset your emissions.
-- [Offset Earth](https://offset.earth/) - 🇬🇧 Monthly subscriptions for your, your family, and your business, where money goes to Eden Reforestation Projects who plant trees and offset and reduce carbon emissions around the world in a myriad of ways.
+- [Offset Earth](https://offset.earth/) - 🇬🇧 Monthly subscriptions for you, your family, and your business, where money goes to Eden Reforestation Projects who plant trees and offset and reduce carbon emissions around the world in a myriad of ways.
 - [Leave Me Alone](https://leavemealone.app/save-the-planet/) - 🌎 Emails contribute to 986,000 tonnes of CO2 being dumped into the atmosphere every day. Unsubscribe from unwanted subscription emails and reduce your carbon footprint.
-- [Waze Carpool](https://www.waze.com/carpool) - 🌎 Carpool Choose to drive or ride, and match with people based on route and time of day.
+- [Waze Carpool](https://www.waze.com/carpool) - 🌎 Choose to drive or ride, and match with people based on route and time of day.
 
 ## Reforestation
 
