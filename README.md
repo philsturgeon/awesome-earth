@@ -7,9 +7,14 @@ A collection of resources, services, products, and ideas that you can use to imp
  Billionaires and scientists are [scaling up carbon trapping programs](https://www.theguardian.com/environment/2018/feb/04/carbon-emissions-negative-emissions-technologies-capture-storage-bill-gates) with big old turbines, even looking at turning that byproduct into fuel, but those same scientists are begging us to live less carbon intensive lives and fund offsetting programs. They need our help, so figure out your footprint, reduce it over time, and offset the rest.
 
 - [CarbonFund.org](https://carbonfund.org/) - 🇺🇸 Calculate your footprint based on flights, driving, shipping, and make tax-deductible donations to offset your emissions.
-- [Offset Earth](https://offset.earth/) - 🇬🇧 Monthly subscriptions for you, your family, and your business, where money goes to Eden Reforestation Projects who plant trees and offset and reduce carbon emissions around the world in a myriad of ways.
+- [Offset Earth](https://offset.earth/?r=5d01f2ed12ae7a358b75fdd7) - 🇬🇧 Monthly subscriptions for you, your family, and your business, where money goes to Eden Reforestation Projects who plant trees and offset and reduce carbon emissions around the world in a myriad of ways.
 - [Leave Me Alone](https://leavemealone.app/save-the-planet/) - 🌎 Emails contribute to 986,000 tonnes of CO2 being dumped into the atmosphere every day. Unsubscribe from unwanted subscription emails and reduce your carbon footprint.
 - [Waze Carpool](https://www.waze.com/carpool) - 🌎 Choose to drive or ride, and match with people based on route and time of day.
+
+## Green Energy
+
+- [the Switch](https://theswitch.co.uk/) - 🇬🇧 Switch to green energy is easy and can save you money too.
+- [Money Supermarket: Green Energy](https://www.moneysupermarket.com/gas-and-electricity/green-energy/) - 🇬🇧 "Green energy might’ve been a premium before, but prices are becoming competitive thanks to concerns over fossil fuels."
 
 ## Reforestation
 
@@ -18,11 +23,6 @@ A collection of resources, services, products, and ideas that you can use to imp
 - [Eden Reforestation Projects](https://edenprojects.org/) - 🌎 Eden Reforestation projects reduces extreme poverty and restores healthy forests by employing local villagers to plant millions of trees every year.
 - [Tree-Nation](https://tree-nation.com/projects) - 🌎 Discover the projects where you can start planting now.
 
-## Green Energy
-
-- [the Switch](https://theswitch.co.uk/) - 🇬🇧 Switch to green energy is easy and can save you money too.
-- [Money Supermarket: Green Energy](https://www.moneysupermarket.com/gas-and-electricity/green-energy/) - 🇬🇧 "Green energy might’ve been a premium before, but prices are becoming competitive thanks to concerns over fossil fuels."
-
 ## Sustainable Lifestyle
 
 - [The Fixmas](https://thefixmas.com/) - Making Christmas sustainable.
@@ -30,11 +30,13 @@ A collection of resources, services, products, and ideas that you can use to imp
 
 ## Zero Waste
 
+- [Bees Wrap](https://www.beeswrap.com/) - 🇺🇸 Stop using cling film and start using reusable recyclable wraps made from bees wax and organic jojoba oil.
+- [Donate Toys](https://www.moneycrashers.com/where-donate-used-toys/) - 🇺🇸 Donate toys that your children have grown out of instead of throwing them away.
 - [Openstreetmap: Zero Waste (Overpass)](http://overpass-turbo.eu/?template=key&key=zero_waste) - Openstreetmap has the tag zero_waste=* for shops who sell items without packaging.
 - [Clean Cult](https://www.cleancult.com/) - 🇺🇸 Cleaning supplies with zero-waste packaging, and a powerful clean that's better for you and the planet.
 - [City Harvest](https://www.cityharvest.org/) - 🇺🇸 City Harvest is New York City’s largest food rescue organization. They rescue food and deliver it to hundreds of food pantries, soup kitchens and other community partners.
-- [Rethink Food NYC](https://www.rethinkfood.nyc/) - 🇺🇸 We pick up unused, excess food from restaurants, farms, and other food purveyors to repurpose it into delicious and nutritious meals for under-served New Yorkers.
 - [Original Unverpackt](https://original-unverpackt.de/) - 🇩🇪 Zero packaging supermarket in Berlin. _Original Unverpackt hat sich als erster Supermarkt weltweit dem Zero-Waste-Lifestyle gewidmet._
 - [Plant-based Trash Bags](https://www.amazon.com/Plant-Based-Kitchen-Handles-Gallon/dp/B071JMFKM5/) - 🇺🇸 Made from Plant Based (sugar cane) materials instead of fossil fuel.
+- [Rethink Food NYC](https://www.rethinkfood.nyc/) - 🇺🇸 We pick up unused, excess food from restaurants, farms, and other food purveyors to repurpose it into delicious and nutritious meals for under-served New Yorkers.
 - [Share food you will waste](https://olioex.com/) - 🇬🇧
-- [Compostable food bags and other items](https://www.all-green.co.uk/) - 🇬🇧
+- [Compostable food bags](https://www.all-green.co.uk/) - 🇬🇧
