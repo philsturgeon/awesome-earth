@@ -30,13 +30,13 @@ A collection of resources, services, products, and ideas that you can use to imp
 
 ## Zero Waste
 
+- [All Green](https://www.all-green.co.uk/) - 🇬🇧 A selection of environmentally products for the home, garden, pets and other stuff.
 - [Bees Wrap](https://www.beeswrap.com/) - 🇺🇸 Stop using cling film and start using reusable recyclable wraps made from bees wax and organic jojoba oil.
-- [Donate Toys](https://www.moneycrashers.com/where-donate-used-toys/) - 🇺🇸 Donate toys that your children have grown out of instead of throwing them away.
-- [Openstreetmap: Zero Waste (Overpass)](http://overpass-turbo.eu/?template=key&key=zero_waste) - Openstreetmap has the tag zero_waste=* for shops who sell items without packaging.
 - [Clean Cult](https://www.cleancult.com/) - 🇺🇸 Cleaning supplies with zero-waste packaging, and a powerful clean that's better for you and the planet.
 - [City Harvest](https://www.cityharvest.org/) - 🇺🇸 City Harvest is New York City’s largest food rescue organization. They rescue food and deliver it to hundreds of food pantries, soup kitchens and other community partners.
+- [Donate Toys](https://www.moneycrashers.com/where-donate-used-toys/) - 🇺🇸 Donate toys that your children have grown out of instead of throwing them away.
+- [Olio](https://olioex.com/) - 🇬🇧 We connect neighbours to share food, and other things, rather than chuck them away.
+- [Openstreetmap: Zero Waste (Overpass)](http://overpass-turbo.eu/?template=key&key=zero_waste) - Openstreetmap has the tag zero_waste=* for shops who sell items without packaging.
 - [Original Unverpackt](https://original-unverpackt.de/) - 🇩🇪 Zero packaging supermarket in Berlin. _Original Unverpackt hat sich als erster Supermarkt weltweit dem Zero-Waste-Lifestyle gewidmet._
 - [Plant-based Trash Bags](https://www.amazon.com/Plant-Based-Kitchen-Handles-Gallon/dp/B071JMFKM5/) - 🇺🇸 Made from Plant Based (sugar cane) materials instead of fossil fuel.
 - [Rethink Food NYC](https://www.rethinkfood.nyc/) - 🇺🇸 We pick up unused, excess food from restaurants, farms, and other food purveyors to repurpose it into delicious and nutritious meals for under-served New Yorkers.
-- [Share food you will waste](https://olioex.com/) - 🇬🇧
-- [Compostable food bags](https://www.all-green.co.uk/) - 🇬🇧
