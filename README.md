@@ -28,6 +28,7 @@ A collection of resources, services, products, and ideas that you can use to imp
 - [Happy Cow](https://www.happycow.net) - 🌎 Reduce or avoid meat entirely by finding great vegetarian or vegan food all over the world.
 - [The Fixmas](https://thefixmas.com/) - Making Christmas sustainable.
 - [Sonny](https://www.indiegogo.com/projects/sonny-a-portable-bidet-for-eco-conscious-humans/x/17318484#/) -  A sustainable alternative to wipes and paper for better hygiene and a greener planet.
+- [Bio-plastic Trash Bags](https://www.amazon.com/Plant-Based-Kitchen-Handles-Gallon/dp/B071JMFKM5/) - 🇺🇸 Made from Plant Based (sugar cane) materials instead of fossil fuel.
 
 ## Transportation
 
@@ -43,10 +44,8 @@ A collection of resources, services, products, and ideas that you can use to imp
 - [City Harvest](https://www.cityharvest.org/) - 🇺🇸 City Harvest is New York City’s largest food rescue organization. They rescue food and deliver it to hundreds of food pantries, soup kitchens and other community partners.
 - [Grayl Water Filter](https://grayl.com/) - 🇺🇸 If you're backpacking or adventuring, don't buy plastic bottles, you can just purify you're own water quickly and easily.
 - [Donate Toys](https://www.moneycrashers.com/where-donate-used-toys/) - 🇺🇸 Donate toys that your children have grown out of instead of throwing them away.
-- [Moment Bio iPhone Case](https://www.shopmoment.com/shop/iphone-bio-case/iphone-11) - 🇺🇸 Your next iPhone case should be plant-based bio-plastic material.
 - [Olio](https://olioex.com/) - 🇬🇧 We connect neighbours to share food, and other things, rather than chuck them away.
 - [Openstreetmap: Zero Waste (Overpass)](http://overpass-turbo.eu/?template=key&key=zero_waste) - Openstreetmap has the tag zero_waste=* for shops who sell items without packaging.
 - [Original Unverpackt](https://original-unverpackt.de/) - 🇩🇪 Zero packaging supermarket in Berlin. _Original Unverpackt hat sich als erster Supermarkt weltweit dem Zero-Waste-Lifestyle gewidmet._
-- [Plant-based Trash Bags](https://www.amazon.com/Plant-Based-Kitchen-Handles-Gallon/dp/B071JMFKM5/) - 🇺🇸 Made from Plant Based (sugar cane) materials instead of fossil fuel.
 - [Rethink Food NYC](https://www.rethinkfood.nyc/) - 🇺🇸 We pick up unused, excess food from restaurants, farms, and other food purveyors to repurpose it into delicious and nutritious meals for under-served New Yorkers.
 - [iPhone 11 Bio Case from Moment](https://www.shopmoment.com/shop/iphone-bio-case/iphone-11) - A fully compostable protective case for your iPhone.  Only compatible with iPhone 11 (for now).
