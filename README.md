@@ -32,11 +32,13 @@ A collection of resources, services, products, and ideas that you can use to imp
 - [Improve how you do laundry](https://greenlivingideas.com/2014/09/23/3-easy-ways-to-green-your-laundry/) - 🌎 6 Tips for a More Sustainable Laundry Routine
 - [The Fixmas](https://thefixmas.com/) - Making Christmas sustainable.
 - [Sonny](https://www.indiegogo.com/projects/sonny-a-portable-bidet-for-eco-conscious-humans/x/17318484#/) -  A sustainable alternative to wipes and paper for better hygiene and a greener planet.
+- [The Good Roll](https://www.thegoodroll.nl) - Mail order 100% tree-friendly toilet paper made from post-consumer recycled paper.  50% of net profit from sales of The Good Roll is invested in the installation of safe toilets in East Africa.
 
 ## Transportation
 
 - [Cycle to Work Scheme](https://www.cyclingweekly.com/news/latest-news/cycle-to-work-scheme-10-things-to-know-5055/amp) - 🇬🇧 This scheme allows employees to spend on bikes and equipment, tax-free, making a claimed saving of up to 42 per cent on the overall value.
 - [Waze Carpool](https://www.waze.com/carpool) - 🌎 Choose to drive or ride, and match with people based on route and time of day.
+- [BlaBlaCar](https://www.blablacar.com/) - The world’s leading long-distance carpooling platform.
 
 
 ## Zero Waste
