@@ -33,6 +33,11 @@ A collection of resources, services, products, and ideas that you can use to imp
 - [The Fixmas](https://thefixmas.com/) - Making Christmas sustainable.
 - [Sonny](https://www.indiegogo.com/projects/sonny-a-portable-bidet-for-eco-conscious-humans/x/17318484#/) -  A sustainable alternative to wipes and paper for better hygiene and a greener planet.
 - [The Good Roll](https://www.thegoodroll.nl) - Mail order 100% tree-friendly toilet paper made from post-consumer recycled paper.  50% of net profit from sales of The Good Roll is invested in the installation of safe toilets in East Africa.
+- [All Green](https://www.all-green.co.uk/) - 🇬🇧 A selection of environmentally products for the home, garden, pets and other stuff.
+- [Bees Wrap](https://www.beeswrap.com/) - 🇺🇸 Stop using cling film and start using reusable recyclable wraps made from bees wax and organic jojoba oil.
+- [Clean Cult](https://www.cleancult.com/) - 🇺🇸 Cleaning supplies with zero-waste packaging, and a powerful clean that's better for you and the planet.
+- [Grayl Water Filter](https://grayl.com/) - 🇺🇸 Water bottle with built in filter that works like a french press.  Great for urban and outdoor use.
+- [iPhone 11 Bio Case from Moment](https://www.shopmoment.com/shop/iphone-bio-case/iphone-11) - A fully compostable protective case for your iPhone.  Only compatible with iPhone 11 (for now).
 
 ## Transportation
 
@@ -43,14 +48,9 @@ A collection of resources, services, products, and ideas that you can use to imp
 
 ## Zero Waste
 
-- [All Green](https://www.all-green.co.uk/) - 🇬🇧 A selection of environmentally products for the home, garden, pets and other stuff.
-- [Bees Wrap](https://www.beeswrap.com/) - 🇺🇸 Stop using cling film and start using reusable recyclable wraps made from bees wax and organic jojoba oil.
-- [Clean Cult](https://www.cleancult.com/) - 🇺🇸 Cleaning supplies with zero-waste packaging, and a powerful clean that's better for you and the planet.
 - [City Harvest](https://www.cityharvest.org/) - 🇺🇸 City Harvest is New York City’s largest food rescue organization. They rescue food and deliver it to hundreds of food pantries, soup kitchens and other community partners.
-- [Grayl Water Filter](https://grayl.com/) - 🇺🇸 If you're backpacking or adventuring, don't buy plastic bottles, you can just purify you're own water quickly and easily.
 - [Donate Toys](https://www.moneycrashers.com/where-donate-used-toys/) - 🇺🇸 Donate toys that your children have grown out of instead of throwing them away.
 - [Olio](https://olioex.com/) - 🇬🇧 We connect neighbours to share food, and other things, rather than chuck them away.
 - [Openstreetmap: Zero Waste (Overpass)](http://overpass-turbo.eu/?template=key&key=zero_waste) - Openstreetmap has the tag zero_waste=* for shops who sell items without packaging.
 - [Original Unverpackt](https://original-unverpackt.de/) - 🇩🇪 Zero packaging supermarket in Berlin. _Original Unverpackt hat sich als erster Supermarkt weltweit dem Zero-Waste-Lifestyle gewidmet._
 - [Rethink Food NYC](https://www.rethinkfood.nyc/) - 🇺🇸 We pick up unused, excess food from restaurants, farms, and other food purveyors to repurpose it into delicious and nutritious meals for under-served New Yorkers.
-- [iPhone 11 Bio Case from Moment](https://www.shopmoment.com/shop/iphone-bio-case/iphone-11) - A fully compostable protective case for your iPhone.  Only compatible with iPhone 11 (for now).
