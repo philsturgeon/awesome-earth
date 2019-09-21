@@ -39,7 +39,7 @@ A collection of resources, services, products, and ideas that you can use to imp
 - [Clean Cult](https://www.cleancult.com/) - 🇺🇸 Cleaning supplies with zero-waste packaging, and a powerful clean that's better for you and the planet.
 - [Grayl Water Filter](https://grayl.com/) - 🇺🇸 Water bottle with built in filter that works like a french press.  Great for urban and outdoor use.
 - [iPhone 11 Bio Case from Moment](https://www.shopmoment.com/shop/iphone-bio-case/iphone-11) - A fully compostable protective case for your iPhone.  Only compatible with iPhone 11 (for now).
-- [Lehman's](https://www.lehmans.com/) - One-stop shop for non-electric, homesteading, survival, handmade, Amish made, plastic free, durable, quality goods.  If you envision swtiching to live a simpler life, this place has all the tools you need to do so. 
+- [Lehman's](https://www.lehmans.com/) - One-stop shop for non-electric, homesteading, survival, handmade, Amish made, plastic free, durable, quality goods.  If you envision switching to live a simpler life, this place has all the tools you need to do so. 
 
 ## Transportation
 
@@ -57,6 +57,7 @@ A collection of resources, services, products, and ideas that you can use to imp
 - [Openstreetmap: Zero Waste (Overpass)](http://overpass-turbo.eu/?template=key&key=zero_waste) - Openstreetmap has the tag zero_waste=* for shops who sell items without packaging.
 - [Original Unverpackt](https://original-unverpackt.de/) - 🇩🇪 Zero packaging supermarket in Berlin. _Original Unverpackt hat sich als erster Supermarkt weltweit dem Zero-Waste-Lifestyle gewidmet._
 - [Rethink Food NYC](https://www.rethinkfood.nyc/) - 🇺🇸 We pick up unused, excess food from restaurants, farms, and other food purveyors to repurpose it into delicious and nutritious meals for under-served New Yorkers.
+- [App: Litterati](https://www.litterati.org/) - Empowering people to clean the planet.  Photograph a piece of litter, tag it, and discard properly.  Participate in a challenge and hold wasteful brands accountable.  
 
 ## Cooking
 
