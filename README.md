@@ -8,10 +8,15 @@ A collection of resources, services, products, and ideas that you can use to imp
 
 - [CarbonFund.org](https://carbonfund.org/) - 🇺🇸 Calculate your footprint based on flights, driving, shipping, and make tax-deductible donations to offset your emissions.
 - [Cloverly](https://cloverly.com/how-it-works) - 💻  Offset the carbon footprint of your customers' online transactions, with e-commerce plugins (Shopify, Magento, etc.)
-- [atmosfair](https://www.atmosfair.de/de/) - 🇩🇪 Calculate the footprint for flights and buy compensation or donate to offset any number of carbon emissions. Tax-deductible in Germany.
+- [atmosfair](https://www.atmosfair.de/) - 🇩🇪 Calculate the footprint for flights and buy compensation or donate to offset any number of carbon emissions. Tax-deductible in Germany.
 - [Offset Earth](https://offset.earth/?r=5d01f2ed12ae7a358b75fdd7) - 🇬🇧 Monthly subscriptions for you, your family, and your business, where money goes to Eden Reforestation Projects who plant trees and offset and reduce carbon emissions around the world in a myriad of ways.
 - [Leave Me Alone](https://leavemealone.app/save-the-planet/) - 🌎 Emails contribute to 986,000 tonnes of CO2 being dumped into the atmosphere every day. Unsubscribe from unwanted subscription emails and reduce your carbon footprint.
 - [Ecosia](https://www.ecosia.org) - The search engine that plants trees.  >50% of the ad revenue goes directly to planting trees.
+
+## Cooking
+
+- [Ecocina rocket stoves](http://www.stoveteam.org/) and [Aprovecho Research Center](http://aprovecho.org/) - A wood fired cook stove that uses ~40-50% less fuel than traditional fires and emits ~1/3 the CO2.  Learn how to build one!
+- [Sun Oven](https://www.sunoven.com) - Insulated solar oven that can cook food just like a regular oven.
 
 ## Green Energy
 
@@ -35,12 +40,12 @@ A collection of resources, services, products, and ideas that you can use to imp
 - [Improve how you do laundry](https://greenlivingideas.com/2014/09/23/3-easy-ways-to-green-your-laundry/) - 🌎 6 Tips for a More Sustainable Laundry Routine
 - [The Fixmas](https://thefixmas.com/) - Making Christmas sustainable.
 - [Sonny](https://www.indiegogo.com/projects/sonny-a-portable-bidet-for-eco-conscious-humans/x/17318484#/) -  A sustainable alternative to wipes and paper for better hygiene and a greener planet.
-- [The Good Roll](https://www.thegoodroll.nl) - Mail order 100% tree-friendly toilet paper made from post-consumer recycled paper.  50% of net profit from sales of The Good Roll is invested in the installation of safe toilets in East Africa.
+- [The Good Roll](https://www.thegoodroll.nl) - 🇳🇱 Mail order 100% tree-friendly toilet paper made from post-consumer recycled paper.  50% of net profit from sales of The Good Roll is invested in the installation of safe toilets in East Africa.
 - [All Green](https://www.all-green.co.uk/) - 🇬🇧 A selection of environmentally products for the home, garden, pets and other stuff.
 - [Bees Wrap](https://www.beeswrap.com/) - 🇺🇸 Stop using cling film and start using reusable recyclable wraps made from bees wax and organic jojoba oil.
 - [Clean Cult](https://www.cleancult.com/) - 🇺🇸 Cleaning supplies with zero-waste packaging, and a powerful clean that's better for you and the planet.
 - [Grayl Water Filter](https://grayl.com/) - 🇺🇸 Water bottle with built in filter that works like a french press.  Great for urban and outdoor use.
-- [iPhone 11 Bio Case from Moment](https://www.shopmoment.com/shop/iphone-bio-case/iphone-11) - A fully compostable protective case for your iPhone.  Only compatible with iPhone 11 (for now).
+- [iPhone 11 Bio Case from Moment](https://www.shopmoment.com/shop/iphone-bio-case/iphone-11) - A fully compostable protective case for your iPhone. Only compatible with iPhone 11 (for now).
 - [Lehman's](https://www.lehmans.com/) - One-stop shop for non-electric, homesteading, survival, handmade, Amish made, plastic free, durable, quality goods.  If you envision switching to live a simpler life, this place has all the tools you need to do so. 
 
 ## Transportation
@@ -48,7 +53,7 @@ A collection of resources, services, products, and ideas that you can use to imp
 - [Cycle to Work Scheme](https://www.cyclingweekly.com/news/latest-news/cycle-to-work-scheme-10-things-to-know-5055/amp) - 🇬🇧 This scheme allows employees to spend on bikes and equipment, tax-free, making a claimed saving of up to 42 per cent on the overall value.
 - [Cylcle to Work Scheme - Ireland](https://www.revenue.ie/en/jobs-and-pensions/taxation-of-employer-benefits/cycle-to-work-scheme.aspx) - This scheme aims to encourage you to cycle to and from work. Under the scheme your employer can buy a bicycle and safety equipment for you. This will not be a taxable benefit-in-kind. There is a limit of €1,000 per bicycle purchased. New safety equipment (e g helmets, lights, reflective clothing etc) is included.
 - [Waze Carpool](https://www.waze.com/carpool) - 🌎 Choose to drive or ride, and match with people based on route and time of day.
-- [BlaBlaCar](https://www.blablacar.com/) - The world’s leading long-distance carpooling platform.
+- [BlaBlaCar](https://www.blablacar.com/) - 🌎 The world’s leading long-distance carpooling platform.
 
 
 ## Zero Waste
@@ -60,9 +65,4 @@ A collection of resources, services, products, and ideas that you can use to imp
 - [Openstreetmap: Zero Waste (Overpass)](http://overpass-turbo.eu/?template=key&key=zero_waste) - Openstreetmap has the tag zero_waste=* for shops who sell items without packaging.
 - [Original Unverpackt](https://original-unverpackt.de/) - 🇩🇪 Zero packaging supermarket in Berlin. _Original Unverpackt hat sich als erster Supermarkt weltweit dem Zero-Waste-Lifestyle gewidmet._
 - [Rethink Food NYC](https://www.rethinkfood.nyc/) - 🇺🇸 We pick up unused, excess food from restaurants, farms, and other food purveyors to repurpose it into delicious and nutritious meals for under-served New Yorkers.
-- [App: Litterati](https://www.litterati.org/) - Empowering people to clean the planet.  Photograph a piece of litter, tag it, and discard properly.  Participate in a challenge and hold wasteful brands accountable.  
-
-## Cooking
-
-- [Ecocina rocket stoves and](http://www.stoveteam.org/) and [Aprovecho Research Center](http://aprovecho.org/) - Inventor of the 'rocket stove', a wood fired cook stove that uses ~40-50% less fuel than traditional primitive 'three-stone fires' and emits ~1/3 the CO2.  Learn how to build one!
-- [Sun Oven](https://www.sunoven.com) - Insulated solar oven that can cook food just like a regular oven.  
+- [Litterati](https://www.litterati.org/) - Empowering people to clean the planet.  Photograph a piece of litter, tag it, and discard properly.  Participate in a challenge and hold wasteful brands accountable.
