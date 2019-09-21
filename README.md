@@ -16,6 +16,7 @@ A collection of resources, services, products, and ideas that you can use to imp
 
 - [the Switch](https://theswitch.co.uk/) - 🇬🇧 Switch to green energy is easy and can save you money too.
 - [Money Supermarket: Green Energy](https://www.moneysupermarket.com/gas-and-electricity/green-energy/) - 🇬🇧 "Green energy might’ve been a premium before, but prices are becoming competitive thanks to concerns over fossil fuels."
+- [SparkMeter](http://www.sparkmeter.io/) - Humanitarian smart energy metering solution that purchases wasted unused electricity from utilities and resells it to hard-to-reach places and underserved markets, thus reducing overall energy consumption.
 
 ## Reforestation
 
