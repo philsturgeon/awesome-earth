@@ -30,6 +30,7 @@ A collection of resources, services, products, and ideas that you can use to imp
 ## Sustainable Lifestyle
 
 - [Bio-plastic Trash Bags](https://www.amazon.com/Plant-Based-Kitchen-Handles-Gallon/dp/B071JMFKM5/) - 🇺🇸 Made from Plant Based (sugar cane) materials instead of fossil fuel.
+- [Fairphone](https://www.fairphone.com/) - A phone for everyone who cares about how their products are made. It improves the conditions of the people who make it and uses materials that are better for the planet.
 - [Happy Cow](https://www.happycow.net) - 🌎 Reduce or avoid meat entirely by finding great vegetarian or vegan food all over the world.
 - [Improve how you do laundry](https://greenlivingideas.com/2014/09/23/3-easy-ways-to-green-your-laundry/) - 🌎 6 Tips for a More Sustainable Laundry Routine
 - [The Fixmas](https://thefixmas.com/) - Making Christmas sustainable.
