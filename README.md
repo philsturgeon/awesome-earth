@@ -56,3 +56,8 @@ A collection of resources, services, products, and ideas that you can use to imp
 - [Openstreetmap: Zero Waste (Overpass)](http://overpass-turbo.eu/?template=key&key=zero_waste) - Openstreetmap has the tag zero_waste=* for shops who sell items without packaging.
 - [Original Unverpackt](https://original-unverpackt.de/) - 🇩🇪 Zero packaging supermarket in Berlin. _Original Unverpackt hat sich als erster Supermarkt weltweit dem Zero-Waste-Lifestyle gewidmet._
 - [Rethink Food NYC](https://www.rethinkfood.nyc/) - 🇺🇸 We pick up unused, excess food from restaurants, farms, and other food purveyors to repurpose it into delicious and nutritious meals for under-served New Yorkers.
+
+## Cooking
+
+- [Ecocina rocket stoves and](http://www.stoveteam.org/) and [Aprovecho Research Center](http://aprovecho.org/) - Inventor of the 'rocket stove', a wood fired cook stove that uses ~40-50% less fuel than traditional primitive 'three-stone fires' and emits ~1/3 the CO2.  Learn how to build one!
+- [Sun Oven](https://www.sunoven.com) - Insulated solar oven that can cook food just like a regular oven.  
