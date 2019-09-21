@@ -46,6 +46,7 @@ A collection of resources, services, products, and ideas that you can use to imp
 ## Transportation
 
 - [Cycle to Work Scheme](https://www.cyclingweekly.com/news/latest-news/cycle-to-work-scheme-10-things-to-know-5055/amp) - 🇬🇧 This scheme allows employees to spend on bikes and equipment, tax-free, making a claimed saving of up to 42 per cent on the overall value.
+- [Cylcle to Work Scheme - Ireland](https://www.revenue.ie/en/jobs-and-pensions/taxation-of-employer-benefits/cycle-to-work-scheme.aspx) - This scheme aims to encourage you to cycle to and from work. Under the scheme your employer can buy a bicycle and safety equipment for you. This will not be a taxable benefit-in-kind. There is a limit of €1,000 per bicycle purchased. New safety equipment (e g helmets, lights, reflective clothing etc) is included.
 - [Waze Carpool](https://www.waze.com/carpool) - 🌎 Choose to drive or ride, and match with people based on route and time of day.
 - [BlaBlaCar](https://www.blablacar.com/) - The world’s leading long-distance carpooling platform.
 
