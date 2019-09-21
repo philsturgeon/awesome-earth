@@ -12,7 +12,7 @@ Air pollution causes [200,000 early deaths each year in the USA](http://news.mit
 - [Cloverly](https://cloverly.com/how-it-works) - 💻  Offset the carbon footprint of your customers' online transactions, with e-commerce plugins (Shopify, Magento, etc.)
 - [atmosfair](https://www.atmosfair.de/) - 🇩🇪 Calculate the footprint for flights and buy compensation or donate to offset any number of carbon emissions. Tax-deductible in Germany.
 - [Leave Me Alone](https://leavemealone.app/save-the-planet/) - 🌎 Emails contribute to 986,000 tonnes of CO2 being dumped into the atmosphere every day, that's 4g per email. Unsubscribe from unwanted subscription emails and reduce your carbon footprint.
-- [App: Live Green](https://livegreen.io/) - 📱 Easily track your daily carbon emissions from meals, travel, purchases, and more! Set goals to reduce your emissions and your impact on the planet. 
+- [App: Live Green](https://livegreen.io/) - 📱 Track your daily carbon emissions from meals, travel, purchases, and more! Set goals to reduce your emissions and your impact on the planet. 
 
 ## Green Energy
 
@@ -30,16 +30,17 @@ Air pollution causes [200,000 early deaths each year in the USA](http://news.mit
 
 ## Sustainable Lifestyle
 
+- [All Green](https://www.all-green.co.uk/) - 🇬🇧 A selection of environmentally products for the home, garden, pets and other stuff.
+- [Bees Wrap](https://www.beeswrap.com/) - 🇺🇸 Stop using cling film and start using reusable recyclable wraps made from bees wax and organic jojoba oil.
 - [Bio-plastic Trash Bags](https://www.amazon.com/Plant-Based-Kitchen-Handles-Gallon/dp/B071JMFKM5/) - 🇺🇸 Made from Plant Based (sugar cane) materials instead of fossil fuel.
+- [Clean Cult](https://www.cleancult.com/) - 🇺🇸 Cleaning supplies with zero-waste packaging, and a powerful clean that's better for you and the planet.
 - [Fairphone](https://www.fairphone.com/) - A phone for everyone who cares about how their products are made. It improves the conditions of the people who make it and uses materials that are better for the planet.
 - [Happy Cow](https://www.happycow.net) - 🌎 Reduce or avoid meat entirely by finding great vegetarian or vegan food all over the world.
 - [Improve how you do laundry](https://greenlivingideas.com/2014/09/23/3-easy-ways-to-green-your-laundry/) - 🌎 6 Tips for a More Sustainable Laundry Routine
-- [The Fixmas](https://thefixmas.com/) - Making Christmas sustainable.
 - [Sonny](https://www.indiegogo.com/projects/sonny-a-portable-bidet-for-eco-conscious-humans/x/17318484#/) -  A sustainable alternative to wipes and paper for better hygiene and a greener planet.
+- [threadUP](https://www.thredup.com/) - 🇺🇸 Second hand clothes, upcycled to avoid the electricity, carbon, etc waste of making new clothes, and keeping them from a landfill. Women and kids but nothing for men.
+- [Dabchy](https://www.dabchy.com/) - 🇹🇳 Tunisian second hand clothes marketplace.
 - [The Good Roll](https://www.thegoodroll.nl) - 🇳🇱 Mail order 100% tree-friendly toilet paper made from post-consumer recycled paper.  50% of net profit from sales of The Good Roll is invested in the installation of safe toilets in East Africa.
-- [All Green](https://www.all-green.co.uk/) - 🇬🇧 A selection of environmentally products for the home, garden, pets and other stuff.
-- [Bees Wrap](https://www.beeswrap.com/) - 🇺🇸 Stop using cling film and start using reusable recyclable wraps made from bees wax and organic jojoba oil.
-- [Clean Cult](https://www.cleancult.com/) - 🇺🇸 Cleaning supplies with zero-waste packaging, and a powerful clean that's better for you and the planet.
 - [Grayl Water Filter](https://grayl.com/) - 🇺🇸 Water bottle with built in filter that works like a french press.  Great for urban and outdoor use.
 - [iPhone 11 Bio Case from Moment](https://www.shopmoment.com/shop/iphone-bio-case/iphone-11) - A fully compostable protective case for your iPhone. Only compatible with iPhone 11 (for now).
 - [Lehman's](https://www.lehmans.com/) - One-stop shop for non-electric, homesteading, survival, handmade, Amish made, plastic free, durable, quality goods.  If you envision switching to live a simpler life, this place has all the tools you need to do so. 
