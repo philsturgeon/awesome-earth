@@ -17,6 +17,7 @@ A collection of resources, services, products, and ideas that you can use to imp
 
 - [the Switch](https://theswitch.co.uk/) - 🇬🇧 Switch to green energy is easy and can save you money too.
 - [Money Supermarket: Green Energy](https://www.moneysupermarket.com/gas-and-electricity/green-energy/) - 🇬🇧 "Green energy might’ve been a premium before, but prices are becoming competitive thanks to concerns over fossil fuels."
+- [SparkMeter](http://www.sparkmeter.io/) - Humanitarian smart energy metering solution that purchases wasted unused electricity from utilities and resells it to hard-to-reach places and underserved markets, thus reducing overall energy consumption.
 
 ## Reforestation
 
@@ -34,6 +35,12 @@ A collection of resources, services, products, and ideas that you can use to imp
 - [The Fixmas](https://thefixmas.com/) - Making Christmas sustainable.
 - [Sonny](https://www.indiegogo.com/projects/sonny-a-portable-bidet-for-eco-conscious-humans/x/17318484#/) -  A sustainable alternative to wipes and paper for better hygiene and a greener planet.
 - [The Good Roll](https://www.thegoodroll.nl) - Mail order 100% tree-friendly toilet paper made from post-consumer recycled paper.  50% of net profit from sales of The Good Roll is invested in the installation of safe toilets in East Africa.
+- [All Green](https://www.all-green.co.uk/) - 🇬🇧 A selection of environmentally products for the home, garden, pets and other stuff.
+- [Bees Wrap](https://www.beeswrap.com/) - 🇺🇸 Stop using cling film and start using reusable recyclable wraps made from bees wax and organic jojoba oil.
+- [Clean Cult](https://www.cleancult.com/) - 🇺🇸 Cleaning supplies with zero-waste packaging, and a powerful clean that's better for you and the planet.
+- [Grayl Water Filter](https://grayl.com/) - 🇺🇸 Water bottle with built in filter that works like a french press.  Great for urban and outdoor use.
+- [iPhone 11 Bio Case from Moment](https://www.shopmoment.com/shop/iphone-bio-case/iphone-11) - A fully compostable protective case for your iPhone.  Only compatible with iPhone 11 (for now).
+- [Lehman's](https://www.lehmans.com/) - One-stop shop for non-electric, homesteading, survival, handmade, Amish made, plastic free, durable, quality goods.  If you envision switching to live a simpler life, this place has all the tools you need to do so. 
 
 ## Transportation
 
@@ -44,14 +51,16 @@ A collection of resources, services, products, and ideas that you can use to imp
 
 ## Zero Waste
 
-- [All Green](https://www.all-green.co.uk/) - 🇬🇧 A selection of environmentally products for the home, garden, pets and other stuff.
-- [Bees Wrap](https://www.beeswrap.com/) - 🇺🇸 Stop using cling film and start using reusable recyclable wraps made from bees wax and organic jojoba oil.
-- [Clean Cult](https://www.cleancult.com/) - 🇺🇸 Cleaning supplies with zero-waste packaging, and a powerful clean that's better for you and the planet.
+- [App: Too Good To Go](https://toogoodtogo.co.uk/en-gb) - Sell your surplus food, easily and sustainably!  Save delicious food and fight food waste.  Find your favorite food and go rescue it. 
 - [City Harvest](https://www.cityharvest.org/) - 🇺🇸 City Harvest is New York City’s largest food rescue organization. They rescue food and deliver it to hundreds of food pantries, soup kitchens and other community partners.
-- [Grayl Water Filter](https://grayl.com/) - 🇺🇸 If you're backpacking or adventuring, don't buy plastic bottles, you can just purify you're own water quickly and easily.
 - [Donate Toys](https://www.moneycrashers.com/where-donate-used-toys/) - 🇺🇸 Donate toys that your children have grown out of instead of throwing them away.
 - [Olio](https://olioex.com/) - 🇬🇧 We connect neighbours to share food, and other things, rather than chuck them away.
 - [Openstreetmap: Zero Waste (Overpass)](http://overpass-turbo.eu/?template=key&key=zero_waste) - Openstreetmap has the tag zero_waste=* for shops who sell items without packaging.
 - [Original Unverpackt](https://original-unverpackt.de/) - 🇩🇪 Zero packaging supermarket in Berlin. _Original Unverpackt hat sich als erster Supermarkt weltweit dem Zero-Waste-Lifestyle gewidmet._
 - [Rethink Food NYC](https://www.rethinkfood.nyc/) - 🇺🇸 We pick up unused, excess food from restaurants, farms, and other food purveyors to repurpose it into delicious and nutritious meals for under-served New Yorkers.
-- [iPhone 11 Bio Case from Moment](https://www.shopmoment.com/shop/iphone-bio-case/iphone-11) - A fully compostable protective case for your iPhone.  Only compatible with iPhone 11 (for now).
+- [App: Litterati](https://www.litterati.org/) - Empowering people to clean the planet.  Photograph a piece of litter, tag it, and discard properly.  Participate in a challenge and hold wasteful brands accountable.  
+
+## Cooking
+
+- [Ecocina rocket stoves and](http://www.stoveteam.org/) and [Aprovecho Research Center](http://aprovecho.org/) - Inventor of the 'rocket stove', a wood fired cook stove that uses ~40-50% less fuel than traditional primitive 'three-stone fires' and emits ~1/3 the CO2.  Learn how to build one!
+- [Sun Oven](https://www.sunoven.com) - Insulated solar oven that can cook food just like a regular oven.  
