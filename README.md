@@ -74,3 +74,7 @@ Cars and trucks account for [nearly one-fifth of all US emissions](https://www.u
 - [Original Unverpackt](https://original-unverpackt.de/) - 🇩🇪 Zero packaging supermarket in Berlin. _Original Unverpackt hat sich als erster Supermarkt weltweit dem Zero-Waste-Lifestyle gewidmet._
 - [Rethink Food NYC](https://www.rethinkfood.nyc/) - 🇺🇸 They pick up unused, excess food from restaurants, farms, and other food purveyors, and repurpose it into delicious and nutritious meals for under-served New Yorkers.
 - [Kaiyo](https://kaiyo.com/) - Buy and sell used furniture to keep it out of landfill. They'll even come and pick it up! _I've used this to get rid of a giant sofa which nobody wanted to buy, it was about to go on the street and they got me a cheque._
+
+## Home Appliances
+
+- [Hamwells Showers](https://www.hamwells.com/en/) - Shower systems that utilize heat exchangers to recapture heat and filtered pumps to recycle water up to 7 times before it is drained, thus significantly reducing water usage and energy consumption.
