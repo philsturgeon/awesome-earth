@@ -28,6 +28,10 @@ Air pollution causes [200,000 early deaths each year in the USA](http://news.mit
 - [Treedom](https://www.treedom.net/) - Treedom lets you buy or gift a real tree, where somebody will plant it for you and follow it online. 
 - [Tree-Nation](https://tree-nation.com/projects) - 🌎 Discover the projects where you can start planting now.
 
+## Community and Education
+
+- [Transition Towns and the Transition Network](https://transitionnetwork.org) - A global movement of communities coming together to reimagine and actively rebuild our world.  The terms transition town, transition initiative and transition model refer to grassroot community projects that aim to increase self-sufficiency to reduce the potential effects of peak oil, climate destruction, and economic instability.
+
 ## Sustainable Lifestyle
 
 - [All Green](https://www.all-green.co.uk/) - 🇬🇧 A selection of environmentally products for the home, garden, pets and other stuff.
