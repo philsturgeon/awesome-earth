@@ -34,7 +34,7 @@ Air pollution causes [200,000 early deaths each year in the USA](http://news.mit
 - [Bees Wrap](https://www.beeswrap.com/) - 🇺🇸 Stop using cling film and start using reusable recyclable wraps made from bees wax and organic jojoba oil.
 - [Bio-plastic Trash Bags](https://www.amazon.com/Plant-Based-Kitchen-Handles-Gallon/dp/B071JMFKM5/) - 🇺🇸 Made from Plant Based (sugar cane) materials instead of fossil fuel.
 - [Clean Cult](https://www.cleancult.com/) - 🇺🇸 Cleaning supplies with zero-waste packaging, and a powerful clean that's better for you and the planet.
-- [Fairphone](https://www.fairphone.com/) - A phone for everyone who cares about how their products are made. It improves the conditions of the people who make it and uses materials that are better for the planet.
+- [Fairphone](https://www.fairphone.com/) - 🇪🇺 A phone for everyone who cares about how their products are made. It improves the conditions of the people who make it and uses materials that are better for the planet.
 - [Happy Cow](https://www.happycow.net) - 🌎 Reduce or avoid meat entirely by finding great vegetarian or vegan food all over the world.
 - [Improve how you do laundry](https://greenlivingideas.com/2014/09/23/3-easy-ways-to-green-your-laundry/) - 🌎 6 Tips for a More Sustainable Laundry Routine
 - [Sonny](https://www.indiegogo.com/projects/sonny-a-portable-bidet-for-eco-conscious-humans/x/17318484#/) -  A sustainable alternative to wipes and paper for better hygiene and a greener planet.
