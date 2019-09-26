@@ -13,6 +13,7 @@ Air pollution causes [200,000 early deaths each year in the USA](http://news.mit
 - [atmosfair](https://www.atmosfair.de/) - 🇩🇪 Calculate the footprint for flights and buy compensation or donate to offset any number of carbon emissions. Tax-deductible in Germany.
 - [Leave Me Alone](https://leavemealone.app/save-the-planet/) - 🌎 Emails contribute to 986,000 tonnes of CO2 being dumped into the atmosphere every day, that's 4g per email. Unsubscribe from unwanted subscription emails and reduce your carbon footprint.
 - [App: Live Green](https://livegreen.io/) - 📱 Track your daily carbon emissions from meals, travel, purchases, and more! Set goals to reduce your emissions and your impact on the planet. 
+- [AirCare](https://air.care/) - ✈️ Understand the impact of air travel and compensate for your emissions by supporting sustainable projects around the world. 
 
 ## Green Energy
 
