@@ -1,0 +1,65 @@
+
+- title: Offset Earth
+  url: https://offset.earth/?r=5d01f2ed12ae7a358b75fdd7
+  icon: 🇬🇧
+  categories:
+  - carbon-reduction
+  description: Monthly subscriptions for you, your family, and your business, where money goes to Eden Reforestation Projects who plant trees and offset and reduce carbon emissions around the world in a myriad of ways.
+
+- title: CarbonFund.org
+  url: https://carbonfund.org/
+  icon: 🇺🇸
+  categories:
+  - carbon-reduction
+  description: Calculate your footprint based on flights, driving, shipping, and make tax-deductible donations to offset your emissions.
+
+- title: Ecosia
+  url: https://www.ecosia.org
+  icon: 💻
+  categories:
+  - carbon-reduction
+  description: The search engine that plants trees. >50% of the ad revenue goes directly to planting trees.
+
+- title: Cloverly
+  url: https://cloverly.com/how-it-works
+  icon: 💻
+  categories:
+  - carbon-reduction
+  description:  Offset the carbon footprint of your customers' online transactions, with e-commerce plugins (Shopify, Magento, etc.)
+
+- title: atmosfair
+  url: https://www.atmosfair.de/
+  icon: 🇩🇪
+  categories:
+  - carbon-reduction
+  description: Calculate the footprint for flights and buy compensation or donate to offset any number of carbon emissions. Tax-deductible in Germany.
+
+- title: Leave Me Alone
+  url: https://leavemealone.app/save-the-planet/
+  icon: 🌎
+  categories:
+  - carbon-reduction
+  description: Emails contribute to 986,000 tonnes of CO2 being dumped into the atmosphere every day, that's 4g per email. Unsubscribe from unwanted subscription emails and reduce your carbon footprint.
+
+- title: Live Green
+  type: app
+  url: https://livegreen.io/
+  icon: 📱
+  categories:
+  - carbon-reduction
+  description: Track your daily carbon emissions from meals, travel, purchases, and more! Set goals to reduce your emissions and your impact on the planet. 
+
+- title: AirCare
+  url: https://air.care/
+  icon: ✈️
+  categories:
+  - carbon-reduction
+  description: Understand the impact of air travel and compensate for your emissions by supporting sustainable projects around the world. 
+
+
+- title: the Switch
+  url: https://theswitch.co.uk/
+  icon: 🇬🇧
+  categories:
+  - green-energy
+  description: Switch to green energy is easy and can save you money too.
