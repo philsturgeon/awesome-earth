@@ -15,8 +15,10 @@
   "dependencies": {
     "gatsby": "^2.15.28",
     "gatsby-source-filesystem": "^2.1.28",
+    "markdown-to-jsx": "^6.10.3",
     "react": "^16.10.0",
     "react-dom": "^16.10.0",
+    "react-markdown": "^4.2.2",
     "remarkable": "^2.0.0"
   },
   "devDependencies": {

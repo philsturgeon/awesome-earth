@@ -1,10 +1,8 @@
 import React from "react"
-import { Remarkable } from 'remarkable';
+import ReactMarkdown from 'react-markdown/with-html'
 
 import CategoryData from "../data/categories.yaml"
 import LinkData from "../data/links.yaml"
-
-const md = new Remarkable();
 
 const categories = CategoryData.map(c => ({
     ...c,
@@ -23,12 +21,13 @@ export default () => (
             return (
                 <>
                     <h2>{category.name}</h2>
-                    <div dangerouslySetInnerHTML={{__html:md.render(category.introduction)}} />
+                    <ReactMarkdown source={category.introduction} escapeHtml={false} />
                     <ul>
                         {category.links.map((data, index) => {
                             return (
                                 <li key={`content_item_${index}`}>
-                                    <a href={data.url}>{data.title}</a>
+                                    <strong><a href={data.url}>{data.title}</a></strong>
+                                    <ReactMarkdown source={data.description} escapeHtml={false} />
                                 </li>
                             )
                         })}
