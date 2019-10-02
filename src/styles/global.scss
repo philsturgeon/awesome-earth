@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css?family=Spectral+SC&display=swap');
+
+@font-face {
+  font-family: "National Park";
+  font-weight: normal;
+  src: url("fonts/NationalPark/NationalPark-Thin.otf");
+}
+
+@font-face {
+  font-family: "National Park";
+  font-weight: 700;
+  src: url("fonts/NationalPark/NationalPark-Regular.otf");
+}
+
+@font-face {
+  font-family: "National Park";
+  font-weight: 900;
+  src: url("fonts/NationalPark/NationalPark-Heavy.otf");
+}
+
+body {
+  font-family: "National Park", sans-serif;
+  background-image: linear-gradient(to top, #c1dfc4 0%, #deecdd 100%);
+  font-size: 18px;
+
+  > div {
+    padding: 30px;
+  }
+
+  h1, h2, h3,
+  h4, h5, h6 {
+    margin-top: 0;
+    margin-bottom: 20px;
+  }
+
+  h1 {
+    font-size: 3em;
+
+    &, + p {
+      text-align: center;
+    }
+
+    + p {
+      font-size: 1.3em;
+    }
+  }
+
+  h2 {
+    border-top: 1px solid #333;
+    padding-top: 20px;
+
+    + p {
+      font-size: 1.2em;
+      border-left: 3px solid white;
+      padding-left: 20px;
+    }
+  }
+
+  p, ul {
+    margin: 20px 0;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  a {
+    font-weight: bold;
+    color: #333;
+    text-decoration: none;
+    border-bottom: 1px dashed black;
+  }
+
+  ul {
+    padding: 0;
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: -20px;
+    margin-right: -20px;
+
+    li {
+      margin: 20px;
+      padding: 20px;
+      max-width: 200px;
+      background-image: linear-gradient(-225deg, #FFFEFF 0%, #D7FFFE 100%);
+      border-radius: 5px;
+      box-shadow: 0px 3px 3px -2px rgba(0, 0, 0, 0.5);
+
+      span[title] {
+        float: right;
+      }
+
+      a {
+        display: inline-block;
+        width: calc(100% - 30px);
+        border: none;
+      }
+    }
+  }
+}
