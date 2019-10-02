@@ -1,6 +1,6 @@
 # Awesome Earth [![](https://img.shields.io/badge/Buy%20me%20a%20tree-%F0%9F%8C%B3-lightgreen)](https://offset.earth/philsturgeon)
 
-A collection of resources, services, products, and ideas that you can use to improve your impact on the environment. 
+A collection of resources, services, products, and ideas that you can use to improve your impact on the environment.
 
 ## Carbon Reduction
 
@@ -8,12 +8,12 @@ Air pollution causes [200,000 early deaths each year in the USA](http://news.mit
 
 - [Offset Earth](https://offset.earth/?r=5d01f2ed12ae7a358b75fdd7) - 🇬🇧 Monthly subscriptions for you, your family, and your business, where money goes to Eden Reforestation Projects who plant trees and offset and reduce carbon emissions around the world in a myriad of ways.
 - [CarbonFund.org](https://carbonfund.org/) - 🇺🇸 Calculate your footprint based on flights, driving, shipping, and make tax-deductible donations to offset your emissions.
-- [Ecosia](https://www.ecosia.org) - The search engine that plants trees.  >50% of the ad revenue goes directly to planting trees.
-- [Cloverly](https://cloverly.com/how-it-works) - 💻  Offset the carbon footprint of your customers' online transactions, with e-commerce plugins (Shopify, Magento, etc.)
+- [Ecosia](https://www.ecosia.org) - The search engine that plants trees. >50% of the ad revenue goes directly to planting trees.
+- [Cloverly](https://cloverly.com/how-it-works) - 💻 Offset the carbon footprint of your customers' online transactions, with e-commerce plugins (Shopify, Magento, etc.)
 - [atmosfair](https://www.atmosfair.de/) - 🇩🇪 Calculate the footprint for flights and buy compensation or donate to offset any number of carbon emissions. Tax-deductible in Germany.
 - [Leave Me Alone](https://leavemealone.app/save-the-planet/) - 🌎 Emails contribute to 986,000 tonnes of CO2 being dumped into the atmosphere every day, that's 4g per email. Unsubscribe from unwanted subscription emails and reduce your carbon footprint.
-- [App: Live Green](https://livegreen.io/) - 📱 Track your daily carbon emissions from meals, travel, purchases, and more! Set goals to reduce your emissions and your impact on the planet. 
-- [AirCare](https://air.care/) - ✈️ Understand the impact of air travel and compensate for your emissions by supporting sustainable projects around the world. 
+- [App: Live Green](https://livegreen.io/) - 📱 Track your daily carbon emissions from meals, travel, purchases, and more! Set goals to reduce your emissions and your impact on the planet.
+- [AirCare](https://air.care/) - ✈️ Understand the impact of air travel and compensate for your emissions by supporting sustainable projects around the world.
 
 ## Green Energy
 
@@ -23,10 +23,10 @@ Air pollution causes [200,000 early deaths each year in the USA](http://news.mit
 
 ## Reforestation
 
- We need to [reforest an area the size of the USA](https://theconversation.com/reforesting-an-area-the-size-of-the-us-needed-to-help-avert-climate-breakdown-say-researchers-are-they-right-119842) as quickly as possible. Why the urgency? Ice shelves in Greenland are melting so fast that [197 billion tons melted in _July 2019 alone_](https://apnews.com/65694195c91d4b62b275bd14a6955b4c), and abnormally vicious [heatwaves all over Europe are becoming more intense](https://www.bbc.com/news/world-europe-48756480) and more frequent. We're rapidly reaching a point where large areas of the planet will be too hot to plant forests, so we need to get it done now.
+We need to [reforest an area the size of the USA](https://theconversation.com/reforesting-an-area-the-size-of-the-us-needed-to-help-avert-climate-breakdown-say-researchers-are-they-right-119842) as quickly as possible. Why the urgency? Ice shelves in Greenland are melting so fast that [197 billion tons melted in _July 2019 alone_](https://apnews.com/65694195c91d4b62b275bd14a6955b4c), and abnormally vicious [heatwaves all over Europe are becoming more intense](https://www.bbc.com/news/world-europe-48756480) and more frequent. We're rapidly reaching a point where large areas of the planet will be too hot to plant forests, so we need to get it done now.
 
 - [Eden Reforestation Projects](https://edenprojects.org/) - 🌎 Eden Reforestation projects reduces extreme poverty and restores healthy forests by employing local villagers to plant millions of trees every year.
-- [Treedom](https://www.treedom.net/) - Treedom lets you buy or gift a real tree, where somebody will plant it for you and follow it online. 
+- [Treedom](https://www.treedom.net/) - Treedom lets you buy or gift a real tree, where somebody will plant it for you and follow it online.
 - [Tree-Nation](https://tree-nation.com/projects) - 🌎 Discover the projects where you can start planting now.
 
 ## Sustainable Lifestyle
@@ -38,11 +38,11 @@ Air pollution causes [200,000 early deaths each year in the USA](http://news.mit
 - [Fairphone](https://www.fairphone.com/) - 🇪🇺 A phone for everyone who cares about how their products are made. It improves the conditions of the people who make it and uses materials that are better for the planet.
 - [Happy Cow](https://www.happycow.net) - 🌎 Reduce or avoid meat entirely by finding great vegetarian or vegan food all over the world.
 - [Improve how you do laundry](https://greenlivingideas.com/2014/09/23/3-easy-ways-to-green-your-laundry/) - 🌎 6 Tips for a More Sustainable Laundry Routine
-- [Sonny](https://www.indiegogo.com/projects/sonny-a-portable-bidet-for-eco-conscious-humans/x/17318484#/) -  A sustainable alternative to wipes and paper for better hygiene and a greener planet.
-- [The Good Roll](https://www.thegoodroll.nl) - 🇳🇱 Mail order 100% tree-friendly toilet paper made from post-consumer recycled paper.  50% of net profit from sales of The Good Roll is invested in the installation of safe toilets in East Africa.
-- [Grayl Water Filter](https://grayl.com/) - 🇺🇸 Water bottle with built in filter that works like a french press.  Great for urban and outdoor use.
+- [Sonny](https://www.indiegogo.com/projects/sonny-a-portable-bidet-for-eco-conscious-humans/x/17318484#/) - A sustainable alternative to wipes and paper for better hygiene and a greener planet.
+- [The Good Roll](https://www.thegoodroll.nl) - 🇳🇱 Mail order 100% tree-friendly toilet paper made from post-consumer recycled paper. 50% of net profit from sales of The Good Roll is invested in the installation of safe toilets in East Africa.
+- [Grayl Water Filter](https://grayl.com/) - 🇺🇸 Water bottle with built in filter that works like a french press. Great for urban and outdoor use.
 - [iPhone 11 Bio Case from Moment](https://www.shopmoment.com/shop/iphone-bio-case/iphone-11) - A fully compostable protective case for your iPhone. Only compatible with iPhone 11 (for now).
-- [Lehman's](https://www.lehmans.com/) - One-stop shop for non-electric, homesteading, survival, handmade, Amish made, plastic free, durable, quality goods.  If you envision switching to live a simpler life, this place has all the tools you need to do so. 
+- [Lehman's](https://www.lehmans.com/) - One-stop shop for non-electric, homesteading, survival, handmade, Amish made, plastic free, durable, quality goods. If you envision switching to live a simpler life, this place has all the tools you need to do so.
 
 ## Cooking
 
@@ -64,18 +64,19 @@ Cars and trucks account for [nearly one-fifth of all US emissions](https://www.u
 
 ## Zero Waste
 
-- [App: Litterati](https://www.litterati.org/) - Empowering people to clean the planet.  Photograph a piece of litter, tag it, and discard properly.  Participate in a challenge and hold wasteful brands accountable.
-- [App: Too Good To Go](https://toogoodtogo.co.uk/en-gb) - Sell your surplus food, easily and sustainably!  Save delicious food and fight food waste.  Find your favorite food and go rescue it. 
+- [App: Litterati](https://www.litterati.org/) - Empowering people to clean the planet. Photograph a piece of litter, tag it, and discard properly. Participate in a challenge and hold wasteful brands accountable.
+- [App: Too Good To Go](https://toogoodtogo.co.uk/en-gb) - Sell your surplus food, easily and sustainably! Save delicious food and fight food waste. Find your favorite food and go rescue it.
 - [City Harvest](https://www.cityharvest.org/) - 🇺🇸 City Harvest is New York City’s largest food rescue organization. They rescue food and deliver it to hundreds of food pantries, soup kitchens and other community partners.
 - [Donate Toys](https://www.moneycrashers.com/where-donate-used-toys/) - 🇺🇸 Donate toys that your children have grown out of instead of throwing them away.
 - [Dabchy](https://www.dabchy.com/) - 🇹🇳 Tunisian second hand clothes marketplace.
 - [threadUP](https://www.thredup.com/) - 🇺🇸 Second hand clothes, upcycled to avoid the electricity, carbon, etc waste of making new clothes, and keeping them from a landfill. Women and kids but nothing for men.
 - [Go "Swaggless"](https://twitter.com/lindybrandon/status/1131202229229314048) - Nobody needs another corporate logo stressball or other pointless swag. Convince your company to skip the nonsense and donate to something worthwhile - like their [Offset Earth](https://offset.earth/) business account!
 - [Olio](https://olioex.com/) - 🇬🇧 We connect neighbours to share food, and other things, rather than chuck them away.
-- [Openstreetmap: Zero Waste (Overpass)](http://overpass-turbo.eu/?template=key&key=zero_waste) - Openstreetmap has the tag zero_waste=* for shops who sell items without packaging.
+- [Openstreetmap: Zero Waste (Overpass)](http://overpass-turbo.eu/?template=key&key=zero_waste) - Openstreetmap has the tag zero_waste=\* for shops who sell items without packaging.
 - [Original Unverpackt](https://original-unverpackt.de/) - 🇩🇪 Zero packaging supermarket in Berlin. _Original Unverpackt hat sich als erster Supermarkt weltweit dem Zero-Waste-Lifestyle gewidmet._
 - [Rethink Food NYC](https://www.rethinkfood.nyc/) - 🇺🇸 They pick up unused, excess food from restaurants, farms, and other food purveyors, and repurpose it into delicious and nutritious meals for under-served New Yorkers.
 - [Kaiyo](https://kaiyo.com/) - Buy and sell used furniture to keep it out of landfill. They'll even come and pick it up! _I've used this to get rid of a giant sofa which nobody wanted to buy, it was about to go on the street and they got me a cheque._
+- [CP Manufacturing](http://www.cpmfg.com/material-recovery-facility/waste-to-energy/green-waste-recycling/) - 🇮🇳 The CP Group can provide efficient and effective durable equipment to separate green waste from the material stream. In the cases where the green waste is source separated, we provide the bulk material handling equipment and shredders while removing metals that may be in the stream. See our trommels and other green waste recycling equipment.
 
 ## Home Appliances
 
