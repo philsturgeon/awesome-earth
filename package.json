@@ -13,8 +13,10 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing \""
   },
   "dependencies": {
+    "country-code-emoji": "^1.0.0",
     "gatsby": "^2.15.28",
     "gatsby-source-filesystem": "^2.1.28",
+    "i18n-iso-countries": "^4.3.1",
     "markdown-to-jsx": "^6.10.3",
     "react": "^16.10.0",
     "react-dom": "^16.10.0",

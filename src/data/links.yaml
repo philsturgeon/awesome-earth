@@ -1,14 +1,16 @@
 
 - title: Offset Earth
   url: https://offset.earth/?r=5d01f2ed12ae7a358b75fdd7
-  icon: 🇬🇧
+  countries:
+  - gb
   categories:
   - carbon-reduction
   description: Monthly subscriptions for you, your family, and your business, where money goes to Eden Reforestation Projects who plant trees and offset and reduce carbon emissions around the world in a myriad of ways.
 
 - title: CarbonFund.org
   url: https://carbonfund.org/
-  icon: 🇺🇸
+  countries:
+  - us
   categories:
   - carbon-reduction
   description: Calculate your footprint based on flights, driving, shipping, and make tax-deductible donations to offset your emissions.
@@ -29,14 +31,16 @@
 
 - title: atmosfair
   url: https://www.atmosfair.de/
-  icon: 🇩🇪
+  countries:
+  - de
   categories:
   - carbon-reduction
   description: Calculate the footprint for flights and buy compensation or donate to offset any number of carbon emissions. Tax-deductible in Germany.
 
 - title: Leave Me Alone
   url: https://leavemealone.app/save-the-planet/
-  icon: 🌎
+  countries:
+  - global
   categories:
   - carbon-reduction
   description: Emails contribute to 986,000 tonnes of CO2 being dumped into the atmosphere every day, that's 4g per email. Unsubscribe from unwanted subscription emails and reduce your carbon footprint.
@@ -59,35 +63,40 @@
 
 - title: the Switch
   url: https://theswitch.co.uk/
-  icon: 🇬🇧
+  countries:
+  - gb
   categories:
   - green-energy
   description: Switch to green energy is easy and can save you money too.
 
 - title: 'Money Supermarket: Green Energy'
   url: https://www.moneysupermarket.com/gas-and-electricity/green-energy/
-  icon: 🇬🇧
+  countries:
+  - gb
   categories:
   - green-energy
   description: Green energy might’ve been a premium before, but prices are becoming competitive thanks to concerns over fossil fuels.
 
 - title: SparkMeter
   url: http://www.sparkmeter.io/
-  icon: 🌎
+  countries:
+  - global
   categories:
   - green-energy
   description: Humanitarian smart energy metering solution that purchases wasted unused electricity from utilities and resells it to hard-to-reach places and underserved markets, thus reducing overall energy consumption.
  
 - title: Eden Reforestation Projects
   url: https://edenprojects.org/
-  icon: 🌎
+  countries:
+  - global
   categories:
   - reforestation
   description: Eden Reforestation projects reduces extreme poverty and restores healthy forests by employing local villagers to plant millions of trees every year.
 
 - title: Treedom
   url: https://www.treedom.net/
-  icon: 🌎
+  countries:
+  - global
   categories:
   - reforestation
   description: Treedom lets you buy or gift a real tree, where somebody will plant it for you and follow it online. 
@@ -96,7 +105,8 @@
   url: https://tree-nation.com/projects
   categories:
   - reforestation
-  icon: 🌎
+  countries:
+  - global
   description: Discover the projects where you can start planting now.
 
 
@@ -104,25 +114,29 @@
   url: https://www.all-green.co.uk/
   categories: 
   - sustainable-lifestyle
-  icon: 🇬🇧 
+  countries:
+  - gb
   description: A selection of environmentally products for the home, garden, pets and other stuff.
 - title: Bees Wrap
   url: https://www.beeswrap.com/
   categories: 
   - sustainable-lifestyle
-  icon: 🇺🇸 
+  countries:
+  - us
   description: Stop using cling film and start using reusable recyclable wraps made from bees wax and organic jojoba oil.
 - title: Bio-plastic Trash Bags
   url: https://www.amazon.com/Plant-Based-Kitchen-Handles-Gallon/dp/B071JMFKM5/
   categories: 
   - sustainable-lifestyle
-  icon: 🇺🇸 
+  countries:
+  - us
   description: Made from Plant Based (sugar cane) materials instead of fossil fuel.
 - title: Clean Cult
   url: https://www.cleancult.com/
   categories: 
   - sustainable-lifestyle
-  icon: 🇺🇸 
+  countries:
+  - us
   description: Cleaning supplies with zero-waste packaging, and a powerful clean that's better for you and the planet.
 - title: Fairphone
   url: https://www.fairphone.com/
@@ -134,13 +148,15 @@
   url: https://www.happycow.net
   categories: 
   - sustainable-lifestyle
-  icon: 🌎 
+  countries:
+  - global
   description: Reduce or avoid meat entirely by finding great vegetarian or vegan food all over the world.
 - title: Improve how you do laundry
   url: https://greenlivingideas.com/2014/09/23/3-easy-ways-to-green-your-laundry/
   categories: 
   - sustainable-lifestyle
-  icon: 🌎 
+  countries:
+  - global
   description: 6 Tips for a More Sustainable Laundry Routine
 - title: Sonny
   url: https://www.indiegogo.com/projects/sonny-a-portable-bidet-for-eco-conscious-humans/x/17318484#/ 
@@ -151,13 +167,15 @@
   url: https://www.thegoodroll.nl
   categories: 
   - sustainable-lifestyle
-  icon: 🇳🇱 
+  countries:
+  - nl
   description: Mail order 100% tree-friendly toilet paper made from post-consumer recycled paper.  50% of net profit from sales of The Good Roll is invested in the installation of safe toilets in East Africa.
 - title: Grayl Water Filter
   url: https://grayl.com/
   categories: 
   - sustainable-lifestyle
-  icon: 🇺🇸 
+  countries:
+  - us
   description: Water bottle with built in filter that works like a french press.  Great for urban and outdoor use.
 - title: iPhone 11 Bio Case from Moment
   url: https://www.shopmoment.com/shop/iphone-bio-case/iphone-11
@@ -178,7 +196,8 @@
 
 - title: Sun Oven
   url: https://www.sunoven.com
-  icon: 🇺🇸
+  countries:
+  - us
   categories:
   - cooking
   description: Insulated solar oven that can cook food just like a regular oven.
@@ -187,7 +206,9 @@
   url: https://www.cyclingweekly.com/news/latest-news/cycle-to-work-scheme-10-things-to-know-5055/amp
   categories:
   - transportation
-  description: 🇬🇧 This scheme allows employees to spend on bikes and equipment, tax-free, making a claimed saving of up to 42 per cent on the overall value.
+  countries:
+  - gb
+  description: This scheme allows employees to spend on bikes and equipment, tax-free, making a claimed saving of up to 42 per cent on the overall value.
 - title: Cycle to Work Scheme Ireland
   url: https://www.revenue.ie/en/jobs-and-pensions/taxation-of-employer-benefits/cycle-to-work-scheme.aspx
   categories:
@@ -197,22 +218,30 @@
   url: https://www.blablacar.com/
   categories:
   - transportation
-  description: 🌎 The world’s leading long-distance carpooling platform.
+  countries:
+  - global
+  description: The world’s leading long-distance carpooling platform.
 - title: WageWorks Bicycle Reimbursement Program
   url: https://www.wageworks.com/employees/lifestyle-benefits-programs/bicycle-reimbursement-program/
   categories:
   - transportation
-  description: 🇺🇸 Ride your bike to work and pay for eligible bike-related expenses, and then get reimbursed for those expenses.
+  countries:
+  - us
+  description: Ride your bike to work and pay for eligible bike-related expenses, and then get reimbursed for those expenses.
 - title: Waze Carpool
   url: https://www.waze.com/carpool
   categories:
   - transportation
-  description: 🌎 Choose to drive or ride, and match with people based on route and time of day.
+  countries:
+  - global
+  description: Choose to drive or ride, and match with people based on route and time of day.
 - title: Pod Point
   url: https://pod-point.com
   categories:
   - transportation
-  description: 🇬🇧 UK leaders in electric vehicle charging with innovative solutions for homes, workplaces and commercial organisations.
+  countries:
+  - gb
+  description: UK leaders in electric vehicle charging with innovative solutions for homes, workplaces and commercial organisations.
 
 - title: Litterati
   url: https://www.litterati.org/
@@ -228,22 +257,30 @@
   url: https://www.cityharvest.org/
   categories:
   - zero-waste
-  description: 🇺🇸 City Harvest is New York City’s largest food rescue organization. They rescue food and deliver it to hundreds of food pantries, soup kitchens and other community partners.
+  countries:
+  - us
+  description: City Harvest is New York City’s largest food rescue organization. They rescue food and deliver it to hundreds of food pantries, soup kitchens and other community partners.
 - title: Donate Toys
   url: https://www.moneycrashers.com/where-donate-used-toys/
   categories:
   - zero-waste
-  description: 🇺🇸 Donate toys that your children have grown out of instead of throwing them away.
+  countries:
+  - us
+  description: Donate toys that your children have grown out of instead of throwing them away.
 - title: Dabchy
   url: https://www.dabchy.com/
   categories:
   - zero-waste
-  description: 🇹🇳 Tunisian second hand clothes marketplace.
+  countries:
+  - tn
+  description: Tunisian second hand clothes marketplace.
 - title: threadUP
   url: https://www.thredup.com/
   categories:
   - zero-waste
-  description: 🇺🇸 Second hand clothes, upcycled to avoid the electricity, carbon, etc waste of making new clothes, and keeping them from a landfill. Women and kids but nothing for men.
+  countries:
+  - us
+  description: Second hand clothes, upcycled to avoid the electricity, carbon, etc waste of making new clothes, and keeping them from a landfill. Women and kids but nothing for men.
 - title: Go "Swaggless"
   url: https://twitter.com/lindybrandon/status/1131202229229314048
   categories:
@@ -253,7 +290,9 @@
   url: https://olioex.com/
   categories:
   - zero-waste
-  description: 🇬🇧 We connect neighbours to share food, and other things, rather than chuck them away.
+  countries:
+  - gb
+  description: We connect neighbours to share food, and other things, rather than chuck them away.
 - title: 'Openstreetmap: Zero Waste (Overpass)'
   url: http://overpass-turbo.eu/?template=key&key=zero_waste
   categories:
@@ -263,12 +302,16 @@
   url: https://original-unverpackt.de/
   categories:
   - zero-waste
-  description: 🇩🇪 Zero packaging supermarket in Berlin. _Original Unverpackt hat sich als erster Supermarkt weltweit dem Zero-Waste-Lifestyle gewidmet._
+  countries:
+  - de
+  description: Zero packaging supermarket in Berlin. _Original Unverpackt hat sich als erster Supermarkt weltweit dem Zero-Waste-Lifestyle gewidmet._
 - title: Rethink Food NYC
   url: https://www.rethinkfood.nyc/
   categories:
   - zero-waste
-  description: 🇺🇸 They pick up unused, excess food from restaurants, farms, and other food purveyors, and repurpose it into delicious and nutritious meals for under-served New Yorkers.
+  countries:
+  - us
+  description: They pick up unused, excess food from restaurants, farms, and other food purveyors, and repurpose it into delicious and nutritious meals for under-served New Yorkers.
 - title: Kaiyo
   url: https://kaiyo.com/
   categories:

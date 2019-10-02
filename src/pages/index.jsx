@@ -3,6 +3,7 @@ import ReactMarkdown from 'react-markdown/with-html'
 
 import CategoryData from "../data/categories.yaml"
 import LinkData from "../data/links.yaml"
+import Countries from "../countries"
 
 const categories = CategoryData.map(c => ({
     ...c,
@@ -27,6 +28,11 @@ export default () => (
                             return (
                                 <li key={`content_item_${index}`}>
                                     <strong><a href={data.url}>{data.title}</a></strong>
+                                    {(data.countries || []).map(code => {
+                                        const country = Countries.fromAlpha2Code(code.toUpperCase())
+                                        
+                                        return <span title={country.name}>{country.emoji}</span>
+                                    })}
                                     <ReactMarkdown source={data.description} escapeHtml={false} />
                                 </li>
                             )
