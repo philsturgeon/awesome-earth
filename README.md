@@ -20,6 +20,7 @@ Air pollution causes [200,000 early deaths each year in the USA](http://news.mit
 - [CarbonFund.org](https://carbonfund.org/) - 🇺🇸 Calculate your footprint based on flights, driving, shipping, and make tax-deductible donations to offset your emissions.
 - [Ecosia](https://www.ecosia.org) - The search engine that plants trees.  >50% of the ad revenue goes directly to planting trees.
 - [Cloverly](https://cloverly.com/how-it-works) - 💻  Offset the carbon footprint of your customers' online transactions, with e-commerce plugins (Shopify, Magento, etc.)
+- [Cool Earth](https://www.coolearth.org/) - 🌎 This charity was created to tackle climate change by reducing carbon emissions from rainforest loss.
 - [atmosfair](https://www.atmosfair.de/) - 🇩🇪 Calculate the footprint for flights and buy compensation or donate to offset any number of carbon emissions. Tax-deductible in Germany.
 - [Leave Me Alone](https://leavemealone.app/save-the-planet/) - 🌎 Emails contribute to 986,000 tonnes of CO2 being dumped into the atmosphere every day, that's 4g per email. Unsubscribe from unwanted subscription emails and reduce your carbon footprint.
 - [App: Live Green](https://livegreen.io/) - 📱 Track your daily carbon emissions from meals, travel, purchases, and more! Set goals to reduce your emissions and your impact on the planet. 

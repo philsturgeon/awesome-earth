@@ -29,6 +29,15 @@
   - carbon-reduction
   description:  Offset the carbon footprint of your customers' online transactions, with e-commerce plugins (Shopify, Magento, etc.)
 
+- title: Cool Earth
+  url: https://www.coolearth.org/
+  countries:
+  - global
+  categories:
+  - carbon-reduction
+  description: This charity was created to tackle climate change by reducing carbon emissions from rainforest loss.
+  charity_url: https://www.guidestar.org/profile/26-3688173
+
 - title: atmosfair
   url: https://www.atmosfair.de/
   countries:
