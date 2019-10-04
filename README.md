@@ -21,15 +21,22 @@ Air pollution causes [200,000 early deaths each year in the USA](http://news.mit
 - [CarbonFund.org](https://carbonfund.org/) - 🇺🇸 Calculate your footprint based on flights, driving, shipping, and make tax-deductible donations to offset your emissions.
 - [Ecosia](https://www.ecosia.org) - The search engine that plants trees.  >50% of the ad revenue goes directly to planting trees.
 - [Cloverly](https://cloverly.com/how-it-works) - 💻  Offset the carbon footprint of your customers' online transactions, with e-commerce plugins (Shopify, Magento, etc.)
+- [Cool Earth](https://www.coolearth.org/) - 🌎 This charity was created to tackle climate change by reducing carbon emissions from rainforest loss.
 - [atmosfair](https://www.atmosfair.de/) - 🇩🇪 Calculate the footprint for flights and buy compensation or donate to offset any number of carbon emissions. Tax-deductible in Germany.
 - [Leave Me Alone](https://leavemealone.app/save-the-planet/) - 🌎 Emails contribute to 986,000 tonnes of CO2 being dumped into the atmosphere every day, that's 4g per email. Unsubscribe from unwanted subscription emails and reduce your carbon footprint.
 - [App: Live Green](https://livegreen.io/) - 📱 Track your daily carbon emissions from meals, travel, purchases, and more! Set goals to reduce your emissions and your impact on the planet. 
 - [AirCare](https://air.care/) - ✈️ Understand the impact of air travel and compensate for your emissions by supporting sustainable projects around the world. 
+- [Smartliners](https://smartlinerpads.com/) -  :womens: Reduce the impact on the environment caused by sanitary waste using Organic Cotton Period Pads.
 
 ## Green Energy
 
+Many major energy consuming countries still use [fossil fuels to fill the majority of their energy needs](https://en.wikipedia.org/wiki/List_of_countries_by_electricity_production_from_renewable_sources). Consider switching to a low-carbon supplier or find out about the carbon emissions happening on your countries grid right now.
+
 - [the Switch](https://theswitch.co.uk/) - 🇬🇧 Switch to green energy is easy and can save you money too.
 - [Money Supermarket: Green Energy](https://www.moneysupermarket.com/gas-and-electricity/green-energy/) - 🇬🇧 "Green energy might’ve been a premium before, but prices are becoming competitive thanks to concerns over fossil fuels."
+- [ElectricityInfo.org's Table of UK Energy Supplier Fuel Mixes](http://electricityinfo.org/fuel-mix-of-uk-domestic-electricity-suppliers/) 🇬🇧 This useful table shows the different fuel mixes of all the UK electricity suppliers allowing you to easily find the companies that use a low carbon fuel mix.
+- [Carbon Intensity API](https://carbonintensity.org.uk/) 🇬🇧 This officially backed open API from Oxford University and the National Grid ESO gives a snapshot of how much carbon each unit of electricity consumed in the UK emits for every half hour. Also carries forecasts, regional breakdowns with some great charts and re-useable widgets. They also have an APP!
+- [Electricity Map](https://www.electricitymap.org/) 🌎 A map showing the energy consumption, renewable penetration and carbon emissions from energy for many countries around the world. If you're country isn't covered you can contribute a data source.
 - [SparkMeter](http://www.sparkmeter.io/) - Humanitarian smart energy metering solution that purchases wasted unused electricity from utilities and resells it to hard-to-reach places and underserved markets, thus reducing overall energy consumption.
 
 ## Reforestation
@@ -39,6 +46,10 @@ Air pollution causes [200,000 early deaths each year in the USA](http://news.mit
 - [Eden Reforestation Projects](https://edenprojects.org/) - 🌎 Eden Reforestation projects reduces extreme poverty and restores healthy forests by employing local villagers to plant millions of trees every year.
 - [Treedom](https://www.treedom.net/) - Treedom lets you buy or gift a real tree, where somebody will plant it for you and follow it online. 
 - [Tree-Nation](https://tree-nation.com/projects) - 🌎 Discover the projects where you can start planting now.
+
+## Community and Education
+
+- [Transition Towns and the Transition Network](https://transitionnetwork.org) - A global movement of communities coming together to reimagine and actively rebuild our world.  The terms transition town, transition initiative and transition model refer to grassroot community projects that aim to increase self-sufficiency to reduce the potential effects of peak oil, climate destruction, and economic instability.
 
 ## Sustainable Lifestyle
 
@@ -86,6 +97,7 @@ Cars and trucks account for [nearly one-fifth of all US emissions](https://www.u
 - [Original Unverpackt](https://original-unverpackt.de/) - 🇩🇪 Zero packaging supermarket in Berlin. _Original Unverpackt hat sich als erster Supermarkt weltweit dem Zero-Waste-Lifestyle gewidmet._
 - [Rethink Food NYC](https://www.rethinkfood.nyc/) - 🇺🇸 They pick up unused, excess food from restaurants, farms, and other food purveyors, and repurpose it into delicious and nutritious meals for under-served New Yorkers.
 - [Kaiyo](https://kaiyo.com/) - Buy and sell used furniture to keep it out of landfill. They'll even come and pick it up! _I've used this to get rid of a giant sofa which nobody wanted to buy, it was about to go on the street and they got me a cheque._
+- [Karma](https://new.karma.life/) - A swedish company that lets restaurants sell surplus food at a lower price. It lets you pay less for food and prevent food waste.
 
 ## Sustainable Apparel
 
