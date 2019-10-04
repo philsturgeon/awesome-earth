@@ -29,8 +29,13 @@ Air pollution causes [200,000 early deaths each year in the USA](http://news.mit
 
 ## Green Energy
 
+Many major energy consuming countries still use [fossil fuels to fill the majority of their energy needs](https://en.wikipedia.org/wiki/List_of_countries_by_electricity_production_from_renewable_sources). Consider switching to a low-carbon supplier or find out about the carbon emissions happening on your countries grid right now.
+
 - [the Switch](https://theswitch.co.uk/) - 🇬🇧 Switch to green energy is easy and can save you money too.
 - [Money Supermarket: Green Energy](https://www.moneysupermarket.com/gas-and-electricity/green-energy/) - 🇬🇧 "Green energy might’ve been a premium before, but prices are becoming competitive thanks to concerns over fossil fuels."
+- [ElectricityInfo.org's Table of UK Energy Supplier Fuel Mixes](http://electricityinfo.org/fuel-mix-of-uk-domestic-electricity-suppliers/) 🇬🇧 This useful table shows the different fuel mixes of all the UK electricity suppliers allowing you to easily find the companies that use a low carbon fuel mix.
+- [Carbon Intensity API](https://carbonintensity.org.uk/) 🇬🇧 This officially backed open API from Oxford University and the National Grid ESO gives a snapshot of how much carbon each unit of electricity consumed in the UK emits for every half hour. Also carries forecasts, regional breakdowns with some great charts and re-useable widgets. They also have an APP!
+- [Electricity Map](https://www.electricitymap.org/) 🌎 A map showing the energy consumption, renewable penetration and carbon emissions from energy for many countries around the world. If you're country isn't covered you can contribute a data source.
 - [SparkMeter](http://www.sparkmeter.io/) - Humanitarian smart energy metering solution that purchases wasted unused electricity from utilities and resells it to hard-to-reach places and underserved markets, thus reducing overall energy consumption.
 
 ## Reforestation

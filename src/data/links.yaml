@@ -93,6 +93,30 @@
   - green-energy
   description: Green energy might’ve been a premium before, but prices are becoming competitive thanks to concerns over fossil fuels.
 
+- title: ElectricityInfo.org's Table of UK Energy Supplier Fuel Mixes
+  url: http://electricityinfo.org/fuel-mix-of-uk-domestic-electricity-suppliers/
+  countries:
+  - gb
+  categories:
+  - green-energy
+  description: This useful table shows the different fuel mixes of all the UK electricity suppliers allowing you to easily find the companies that use a low carbon fuel mix.
+
+- title: Carbon Intensity API
+  url: https://carbonintensity.org.uk/
+  countries:
+  - gb
+  categories:
+  - green-energy
+  description: This officially backed open API from Oxford University and the National Grid ESO gives a snapshot of how much carbon each unit of electricity consumed in the UK emits for every half hour. Also carries forecasts, regional breakdowns with some great charts and re-useable widgets. They also have an [APP!](https://www.cs.ox.ac.uk/people/alex.rogers/gridcarbon/)
+
+- title: Electricity Map
+  url: https://www.electricitymap.org/
+  countries:
+  - global
+  categories:
+  - green-energy
+  description: A map showing the energy consumption, renewable penetration and carbon emissions from energy for many countries around the world. If you're country isn't covered you can contribute a data source.
+
 - title: SparkMeter
   url: http://www.sparkmeter.io/
   countries:
