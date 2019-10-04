@@ -10,6 +10,7 @@ A collection of resources, services, products, and ideas that you can use to imp
 - [Cooking](#cooking)
 - [Transportation](#transportation)
 - [Zero Waste](#zero-waste)
+- [Sustainable Apparel](#sustainable-apparel)
 - [Home Appliances](#home-appliances)
 
 ## Carbon Reduction
@@ -63,6 +64,7 @@ Many major energy consuming countries still use [fossil fuels to fill the majori
 - [The Good Roll](https://www.thegoodroll.nl) - 🇳🇱 Mail order 100% tree-friendly toilet paper made from post-consumer recycled paper.  50% of net profit from sales of The Good Roll is invested in the installation of safe toilets in East Africa.
 - [Grayl Water Filter](https://grayl.com/) - 🇺🇸 Water bottle with built in filter that works like a french press.  Great for urban and outdoor use.
 - [iPhone 11 Bio Case from Moment](https://www.shopmoment.com/shop/iphone-bio-case/iphone-11) - A fully compostable protective case for your iPhone. Only compatible with iPhone 11 (for now).
+- [Pela Case](https://pelacase.com/) - 100% Compostable phone case for iPhone and Android made with flax. Also 0-waste screen protectors and sunglasses.
 - [Lehman's](https://www.lehmans.com/) - One-stop shop for non-electric, homesteading, survival, handmade, Amish made, plastic free, durable, quality goods.  If you envision switching to live a simpler life, this place has all the tools you need to do so. 
 
 ## Cooking
@@ -89,15 +91,22 @@ Cars and trucks account for [nearly one-fifth of all US emissions](https://www.u
 - [App: Too Good To Go](https://toogoodtogo.co.uk/en-gb) - Sell your surplus food, easily and sustainably!  Save delicious food and fight food waste.  Find your favorite food and go rescue it. 
 - [City Harvest](https://www.cityharvest.org/) - 🇺🇸 City Harvest is New York City’s largest food rescue organization. They rescue food and deliver it to hundreds of food pantries, soup kitchens and other community partners.
 - [Donate Toys](https://www.moneycrashers.com/where-donate-used-toys/) - 🇺🇸 Donate toys that your children have grown out of instead of throwing them away.
-- [Dabchy](https://www.dabchy.com/) - 🇹🇳 Tunisian second hand clothes marketplace.
-- [threadUP](https://www.thredup.com/) - 🇺🇸 Second hand clothes, upcycled to avoid the electricity, carbon, etc waste of making new clothes, and keeping them from a landfill. Women and kids but nothing for men.
 - [Go "Swaggless"](https://twitter.com/lindybrandon/status/1131202229229314048) - Nobody needs another corporate logo stressball or other pointless swag. Convince your company to skip the nonsense and donate to something worthwhile - like their [Offset Earth](https://offset.earth/) business account!
 - [Olio](https://olioex.com/) - 🇬🇧 We connect neighbours to share food, and other things, rather than chuck them away.
 - [Openstreetmap: Zero Waste (Overpass)](http://overpass-turbo.eu/?template=key&key=zero_waste) - Openstreetmap has the tag zero_waste=* for shops who sell items without packaging.
 - [Original Unverpackt](https://original-unverpackt.de/) - 🇩🇪 Zero packaging supermarket in Berlin. _Original Unverpackt hat sich als erster Supermarkt weltweit dem Zero-Waste-Lifestyle gewidmet._
 - [Rethink Food NYC](https://www.rethinkfood.nyc/) - 🇺🇸 They pick up unused, excess food from restaurants, farms, and other food purveyors, and repurpose it into delicious and nutritious meals for under-served New Yorkers.
 - [Kaiyo](https://kaiyo.com/) - Buy and sell used furniture to keep it out of landfill. They'll even come and pick it up! _I've used this to get rid of a giant sofa which nobody wanted to buy, it was about to go on the street and they got me a cheque._
-- [Karma](https://new.karma.life/) - A swedish company that lets restaurants sell surplus food at a lower price. It lets you pay less for food and prevent food waste
+- [Karma](https://new.karma.life/) - A swedish company that lets restaurants sell surplus food at a lower price. It lets you pay less for food and prevent food waste.
+
+## Sustainable Apparel
+
+- [Recover Brands](https://recoverbrands.com/) - Soft and strong T-shirts, each made from 8 plasitc bottles. Closed Loop manufacturing from the start.
+- [Girlfriend Collective](https://www.girlfriend.com/) - Luxury Athleasuire-ware made from recycled polyester.
+- [Alternative Apparel](https://www.alternativeapparel.com/) - Low impact dyes, and post-consumer recycled polyester are used with Fair Labor Assoication guidelines.
+- [Dabchy](https://www.dabchy.com/) - 🇹🇳 Tunisian second hand clothes marketplace.
+- [threadUP](https://www.thredup.com/) - 🇺🇸 Second hand clothes, upcycled to avoid the electricity, carbon, etc waste of making new clothes, and keeping them from a landfill. Women and kids but nothing for men.
+
 ## Home Appliances
 
 - [Hamwells Showers](https://www.hamwells.com/en/) - Shower systems that utilize heat exchangers to recapture heat and filtered pumps to recycle water up to 7 times before it is drained, thus significantly reducing water usage and energy consumption.
