@@ -42,7 +42,11 @@ Many major energy consuming countries still use [fossil fuels to fill the majori
 ## Reforestation
 
  We need to [reforest an area the size of the USA](https://theconversation.com/reforesting-an-area-the-size-of-the-us-needed-to-help-avert-climate-breakdown-say-researchers-are-they-right-119842) as quickly as possible. Why the urgency? Ice shelves in Greenland are melting so fast that [197 billion tons melted in _July 2019 alone_](https://apnews.com/65694195c91d4b62b275bd14a6955b4c), and abnormally vicious [heatwaves all over Europe are becoming more intense](https://www.bbc.com/news/world-europe-48756480) and more frequent. We're rapidly reaching a point where large areas of the planet will be too hot to plant forests, so we need to get it done now.
-
+ 
+- [Droneseed](https://www.droneseed.co/) - 
+They plant native trees & vegetation using drone swarms and spray to protect them. Provide valuable insights to customers by collecting data in the field. Work with Governments, nonprofits, and private land owners as a service provider.
+- [Land Life Company](https://landlifecompany.com/) - 
+Their mission is to reforest the world’s 2 billion hectares of degraded land. Using drones, automated planting and the Cocoon, they plant at scale in urban environments using a fraction of the water.
 - [Eden Reforestation Projects](https://edenprojects.org/) - 🌎 Eden Reforestation projects reduces extreme poverty and restores healthy forests by employing local villagers to plant millions of trees every year.
 - [Treedom](https://www.treedom.net/) - Treedom lets you buy or gift a real tree, where somebody will plant it for you and follow it online. 
 - [Tree-Nation](https://tree-nation.com/projects) - 🌎 Discover the projects where you can start planting now.
