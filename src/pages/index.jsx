@@ -5,6 +5,9 @@ import CategoryData from "../data/categories.yaml"
 import LinkData from "../data/links.yaml"
 import Countries from "../countries"
 
+import "normalize.css"
+import "../styles/global.scss"
+
 const categories = CategoryData.map(c => ({
     ...c,
     links: LinkData.filter(l => {

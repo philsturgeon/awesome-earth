@@ -29,6 +29,15 @@
   - carbon-reduction
   description:  Offset the carbon footprint of your customers' online transactions, with e-commerce plugins (Shopify, Magento, etc.)
 
+- title: Cool Earth
+  url: https://www.coolearth.org/
+  countries:
+  - global
+  categories:
+  - carbon-reduction
+  description: This charity was created to tackle climate change by reducing carbon emissions from rainforest loss.
+  charity_url: https://www.guidestar.org/profile/26-3688173
+
 - title: atmosfair
   url: https://www.atmosfair.de/
   countries:
@@ -60,6 +69,13 @@
   - carbon-reduction
   description: Understand the impact of air travel and compensate for your emissions by supporting sustainable projects around the world. 
 
+- title: MyClimate
+  url: https://myclimate.org/
+  icon: 🇨🇭
+  categories:
+  - carbon-reduction
+  description: Helping reduce emissions through a whole bunch of different projects, from consulting companies on their footprint (and helping them to reduce), to education at schools, forest restoration, providing people in Rwanda with efficient cook stoves, and [a whole bunch more](https://www.myclimate.org/information/climate-protection-projects/). Fund them via donations, and use their flight/car/house/company footprint calculators.
+
 
 - title: the Switch
   url: https://theswitch.co.uk/
@@ -76,6 +92,30 @@
   categories:
   - green-energy
   description: Green energy might’ve been a premium before, but prices are becoming competitive thanks to concerns over fossil fuels.
+
+- title: ElectricityInfo.org's Table of UK Energy Supplier Fuel Mixes
+  url: http://electricityinfo.org/fuel-mix-of-uk-domestic-electricity-suppliers/
+  countries:
+  - gb
+  categories:
+  - green-energy
+  description: This useful table shows the different fuel mixes of all the UK electricity suppliers allowing you to easily find the companies that use a low carbon fuel mix.
+
+- title: Carbon Intensity API
+  url: https://carbonintensity.org.uk/
+  countries:
+  - gb
+  categories:
+  - green-energy
+  description: This officially backed open API from Oxford University and the National Grid ESO gives a snapshot of how much carbon each unit of electricity consumed in the UK emits for every half hour. Also carries forecasts, regional breakdowns with some great charts and re-useable widgets. They also have an [APP!](https://www.cs.ox.ac.uk/people/alex.rogers/gridcarbon/)
+
+- title: Electricity Map
+  url: https://www.electricitymap.org/
+  countries:
+  - global
+  categories:
+  - green-energy
+  description: A map showing the energy consumption, renewable penetration and carbon emissions from energy for many countries around the world. If you're country isn't covered you can contribute a data source.
 
 - title: SparkMeter
   url: http://www.sparkmeter.io/
