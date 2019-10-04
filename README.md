@@ -39,7 +39,7 @@ Air pollution causes [200,000 early deaths each year in the USA](http://news.mit
 - [Droneseed](https://www.droneseed.co/)
 They plant native trees & vegetation using drone swarms and spray to protect them. Provide valuable insights to customers by collecting data in the field. Work with Governments, nonprofits, and private land owners as a service provider.
 - [Land Life Company.](https://landlifecompany.com/)
-Their mission is to reforest the world’s 2 billion hectares of degraded land.
+Their mission is to reforest the world’s 2 billion hectares of degraded land. Using drones, automated planting and the Cocoon, they plant at scale in urban environments using a fraction of the water.
 
 - [Eden Reforestation Projects](https://edenprojects.org/) - 🌎 Eden Reforestation projects reduces extreme poverty and restores healthy forests by employing local villagers to plant millions of trees every year.
 - [Treedom](https://www.treedom.net/) - Treedom lets you buy or gift a real tree, where somebody will plant it for you and follow it online. 
@@ -97,5 +97,5 @@ Cars and trucks account for [nearly one-fifth of all US emissions](https://www.u
 
 - [Hamwells Showers](https://www.hamwells.com/en/) - Shower systems that utilize heat exchangers to recapture heat and filtered pumps to recycle water up to 7 times before it is drained, thus significantly reducing water usage and energy consumption.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NTc2MzIyMSwxNDczNTUwNjcxXX0=
+eyJoaXN0b3J5IjpbMzY0NTYwMDk1LDE0NzM1NTA2NzFdfQ==
 -->
