@@ -69,6 +69,13 @@
   - carbon-reduction
   description: Understand the impact of air travel and compensate for your emissions by supporting sustainable projects around the world. 
 
+- title: MyClimate
+  url: https://myclimate.org/
+  icon: 🇨🇭
+  categories:
+  - carbon-reduction
+  description: Helping reduce emissions through a whole bunch of different projects, from consulting companies on their footprint (and helping them to reduce), to education at schools, forest restoration, providing people in Rwanda with efficient cook stoves, and [a whole bunch more](https://www.myclimate.org/information/climate-protection-projects/). Fund them via donations, and use their flight/car/house/company footprint calculators.
+
 
 - title: the Switch
   url: https://theswitch.co.uk/
