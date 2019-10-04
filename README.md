@@ -91,3 +91,6 @@ Cars and trucks account for [nearly one-fifth of all US emissions](https://www.u
 ## Home Appliances
 
 - [Hamwells Showers](https://www.hamwells.com/en/) - Shower systems that utilize heat exchangers to recapture heat and filtered pumps to recycle water up to 7 times before it is drained, thus significantly reducing water usage and energy consumption.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTQ3MzU1MDY3MV19
+-->
