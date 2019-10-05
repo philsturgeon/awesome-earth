@@ -1,25 +1,25 @@
 @import url('https://fonts.googleapis.com/css?family=Spectral+SC&display=swap');
 
 @font-face {
-  font-family: "National Park";
+  font-family: "Muli";
   font-weight: normal;
-  src: url("fonts/NationalPark/NationalPark-Thin.otf");
+  src: url("fonts/Muli/Muli-ExtraLight.ttf");
 }
 
 @font-face {
-  font-family: "National Park";
+  font-family: "Muli";
   font-weight: 700;
-  src: url("fonts/NationalPark/NationalPark-Regular.otf");
+  src: url("fonts/Muli/Muli-Regular.ttf");
 }
 
 @font-face {
-  font-family: "National Park";
+  font-family: "Muli";
   font-weight: 900;
-  src: url("fonts/NationalPark/NationalPark-Heavy.otf");
+  src: url("fonts/Muli/Muli-Bold.ttf");
 }
 
 body {
-  font-family: "National Park", sans-serif;
+  font-family: "Muli", sans-serif;
   background-image: linear-gradient(to top, #c1dfc4 0%, #deecdd 100%);
   font-size: 18px;
 
