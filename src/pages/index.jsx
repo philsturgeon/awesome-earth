@@ -30,7 +30,7 @@ export default () => (
                         {category.links.map((data, index) => {
                             return (
                                 <li key={`content_item_${index}`}>
-                                    <strong><a href={data.url}>{data.title}</a></strong>
+                                    <strong><a href={data.url} rel="nofollow noopener noreferrer">{data.title}</a></strong>
                                     {(data.countries || []).map(code => {
                                         const country = Countries.fromAlpha2Code(code.toUpperCase())
                                         
