@@ -4,6 +4,14 @@
   introduction: >
     Air pollution causes [200,000 early deaths each year in the USA](http://news.mit.edu/2013/study-air-pollution-causes-200000-early-deaths-each-year-in-the-us-0829). Billionaires and scientists are [scaling up carbon trapping programs](https://www.theguardian.com/environment/2018/feb/04/carbon-emissions-negative-emissions-technologies-capture-storage-bill-gates) with big old turbines, even looking at turning that byproduct into fuel, but those same scientists are begging us to live less carbon intensive lives and fund offsetting programs. They need our help, so figure out your footprint, reduce it over time, and offset the rest.
 
+- name: Cooking
+  slug: cooking
+  introduction: >
+    Cooking is a major source of carbon emissions all over the world, from wood fires to gas burners. It's also bloody dangerous in some parts of the world. Smoke from open cooking fires [kills more than eight times as many people](http://www.stoveteam.org/services/the-need) as malaria.
+
+- name: Community and Education
+  slug: community-education
+
 - name: Green Energy
   slug: green-energy
   introduction: >
@@ -17,11 +25,6 @@
 - name: Sustainable Lifestyle
   slug: sustainable-lifestyle
 
-- name: Cooking
-  slug: cooking
-  introduction: >
-    Cooking is a major source of carbon emissions all over the world, from wood fires to gas burners. It's also bloody dangerous in some parts of the world. Smoke from open cooking fires [kills more than eight times as many people](http://www.stoveteam.org/services/the-need) as malaria.
-
 - name: Transportation
   slug: transportation
   introduction: >
@@ -32,4 +35,3 @@
 
 - name: Home Appliances
   slug: home-appliances
-  
