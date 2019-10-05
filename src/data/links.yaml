@@ -72,7 +72,6 @@
   - carbon-reduction
   description: Helping reduce emissions through a whole bunch of different projects, from consulting companies on their footprint (and helping them to reduce), to education at schools, forest restoration, providing people in Rwanda with efficient cook stoves, and [a whole bunch more](https://www.myclimate.org/information/climate-protection-projects/). Fund them via donations, and use their flight/car/house/company footprint calculators.
 
-
 - title: the Switch
   url: https://theswitch.co.uk/
   countries:
@@ -137,10 +136,14 @@
 
 - title: Droneseed
   url: https://www.droneseed.co/
+  categories:
+  - reforestation
   description: They plant native trees & vegetation using drone swarms and spray to protect them. Provide valuable insights to customers by collecting data in the field. Work with Governments, nonprofits, and private land owners as a service provider.
 
 - title: Land Life Company
   url: https://landlifecompany.com/
+  categories:
+  - reforestation
   description: Their mission is to reforest the world’s 2 billion hectares of degraded land. Using drones, automated planting and the Cocoon, they plant at scale in urban environments using a fraction of the water.
 
 - title: Smartliners

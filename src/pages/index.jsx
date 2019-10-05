@@ -10,9 +10,7 @@ import "../styles/global.scss"
 
 const categories = CategoryData.map(c => ({
     ...c,
-    links: LinkData.filter(l => {
-        return l.categories.includes(c.slug);
-    }),
+    links: LinkData.filter(l => l.categories.includes(c.slug)),
 }));
 
 export default () => (
@@ -33,7 +31,6 @@ export default () => (
                                     <strong><a href={data.url}>{data.title}</a></strong>
                                     {(data.countries || []).map(code => {
                                         const country = Countries.fromAlpha2Code(code.toUpperCase())
-                                        
                                         return <span title={country.name}>{country.emoji}</span>
                                     })}
                                     <ReactMarkdown source={data.description} escapeHtml={false} />
