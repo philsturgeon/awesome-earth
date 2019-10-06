@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: `Awesome.Earth`,
-    siteUrl: `https://www.gatsbyjs.org`,
-    description: `Blazing fast modern site generator for React`,
+    siteUrl: `https://www.awesom.earth`,
+    description: ``,
   },
   plugins: [
     {
@@ -24,6 +24,6 @@ module.exports = {
     `gatsby-plugin-sass`
   ],
   mapping: {
-    'LinkYaml.categories': `CategoryYaml`
+    'LinksYaml.categories': `CategoriesYaml`
   },
 }
