@@ -149,7 +149,7 @@
 - title: Smartliners
   url: https://smartlinerpads.com/
   categories:
-  - reforestation
+  - sustainable-lifestyle
   description: Reduce the impact on the environment caused by sanitary waste using Organic Cotton Period Pads.
 
 - title: Transition Towns (Transition Network)
@@ -165,6 +165,7 @@
   countries:
   - gb
   description: A selection of environmentally products for the home, garden, pets and other stuff.
+
 - title: Bees Wrap
   url: https://www.beeswrap.com/
   categories: 
@@ -172,6 +173,7 @@
   countries:
   - us
   description: Stop using cling film and start using reusable recyclable wraps made from bees wax and organic jojoba oil.
+
 - title: Bio-plastic Trash Bags
   url: https://www.amazon.com/Plant-Based-Kitchen-Handles-Gallon/dp/B071JMFKM5/
   categories: 
@@ -186,27 +188,32 @@
   countries:
   - us
   description: Cleaning supplies with zero-waste packaging, and a powerful clean that's better for you and the planet.
+
 - title: Fairphone
   url: https://www.fairphone.com/
   categories: 
   - sustainable-lifestyle
   icon: 🇪🇺 
   description: A phone for everyone who cares about how their products are made. It improves the conditions of the people who make it and uses materials that are better for the planet.
+
 - title: Happy Cow
   url: https://www.happycow.net
   categories: 
   - sustainable-lifestyle
   description: Reduce or avoid meat entirely by finding great vegetarian or vegan food all over the world.
+
 - title: Improve how you do laundry
   url: https://greenlivingideas.com/2014/09/23/3-easy-ways-to-green-your-laundry/
   categories: 
   - sustainable-lifestyle
   description: 6 Tips for a More Sustainable Laundry Routine
+
 - title: Sonny
   url: https://www.indiegogo.com/projects/sonny-a-portable-bidet-for-eco-conscious-humans/x/17318484#/ 
   categories: 
   - sustainable-lifestyle
   description: A sustainable alternative to wipes and paper for better hygiene and a greener planet.
+
 - title: The Good Roll
   url: https://www.thegoodroll.nl
   categories: 
@@ -214,6 +221,7 @@
   countries:
   - nl
   description: Mail order 100% tree-friendly toilet paper made from post-consumer recycled paper.  50% of net profit from sales of The Good Roll is invested in the installation of safe toilets in East Africa.
+
 - title: Grayl Water Filter
   url: https://grayl.com/
   categories: 
@@ -221,6 +229,7 @@
   countries:
   - us
   description: Water bottle with built in filter that works like a french press.  Great for urban and outdoor use.
+
 - title: iPhone 11 Bio Case from Moment
   url: https://www.shopmoment.com/shop/iphone-bio-case/iphone-11
   categories: 
