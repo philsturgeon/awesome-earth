@@ -11,22 +11,23 @@ exports.createPages = async ({ graphql, actions }) => {
 
   const result = await graphql(`
     query {
-      allCategoriesYaml {
+      allMarkdownRemark {
         edges {
           node {
-            id
-            name
-            introduction
+            frontmatter {
+              id
+              path
+            }
           }
         }
       }
     }
   `);
 
-  await asyncForEach(result.data.allCategoriesYaml.edges, async ({ node }) => {
+  await asyncForEach(result.data.allMarkdownRemark.edges, async ({ node }) => {
     const linkResult = await graphql(`
       query {
-        allLinksYaml(filter: {categories: {elemMatch: {id: {eq: "${node.id}"}}}}) {
+        allLinksYaml(filter: {categories: {in: ["${node.frontmatter.id}"]}}) {
           edges {
             node {
               id
@@ -43,9 +44,9 @@ exports.createPages = async ({ graphql, actions }) => {
     const links = linkResult.data.allLinksYaml.edges.map(edge => edge.node);
 
     createPage({
-      path: node.id,
+      path: node.frontmatter.path,
       component: path.resolve(`./src/templates/category.jsx`),
-      context: { category: node, links },
+      context: { links },
     })
   });
 }
