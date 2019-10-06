@@ -23,4 +23,7 @@ module.exports = {
     },
     `gatsby-plugin-sass`
   ],
+  mapping: {
+    'LinkYaml.categories': `CategoryYaml`
+  },
 }
