@@ -15,7 +15,7 @@ export default () => (
     <ul>
       {CategoryData.map(category => {
         return (
-          <li><Link to={category.slug}>{category.name}</Link></li>
+          <li><Link to={category.id}>{category.name}</Link></li>
         );
       })}
     </ul>
