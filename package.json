@@ -17,6 +17,7 @@
     "gatsby": "^2.15.28",
     "gatsby-plugin-sass": "^2.1.17",
     "gatsby-source-filesystem": "^2.1.28",
+    "gatsby-transformer-remark": "^2.6.27",
     "gatsby-transformer-yaml": "^2.2.12",
     "i18n-iso-countries": "^4.3.1",
     "node-sass": "^4.12.0",
