@@ -25,13 +25,17 @@ Their mission is to reforest the world’s 2 billion hectares of degraded land. 
 
 There's loads more on the site:
 
-- [Carbon Reduction](https://awesom.earth/#carbon-reduction)
-- [Cooking](https://awesom.earth/#cooking)
-- [Green Energy](https://awesom.earth/#green-energy)
-- [Reforestation](https://awesom.earth/#reforestation)
-- [Sustainable Lifestyle](https://awesom.earth/#sustainable-lifestyle)
-- [Transportation](https://awesom.earth/#transportation)
-- [Home Appliances](https://awesom.earth/#home-appliances)
-- [Zero Waste](https://awesom.earth/#zero-waste)
+- [Carbon Reduction](https://awesom.earth/carbon-reduction)
+- [Cooking](https://awesom.earth/cooking)
+- [Green Energy](https://awesom.earth/green-energy)
+- [Reforestation](https://awesom.earth/reforestation)
+- [Sustainable Lifestyle](https://awesom.earth/sustainable-lifestyle)
+- [Transportation](https://awesom.earth/transportation)
+- [Home Appliances](https://awesom.earth/home-appliances)
+- [Zero Waste](https://awesom.earth/zero-waste)
 
 This site is powered by contributions. We're trying to learn about projects from all over the world, so please [contribute ideas](CONTRIBUTING.md)! 
+
+# Thanks
+
+Powered by [Gatsby.js](https://www.gatsbyjs.org/)

@@ -1,15 +1,10 @@
 module.exports = {
   siteMetadata: {
-    title: `Solving.Earth`,
+    title: `Awesome.Earth`,
+    siteUrl: `https://www.gatsbyjs.org`,
+    description: `Blazing fast modern site generator for React`,
   },
   plugins: [
-    // You can have multiple instances of this plugin
-    // to read source nodes from different locations on your
-    // filesystem.
-    //
-    // The following sets up the Jekyll pattern of having a
-    // "pages" directory for Markdown files and a "data" directory
-    // for `.json`, `.yaml`, `.csv`.
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -17,6 +12,7 @@ module.exports = {
         path: `${__dirname}/src/pages/`,
       },
     },
+    `gatsby-transformer-yaml`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {

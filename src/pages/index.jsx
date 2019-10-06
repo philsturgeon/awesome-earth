@@ -1,5 +1,6 @@
 import React from "react"
 import ReactMarkdown from 'react-markdown/with-html'
+import { Link } from "gatsby"
 
 import CategoryData from "../data/categories.yaml"
 import LinkData from "../data/links.yaml"
@@ -22,7 +23,7 @@ export default () => (
         {categories.map(category => {
             return (
                 <>
-                    <h2>{category.name}</h2>
+                    <h2><Link to={category.slug}>{category.name}</Link></h2>
                     <ReactMarkdown source={category.introduction} escapeHtml={false} />
                     <ul>
                         {category.links.map((data, index) => {
