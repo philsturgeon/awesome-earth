@@ -2,6 +2,7 @@
 id: "reforestation"
 path: "/reforestation"
 name: "Reforestation"
+image: ./cat.jpg
 ---
 We need to [reforest an area the size of the
 USA](https://theconversation.com/reforesting-an-area-the-size-of-the-us-needed-to-help-avert-climate-breakdown-say-researchers-are-they-right-119842)

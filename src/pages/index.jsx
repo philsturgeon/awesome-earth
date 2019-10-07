@@ -1,6 +1,6 @@
 import React from "react";
-import { graphql } from "gatsby";
-import { Link } from "gatsby";
+import { Link, graphql } from "gatsby"
+import BackgroundImage from 'gatsby-background-image'
 
 // Components
 import Carousel from "../components/carousel";
@@ -10,9 +10,7 @@ import "normalize.css";
 import "../styles/global.scss";
 
 export default ({ data }) => {
-  const categories = data.allMarkdownRemark.edges.map(
-    edge => edge.node.frontmatter,
-  );
+  const categories = data.allMarkdownRemark.edges.map(edge => edge.node.frontmatter);
   return (
     <>
       <div className="padding">
@@ -30,9 +28,15 @@ export default ({ data }) => {
         <ul>
           {categories.map(category => {
             return (
-              <li key={category.id}>
+              <BackgroundImage
+                Tag="li"
+                className="category-image"
+                key={category.id}
+                fluid={category.image.childImageSharp.fluid}
+                backgroundColor={`#040e18`}
+              >
                 <Link to={category.path}>{category.name}</Link>
-              </li>
+              </BackgroundImage>
             );
           })}
         </ul>
@@ -50,6 +54,13 @@ export const pageQuery = graphql`
             id
             path
             name
+            image {
+              childImageSharp {
+                fluid {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
           }
         }
       }
