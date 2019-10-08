@@ -13,7 +13,8 @@ export default () => {
         allFile(
           sort: { fields: name, order: DESC }
           filter: {
-            sourceInstanceName: { eq: "assets" }
+            sourceInstanceName: { eq: "images" }
+            absolutePath:{ regex: "/\/featured\//" }
             extension: { regex: "/(jpg)|(jpeg)|(png)/" }
           }
         ) {

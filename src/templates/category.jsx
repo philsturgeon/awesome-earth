@@ -9,7 +9,7 @@ import "normalize.css"
 import "../styles/global.scss"
 
 export default function Template({ data: { markdownRemark }, pageContext: { links } }) {
-  const { frontmatter: category, html } = markdownRemark
+  const { frontmatter: category, html } = markdownRemark;
   return (
     <>
       <h1>{category.name}</h1>
