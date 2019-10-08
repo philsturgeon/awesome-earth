@@ -146,6 +146,12 @@
   - reforestation
   description: Their mission is to reforest the world’s 2 billion hectares of degraded land. Using drones, automated planting and the Cocoon, they plant at scale in urban environments using a fraction of the water.
 
+- title: WeForest
+  url: https://www.weforest.org/
+  categories:
+  - reforestation
+  description: Building upon corporate and scientific partnerships, WeForest empowers communities to sustainably advance and implement innovative, high standard, scalable and lasting solutions to restore forest landscapes.
+
 - title: Smartliners
   url: https://smartlinerpads.com/
   categories:
@@ -399,3 +405,9 @@
   categories:
   - home-appliances
   description: Shower systems that utilize heat exchangers to recapture heat and filtered pumps to recycle water up to 7 times before it is drained, thus significantly reducing water usage and energy consumption.
+
+- title: Solar hot water heaters
+  url: https://www.energy.gov/energysaver/water-heating/solar-water-heaters
+  categories:
+  - home-appliances
+  description: Solar hot water systems capture thermal energy from the sun and use it to heat water for your home. Systems can either be passive or active – while passive systems use gravity and natural circulation, active systems use pumps and controls to circulate water.

@@ -104,7 +104,7 @@ body {
     li {
       margin: 30px;
       padding: 30px;
-      text-align: center;
+      text-align: left;
       flex: 1 0 31%;
       background-image: linear-gradient(-225deg, #fffeff 0%, #d7fffe 100%);
       border-radius: 5px;
@@ -112,9 +112,6 @@ body {
       transition: transform 0.1s, box-shadow 0.15s;
 
       &:hover {
-        // transform: scaleX(1.05) scaleY(1.05);
-        // box-shadow: 0px 18px 18px -6px rgba(0, 0, 0, 0.4);
-
         strong > a:after {
           width: 100%;
         }
@@ -136,6 +133,7 @@ body {
 
       a {
         display: inline-block;
+        text-align: center;
         width: calc(100% - 30px);
         border: none;
       }
