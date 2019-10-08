@@ -93,6 +93,11 @@ body {
         border-radius: 0;
         max-width: 100%;
         padding: 0;
+
+        a {
+          position: relative;
+          max-height: 500px;
+        }
       }
     }
 
@@ -142,36 +147,48 @@ body {
   &-info-wrapper {
     position: absolute;
     bottom: 20%;
-    padding: 2rem;
+    padding: 1rem;
     background: rgba(0, 0, 0, 0.5);
-    max-width: 50%;
+    max-width: 100%;
 
-    &:nth-child(odd) {
-      right: 0;
-    }
-
-    &:nth-child(even) {
-      left: 0;
+    @media screen and (min-width: 640px) {
+      padding: 2rem;
+      max-width: 50%;
     }
 
     h3 {
       color: white;
-      font-size: 1.5rem;
+      font-size: 1rem;
       text-transform: uppercase;
       letter-spacing: 4px;
       margin: 0;
       text-align: left;
+
+      @media screen and (min-width: 640px) {
+        font-size: 1.5rem;
+      }
     }
   }
 }
 
 .carousel {
+  max-height: 300px;
+  overflow: hidden;
+
+  @media screen and (min-width: 640px) {
+    max-height: 500px;
+  }
   .dot {
     padding: 10px;
     flex: inherit;
   }
   .control-dots {
-    justify-content: center;
+    display: none;
+
+    @media screen and (min-width: 640px) {
+      display: block;
+      justify-content: center;
+    }
   }
 }
 
