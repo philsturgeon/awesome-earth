@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Spectral+SC&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Spectral+SC&display=swap");
 
 @font-face {
   font-family: "Muli";
@@ -23,12 +23,12 @@ body {
   background-image: linear-gradient(to top, #c1dfc4 0%, #deecdd 100%);
   font-size: 18px;
 
-  > div {
-    padding: 30px;
-  }
-
-  h1, h2, h3,
-  h4, h5, h6 {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
     margin-top: 0;
     margin-bottom: 20px;
   }
@@ -36,13 +36,14 @@ body {
   h1 {
     font-size: 3em;
 
-    &, + p {
+    &,
+    + p {
       text-align: center;
     }
 
     + p {
       text-align: left;
-      font-size: 1.0em;
+      font-size: 1em;
     }
   }
 
@@ -57,7 +58,8 @@ body {
     }
   }
 
-  p, ul {
+  p,
+  ul {
     margin: 20px 0;
 
     &:last-child {
@@ -66,7 +68,7 @@ body {
   }
 
   a {
-    font-size: 1.0em;
+    font-size: 1em;
     font-weight: 800;
     color: #333;
     text-decoration: none;
@@ -83,18 +85,34 @@ body {
     margin-right: -20px;
     transform: scaleX(1) scaleY(1);
 
+    &.slider {
+      flex-wrap: nowrap;
+      justify-content: space-between;
+
+      .slide {
+        border-radius: 0;
+        max-width: 100%;
+        padding: 0;
+
+        a {
+          position: relative;
+          max-height: 500px;
+        }
+      }
+    }
+
     li {
       margin: 30px;
       padding: 30px;
       text-align: left;
       flex: 1 0 31%;
-      background-image: linear-gradient(-225deg, #FFFEFF 0%, #D7FFFE 100%);
+      background-image: linear-gradient(-225deg, #fffeff 0%, #d7fffe 100%);
       border-radius: 5px;
       box-shadow: 0px 3px 3px -2px rgba(0, 0, 0, 0.4);
       transition: transform 0.1s, box-shadow 0.15s;
 
       &:hover {
-        strong>a:after {
+        strong > a:after {
           width: 100%;
         }
       }
@@ -103,7 +121,7 @@ body {
         float: right;
       }
 
-      strong>a:after {
+      strong > a:after {
         display: block;
         content: " ";
         margin-top: 4px;
@@ -121,4 +139,57 @@ body {
       }
     }
   }
+}
+
+.cta {
+  &-info-wrapper {
+    position: absolute;
+    bottom: 20%;
+    padding: 1rem;
+    background: rgba(0, 0, 0, 0.5);
+    max-width: 100%;
+
+    @media screen and (min-width: 640px) {
+      padding: 2rem;
+      max-width: 50%;
+    }
+
+    h3 {
+      color: white;
+      font-size: 1rem;
+      text-transform: uppercase;
+      letter-spacing: 4px;
+      margin: 0;
+      text-align: left;
+
+      @media screen and (min-width: 640px) {
+        font-size: 1.5rem;
+      }
+    }
+  }
+}
+
+.carousel {
+  max-height: 300px;
+  overflow: hidden;
+
+  @media screen and (min-width: 640px) {
+    max-height: 500px;
+  }
+  .dot {
+    padding: 10px;
+    flex: inherit;
+  }
+  .control-dots {
+    display: none;
+
+    @media screen and (min-width: 640px) {
+      display: block;
+      justify-content: center;
+    }
+  }
+}
+
+.padding {
+  padding: 30px;
 }
