@@ -144,6 +144,13 @@ body {
       width: 100%;
       min-width: 200px;
       max-width: 300px;
+      padding: 0;
+      
+      a { 
+        display: inline-table;
+        height:95%;    
+        width: 95%;
+      }
     }
   }
 }
@@ -195,8 +202,4 @@ body {
       justify-content: center;
     }
   }
-}
-
-.padding {
-  padding: 30px;
 }
