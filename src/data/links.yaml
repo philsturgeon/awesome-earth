@@ -317,16 +317,25 @@
   - gb
   description: UK leaders in electric vehicle charging with innovative solutions for homes, workplaces and commercial organisations.
 
+
+- title: Blue Jeans Go Green
+  url: https://bluejeansgogreen.org/
+  categories:
+  - zero-waste
+  description: The denim we collect is transformed into natural cotton fiber insulation, some of which is used to help with building efforts around the country. Ready to get started?
+
 - title: Litterati
   url: https://www.litterati.org/
   categories:
   - zero-waste
   description: Empowering people to clean the planet.  Photograph a piece of litter, tag it, and discard properly.  Participate in a challenge and hold wasteful brands accountable.
+
 - title: Too Good To Go
   url: https://toogoodtogo.co.uk/en-gb
   categories:
   - zero-waste
   description: Sell your surplus food, easily and sustainably!  Save delicious food and fight food waste.  Find your favorite food and go rescue it. 
+
 - title: City Harvest
   url: https://www.cityharvest.org/
   categories:
@@ -334,6 +343,7 @@
   countries:
   - us
   description: City Harvest is New York City’s largest food rescue organization. They rescue food and deliver it to hundreds of food pantries, soup kitchens and other community partners.
+
 - title: Donate Toys
   url: https://www.moneycrashers.com/where-donate-used-toys/
   categories:
@@ -341,6 +351,7 @@
   countries:
   - us
   description: Donate toys that your children have grown out of instead of throwing them away.
+
 - title: Dabchy
   url: https://www.dabchy.com/
   categories:
@@ -406,7 +417,7 @@
   - home-appliances
   description: Shower systems that utilize heat exchangers to recapture heat and filtered pumps to recycle water up to 7 times before it is drained, thus significantly reducing water usage and energy consumption.
 
-- title: Solar hot water heaters
+- title: Solar Water Heaters
   url: https://www.energy.gov/energysaver/water-heating/solar-water-heaters
   categories:
   - home-appliances
