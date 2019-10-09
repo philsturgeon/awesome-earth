@@ -320,9 +320,11 @@
 
 - title: Blue Jeans Go Green
   url: https://bluejeansgogreen.org/
+  countries:
+  - us
   categories:
   - zero-waste
-  description: The denim we collect is transformed into natural cotton fiber insulation, some of which is used to help with building efforts around the country. Ready to get started?
+  description: Send in your used jeans to get transformed into natural cotton fiber insulation, some of which is used to help with building efforts around the country.
 
 - title: Litterati
   url: https://www.litterati.org/
