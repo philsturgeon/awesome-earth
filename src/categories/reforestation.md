@@ -2,8 +2,9 @@
 id: "reforestation"
 path: "/reforestation"
 name: "Reforestation"
-image: ../images/cat.jpg
+image: ../images/reforestation.jpg
 ---
+
 We need to [reforest an area the size of the
 USA](https://theconversation.com/reforesting-an-area-the-size-of-the-us-needed-to-help-avert-climate-breakdown-say-researchers-are-they-right-119842)
 as quickly as possible. Why the urgency? Ice shelves in Greenland are

@@ -2,5 +2,5 @@
 id: "zero-waste"
 path: "/zero-waste"
 name: "Zero Waste"
-image: ../images/cat.jpg
+image: ../images/zero-waste.jpg
 ---
