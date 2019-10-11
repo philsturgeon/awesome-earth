@@ -118,9 +118,11 @@
   
 - title: Bulb
   url: www.bulb.co.uk
+  countries:
+  - gb
   categories:
   - green-energy
-  description: Humanitarian smart energy metering solution that purchases wasted unused electricity from utilities and resells it to hard-to-reach places and underserved markets, thus reducing overall energy consumption.
+  description: UK based renewable energy company. 100% Renewable Electricity & 100% Carbon Neutral Gas.
 
 - title: Eden Reforestation Projects
   url: https://edenprojects.org/
