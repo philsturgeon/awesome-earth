@@ -9,14 +9,17 @@ import "normalize.css"
 import "../styles/global.scss"
 
 export default function Template({ data: { markdownRemark }, pageContext: { links } }) {
-  const { frontmatter: category, html } = markdownRemark
+  const { frontmatter: category, html } = markdownRemark;
   return (
     <>
-      <h1>{category.name}</h1>
-      <div dangerouslySetInnerHTML={{ __html: html }} />
-      <ul>
+      <div class="padding">
+        <h1><a href="/">Awesome.Earth</a></h1>
+        <h2>{category.name}</h2>
+        <div dangerouslySetInnerHTML={{ __html: html }} />
+      </div>
+      <ul class="link-wrapper">
         {links.map(link => (
-          <li key={`${slugify(link.title)}`}>
+          <li class="link" key={`${slugify(link.title)}`}>
             <strong><a href={link.url} rel="nofollow noopener noreferrer">{link.title}</a></strong>
             {(link.countries || []).map(code => {
               const country = Countries.fromAlpha2Code(code.toUpperCase())
