@@ -115,7 +115,13 @@
   categories:
   - green-energy
   description: Humanitarian smart energy metering solution that purchases wasted unused electricity from utilities and resells it to hard-to-reach places and underserved markets, thus reducing overall energy consumption.
- 
+  
+- title: Bulb
+  url: www.bulb.co.uk
+  categories:
+  - green-energy
+  description: Humanitarian smart energy metering solution that purchases wasted unused electricity from utilities and resells it to hard-to-reach places and underserved markets, thus reducing overall energy consumption.
+
 - title: Eden Reforestation Projects
   url: https://edenprojects.org/
   categories:
