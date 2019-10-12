@@ -296,16 +296,52 @@
   countries:
   - gb
   description: This scheme allows employees to spend on bikes and equipment, tax-free, making a claimed saving of up to 42 per cent on the overall value.
+
 - title: Cycle to Work Scheme Ireland
   url: https://www.revenue.ie/en/jobs-and-pensions/taxation-of-employer-benefits/cycle-to-work-scheme.aspx
   categories:
   - transportation
+  countries:
+  - ie
   description: Under the scheme your employer can buy a bicycle and safety equipment for you, up to €1,000 per bicycle and safety equipment.
+
 - title: BlaBlaCar
   url: https://www.blablacar.com/
   categories:
   - transportation
-  description: The world’s leading long-distance carpooling platform.
+  countries:
+  - be
+  - be
+  - br
+  - de
+  - es
+  - fr
+  - hr
+  - in
+  - it
+  - hu
+  - mx
+  - nl
+  - pl
+  - pt
+  - ro
+  - sk
+  - rs
+  - tr
+  - gb
+  - cz
+  - ru
+  - ua
+  description: The world’s leading long-distance carpooling platform, which is available in most of Europe and Mexico.
+
+- title: Poparide
+  url: https://www.poparide.com/
+  categories:
+  - transportation
+  countries:
+  - ca
+  description: Get a ride or fill a seat for rideshares between cities in Canada. Having 3 people in the car can be more efficient than some of their big-ass trains and is 1/5th the impact of flying.
+
 - title: WageWorks Bicycle Reimbursement Program
   url: https://www.wageworks.com/employees/lifestyle-benefits-programs/bicycle-reimbursement-program/
   categories:
@@ -313,11 +349,13 @@
   countries:
   - us
   description: Ride your bike to work and pay for eligible bike-related expenses, and then get reimbursed for those expenses.
+
 - title: Waze Carpool
   url: https://www.waze.com/carpool
   categories:
   - transportation
   description: Choose to drive or ride, and match with people based on route and time of day.
+
 - title: Pod Point
   url: https://pod-point.com
   categories:
