@@ -1,5 +1,5 @@
 ---
-name: "Reforestation"
+title: "Reforestation"
 image: ../images/reforestation.jpg
 ---
 

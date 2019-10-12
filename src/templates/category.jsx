@@ -12,7 +12,7 @@ export default function Template({ pageContext: { category, html, links } }) {
     <>
       <div class="padding">
         <h1><a href="/">Awesome.Earth</a></h1>
-        <h2>{category.name}</h2>
+        <h2>{category.title}</h2>
         <div dangerouslySetInnerHTML={{ __html: html }} />
       </div>
       <ul class="link-wrapper">

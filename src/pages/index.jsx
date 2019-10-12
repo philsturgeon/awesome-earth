@@ -1,6 +1,7 @@
 import React from "react";
 import { Link, graphql } from "gatsby"
 import BackgroundImage from 'gatsby-background-image'
+import slugify from "slugify"
 
 // Components
 import Carousel from "../components/carousel";
@@ -10,15 +11,20 @@ import "normalize.css";
 import "../styles/global.scss";
 
 export default ({ data }) => {
-  const categories = data.allMarkdownRemark.edges.map(edge => edge.node.frontmatter);
+  const categories = data.allMarkdownRemark.edges.map(edge => ({
+    ...edge.node.frontmatter,
+    slug: edge.node.fields.slug,
+  }));
+
   return (
     <>
       <div class="padding">
         <h1>Awesome Earth</h1>
 
         <p>
-          A collection of resources, services, products, and ideas that you can
-          use to improve your impact on the environment.
+          The world is simultaneously underwater and on fire, and people want to 
+          know what they can do about it. This site is full of resources, services, 
+          products and ideas you can use to be awesome to the earth.
         </p>
       </div>
 
@@ -30,11 +36,11 @@ export default ({ data }) => {
             <BackgroundImage
               Tag="li"
               className="category"
-              key={category.id}
+              key={slugify(category.title)}
               fluid={category.image.childImageSharp.fluid}
               backgroundColor={`#040e18`}
             >
-              <Link to={category.id}><h2>{category.name}</h2></Link>
+              <Link to={category.slug}><h2>{category.title}</h2></Link>
             </BackgroundImage>
           );
         })}
@@ -48,9 +54,11 @@ export const pageQuery = graphql`
     allMarkdownRemark {
       edges {
         node {
+          fields {
+            slug
+          }
           frontmatter {
-            id
-            name
+            title
             image {
               childImageSharp {
                 fluid {

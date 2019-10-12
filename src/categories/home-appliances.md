@@ -1,4 +1,4 @@
 ---
-name: "Home Appliances"
+title: "Home Appliances"
 image: ../images/home-appliances.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-name: "Transportation"
+title: "Transportation"
 image: ../images/transportation.jpg
 ---
 
