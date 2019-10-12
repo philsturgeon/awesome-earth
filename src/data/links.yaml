@@ -78,15 +78,15 @@
   countries:
   - gb
   categories:
-  - green-energy
+  - renewable-energy
   description: Switch to green energy is easy and can save you money too.
 
 - title: 'Money Supermarket: Green Energy'
-  url: https://www.moneysupermarket.com/gas-and-electricity/green-energy/
+  url: https://www.moneysupermarket.com/gas-and-electricity/renewable-energy/
   countries:
   - gb
   categories:
-  - green-energy
+  - renewable-energy
   description: Green energy might’ve been a premium before, but prices are becoming competitive thanks to concerns over fossil fuels.
 
 - title: ElectricityInfo.org's Table of UK Energy Supplier Fuel Mixes
@@ -94,7 +94,7 @@
   countries:
   - gb
   categories:
-  - green-energy
+  - renewable-energy
   description: This useful table shows the different fuel mixes of all the UK electricity suppliers allowing you to easily find the companies that use a low carbon fuel mix.
 
 - title: Carbon Intensity API
@@ -102,19 +102,19 @@
   countries:
   - gb
   categories:
-  - green-energy
+  - renewable-energy
   description: This officially backed open API from Oxford University and the National Grid ESO gives a snapshot of how much carbon each unit of electricity consumed in the UK emits for every half hour. Also carries forecasts, regional breakdowns with some great charts and re-useable widgets. They also have an [APP!](https://www.cs.ox.ac.uk/people/alex.rogers/gridcarbon/)
 
 - title: Electricity Map
   url: https://www.electricitymap.org/
   categories:
-  - green-energy
+  - renewable-energy
   description: A map showing the energy consumption, renewable penetration and carbon emissions from energy for many countries around the world. If you're country isn't covered you can contribute a data source.
 
 - title: SparkMeter
   url: http://www.sparkmeter.io/
   categories:
-  - green-energy
+  - renewable-energy
   description: Humanitarian smart energy metering solution that purchases wasted unused electricity from utilities and resells it to hard-to-reach places and underserved markets, thus reducing overall energy consumption.
   
 - title: Bulb
