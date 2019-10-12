@@ -1,6 +1,4 @@
 ---
-id: "home-appliances"
-path: "/home-appliances"
-name: "Home Appliances"
+title: "Home Appliances"
 image: ../images/home-appliances.jpg
 ---

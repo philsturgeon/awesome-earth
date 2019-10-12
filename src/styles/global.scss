@@ -213,22 +213,24 @@ body {
     min-width: 200px;
     max-width: 300px;
     
-    a { 
+    a {
+      border: none;
       display: flex;
       align-items: flex-end;
       height: 100%;    
       width: 100%;
       
       h2 {
-        width: 100%;
-        line-height: 1.7em;
         align-self: flex-end;
         background: rgba(0, 0, 0, 0.5); /* Black see-through */
         color: #f1f1f1;
-        opacity:1;
         color: white;
-        text-align: center;
+        line-height: 1.7em;
         margin: 0;
+        opacity:1;
+        padding-top: 0;
+        text-align: center;
+        width: 100%;
       }
     }
   }
