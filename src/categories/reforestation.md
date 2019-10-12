@@ -1,6 +1,4 @@
 ---
-id: "reforestation"
-path: "/reforestation"
 name: "Reforestation"
 image: ../images/reforestation.jpg
 ---

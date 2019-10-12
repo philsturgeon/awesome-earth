@@ -1,6 +1,4 @@
 ---
-id: "carbon-reduction"
-path: "/carbon-reduction"
 name: "Carbon Reduction"
 image: ../images/carbon-reduction.jpg
 ---

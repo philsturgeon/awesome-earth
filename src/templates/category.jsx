@@ -1,5 +1,4 @@
 import React from "react"
-import { graphql } from "gatsby"
 import ReactMarkdown from 'react-markdown/with-html'
 import slugify from "slugify"
 
@@ -8,8 +7,7 @@ import Countries from "../countries"
 import "normalize.css"
 import "../styles/global.scss"
 
-export default function Template({ data: { markdownRemark }, pageContext: { links } }) {
-  const { frontmatter: category, html } = markdownRemark;
+export default function Template({ pageContext: { category, html, links } }) {
   return (
     <>
       <div class="padding">
@@ -31,15 +29,4 @@ export default function Template({ data: { markdownRemark }, pageContext: { link
       </ul>
     </>
   )
-}
-
-export const pageQuery = graphql`
-  query($path: String!) {
-    markdownRemark(frontmatter: { path: { eq: $path } }) {
-      html
-      frontmatter {
-        name
-      }
-    }
-  }
-`
+};

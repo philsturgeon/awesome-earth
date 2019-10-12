@@ -1,6 +1,4 @@
 ---
-id: "transportation"
-path: "/transportation"
 name: "Transportation"
 image: ../images/transportation.jpg
 ---

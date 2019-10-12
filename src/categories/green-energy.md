@@ -1,6 +1,4 @@
 ---
-id: "green-energy"
-path: "/green-energy"
 name: "Green Energy"
 image: ../images/green-energy.jpg
 ---

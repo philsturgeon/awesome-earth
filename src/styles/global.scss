@@ -213,7 +213,8 @@ body {
     min-width: 200px;
     max-width: 300px;
     
-    a { 
+    a {
+      border: none;
       display: flex;
       align-items: flex-end;
       height: 100%;    

@@ -34,7 +34,7 @@ export default ({ data }) => {
               fluid={category.image.childImageSharp.fluid}
               backgroundColor={`#040e18`}
             >
-              <Link to={category.path}><h2>{category.name}</h2></Link>
+              <Link to={category.id}><h2>{category.name}</h2></Link>
             </BackgroundImage>
           );
         })}
@@ -50,7 +50,6 @@ export const pageQuery = graphql`
         node {
           frontmatter {
             id
-            path
             name
             image {
               childImageSharp {

@@ -58,12 +58,13 @@
   - carbon-reduction
   description: Track your daily carbon emissions from meals, travel, purchases, and more! Set goals to reduce your emissions and your impact on the planet. 
 
-- title: AirCare
-  url: https://air.care/
-  icon: ✈️
-  categories:
-  - carbon-reduction
-  description: Understand the impact of air travel and compensate for your emissions by supporting sustainable projects around the world. 
+# Removed until I can confirm some numbers. It seems to think flying is better than driving.
+# - title: AirCare
+#   url: https://air.care/
+#   icon: ✈️
+#   categories:
+#   - carbon-reduction
+#   description: Understand the impact of air travel and compensate for your emissions by supporting sustainable projects around the world. 
 
 - title: MyClimate
   url: https://myclimate.org/

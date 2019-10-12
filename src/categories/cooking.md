@@ -1,6 +1,4 @@
 ---
-id: "cooking"
-path: "/cooking"
 name: "Cooking"
 image: ../images/cooking.jpg
 ---
