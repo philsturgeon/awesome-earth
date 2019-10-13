@@ -29,6 +29,9 @@ exports.createPages = async ({ graphql, actions }) => {
           node {
             frontmatter {
               title
+              image {
+                publicURL
+              }
             }
             fields {
               slug
@@ -59,7 +62,7 @@ exports.createPages = async ({ graphql, actions }) => {
     `);
 
     const links = linkResult.data.allLinksYaml.edges.map(edge => edge.node);
-    
+
     createPage({
       path: slug,
       component: path.resolve(`./src/templates/category.jsx`),

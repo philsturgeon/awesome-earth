@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Awesome.Earth`,
     siteUrl: `https://www.awesom.earth`,
-    description: ``,
+    description: `The world is simultaneously underwater and on fire, and people want to know what they can do about it. This site is full of resources, services, products and ideas you can use to be awesome to the earth.`,
   },
   plugins: [
     `gatsby-transformer-sharp`,
@@ -51,5 +51,6 @@ module.exports = {
         name: "images",
       },
     },
+    `gatsby-plugin-react-helmet`,
   ],
 };
