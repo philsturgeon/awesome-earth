@@ -51,7 +51,7 @@ export default ({ data }) => {
 
 export const pageQuery = graphql`
   query {
-    allMarkdownRemark {
+    allMarkdownRemark(sort: {order: ASC, fields: frontmatter___title}) {
       edges {
         node {
           fields {

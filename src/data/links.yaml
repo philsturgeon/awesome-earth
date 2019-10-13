@@ -471,3 +471,21 @@
   categories:
   - home-appliances
   description: Solar hot water systems capture thermal energy from the sun and use it to heat water for your home. Systems can either be passive or active – while passive systems use gravity and natural circulation, active systems use pumps and controls to circulate water.
+
+- title: BBC.com Climate Change
+  url: https://www.bbc.com/news/topics/cmj34zmwm1zt/climate-change
+  categories:
+  - news
+  description: BBC may give fairly slanted reporting when it comes to partisan UK politics, but their climate coverage is usually pretty on point.
+
+- title: Metabolic
+  url: https://metabolic.nl/news
+  categories:
+  - news
+  description: Sustainability consultancy in The Netherlands, tracking and reporting on climate action, circular economy, reducing consumption, etc. all over the world.
+
+- title: Unwarming
+  url: https://unwarming.org/
+  categories:
+  - news
+  description: Aggregations of climate change and action articles from various major news sources.
