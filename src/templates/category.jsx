@@ -8,8 +8,8 @@ import SEO from "../components/seo"
 import "normalize.css"
 import "../styles/global.scss"
 
-export default function Template({ pageContext: { category, html, links } }) {
-  const seoImage = document.location.origin + category.image.publicURL
+export default function Template({ pageContext: { category, html, links }, location }) {
+  const seoImage = location.origin + category.image.publicURL
   return (
     <>
       <SEO title={category.title} description="" keywords={[]} meta={[]} image={seoImage} />
