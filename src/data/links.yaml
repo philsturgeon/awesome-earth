@@ -463,20 +463,34 @@
 - title: Hamwells Showers
   url: https://www.hamwells.com/
   categories:
-  - home-appliances
+  - home-improvements
   description: Shower systems that utilize heat exchangers to recapture heat and filtered pumps to recycle water up to 7 times before it is drained, thus significantly reducing water usage and energy consumption.
 
 - title: Solar Water Heaters
   url: https://www.energy.gov/energysaver/water-heating/solar-water-heaters
   categories:
-  - home-appliances
+  - home-improvements
   description: Solar hot water systems capture thermal energy from the sun and use it to heat water for your home. Systems can either be passive or active – while passive systems use gravity and natural circulation, active systems use pumps and controls to circulate water.
 
+- title: Environmentally Friendly Roof Insulation
+  url: https://www.greenlivingtips.com/articles/environmentally-friendly-roof-insulation.html
+  categories:
+  - home-improvements
+  description: However you heat your home, make sure you aren't leaking heat through insufficient insulation, and save money.
+  
 - title: BBC.com Climate Change
   url: https://www.bbc.com/news/topics/cmj34zmwm1zt/climate-change
   categories:
   - news
   description: BBC may give fairly slanted reporting when it comes to partisan UK politics, but their climate coverage is usually pretty on point.
+
+- title: US Green Build Council
+  url: https://www.usgbc.org/articles
+  categories:
+  - news
+  countries: 
+  - us
+  description: Transforming how buildings are designed, constructed and operated through the LEED construction standard. Articles about benchmarking energy efficiency of materials, city strategy, measuring the helath of indoor spaces, reducing off-gassing, and improving air quality.
 
 - title: Metabolic
   url: https://metabolic.nl/news
