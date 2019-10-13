@@ -478,6 +478,12 @@
   - home-improvements
   description: However you heat your home, make sure you aren't leaking heat through insufficient insulation, and save money.
   
+- title: Solar Thermal Energy
+  url: https://en.wikipedia.org/wiki/Solar_thermal_energy
+  categories:
+  - home-improvements
+  description: Solar thermal technology can be used for cooking, heating your home through radiant floors, radiators, or forced air. It can be used to heat water directly for hot showers too.
+
 - title: BBC.com Climate Change
   url: https://www.bbc.com/news/topics/cmj34zmwm1zt/climate-change
   categories:
@@ -497,6 +503,12 @@
   categories:
   - news
   description: Sustainability consultancy in The Netherlands, tracking and reporting on climate action, circular economy, reducing consumption, etc. all over the world.
+
+- title: The Cleanest Line
+  url: https://www.patagonia.com/blog/
+  categories:
+  - news
+  description: Patagonia's blog on their efforts into political engagement for environmental protection of green spaces, global strikes, their efforts subsidizing solar energy in various communities, and all sorts of other climate action. 
 
 - title: Unwarming
   url: https://unwarming.org/

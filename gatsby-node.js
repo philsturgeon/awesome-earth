@@ -45,7 +45,10 @@ exports.createPages = async ({ graphql, actions }) => {
 
     const linkResult = await graphql(`
       query {
-        allLinksYaml(filter: {categories: {in: ["${slug.replace(/^\/|\/$/g, '')}"]}}) {
+        allLinksYaml(
+          filter: {categories: {in: ["${slug.replace(/^\/|\/$/g, '')}"]}}
+          sort: {fields: title, order: ASC}
+        ) {
           edges {
             node {
               title
