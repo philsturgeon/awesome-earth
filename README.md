@@ -21,7 +21,7 @@ Their mission is to reforest the world’s 2 billion hectares of degraded land. 
 
 - [Happy Cow](https://www.happycow.net) - 🌎 Reduce or avoid meat entirely by finding great vegetarian or vegan food all over the world.
 
-- [threadUP](https://www.thredup.com/) - 🇺🇸 Second hand clothes, upcycled to avoid the electricity, carbon, etc waste of making new clothes, and keeping them from a landfill. Women and kids but nothing for men.
+- [thredUP](https://www.thredup.com/) - 🇺🇸 Second hand clothes, upcycled to avoid the electricity, carbon, etc waste of making new clothes, and keeping them from a landfill. Women and kids but nothing for men.
 
 There's loads more on the site:
 
