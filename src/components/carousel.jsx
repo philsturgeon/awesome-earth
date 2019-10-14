@@ -46,10 +46,9 @@ export default () => {
       interval={5000}
     >
       {images.map(({ node }, index) => (
-        <a href={Images[index].href} title={Images[index].title}>
+        <a href={Images[index].href} title={Images[index].title} key={node.id}>
           <Img
             fluid={node.childImageSharp.fluid}
-            key={node.id}
             alt={node.name}
           />
           <div className="cta-info-wrapper">

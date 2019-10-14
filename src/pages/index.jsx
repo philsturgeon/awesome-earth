@@ -5,6 +5,7 @@ import slugify from "slugify"
 
 // Components
 import Carousel from "../components/carousel";
+import SEO from "../components/seo";
 
 // CSS
 import "normalize.css";
@@ -18,19 +19,20 @@ export default ({ data }) => {
 
   return (
     <>
-      <div class="padding">
+      <SEO title="Welcome" />
+      <div className="padding">
         <h1>Awesome Earth</h1>
 
         <p>
-          The world is simultaneously underwater and on fire, and people want to 
-          know what they can do about it. This site is full of resources, services, 
+          The world is simultaneously underwater and on fire, and people want to
+          know what they can do about it. This site is full of resources, services,
           products and ideas you can use to be awesome to the earth.
         </p>
       </div>
 
       <Carousel />
 
-      <ul class="categories">
+      <ul className="categories">
         {categories.map(category => {
           return (
             <BackgroundImage
