@@ -161,6 +161,12 @@
   - reforestation
   description: Building upon corporate and scientific partnerships, WeForest empowers communities to sustainably advance and implement innovative, high standard, scalable and lasting solutions to restore forest landscapes.
 
+- title: EcoTree
+  url: https://ecotree.green/en/
+  categories:
+  - reforestation
+  description: Support the European forests and reap the benefits. Plant trees and compensate your CO2 footprint.  Offer trees as an original and meaningful gift. Building complex, resistant, and multifunctional forests to promote resilience. For every tree harvested, three new ones are planted.
+
 - title: Smartliners
   url: https://smartlinerpads.com/
   categories:
@@ -369,6 +375,13 @@
   - gb
   description: UK leaders in electric vehicle charging with innovative solutions for homes, workplaces and commercial organisations.
 
+- title: Algramo
+  url: https://www.algramoalmacenes.com/
+  categories:
+  - zero-waste
+  countries:
+  - cl
+  description: Vending machines and mobile refill units for refilling reusable plastic bottles with staple goods from shampoo to salad dressing in packaging that is designed to be returned, cleaned, and reused.  With over 2,000 bodegas in Santiago and plans to expand in the US soon, Algramo, translates to "by the gram", also solves the issue of "poverty tax" where small packages can cost as much as 50% more than the same product in a larger size.  
 
 - title: Blue Jeans Go Green
   url: https://bluejeansgogreen.org/
@@ -488,6 +501,13 @@
   categories:
   - home-improvements
   description: Solar thermal technology can be used for cooking, heating your home through radiant floors, radiators, or forced air. It can be used to heat water directly for hot showers too.
+
+- title: PlanetCare microfibre laundry filters
+  url: https://www.planetcare.org
+  categories:
+  - home-improvements
+  description: 35% of microplastics are fibers that are released when we wash our clothes.  With consumer and industrial laundry filters, tackle the problem close to the source – with a filter in your washing machine.  PlanteCare makes efficient, practical and affordable laundry filters that allow every household to stop sending microfibres into the environment.
+
 
 - title: BBC.com Climate Change
   url: https://www.bbc.com/news/topics/cmj34zmwm1zt/climate-change
