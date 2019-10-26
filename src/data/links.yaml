@@ -517,6 +517,7 @@
   countries:
   - tn
   description: Tunisian second hand clothes marketplace.
+
 - title: threadUP
   url: https://www.thredup.com/
   categories:
@@ -524,12 +525,20 @@
   - zero-waste
   countries:
   - us
-  description: Second hand clothes, upcycled to avoid the electricity, carbon, etc waste of making new clothes, and keeping them from a landfill. Women and kids but nothing for men.
+  description: Second hand clothes, up-cycled to avoid the electricity, carbon, etc waste of making new clothes, and keeping them from a landfill. Women and kids but nothing for men.
+
+- title: The Good Condom Company
+  url: https://www.thegoodc.company/
+  categories:
+  - sustainable-lifestyle
+  description: F*ck each other, not the planet.  Condoms made of natural latex from sustainably managed rubber plantations in Malaysia.
+
 - title: Go "Swaggless"
   url: https://twitter.com/lindybrandon/status/1131202229229314048
   categories:
   - zero-waste
   description: Nobody needs another corporate logo stress ball or other pointless swag. Convince your company to skip the nonsense and donate to something worthwhile - like their [Offset Earth](https://offset.earth/business) business account!
+
 - title: Olio
   url: https://olioex.com/
   categories:
@@ -537,11 +546,13 @@
   countries:
   - gb
   description: We connect neighbours to share food, and other things, rather than chuck them away.
+
 - title: 'Openstreetmap: Zero Waste (Overpass)'
   url: http://overpass-turbo.eu/?template=key&key=zero_waste
   categories:
   - zero-waste
   description: Openstreetmap has the tag zero_waste=* for shops who sell items without packaging.
+
 - title: Original Unverpackt
   url: https://original-unverpackt.de/
   categories:
@@ -549,6 +560,7 @@
   countries:
   - de
   description: Zero packaging supermarket in Berlin. _Original Unverpackt hat sich als erster Supermarkt weltweit dem Zero-Waste-Lifestyle gewidmet._
+
 - title: Rethink Food NYC
   url: https://www.rethinkfood.nyc/
   categories:
@@ -556,6 +568,7 @@
   countries:
   - us
   description: They pick up unused, excess food from restaurants, farms, and other food purveyors, and repurpose it into delicious and nutritious meals for under-served New Yorkers.
+
 - title: Kaiyo
   url: https://kaiyo.com/
   categories:
@@ -604,6 +617,23 @@
   - home-improvements
   description: 35% of microplastics are fibers that are released when we wash our clothes.  With consumer and industrial laundry filters, tackle the problem close to the source – with a filter in your washing machine.  PlanteCare makes efficient, practical and affordable laundry filters that allow every household to stop sending microfibres into the environment.
 
+- title: Sense
+  url: https://sense.com/
+  categories:
+  - home-improvements
+  description: Sense is a home energy monitor that gives real-time insight into your home’s energy usage. Sense gives people the knowledge they need to reduce their energy costs and usage, with profound effects on the environment- the company estimates that its users are saving a total of 53 million pounds of CO2 annually.
+
+- title: The Guardian
+  url: https://www.theguardian.com/uk/environment
+  categories:
+  - news
+  description: The Guardian covers international environmental issues and climate change.  
+
+- title: Good
+  url: https://www.good.is/planet
+  categories:
+  - news
+  description: Good and upworthy news covering big issues, 'making purpose contagious'.
 
 - title: BBC.com Climate Change
   url: https://www.bbc.com/news/topics/cmj34zmwm1zt/climate-change
