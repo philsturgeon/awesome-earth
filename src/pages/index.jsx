@@ -21,7 +21,7 @@ export default ({ data }) => {
     <>
       <SEO title="Welcome" />
       <div className="padding">
-        <h1>Awesome Earth</h1>
+        <h1>Awesom.Earth</h1>
 
         <p>
           The world is simultaneously underwater and on fire, and people want to

@@ -131,6 +131,58 @@
   - green-energy
   description: UK based renewable energy company. 100% Renewable Electricity & 100% Carbon Neutral Gas.
 
+- title: UK Electric car target needs to be sooner
+  url: https://www.bbc.com/news/science-environment-48097150
+  countries:
+  - gb
+  categories:
+  - politics
+  description: The UK government's plan to ban the sale of new conventional petrol and diesel cars by 2040 is too tame, and the date should be rolled forward.
+
+- title: US Gas-free by 2040?
+  url: https://www.curbed.com/2019/5/21/18632816/zero-emission-vehicles-act-ban-cars
+  countries:
+  - us
+  categories:
+  - politics
+  description: Nearly every economist who has seriously studied climate change has concluded that a carbon fee needs to be a big part of the solution
+
+- title: Support any politician proposing a carbon tax
+  url: https://www.whitehouse.senate.gov/news/release/whitehouse-schatz-heinrich-gillibrand-introduce-updated-carbon-fee
+  countries:
+  - us
+  categories:
+  - politics
+  description: Nearly every economist who has seriously studied climate change has concluded that a carbon fee needs to be a big part of the solution
+
+- title: Our Children's Trust
+  url: https://www.ourchildrenstrust.org/
+  countries:
+  - au
+  - be
+  - ca
+  - co
+  - gb
+  - fr
+  - in
+  - nl
+  - no
+  - pk
+  - ph
+  - ug
+  - ua
+  categories:
+  - politics
+  description: Leading the game-changing, youth-driven, global climate recovery campaign to secure the legal right to a stable climate and healthy atmosphere.
+
+- title: Get Trump Out of Office
+  url: https://www.nytimes.com/interactive/2019/climate/trump-environment-rollbacks.html
+  countries:
+  - us
+  categories:
+  - politics
+  description: U.S. President Donald Trump is actively fighting to destroy the environment as quickly as possible. Here are 85 rules he is rolling back, plus he has replaced the EPA [with a bunch of industrial pollution lobbyists](https://www.environmentalintegrity.org/trump-watch-epa/whos-running-trumps-epa/) and he [doesn't think sea level rise is an issue](https://qz.com/1054418/trump-executive-order-the-white-house-doesnt-think-sea-level-rise-is-important-to-us-infrastructure/).
+
 - title: Arbour Day Foundation
   url: https://www.arborday.org/
   categories:
@@ -147,6 +199,7 @@
   url: https://www.formghana.com/
   categories:
   - reforestation
+  countries: [gh]
   description: A forest plantation management company based in central Ghana that provides services in the field of reforestation of degraded Forest Reserves and plantation management.
 
 - title: Form International

@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Awesome.Earth`,
+    title: `Awesom.Earth`,
     siteUrl: `https://www.awesom.earth`,
     description: `The world is simultaneously underwater and on fire, and people want to know what they can do about it. This site is full of resources, services, products and ideas you can use to be awesome to the earth.`,
   },
