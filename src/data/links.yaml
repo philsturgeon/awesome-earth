@@ -131,11 +131,35 @@
   - green-energy
   description: UK based renewable energy company. 100% Renewable Electricity & 100% Carbon Neutral Gas.
 
+- title: Arbour Day Foundation
+  url: https://www.arborday.org/
+  categories:
+  - reforestation
+  description: The Arbor Day Foundation is a 501(c)(3) nonprofit conservation and education organization. A million members, donors, and partners support our programs to make our world greener and healthier.
+
 - title: Eden Reforestation Projects
   url: https://edenprojects.org/
   categories:
   - reforestation
-  description: Eden Reforestation projects reduces extreme poverty and restores healthy forests by employing local villagers to plant millions of trees every year.
+  description: Eden Reforestation Projects reduces extreme poverty and restores healthy forests by employing local villagers to plant millions of trees every year.
+
+- title: Form Ghana
+  url: https://www.formghana.com/
+  categories:
+  - reforestation
+  description: A forest plantation management company based in central Ghana that provides services in the field of reforestation of degraded Forest Reserves and plantation management.
+
+- title: Form International
+  url: https://www.forminternational.nl/
+  categories:
+  - reforestation
+  description: Form International is a forest management and services company that manages forest assets in Africa and delivers a range of technical and financial services to clients worldwide.
+
+- title: Team Trees
+  url: https://teamtrees.com/
+  categories:
+  - reforestation
+  description: TeamTrees started in May 2019 when the internet challenged [Mr. Beast](https://twitter.com/MrBeastYT) to plant 20 million trees to commemorate hitting the 20M subscriber milestone. Fans then suggested he band together with a bunch of other YouTubers and influencers to make it happen. 
 
 - title: Treedom
   url: https://www.treedom.net/
@@ -143,11 +167,17 @@
   - reforestation
   description: Treedom lets you buy or gift a real tree, where somebody will plant it for you and follow it online. 
 
+- title: Trees for the Future
+  url: https://trees.org/
+  categories:
+  - reforestation
+  description: TREES plant all sorts of trees and plants, and nearly all of the trees we use are either native or naturalized in the environments where we plant them. We partner with farmers to understand their needs and match them with species that will suit their needs and be environmentally benign.
+
 - title: Tree-Nation
   url: https://tree-nation.com/projects
   categories:
   - reforestation
-  description: Discover the projects where you can start planting now.
+  description: Buy trees for you or your company, and get them planted all over the world.
 
 - title: Droneseed
   url: https://www.droneseed.co/
@@ -164,6 +194,7 @@
 - title: WeForest
   url: https://www.weforest.org/
   categories:
+  # - deforestation
   - reforestation
   description: Building upon corporate and scientific partnerships, WeForest empowers communities to sustainably advance and implement innovative, high standard, scalable and lasting solutions to restore forest landscapes.
 
