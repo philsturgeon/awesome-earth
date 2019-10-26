@@ -5,6 +5,7 @@ import slugify from "slugify"
 
 // Components
 import Carousel from "../components/carousel";
+import Fork from "../components/fork";
 import SEO from "../components/seo";
 
 // CSS
@@ -19,10 +20,10 @@ export default ({ data }) => {
 
   return (
     <>
+      <Fork />
       <SEO title="Welcome" />
       <div className="padding">
-        <h1>Awesom.Earth</h1>
-
+        <h1>{data.site.siteMetadata.title}</h1>
         <p>
           The world is simultaneously underwater and on fire, and people want to
           know what they can do about it. This site is full of resources, services,
@@ -53,6 +54,12 @@ export default ({ data }) => {
 
 export const pageQuery = graphql`
   query {
+    site {
+      siteMetadata {
+        title
+        siteUrl
+      }
+    }
     allMarkdownRemark(sort: {order: ASC, fields: frontmatter___title}) {
       edges {
         node {

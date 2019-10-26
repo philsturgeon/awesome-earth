@@ -1,9 +1,11 @@
 import React from "react"
 import ReactMarkdown from 'react-markdown/with-html'
 import slugify from "slugify"
+import { graphql } from 'gatsby'
 
 import Countries from "../countries"
 import SEO from "../components/seo"
+import Fork from "../components/fork"
 
 import "normalize.css"
 import "../styles/global.scss"
@@ -23,6 +25,7 @@ export default function Template({ data, pageContext: { category, html, links } 
   const seoImage = data.site.siteMetadata.siteUrl + category.image.publicURL;
   return (
     <>
+      <Fork />
       <SEO title={category.title} description="" keywords={[]} meta={[]} image={seoImage} />
       <div className="padding">
         <h1><a href="/">{data.site.siteMetadata.title}</a></h1>
