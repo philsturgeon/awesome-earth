@@ -12,10 +12,10 @@ legislation, subsidies, taxes, and prosecution, but they won't bother unless we
 make a lot of noise. Many elected officials are busy focusing on re-election,
 personal enrichment, or [just don't really care](https://www.nbcnews.com/politics/congress/senators-launch-bipartisan-climate-change-initiative-n1070286).
 
-Demanding action for the climate crisis can come in many forms, and you can use some of the links in this section to get ideas for what to ask your politicians to work on. Call them up, email, whatever you need to do.
+The whole idea of a democracy is that politicans are responsible for enacting the will of the people. This doesn't always happen, but participating in the process will not hurt. Use these links to find out how to talk to your politicians.
 
 - 🇺🇸 [Senators](https://www.senate.gov/senators/How_to_correspond_senators.htm) / [Representatives](https://www.house.gov/representatives/find-your-representative)
 - 🇬🇧 [Members of Parliament](https://www.parliament.uk/get-involved/contact-your-mp/)
 - _Please [add more ways](https://github.com/philsturgeon/awesome-earth/edit/master/src/categories/politics.md) to contact politicians around the world_
 
-If they won't commit to fast, effective and immediate action to resolve the climate crisis, we will [sue the government](https://www.ourchildrenstrust.org/). It [worked in The Netherlands](https://www.theguardian.com/environment/2018/oct/09/dutch-appeals-court-upholds-landmark-climate-change-ruling), and legal action is underway in various stages with governments all around the world!
+Use the links in this section as a basis for demanding action. If they won't commit to fast, effective and immediate action to resolve the climate crisis, we will [sue the government](https://www.ourchildrenstrust.org/). It [worked in The Netherlands](https://www.theguardian.com/environment/2018/oct/09/dutch-appeals-court-upholds-landmark-climate-change-ruling), and legal action is underway in various stages with governments all around the world!
