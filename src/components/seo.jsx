@@ -3,9 +3,11 @@ import Helmet from "react-helmet";
 import PropTypes from "prop-types";
 import { useStaticQuery, graphql } from "gatsby";
 
+import favicon from '../images/globe.png';
+
 const SEO = ({ title, description, keywords, meta, image }) => {
   const { site: { siteMetadata } } = useStaticQuery(
-    graphql`
+      graphql`
       query {
         site {
           siteMetadata {
@@ -62,12 +64,15 @@ const SEO = ({ title, description, keywords, meta, image }) => {
   ].concat(meta);
 
   return (
-    <Helmet
-      htmlAttributes={{lang: 'en'}}
-      title={title}
-      titleTemplate={`%s | ${siteMetadata.title}`}
-      meta={metaTags}
-    />
+      <Helmet
+          htmlAttributes={{lang: 'en'}}
+          title={title}
+          titleTemplate={`%s | ${siteMetadata.title}`}
+          meta={metaTags}
+          link={[
+            { rel: 'shortcut icon', type: 'image/png', href: `${favicon}` }
+          ]}
+      />
   )
 };
 
