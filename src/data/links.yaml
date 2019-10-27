@@ -148,12 +148,20 @@
   description: HM Revenue and Customs (HMRC) is set to increase VAT from 5% to 20% for the installation of a number of renewable and sustainable energy sources, such as solar panels from 1st October.
 
 - title: "U.K. Petition: Ban Open Fridges / freezers in Retail Outlets"
-  url: https://petition.parliament.uk/petitions/260903
+  url: https://petition.parliament.uk/petitions/261092
   countries:
   - gb
   categories:
   - politics
   description: Retailers in the United Kingdom unnecessarily waste huge amounts of energy on open fridges and freezers. Climate change threatens our planet. If all supermarkets had doors on their fridges and freezers it would save energy the equivalent of the entire residential population of Poland.
+
+- title: "U.K. Petition: Cease all new developments on Greenbelt and Greenfield sites"
+  url: https://petition.parliament.uk/petitions/267197
+  countries:
+  - gb
+  categories:
+  - politics
+  description: Government housing policy is forcing councils to meet aggressive house building targets. This directly causes new developments on Greenbelt & Greenfield. Many councils believe the targets are unrealistic. According to CPRE 460,000 homes are currently planned for greenbelt & greenfield sites.
 
 - title: U.S. Gas-powered car free by 2040
   url: https://www.curbed.com/2019/5/21/18632816/zero-emission-vehicles-act-ban-cars
