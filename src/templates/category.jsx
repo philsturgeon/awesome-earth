@@ -22,7 +22,7 @@ export const query = graphql`
 `;
 
 export default function Template({ data, pageContext: { category, html, links } }) {
-  const seoImage = data.site.siteMetadata.siteUrl + category.image.publicURL;
+  const seoImage = data.site.siteMetadata.siteUrl + category.image.twitterCard.fixed.src;
   return (
     <>
       <Fork />

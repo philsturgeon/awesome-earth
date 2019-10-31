@@ -30,7 +30,11 @@ exports.createPages = async ({ graphql, actions }) => {
             frontmatter {
               title
               image {
-                publicURL
+                twitterCard: childImageSharp {
+                  fixed(quality: 100) {
+                    src
+                  }
+                }
               }
             }
             fields {
