@@ -131,13 +131,13 @@
   - green-energy
   description: UK based renewable energy company. 100% Renewable Electricity & 100% Carbon Neutral Gas.
 
-- title: U.K. Electric Car Target Needs To Be Sooner
-  url: https://www.bbc.com/news/science-environment-48097150
+- title: "U.K. Petition: Ban sale of new petrol / diesel cars by 2025"
+  url: https://petition.parliament.uk/petitions/259383
   countries:
   - gb
   categories:
   - politics
-  description: The UK government's plan to ban the sale of new conventional petrol and diesel cars by 2040 is too tame, and the date should be rolled forward.
+  description: The UK government's plan to ban the sale of petrol and diesel cars by 2040 is too tame, and the date [should be rolled forward](https://www.bbc.com/news/science-environment-48097150).
 
 - title: "U.K. Petition: Stop VAT Increases for Renewable Energy Sources"
   url: https://petition.parliament.uk/petitions/260903
@@ -170,6 +170,14 @@
   categories:
   - politics
   description: Federal legislation was proposed in both the House of Representatives and the Senate that could radically shift the way the U.S. tackles its climate crisis. The Zero-Emission Vehicles Act would eliminate the sale of gas-powered passenger cars in the U.S. by 2040.
+
+- title: U.S. Save the "Clean Power Plan"
+  url: https://www.nrdc.org/save-clean-power-plan
+  countries:
+  - us
+  categories:
+  - politics
+  description: Fossil-fueled power plants are responsible for nearly 40 percent of America’s carbon footprint. The Clean Power Plan calls for setting limits on this climate-warming pollution from these power plants, specifically at least 32 percent by 2030, compared to 2005 levels. By 2030, the Clean Power Plan could save the United States $20 billion in climate-related costs and deliver up to $34 billion in health benefits.
 
 - title: Support politicians proposing a carbon tax
   url: https://www.whitehouse.senate.gov/news/release/whitehouse-schatz-heinrich-gillibrand-introduce-updated-carbon-fee
