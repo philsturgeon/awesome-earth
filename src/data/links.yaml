@@ -666,6 +666,12 @@
   - news
   description: Good and upworthy news covering big issues, 'making purpose contagious'.
 
+- title: David Bauer's Climate Crisis Collection
+  url: https://refind.com/davidbauer/climate-crisis
+  categories:
+  - news
+  description: How we got here, where we're headed and what we can do about it.
+
 - title: BBC.com Climate Change
   url: https://www.bbc.com/news/topics/cmj34zmwm1zt/climate-change
   categories:

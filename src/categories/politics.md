@@ -12,9 +12,9 @@ legislation, subsidies, taxes, and prosecution, but they won't bother unless we
 make a lot of noise. Many elected officials are busy focusing on re-election,
 personal enrichment, or [just don't really care](https://www.nbcnews.com/politics/congress/senators-launch-bipartisan-climate-change-initiative-n1070286).
 
-The whole idea of a democracy is that politicans are responsible for enacting the will of the people. This doesn't always happen, but participating in the process will not hurt. Use these links to find out how to talk to your politicians.
+The whole idea of a democracy is that politicians are responsible for enacting the will of the people. This doesn't always happen, but participating in the process [can make a huge difference](https://www.nrdc.org/onearth/good-news-public-lands-no-really). Use these links to find out how to talk to your politicians.
 
-- 🇺🇸 [Senators](https://www.senate.gov/senators/How_to_correspond_senators.htm) / [Representatives](https://www.house.gov/representatives/find-your-representative)
+- 🇺🇸 [Congress](https://www.nrdc.org/stories/how-call-congress) & [President Trump](https://www.nrdc.org/demand-climate-action)
 - 🇬🇧 [Members of Parliament](https://www.parliament.uk/get-involved/contact-your-mp/)
 - _Please [add more ways](https://github.com/philsturgeon/awesome-earth/edit/master/src/categories/politics.md) to contact politicians around the world_
 
