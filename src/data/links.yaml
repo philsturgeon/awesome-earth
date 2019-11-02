@@ -2,6 +2,8 @@
 # Agriculture https://seawatergreenhouse.com/
 # home improvement seawater? https://www.elementalwatermakers.com/
 # French food chain https://comerso.fr/ and https://wearephenix.com/
+# bioremediation for land management
+# cpr land designation
 
 - title: GreenMovi
   url: https://www.greenmovi.com.br
@@ -412,8 +414,17 @@
   url: https://www.droneseed.co/
   categories:
     - reforestation
-  tags: ["business", "local-authorities"]
+    - land-management
+  tags: ["business", "local-authorities", "land-owners"]
   description: They plant native trees & vegetation using drone swarms and spray to protect them. Provide valuable insights to customers by collecting data in the field. Work with Governments, nonprofits, and private land owners as a service provider.
+
+- title: Dronecoria
+  url: http://dronecoria.org/
+  categories:
+    - reforestation
+    - land-management
+  tags: ["business", "local-authorities", "land-owners"]
+  description: Open-source drone reforestation technology. Drones, coupled with native coated seeds, can transform the efficiency with which we restore ecosystems.
 
 - title: Land Life Company
   url: https://landlifecompany.com/
@@ -973,7 +984,7 @@
   categories:
     - home-improvements
     - renewable-energy
-  tags: ["homeowner"]
+  tags: ["home-owner"]
   description: You could get money towards renewable heating costs in your home. You can claim for biomass boilers, solar water heating, heat pumps. Payments are made for 7 years and are based on the amount of renewable heat made by your heating system.
 
 - title: "Non-domestic Renewable Heat Incentive (RHI)"
@@ -988,14 +999,14 @@
   url: https://www.hamwells.com/
   categories:
     - home-improvements
-  tags: ["homeowner"]
+  tags: ["home-owner"]
   description: Shower systems that utilize heat exchangers to recapture heat and filtered pumps to recycle water up to 7 times before it is drained, thus significantly reducing water usage and energy consumption.
 
 - title: Nebia Showers
   url: https://nebia.com/
   categories:
     - home-improvements
-  tags: ["homeowner"]
+  tags: ["home-owner"]
   description: Nebia is proud to offer products that transform your mundane shower routine into a ritual, and also contribute to preserving the planet.
 
 - title: Regency Wood Stove Fireplace Inserts
@@ -1003,28 +1014,28 @@
   countries: [us]
   categories:
     - home-improvements
-  tags: ["homeowner"]
+  tags: ["home-owner"]
   description: If solar heating is not an option, wood stove inserts can update your drafty, open wood fireplace. They'll send less heat out the chimney, and more heat around your house, drastically improving your wood burning efficiency. They pump the smoke back into the fire to burn that off too, which sends less crap into the atmosphere. Try to use [coffee logs](https://www.bio-bean.com/elements/coffee-logs-and-retailers/) instead of wood.
 
 - title: Solar Water Heaters
   url: https://www.energy.gov/energysaver/water-heating/solar-water-heaters
   categories:
     - home-improvements
-  tags: ["homeowner"]
+  tags: ["home-owner"]
   description: Solar hot water systems capture thermal energy from the sun and use it to heat water for your home. Systems can either be passive or active – while passive systems use gravity and natural circulation, active systems use pumps and controls to circulate water.
 
 - title: Environmentally Friendly Roof Insulation
   url: https://www.greenlivingtips.com/articles/environmentally-friendly-roof-insulation.html
   categories:
     - home-improvements
-  tags: ["homeowner"]
+  tags: ["home-owner"]
   description: However you heat your home, make sure you aren't leaking heat through insufficient insulation, and save money.
 
 - title: EPA's Responsible Appliance Disposal
   url: https://www.epa.gov/rad
   categories:
     - home-improvements
-  tags: ["homeowner"]
+  tags: ["home-owner"]
   countries: [us]
   description: RAD is a voluntary partnership program that works with utilities, retailers, manufacturers, state and local government agencies, affiliates, and others to dispose of old refrigerated appliances using the best environmental practices available.
 
@@ -1032,7 +1043,7 @@
   url: https://en.wikipedia.org/wiki/Solar_thermal_energy
   categories:
     - home-improvements
-  tags: ["homeowner"]
+  tags: ["home-owner"]
   description: Solar thermal technology can be used for cooking, heating your home through radiant floors, radiators, or forced air. It can be used to heat water directly for hot showers too.
 
 - title: PlanetCare microfibre laundry filters
@@ -1046,14 +1057,14 @@
   url: https://sense.com/
   categories:
     - home-improvements
-  tags: ["homeowner"]
+  tags: ["home-owner"]
   description: Sense is a home energy monitor that gives real-time insight into your home’s energy usage. Sense gives people the knowledge they need to reduce their energy costs and usage, with profound effects on the environment- the company estimates that its users are saving a total of 53 million pounds of CO2 annually.
 
 - title: Rigo Paint made from flax
   url: https://www.rigoverffabriek.nl/
   categories:
     - home-improvements
-  tags: ["homeowner", "business"]
+  tags: ["home-owner", "business"]
   description: Check out their Aquamarine line oil paint and RigoStep water-based paints.  Their oil paints depend on locally grown flax, which is heated and pressed by traditional windmills to extract the oil. Once mixed with other solvents, this forms the liquid base for the paint.
 
 - title: NY State Home Energy Assessment tool
@@ -1061,7 +1072,7 @@
   countries: [us]
   categories:
     - home-improvements
-  tags: ["homeowner"]
+  tags: ["home-owner"]
   description: Get a home energy audit and receive tools, resources, and aid to upgrade your home to be more energy efficient.
 
 - title: EnergyStar.gov
@@ -1069,7 +1080,7 @@
   countries: [us]
   categories:
     - home-improvements
-  tags: ["homeowner", "business"]
+  tags: ["home-owner", "business"]
   description: Energy efficiency ratings, suppliers, and tax credits for products, homes, utilities, and local governments.  ENERGY STAR is the government-backed symbol for energy efficiency, providing simple, credible, and unbiased information that consumers and businesses rely on to make well-informed decisions.
 
 - title: Carbon Brief
@@ -1262,7 +1273,8 @@
   countries:
     - nl
   tags: [zero-waste]
-  description: Your groceries, delivered without packaging. Pieter Pot delivers your groceries with a cargo bike in beautiful glass jars in The Netherlands. Empty pot? Then we fill it again. This is how we make it fun and easy to do shopping without all those unnecessary (plastic) packaging. That's nice, right?
+  description: >-
+    Your groceries, delivered without packaging. Pieter Pot delivers your groceries with a cargo bike in beautiful glass jars in The Netherlands. Empty pot? Then we fill it again. This is how we make it fun and easy to do shopping without all those unnecessary (plastic) packaging. That's nice, right?
 
 - title: The Crappy Planet - Bamboo Toilet Paper
   url: https://www.thecrappyplanet.com/
@@ -1274,7 +1286,8 @@
     - be
     - lu
   tags: [zero-waste]
-  description: The use of bamboo significantly reduces deforestation. According to the EPA, one hardwood tree produces approximately 45 kg of toilet paper and about 83 million toilet rolls are produced every day. Bamboo toilet paper production requires less energy, one-fifth of the water, produces considerably more fiber on less land area, generates 30-35% more oxygen than other plants and trees, and it reduces the amount of carbon dioxide by about the same amount.  In addition, the production process requires that water and other materials are collected, reused and recycled. Finally, we invest 25% of our profits to stop deforestation and global warming.
+  description: >-
+    The use of bamboo significantly reduces deforestation. According to the EPA, one hardwood tree produces approximately 45 kg of toilet paper and about 83 million toilet rolls are produced every day. Bamboo toilet paper production requires less energy, one-fifth of the water, produces considerably more fiber on less land area, generates 30-35% more oxygen than other plants and trees, and it reduces the amount of carbon dioxide by about the same amount.  In addition, the production process requires that water and other materials are collected, reused and recycled. Finally, we invest 25% of our profits to stop deforestation and global warming.
 
 - title: Vegware
   url: https://vegware.co.uk/
@@ -1282,4 +1295,50 @@
     - zero-waste
   countries: [gb]
   tags: [business]
-  description: Napkins, carrier bags, salad boxes,sushi trays, cutlery, disposable coffee cups, all made from plants using renewable, lower carbon, recycled or reclaimed materials, and designed to be commercially compostable with food waste, where accepted.
+  description: >-
+    Napkins, carrier bags, salad boxes,sushi trays, cutlery, disposable coffee cups, all made from plants using renewable, lower carbon, recycled or reclaimed materials, and designed to be commercially compostable with food waste, where accepted.
+
+- title: Natural Resources Conservation Service (NRCS)
+  url: https://www.nrcs.usda.gov/
+  categories:
+    - land-management
+  countries: [us]
+  tags: [land-owner]
+  description: NRCS will pay you to steward your land, in ways you define. It offers voluntary programs to eligible landowners and agricultural producers to provide financial and technical assistance to help manage natural resources in a sustainable manner. Programs include emergency watershed protection and flood prevention, watershed rehabilitation, surveys and planning, healthy forest reserve easements, agricultural conservation easements, conservation stewardship, and environmental quality incentives.
+
+- title: Woodland Trust
+  url: https://www.woodlandtrust.org.uk/
+  categories:
+    - land-management
+    - volunteering
+  countries: [gb]
+  tags: [charity, land-owner]
+  description: >-
+    Creating new woodland is at the heart of what we do. We mobilise communities, landowners and volunteers to get trees in the ground, and aim to plant a tree for every person in the UK.
+
+- title: Farm Bot
+  url: https://farm.bot/
+  categories:
+    - land-management
+  tags: [home-owners, land-owner, food, farming]
+  description: >-
+    Farm Bot is a fully automated, open-source, crowd-funded project, which helps you grow food for yourself, your family, and your community. Install FarmBot on a raised bed, urban rooftop, or in a small greenhouse at home. Hyper-local food production has never been easier.
+
+- title: Permaculture Earthworks Handbook
+  url: https://permacultureearthworks.com/
+  categories:
+    - land-management
+  tags: [land-owner, landscaping, farming]
+  description: >-
+    A detailed guide to the proper design and construction of water harvesting earthworks. It covers the function, design, and construction methods for nine main types of water harvesting earthworks across a full range of climates. Free alternatives are an online course by [Permaculture Women](https://www.permaculturewomen.com/freepermaculturecourse.html), and a four-part documentary by [Geoff Lawton](https://www.geofflawtononline.com/).
+
+- title: Creating a Land Trust
+  url: https://conservationtools.org/guides/150-what-is-a-land-trust
+  countries: [us]
+  categories:
+    - land-management
+  tags: [land-owner, landscaping, land-trusts, conservation]
+  description: >-
+    A land trust is a charitable organization that acquires land or conservation easements, or that stewards land or easements, for conservation purposes. Land owners may consider designating portions of their land as a land trust, in order to preserve natural features in perpetuity, and be eligible for tax benefits as a result.
+
+# https://forest.stormconsultancy.com/

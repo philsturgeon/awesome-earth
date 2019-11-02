@@ -17,7 +17,11 @@ const useCases = [
     title: 'Business Owner',
   },
   {
-    tag: 'homeowner',
+    tag: 'home-owner',
+    title: 'Home Owner',
+  },
+  {
+    tag: 'land-owner',
     title: 'Home Owner',
   },
   {
