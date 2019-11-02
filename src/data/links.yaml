@@ -644,6 +644,13 @@
   - home-improvements
   description: However you heat your home, make sure you aren't leaking heat through insufficient insulation, and save money.
   
+- title: EPA's Responsible Appliance Disposal 
+  url: https://www.epa.gov/rad
+  categories:
+  - home-improvements
+  countries: [us]
+  description: RAD is a voluntary partnership program that works with utilities, retailers, manufacturers, state and local government agencies, affiliates, and others to dispose of old refrigerated appliances using the best environmental practices available.
+  
 - title: Solar Thermal Energy
   url: https://en.wikipedia.org/wiki/Solar_thermal_energy
   categories:

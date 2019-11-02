@@ -4,14 +4,14 @@ import { useStaticQuery, graphql } from "gatsby";
 import { Carousel } from "react-responsive-carousel";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 
-import Images from "../data/images.yaml";
+import Featured from "../data/featured.yaml";
 
 export default () => {
   const { allFile } = useStaticQuery(
     graphql`
       query {
         allFile(
-          sort: { fields: name, order: DESC }
+          sort: { fields: name, order: ASC }
           filter: {
             sourceInstanceName: { eq: "images" }
             absolutePath:{ regex: "/\/featured\//" }
@@ -46,13 +46,13 @@ export default () => {
       interval={5000}
     >
       {images.map(({ node }, index) => (
-        <a href={Images[index].href} title={Images[index].title} key={node.id}>
+        <a href={Featured[index].href} title={Featured[index].title} key={node.id}>
           <Img
             fluid={node.childImageSharp.fluid}
             alt={node.name}
           />
           <div className="cta-info-wrapper">
-            <h3>{Images[index].description}</h3>
+            <h3>{Featured[index].description}</h3>
           </div>
         </a>
       ))}
