@@ -1,12 +1,11 @@
 import React from "react";
-import { Link, graphql } from "gatsby"
-import BackgroundImage from 'gatsby-background-image'
-import slugify from "slugify"
+import { Link, graphql } from "gatsby";
+import BackgroundImage from "gatsby-background-image";
+import slugify from "slugify";
 
 // Components
 import Carousel from "../components/carousel";
-import Fork from "../components/fork";
-import SEO from "../components/seo";
+import Layout from "../components/layout";
 
 // CSS
 import "normalize.css";
@@ -20,34 +19,35 @@ export default ({ data }) => {
 
   return (
     <>
-      <Fork />
-      <SEO title="Welcome" />
-      <div className="padding">
-        <h1>{data.site.siteMetadata.title}</h1>
-        <p>
-          The world is simultaneously underwater and on fire, and people want to
-          know what they can do about it. This site is full of resources, services,
-          products and ideas you can use to be awesome to the earth.
-        </p>
-      </div>
+      <Layout title={data.site.siteMetadata.title}>
+        <div className="padding">
+          <p>
+            The world is simultaneously underwater and on fire, and people want
+            to know what they can do about it. This site is full of resources,
+            services, products and ideas you can use to be awesome to the earth.
+          </p>
+        </div>
 
-      <Carousel />
+        <Carousel />
 
-      <ul className="categories">
-        {categories.map(category => {
-          return (
-            <BackgroundImage
-              Tag="li"
-              className="category"
-              key={slugify(category.title)}
-              fluid={category.image.childImageSharp.fluid}
-              backgroundColor={`#040e18`}
-            >
-              <Link to={category.slug}><h2>{category.title}</h2></Link>
-            </BackgroundImage>
-          );
-        })}
-      </ul>
+        <ul className="categories">
+          {categories.map(category => {
+            return (
+              <BackgroundImage
+                Tag="li"
+                className="category"
+                key={slugify(category.title)}
+                fluid={category.image.childImageSharp.fluid}
+                backgroundColor={`#040e18`}
+              >
+                <Link to={category.slug}>
+                  <h2>{category.title}</h2>
+                </Link>
+              </BackgroundImage>
+            );
+          })}
+        </ul>
+      </Layout>
     </>
   );
 };
@@ -60,7 +60,7 @@ export const pageQuery = graphql`
         siteUrl
       }
     }
-    allMarkdownRemark(sort: {order: ASC, fields: frontmatter___title}) {
+    allMarkdownRemark(sort: { order: ASC, fields: frontmatter___title }) {
       edges {
         node {
           fields {
