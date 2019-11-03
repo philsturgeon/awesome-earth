@@ -19,7 +19,7 @@ export default ({ data }) => {
 
   return (
     <>
-      <Layout title={data.site.siteMetadata.title}>
+      <Layout title={data.site.siteMetadata.title} seoTitle="Welcome">
         <div className="padding">
           <p>
             The world is simultaneously underwater and on fire, and people want
