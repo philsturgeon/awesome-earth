@@ -58,14 +58,6 @@
   - carbon-reduction
   description: Track your daily carbon emissions from meals, travel, purchases, and more! Set goals to reduce your emissions and your impact on the planet. 
 
-# Removed until I can confirm some numbers. It seems to think flying is better than driving.
-# - title: AirCare
-#   url: https://air.care/
-#   icon: ✈️
-#   categories:
-#   - carbon-reduction
-#   description: Understand the impact of air travel and compensate for your emissions by supporting sustainable projects around the world. 
-
 - title: MyClimate
   url: https://myclimate.org/
   icon: 🇨🇭
@@ -78,6 +70,60 @@
   categories:
   - carbon-reduction
   description: Offset carbon emissions by purchasing verified carbon credits from a variety of certified, environmentally friendly projects.
+
+- title: Before the Flood
+  url: https://www.imdb.com/title/tt5929776/
+  categories:
+  - documentaries
+  description: A look at how climate change affects our environment and what society can do to prevent the demise of endangered species, ecosystems and native communities across the planet.
+
+- title: GasLand
+  url: https://www.imdb.com/title/tt1558250/
+  categories:
+  - documentaries
+  description: An exploration of the fracking petroleum extraction industry and the serious environmental consequences involved. 
+
+- title: GasLand Part II
+  url: https://www.imdb.com/title/tt2795078/
+  categories:
+  - documentaries
+  description: The gas industry's portrayal of natural gas as a clean and safe alternative to oil is a myth, and that fracked wells inevitably leak over time, contaminating water and air, hurting families, and endangering the earth's climate with the potent greenhouse gas methane.
+
+- title: The Coconut Revolution
+  url: https://www.imdb.com/title/tt0479000/
+  categories:
+  - documentaries
+  description:  This is the modern-day story of a native peoples' remarkable victory over Western Colonial power. A Pacific island rose up in arms against giant mining corporation Rio Tinto Zinc (RTZ) - and won despite a military occupation and blockade. 
+
+- title: Chasing Coral
+  url: https://www.imdb.com/title/tt6333054/
+  categories:
+  - documentaries
+  description: Coral reefs around the world are vanishing at an unprecedented rate. A team of divers, photographers and scientists set out on a thrilling ocean adventure to discover why and to reveal the underwater mystery to the world. 
+
+- title: Our Planet
+  url: https://www.imdb.com/title/tt9253866/
+  categories:
+  - documentaries
+  description:  Documentary series focusing on the breadth of the diversity of habitats around the world, from the remote Arctic wilderness and mysterious deep oceans to the vast landscapes of Africa and diverse jungles of South America. 
+
+- title: More than Honey
+  url: https://www.imdb.com/title/tt2263058/
+  categories:
+  - documentaries
+  description: An in-depth look at why bees, worldwide, are facing extinction. With the tenacity of a man out to solve a world-class mystery, he investigates this global phenomenon.
+
+- title: Tapped
+  url: https://www.imdb.com/title/tt1344784/
+  categories:
+  - documentaries
+  description: Examines the role of the bottled water industry and its effects on our health, climate change, pollution, and our reliance on oil. 
+
+- title: Virunga
+  url: https://www.imdb.com/title/tt3455224/
+  categories:
+  - documentaries
+  description: A team of brave individuals risk their lives to protect the last mountain gorillas. 
 
 - title: the Switch
   url: https://theswitch.co.uk/
@@ -324,6 +370,7 @@
   countries:
   - us
   description: Made from Plant Based (sugar cane) materials instead of fossil fuel.
+
 - title: Clean Cult
   url: https://cleancult.pvzi.net/qq4kq
   categories: 
