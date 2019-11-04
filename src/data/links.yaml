@@ -1,3 +1,7 @@
+# TODO http://www.solarcooker-at-cantinawest.com/gosun_stove.html
+# Agriculture https://seawatergreenhouse.com/
+# home improvement seawater? https://www.elementalwatermakers.com/
+# French food chain https://comerso.fr/ and https://wearephenix.com/
 
 - title: Offset Earth
   url: https://offset.earth/?r=5d01f2ed12ae7a358b75fdd7
@@ -177,13 +181,14 @@
   - green-energy
   description: UK based renewable energy company. 100% Renewable Electricity & 100% Carbon Neutral Gas.
 
-- title: "U.K. Petition: Ban sale of new petrol / diesel cars by 2025"
-  url: https://petition.parliament.uk/petitions/259383
-  countries:
-  - gb
-  categories:
-  - politics
-  description: The UK government's plan to ban the sale of petrol and diesel cars by 2040 is too tame, and the date [should be rolled forward](https://www.bbc.com/news/science-environment-48097150).
+# This expired but it needs to come back
+# - title: "U.K. Petition: Ban sale of new petrol / diesel cars by 2025"
+#   url: https://petition.parliament.uk/petitions/259383
+#   countries:
+#   - gb
+#   categories:
+#   - politics
+#   description: The UK government's plan to ban the sale of petrol and diesel cars by 2040 is too tame, and the date [should be rolled forward](https://www.bbc.com/news/science-environment-48097150).
 
 - title: "U.K. Petition: Stop VAT Increases for Renewable Energy Sources"
   url: https://petition.parliament.uk/petitions/260903
@@ -209,6 +214,14 @@
   - politics
   description: Government housing policy is forcing councils to meet aggressive house building targets. This directly causes new developments on Greenbelt & Greenfield. Many councils believe the targets are unrealistic. According to CPRE 460,000 homes are currently planned for greenbelt & greenfield sites.
 
+- title: No Fracking in Alaska’s Arctic Wildlife Refuge
+  url: https://act.nrdc.org/letter/welcome-arctic-190603
+  countries:
+  - us
+  categories:
+  - politics
+  description: Alaska’s Arctic National Wildlife Refuge is one of our last truly wild places — and it has been off-limits to oil companies for decades. But the Trump administration is closer than any administration in history to tearing open the Arctic Refuge for destructive oil and gas drilling.
+
 - title: U.S. Gas-powered car free by 2040
   url: https://www.curbed.com/2019/5/21/18632816/zero-emission-vehicles-act-ban-cars
   countries:
@@ -225,13 +238,13 @@
   - politics
   description: Fossil-fueled power plants are responsible for nearly 40 percent of America’s carbon footprint. The Clean Power Plan calls for setting limits on this climate-warming pollution from these power plants, specifically at least 32 percent by 2030, compared to 2005 levels. By 2030, the Clean Power Plan could save the United States $20 billion in climate-related costs and deliver up to $34 billion in health benefits.
 
-- title: Support politicians proposing a carbon tax
-  url: https://www.whitehouse.senate.gov/news/release/whitehouse-schatz-heinrich-gillibrand-introduce-updated-carbon-fee
+- title: Energy Innovation and Carbon Dividend Act
+  url: https://energyinnovationact.org/
   countries:
   - us
   categories:
   - politics
-  description: Nearly every economist who has seriously studied climate change has concluded that a carbon fee needs to be a big part of the solution
+  description: The Energy Innovation and Carbon Dividend Act (H.R. 763) will drive down America's carbon pollution and bring climate change under control, while unleashing American technology innovation and ingenuity. This policy was also introduced in the Senate in 2018 as S. 3791.
 
 - title: Our Children's Trust
   url: https://www.ourchildrenstrust.org/
