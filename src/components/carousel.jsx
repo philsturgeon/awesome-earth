@@ -14,7 +14,7 @@ export default () => {
           sort: { fields: name, order: ASC }
           filter: {
             sourceInstanceName: { eq: "images" }
-            absolutePath:{ regex: "/\/featured\//" }
+            absolutePath: { regex: "//featured//" }
             extension: { regex: "/(jpg)|(jpeg)|(png)/" }
           }
         ) {
@@ -46,11 +46,12 @@ export default () => {
       interval={5000}
     >
       {images.map(({ node }, index) => (
-        <a href={Featured[index].href} title={Featured[index].title} key={node.id}>
-          <Img
-            fluid={node.childImageSharp.fluid}
-            alt={node.name}
-          />
+        <a
+          href={Featured[index].href}
+          title={Featured[index].title}
+          key={node.id}
+        >
+          <Img fluid={node.childImageSharp.fluid} alt={node.name} />
           <div className="cta-info-wrapper">
             <h3>{Featured[index].description}</h3>
           </div>
