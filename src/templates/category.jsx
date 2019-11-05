@@ -19,7 +19,7 @@ export const query = graphql`
 
 export default function Template({
   data,
-  pageContext: { category, html, links },
+  pageContext: { category, html, excerpt, links },
 }) {
   const seoImage =
     data.site.siteMetadata.siteUrl + category.image.twitterCard.fixed.src;
@@ -29,6 +29,7 @@ export default function Template({
         title={data.site.siteMetadata.title}
         seoTitle={category.title}
         image={seoImage}
+        description={excerpt}
       >
         <div className="padding">
           <h2>{category.title}</h2>

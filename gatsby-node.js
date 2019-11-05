@@ -41,6 +41,7 @@ exports.createPages = async ({ graphql, actions }) => {
               slug
             }
             html
+            excerpt(pruneLength: 500)
           }
         }
       }
@@ -48,7 +49,7 @@ exports.createPages = async ({ graphql, actions }) => {
   `);
 
   await asyncForEach(result.data.allMarkdownRemark.edges, async ({ node }) => {
-    const { frontmatter, fields: { slug }, html } = node;
+    const { frontmatter, fields: { slug }, excerpt, html } = node;
 
     const linkResult = await graphql(`
       query {
@@ -73,7 +74,7 @@ exports.createPages = async ({ graphql, actions }) => {
     createPage({
       path: slug,
       component: path.resolve(`./src/templates/category.jsx`),
-      context: { category: frontmatter, html, links },
+      context: { category: frontmatter, excerpt, html, links },
     })
   });
 }

@@ -28,13 +28,27 @@ const formatAsMarkdown = links => {
   });
   
   sortedKeys = Object.keys(categorizedData).sort();
-  return sortedKeys.flatMap(category => {
-    const { title, links } = categorizedData[category];
-    return [`## ${title}\n`] + links.map(link => {
+
+  let outputArr = [
+    '## Contents'
+  ];
+
+  // Output Table of Contents  
+  outputArr = outputArr.concat(sortedKeys.map(category => {
+    const { title, key } = categorizedData[category];
+    return `- [${title}](#${key})`;
+  }));
+  
+  // Add the links for each category
+  outputArr = outputArr.concat(sortedKeys.flatMap(category => {
+    const { title, key, links } = categorizedData[category];
+    return [`## ${title} <a id="${key}" name="${key}"></a>\n`] + links.map(link => {
       const { title, url, description } = link;
       return `- [${title}](${url}) - ${description}`;
-    }).sort().join('\n');
-  }).join('\n');
+    }).sort().join("\n");
+  }));
+
+  return outputArr.join('\n');
 }
 
 const startCursor = '<!-- links:start -->';

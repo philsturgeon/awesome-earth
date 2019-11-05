@@ -4,12 +4,12 @@ import React from "react";
 import Fork from "./fork";
 import SEO from "./seo";
 
-export default ({ title, seoTitle, image, children }) => {
+export default ({ title, seoTitle, image, description, children }) => {
   return (
     <>
       <SEO
         title={seoTitle}
-        description=""
+        description={description}
         keywords={[]}
         meta={[]}
         image={image}
