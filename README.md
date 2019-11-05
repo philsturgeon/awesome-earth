@@ -27,8 +27,6 @@ The world is simultaneously underwater and on fire, and people want to know what
 - [Tapped](https://www.imdb.com/title/tt1344784/) - Examines the role of the bottled water industry and its effects on our health, climate change, pollution, and our reliance on oil.
 - [The Coconut Revolution](https://www.imdb.com/title/tt0479000/) - This is the modern-day story of a native peoples' remarkable victory over Western Colonial power. A Pacific island rose up in arms against giant mining corporation Rio Tinto Zinc (RTZ) - and won despite a military occupation and blockade.
 - [Virunga](https://www.imdb.com/title/tt3455224/) - A team of brave individuals risk their lives to protect the last mountain gorillas.
-## Green Energy
-- [Bulb](https://www.bulb.co.uk) - UK based renewable energy company. 100% Renewable Electricity & 100% Carbon Neutral Gas.
 ## Home Improvements
 - [EPA's Responsible Appliance Disposal](https://www.epa.gov/rad) - RAD is a voluntary partnership program that works with utilities, retailers, manufacturers, state and local government agencies, affiliates, and others to dispose of old refrigerated appliances using the best environmental practices available.
 - [Environmentally Friendly Roof Insulation](https://www.greenlivingtips.com/articles/environmentally-friendly-roof-insulation.html) - However you heat your home, make sure you aren't leaking heat through insufficient insulation, and save money.
@@ -71,6 +69,7 @@ The world is simultaneously underwater and on fire, and people want to know what
 - [Trees for the Future](https://trees.org/) - TREES plant all sorts of trees and plants, and nearly all of the trees we use are either native or naturalized in the environments where we plant them. We partner with farmers to understand their needs and match them with species that will suit their needs and be environmentally benign.
 - [WeForest](https://www.weforest.org/) - Building upon corporate and scientific partnerships, WeForest empowers communities to sustainably advance and implement innovative, high standard, scalable and lasting solutions to restore forest landscapes.
 ## Renewable Energy
+- [Bulb](https://www.bulb.co.uk) - UK based renewable energy company. 100% Renewable Electricity & 100% Carbon Neutral Gas.
 - [Carbon Intensity API](https://carbonintensity.org.uk/) - This officially backed open API from Oxford University and the National Grid ESO gives a snapshot of how much carbon each unit of electricity consumed in the UK emits for every half hour. Also carries forecasts, regional breakdowns with some great charts and re-useable widgets. They also have an [APP!](https://www.cs.ox.ac.uk/people/alex.rogers/gridcarbon/)
 - [Electricity Map](https://www.electricitymap.org/) - A map showing the energy consumption, renewable penetration and carbon emissions from energy for many countries around the world. If you're country isn't covered you can contribute a data source.
 - [ElectricityInfo.org's Table of UK Energy Supplier Fuel Mixes](http://electricityinfo.org/fuel-mix-of-uk-domestic-electricity-suppliers/) - This useful table shows the different fuel mixes of all the UK electricity suppliers allowing you to easily find the companies that use a low carbon fuel mix.
