@@ -291,17 +291,32 @@ body {
     }
   }
 
-  a.country-list-item {
-    display: block;
+  .country-list-item {
+    color: #333;
+    font-size: 1em;
+    font-weight: 800;
     padding-left: .5rem;
     padding-right: .5rem;
     padding-top: 1.5rem;
     padding-bottom: 1.5rem;
     transition: background-color .15s ease;
+    border-bottom: 1px dashed black;
+    cursor: pointer;
 
     &:hover {
       background-color: #BBDBBA;
     }
+
+    &.disabled {
+      color: #888;
+      background-color: unset;
+      cursor: default;
+    }
+  }
+
+  .no-content-message {
+    margin-top: .5rem;
+    font-weight: 600;
   }
 }
 
