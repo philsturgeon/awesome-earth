@@ -20,6 +20,8 @@
 body {
   font-family: "Muli", sans-serif;
   background-image: linear-gradient(to top, #c1dfc4 0%, #deecdd 100%);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
   font-size: 18px;
 
   h1,
@@ -256,5 +258,58 @@ body {
   }
   .github-corner .octo-arm {
     animation: octocat-wave 560ms ease-in-out;
+  }
+}
+
+/* Select Your Country */
+.select-your-country {
+
+  max-width: 768px;
+  margin: 0 auto;
+
+  .header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid;
+
+    input {
+      border: 1px solid transparent;
+      width: 256px;
+      border-radius: .25rem;
+      padding-left: .5rem;
+      padding-right: .5rem;
+      padding-top: .5rem;
+      padding-bottom: .5rem;
+      line-height: 1;
+      appearance: none;
+
+      &:focus {
+        border-color: black;
+        outline: none;
+      }
+    }
+  }
+
+  a.country-list-item {
+    display: block;
+    padding-left: .5rem;
+    padding-right: .5rem;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    transition: background-color .15s ease;
+
+    &:hover {
+      background-color: #BBDBBA;
+    }
+  }
+}
+
+@media (max-width: 599px) {
+  .select-your-country {
+    .header {
+      display: block;
+      padding-bottom: 20px;
+    }
   }
 }
