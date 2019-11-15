@@ -1,4 +1,4 @@
-# Awesome Earth [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Buy us a tree](https://img.shields.io/badge/Buy%20me%20a%20tree-%F0%9F%8C%B3-lightgreen)](https://offset.earth/philsturgeon)
+# Awesome Earth [![Financial Contributors on Open Collective](https://opencollective.com/awesomeearth/all/badge.svg?label=financial+contributors)](https://opencollective.com/awesomeearth) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Buy us a tree](https://img.shields.io/badge/Buy%20me%20a%20tree-%F0%9F%8C%B3-lightgreen)](https://offset.earth/philsturgeon)
 
 The world is simultaneously underwater and on fire, and people want to know what they can do about it. [Awesome Earth](https://awesom.earth/) is full of resources, services, products and ideas you can use to be awesome to the earth.
 
@@ -146,6 +146,36 @@ The world is simultaneously underwater and on fire, and people want to know what
 ## Contributing
 
 This README is just a rendering of the data in `src/data`, and this data is powered by contributions. We're trying to learn about projects from all over the world, so please [contribute ideas](CONTRIBUTING.md)! 
+
+## Contributors
+
+### Code Contributors
+
+This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
+<a href="https://github.com/philsturgeon/awesome-earth/graphs/contributors"><img src="https://opencollective.com/awesomeearth/contributors.svg?width=890&button=false" /></a>
+
+### Financial Contributors
+
+Become a financial contributor and help us sustain our community. [[Contribute](https://opencollective.com/awesomeearth/contribute)]
+
+#### Individuals
+
+<a href="https://opencollective.com/awesomeearth"><img src="https://opencollective.com/awesomeearth/individuals.svg?width=890"></a>
+
+#### Organizations
+
+Support this project with your organization. Your logo will show up here with a link to your website. [[Contribute](https://opencollective.com/awesomeearth/contribute)]
+
+<a href="https://opencollective.com/awesomeearth/organization/0/website"><img src="https://opencollective.com/awesomeearth/organization/0/avatar.svg"></a>
+<a href="https://opencollective.com/awesomeearth/organization/1/website"><img src="https://opencollective.com/awesomeearth/organization/1/avatar.svg"></a>
+<a href="https://opencollective.com/awesomeearth/organization/2/website"><img src="https://opencollective.com/awesomeearth/organization/2/avatar.svg"></a>
+<a href="https://opencollective.com/awesomeearth/organization/3/website"><img src="https://opencollective.com/awesomeearth/organization/3/avatar.svg"></a>
+<a href="https://opencollective.com/awesomeearth/organization/4/website"><img src="https://opencollective.com/awesomeearth/organization/4/avatar.svg"></a>
+<a href="https://opencollective.com/awesomeearth/organization/5/website"><img src="https://opencollective.com/awesomeearth/organization/5/avatar.svg"></a>
+<a href="https://opencollective.com/awesomeearth/organization/6/website"><img src="https://opencollective.com/awesomeearth/organization/6/avatar.svg"></a>
+<a href="https://opencollective.com/awesomeearth/organization/7/website"><img src="https://opencollective.com/awesomeearth/organization/7/avatar.svg"></a>
+<a href="https://opencollective.com/awesomeearth/organization/8/website"><img src="https://opencollective.com/awesomeearth/organization/8/avatar.svg"></a>
+<a href="https://opencollective.com/awesomeearth/organization/9/website"><img src="https://opencollective.com/awesomeearth/organization/9/avatar.svg"></a>
 
 ## License
 
