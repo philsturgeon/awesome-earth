@@ -17,6 +17,15 @@
   src: url("fonts/Muli/Muli-Bold.ttf");
 }
 
+html, body, #___gatsby, #gatsby-focus-wrapper {
+  height: 100%;
+}
+
+#gatsby-focus-wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
 body {
   font-family: "Muli", sans-serif;
   background-image: linear-gradient(to top, #c1dfc4 0%, #deecdd 100%);
@@ -74,6 +83,10 @@ body {
     text-decoration: none;
     border-bottom: 1px dashed black;
   }
+}
+
+.content {
+  flex: 1 0 auto;
 }
 
 .padding {
@@ -327,4 +340,8 @@ body {
       padding-bottom: 20px;
     }
   }
+}
+
+footer {
+  flex-shrink: 0;
 }

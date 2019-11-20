@@ -2,12 +2,13 @@ import React, { useState } from "react";
 import { graphql } from "gatsby";
 import flag from "country-code-emoji";
 import Layout from "../components/layout";
+import CountryContext from "../context/country-context";
 
 export default ({ data }) => {
     const countries = require('i18n-iso-countries').getNames('en');
     const [searchTerm, setSearchTerm] = useState('');
 
-    const countriesWithContent = [... new Set(data.allLinksYaml.edges
+    const countriesWithContent = [...new Set(data.allLinksYaml.edges
       .map(({ node }) => node.countries)
       .filter(countryList => !! countryList)
       .flat(Infinity))]
@@ -21,32 +22,36 @@ export default ({ data }) => {
                     <input type="text" placeholder="Filter Countries" onChange={e => setSearchTerm(e.target.value.toLowerCase())} />
                 </div>
                 <div>
-                    {Object.keys(countries).filter(countryCode => countries[countryCode].toLowerCase().includes(searchTerm)).map(countryCode => {
-                        const countryHasContent = countriesWithContent.includes(countryCode)
+                    <CountryContext.Consumer>
+                        {({ setCountry }) => Object.keys(countries).filter(countryCode => countries[countryCode].toLowerCase().includes(searchTerm)).map(countryCode => {
+                            const countryHasContent = countriesWithContent.includes(countryCode);
+                            const countryFlag = flag(countryCode);
+                            const countryName = countries[countryCode];
 
-                        if (! countryHasContent) {
-                            return (
-                                <div className="country-list-item disabled" key={countryCode}>
-                                    {flag(countryCode)} {countries[countryCode]}
-                                    <div className="no-content-message">
-                                        <small>
-                                            We don't have any content for {countries[countryCode]}, yet. Why not {' '}
-                                            <a target="_blank" href="https://github.com/philsturgeon/awesome-earth/blob/master/CONTRIBUTING.md">
-                                                contribute something
-                                            </a>
-                                            ?
-                                        </small>
+                            if (! countryHasContent) {
+                                return (
+                                    <div className="country-list-item disabled" key={countryCode}>
+                                        {countryFlag} {countryName}
+                                        <div className="no-content-message">
+                                            <small>
+                                                We don't have any content for {countryName}, yet. Why not {' '}
+                                                <a target="_blank" href="https://github.com/philsturgeon/awesome-earth/blob/master/CONTRIBUTING.md" rel="noopener noreferrer">
+                                                    contribute something
+                                                </a>
+                                                ?
+                                            </small>
+                                        </div>
                                     </div>
-                                </div>
-                            )
-                        }
+                                );
+                            }
 
-                        return (
-                            <div className="country-list-item" key={countryCode}>
-                                {flag(countryCode)} {countries[countryCode]} &rarr;
-                            </div>
-                        )
-                    })}
+                            return (
+                                <div className="country-list-item" key={countryCode} onClick={() => setCountry({ code: countryCode, name: countryName })}>
+                                    {countryFlag} {countryName} &rarr;
+                                </div>
+                            );
+                        })}
+                    </CountryContext.Consumer>
                 </div>
             </div>
         </Layout>
