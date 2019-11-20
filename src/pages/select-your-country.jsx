@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { graphql } from "gatsby";
+import { graphql, navigate } from "gatsby";
 import flag from "country-code-emoji";
 import Layout from "../components/layout";
 import CountryContext from "../context/country-context";
@@ -46,7 +46,10 @@ export default ({ data }) => {
                             }
 
                             return (
-                                <div className="country-list-item" key={countryCode} onClick={() => setCountry({ code: countryCode, name: countryName })}>
+                                <div className="country-list-item" key={countryCode} onClick={() => {
+                                    setCountry({ code: countryCode, name: countryName });
+                                    navigate("/");
+                                }}>
                                     {countryFlag} {countryName} &rarr;
                                 </div>
                             );

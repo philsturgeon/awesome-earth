@@ -6,6 +6,7 @@ import SEO from "./seo";
 
 import CountryContext from "../context/country-context";
 import { Link } from "gatsby";
+import countries from "../countries";
 
 export default ({ title, seoTitle, image, description, children }) => {
   return (
@@ -29,10 +30,10 @@ export default ({ title, seoTitle, image, description, children }) => {
       <footer className="padding">
         <CountryContext.Consumer>
           {({ country }) => (
-            <>
-              <Link to="/select-your-country">Select Country</Link>
-              <div>{country.name}</div>
-            </>
+            <div className="change-country">
+              {country.name ? <><div className="current">{countries.fromAlpha2Code(country.code).emoji} {country.name}</div> <span>&middot;</span></> : null}
+              <Link to="/select-your-country" className="link">{country.name ? 'Change' : 'Select'} country</Link>
+            </div>
           )}
         </CountryContext.Consumer>
       </footer>
