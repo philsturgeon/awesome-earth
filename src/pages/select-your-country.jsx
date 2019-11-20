@@ -3,15 +3,15 @@ import { graphql, navigate } from "gatsby";
 import flag from "country-code-emoji";
 import Layout from "../components/layout";
 import CountryContext from "../context/country-context";
+import { flattenDeep } from "lodash";
 
 export default ({ data }) => {
     const countries = require('i18n-iso-countries').getNames('en');
     const [searchTerm, setSearchTerm] = useState('');
 
-    const countriesWithContent = [...new Set(data.allLinksYaml.edges
+    const countriesWithContent = flattenDeep([...new Set(data.allLinksYaml.edges
       .map(({ node }) => node.countries)
-      .filter(countryList => !! countryList)
-      .flat(Infinity))]
+      .filter(countryList => !! countryList))])
       .map(countryCode => countryCode.toUpperCase());
 
     return (
