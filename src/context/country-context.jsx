@@ -3,7 +3,7 @@ import React, { useState, createContext } from "react";
 const defaultCountry = {
     code: null,
     name: null,
-}
+};
 
 const CountryContext = createContext({
     country: defaultCountry,
@@ -12,14 +12,11 @@ const CountryContext = createContext({
 
 const CountryProvider = ({ children }) => {
 
-    const [country, _setCountry] = useState(defaultCountry);
-
-    const setCountry = newCountry => {
-        _setCountry(newCountry);
-    };
+    const [country, setCountry] = useState(defaultCountry);
+    const clearCountry = () => setCountry(defaultCountry);
 
     return (
-        <CountryContext.Provider value={{ country, setCountry }}>
+        <CountryContext.Provider value={{ country, setCountry, clearCountry }}>
             {children}
         </CountryContext.Provider>
     );
