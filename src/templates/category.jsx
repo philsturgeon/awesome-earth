@@ -6,6 +6,10 @@ import { graphql } from "gatsby";
 import Layout from "../components/layout";
 import Countries from "../countries";
 
+// CSS
+import "normalize.css";
+import "../styles/global.scss";
+
 export const query = graphql`
   query {
     site {
