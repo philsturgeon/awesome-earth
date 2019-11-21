@@ -75,6 +75,45 @@ exports.createPages = async ({ graphql, actions }) => {
       path: slug,
       component: path.resolve(`./src/templates/category.jsx`),
       context: { category: frontmatter, excerpt, html, links },
-    })
+    });
+  });
+
+  const allTags = await graphql(`
+    {
+      allLinksYaml {
+        tags: distinct(field: tags)
+      }
+    }
+  `);
+
+  await asyncForEach(allTags.data.allLinksYaml.tags, async tag => {
+    const linksForTag = await graphql(`
+      query {
+        allLinksYaml(
+          filter: {categories: {in: ["${tag.replace(/^\/|\/$/g, '')}"]}}
+          sort: {fields: title, order: ASC}
+        ) {
+          edges {
+            node {
+              title
+              url
+              description
+              countries
+            }
+          }
+        }
+      }
+    `);
+
+    const links = linksForTag.data.allLinksYaml.edges.map(edge => edge.node);
+
+    // The tag name with the dashes replaced with spaces and the first letter in each word capitalised.
+    const humanReadableTag = tag.split('-').map(word => word[0].toUpperCase() + word.slice(1)).join(' ');
+
+    createPage({
+      path: `/tags/${tag}`,
+      component: path.resolve(`./src/templates/tag.jsx`),
+      context: { tag: humanReadableTag, links },
+    });
   });
 }
