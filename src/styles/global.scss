@@ -325,6 +325,21 @@ body {
       background-color: unset;
       cursor: default;
     }
+
+    &.selected {
+      background-color: #BBDBBA;
+      cursor: auto;
+
+      small {
+        display: block;
+        margin-bottom: 8px;
+      }
+
+      a {
+        display: inline-block;
+        margin-top: 8px;
+      }
+    }
   }
 
   .no-content-message {
@@ -352,8 +367,8 @@ footer {
     align-items: center;
 
     span {
-      margin-left: 10px;
-      margin-right: 10px;
+      margin-left: 8px;
+      margin-right: 8px;
     }
   }
 }
