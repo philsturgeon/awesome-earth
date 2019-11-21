@@ -795,6 +795,12 @@
   categories: [volunteering]
   description: If you're in tech why not contribute your skills to open-source projects, like this website! If you can design, write JavaScript, CSS, HTML, maybe if you know anything about Gatsby, or if you can edit a YAML file to add more links, you can make various sorts of contributions to this resource.
 
+- title: Tree Folks
+  url: https://www.treefolks.org/volunteer/
+  categories: [volunteering]
+  countries: [us]
+  description: Tree planting and tree care events around Austin, Texas, from October to April.
+
 - title: Metabolic
   url: https://metabolic.nl/news
   categories:
