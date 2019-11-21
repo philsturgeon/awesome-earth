@@ -17,9 +17,20 @@
   src: url("fonts/Muli/Muli-Bold.ttf");
 }
 
+html, body, #___gatsby, #gatsby-focus-wrapper {
+  height: 100%;
+}
+
+#gatsby-focus-wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
 body {
   font-family: "Muli", sans-serif;
   background-image: linear-gradient(to top, #c1dfc4 0%, #deecdd 100%);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
   font-size: 18px;
 
   h1,
@@ -72,6 +83,10 @@ body {
     text-decoration: none;
     border-bottom: 1px dashed black;
   }
+}
+
+.content {
+  flex: 1 0 auto;
 }
 
 .padding {
@@ -256,5 +271,122 @@ body {
   }
   .github-corner .octo-arm {
     animation: octocat-wave 560ms ease-in-out;
+  }
+}
+
+/* Select Your Country */
+.select-your-country {
+
+  max-width: 768px;
+  margin: 0 auto;
+
+  .header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid;
+
+    input {
+      border: 1px solid transparent;
+      width: 256px;
+      border-radius: .25rem;
+      padding-left: .5rem;
+      padding-right: .5rem;
+      padding-top: .5rem;
+      padding-bottom: .5rem;
+      line-height: 1;
+      appearance: none;
+
+      &:focus {
+        border-color: black;
+        outline: none;
+      }
+    }
+  }
+
+  .country-list-item {
+    color: #333;
+    font-size: 1em;
+    font-weight: 800;
+    padding-left: .5rem;
+    padding-right: .5rem;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    transition: background-color .15s ease;
+    border-bottom: 1px dashed black;
+    cursor: pointer;
+
+    &:hover {
+      background-color: #BBDBBA;
+    }
+
+    &.disabled {
+      color: #888;
+      background-color: unset;
+      cursor: default;
+    }
+
+    &.selected {
+      background-color: #BBDBBA;
+      cursor: auto;
+
+      small {
+        display: block;
+        margin-bottom: 8px;
+      }
+
+      a {
+        display: inline-block;
+        margin-top: 8px;
+      }
+    }
+  }
+
+  .no-content-message {
+    margin-top: .5rem;
+    font-weight: 600;
+  }
+}
+
+@media (max-width: 599px) {
+  .select-your-country {
+    .header {
+      display: block;
+      padding-bottom: 20px;
+    }
+  }
+}
+
+footer {
+  flex-shrink: 0;
+  display: flex;
+  justify-content: flex-end;
+
+  .change-country {
+    display: flex;
+    align-items: center;
+
+    span {
+      margin-left: 8px;
+      margin-right: 8px;
+    }
+  }
+}
+
+.showing-links-for-country {
+  padding-top: 40px;
+  margin-bottom: -40px;
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+
+  h3 {
+    margin-bottom: 0;
+    margin-right: 10px;
+  }
+
+  span {
+    margin-left: 8px;
+    margin-right: 8px;
   }
 }
