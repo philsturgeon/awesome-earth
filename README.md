@@ -20,6 +20,7 @@ The world is simultaneously underwater and on fire, and people want to know what
 - [CarbonFund.org](https://carbonfund.org/) - Calculate your footprint based on flights, driving, shipping, and make tax-deductible donations to offset your emissions.
 - [Cloverly](https://cloverly.com/how-it-works) - Offset the carbon footprint of your customers' online transactions, with e-commerce plugins (Shopify, Magento, etc.)
 - [Cool Earth](https://www.coolearth.org/) - This charity was created to tackle climate change by reducing carbon emissions from rainforest loss.
+- [Ecoify](https://ecoify.org) - Browser plugin that prevents unnecessary queries for CO2 reduction and faster browsing.
 - [Ecosia](https://www.ecosia.org) - The search engine that plants trees. >50% of the ad revenue goes directly to planting trees.
 - [Gold Standard](https://www.goldstandard.org/take-action/offset-your-emissions) - Offset carbon emissions by purchasing verified carbon credits from a variety of certified, environmentally friendly projects.
 - [Leave Me Alone](https://leavemealone.app/save-the-planet/) - Emails contribute to 986,000 tonnes of CO2 being dumped into the atmosphere every day, that's 4g per email. Unsubscribe from unwanted subscription emails and reduce your carbon footprint.
