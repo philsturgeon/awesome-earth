@@ -30,10 +30,15 @@ export default ({ title, seoTitle, image, description, children }) => {
       <footer className="padding">
         <CountryContext.Consumer>
           {({ country }) => (
-            <div className="change-country">
-              {country.name ? <><div className="current">{countries.fromAlpha2Code(country.code).emoji} {country.name}</div> <span>&middot;</span></> : null}
-              <Link to="/select-your-country" className="link">{country.name ? 'Change' : 'Select'} country</Link>
-            </div>
+            <>
+              <div className="credits">
+                Maintained by <a href="https://twitter.com/philsturgeon">@philsturgeon</a> & <a href="https://twitter.com/jungledev">@jungledev</a>.
+              </div>
+              <div className="change-country">
+                {country.name ? <><span className="current">{countries.fromAlpha2Code(country.code).emoji} {country.name}</span> <span>&middot;</span></> : null}
+                <Link to="/select-your-country" className="link">{country.name ? 'Change' : 'Select'} country</Link>
+              </div>
+            </>
           )}
         </CountryContext.Consumer>
       </footer>

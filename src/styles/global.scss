@@ -360,17 +360,7 @@ body {
 footer {
   flex-shrink: 0;
   display: flex;
-  justify-content: flex-end;
-
-  .change-country {
-    display: flex;
-    align-items: center;
-
-    span {
-      margin-left: 8px;
-      margin-right: 8px;
-    }
-  }
+  justify-content: space-between;
 }
 
 .showing-links-for-country {
