@@ -148,10 +148,17 @@
   tags: ["documentaries"]
   description: A team of brave individuals risk their lives to protect the last mountain gorillas.
 
+- title: Community Power
+  url: https://communitypower.ie/
+  countries: [ie]
+  categories:
+  - renewable-energy
+  tags: ["renewable-energy"]
+  description: Ireland's first community owned electricity supplier which collaborates with Local Sustainable Energy Communities! Whether you are a household, community, business, public or private building, you can switch and buy your electricity from Community Power.
+
 - title: the Switch
   url: https://theswitch.co.uk/
-  countries:
-  - gb
+  countries: [gb]
   categories:
   - renewable-energy
   tags: ["renewable-energy"]
