@@ -21,6 +21,7 @@ The world is simultaneously underwater and on fire, and people want to know what
 - [Cloverly](https://cloverly.com/how-it-works) - Offset the carbon footprint of your customers' online transactions, with e-commerce plugins (Shopify, Magento, etc.)
 - [Cool Earth](https://www.coolearth.org/) - This charity was created to tackle climate change by reducing carbon emissions from rainforest loss.
 - [Ecosia](https://www.ecosia.org) - The search engine that plants trees. >50% of the ad revenue goes directly to planting trees.
+- [GreenMovi](https://www.greenmovi.com.br) - Application that incentive user to change vehicles that emit CO2 for another that not do that and generate one crypto coin for this users.
 - [Gold Standard](https://www.goldstandard.org/take-action/offset-your-emissions) - Offset carbon emissions by purchasing verified carbon credits from a variety of certified, environmentally friendly projects.
 - [Leave Me Alone](https://leavemealone.app/save-the-planet/) - Emails contribute to 986,000 tonnes of CO2 being dumped into the atmosphere every day, that's 4g per email. Unsubscribe from unwanted subscription emails and reduce your carbon footprint.
 - [Live Green](https://livegreen.io/) - Track your daily carbon emissions from meals, travel, purchases, and more! Set goals to reduce your emissions and your impact on the planet.
