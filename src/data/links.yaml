@@ -3,6 +3,15 @@
 # home improvement seawater? https://www.elementalwatermakers.com/
 # French food chain https://comerso.fr/ and https://wearephenix.com/
 
+- title: GreenMovi
+  url: https://www.greenmovi.com.br
+  countries:
+  - br
+  categories:
+  - carbon-reduction
+  tags: ["carbon-reduction"]
+  description: Application that incentive user to change vehicles that emit CO2 for another that not do that and generate one crypto coin for this users.
+  
 - title: Offset Earth
   url: https://offset.earth/?r=5d01f2ed12ae7a358b75fdd7
   countries:
