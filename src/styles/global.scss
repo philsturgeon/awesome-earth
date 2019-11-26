@@ -380,3 +380,25 @@ footer {
     margin-right: 8px;
   }
 }
+
+.flex {
+  display: flex;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.m-r-16 {
+  margin-right: 16px;
+}
+
+ul.social-links {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+
+  li:not(:last-child) {
+    display: inline-block;
+  }
+}

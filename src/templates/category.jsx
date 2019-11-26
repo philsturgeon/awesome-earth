@@ -6,6 +6,7 @@ import { graphql, Link } from "gatsby";
 import Layout from "../components/layout";
 import Countries from "../countries";
 import CountryContext from "../context/country-context";
+import SocialLinks from "../components/social-links";
 
 // CSS
 import "normalize.css";
@@ -24,7 +25,7 @@ export const query = graphql`
 
 export default function Template({
   data,
-  pageContext: { category, html, excerpt, links },
+  pageContext: { category, html, excerpt, links, slug },
 }) {
   const seoImage =
     data.site.siteMetadata.siteUrl + category.image.twitterCard.fixed.src;
@@ -44,7 +45,11 @@ export default function Template({
           return (
             <>
               <div className="padding">
-                <h2>{category.title}</h2>
+                <div className="flex items-center">
+                  <h2 className="m-r-16">{category.title}</h2>
+                  <SocialLinks text={`Check out ${category.title} links on Awesom.Earth:`} url={data.site.siteMetadata.siteUrl + slug} size={20} all
+                  />
+                </div>
                 <div dangerouslySetInnerHTML={{ __html: html }}></div>
                 {country.name !== null &&
                   <div className="showing-links-for-country">
@@ -78,6 +83,7 @@ export default function Template({
                           );
                         })}
                         <ReactMarkdown source={link.description} escapeHtml={false} />
+                        <SocialLinks text={`I found ${link.title} on Awesom.Earth!`} url={link.url} size={20} all />
                       </li>
                       : null}
                   </Fragment>

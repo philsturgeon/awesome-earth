@@ -74,7 +74,7 @@ exports.createPages = async ({ graphql, actions }) => {
     createPage({
       path: slug,
       component: path.resolve(`./src/templates/category.jsx`),
-      context: { category: frontmatter, excerpt, html, links },
+      context: { category: frontmatter, excerpt, html, links, slug },
     });
   });
 
