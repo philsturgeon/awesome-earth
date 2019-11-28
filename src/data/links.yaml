@@ -164,6 +164,13 @@
   tags: ["documentaries"]
   description: A great example of how a community can survive the oil apocalypse. Cubans were on the edge of starvation due to the oil crisis - the average Cuban lost 20 pounds. The Cuban people helped avert disaster from the bottom up by reclaiming land everywhere and began growing vegetables on them. Here we see the importance of recovering lost knowledge to ensure communal survival.
 
+- title: Garbage Warrior
+  url: http://www.garbagewarrior.com/
+  categories:
+  - documentaries
+  tags: ["documentaries"]
+  description: Imagine a home that heats itself, that provides its own water, hat grows its own food. Imagine that it needs no expensive technology, that it recycles its own waste, that it has its own power source. And now imagine that it can be built anywhere, by anyone, out of the things society throws away. Thirty years ago, architect Michael Reynolds imagined just such a home - then set out to build it. A visionary in the classic American mode, Reynolds has been fighting ever since to bring his concept to the public. He believes that in an age of ecological instability and impending natural disaster, his buildings can - and will - change the way we live. Shot over three years in the USA, India and Mexico, Garbage Warrior is a feature-length documentary film telling the epic story of maverick architect Michael Reynolds, his crew of renegade house builders from New Mexico, and their fight to introduce radically different ways of living.
+
 - title: Community Power
   url: https://communitypower.ie/
   countries: [ie]
@@ -172,7 +179,7 @@
   tags: ["renewable-energy"]
   description: Ireland's first community owned electricity supplier which collaborates with Local Sustainable Energy Communities! Whether you are a household, community, business, public or private building, you can switch and buy your electricity from Community Power.
 
-- title: the Switch
+- title: The Switch
   url: https://theswitch.co.uk/
   countries: [gb]
   categories:
