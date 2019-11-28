@@ -947,3 +947,31 @@
   - news
   tags: ["news"]
   description: Aggregations of climate change and action articles from various major news sources.
+
+- title: Green credit cad
+  url: https://www.bunq.com/link/upgrade-greencard
+  categories:
+    - reforestation
+    - sustainable-lifestyle
+  tags:
+    - reforestation
+    - sustainable-lifestyle
+  countries:
+    - nl
+  description: Dutch online-only bank with a credit card which plants trees for the money you spend.
+
+- title: Adidas Parley brand 
+  url: https://adidas.com/parley
+  categories:
+    - sustainable-lifestyle
+  tags:
+    - sustainable-lifestyle
+  description: Shoes, apparel and accessories made from recycled plastic recovered from the oceans.
+
+- title: Fully recyclable shoes
+  url: https://time.com/collection/best-inventions-2019/5733083/adidas-futurecraft-loop/
+  categories: 
+    - sustainable-lifestyle
+  tags: 
+    - sustainable-lifestyle
+  description: Pilot project from adidas introducing shoes and apparel which is 100% recyclable. You old shoes will be minced and reused to create a new pair.
