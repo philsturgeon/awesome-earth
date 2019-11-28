@@ -909,6 +909,13 @@
   tags: ["home-improvements"]
   description: Sense is a home energy monitor that gives real-time insight into your home’s energy usage. Sense gives people the knowledge they need to reduce their energy costs and usage, with profound effects on the environment- the company estimates that its users are saving a total of 53 million pounds of CO2 annually.
 
+- title: NY State Home Energy Assessment tool
+  url: https://stars.nyserdagreenny.org/
+  categories:
+  - home-improvements
+  tags: ["home-improvements"]
+  description: Get a home energy audit and receive tools, resources, and aid to upgrade your home to be more energy efficient.
+
 - title: The Guardian
   url: https://www.theguardian.com/uk/environment
   categories:
