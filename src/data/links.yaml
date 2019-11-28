@@ -101,6 +101,13 @@
   tags: ["carbon-reduction"]
   description: Measure you carbon footprint, learn how to reduce your consumption, offset your impact, communicate, and comply.
   
+- title: The US EPA's Carbon Footprint Calculator
+  url: https://www3.epa.gov/carbon-footprint-calculator/
+  categories:
+  - carbon-reduction
+  tags: ["carbon-reduction"]
+  description: The calculator estimates your footprint in three areas- home energy, transportation and waste. Everyone's carbon footprint is different depending on their location, habits, and personal choices.
+  
 - title: Before the Flood
   url: https://www.imdb.com/title/tt5929776/
   categories:
