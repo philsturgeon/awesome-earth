@@ -249,6 +249,13 @@
   tags: ["renewable-energy"]
   description: Humanitarian smart energy metering solution that purchases wasted unused electricity from utilities and resells it to hard-to-reach places and underserved markets, thus reducing overall energy consumption.
 
+- title: Green-E
+  url: https://www.green-e.org/
+  categories:
+  - renewable-energy
+  tags: ["renewable-energy"]
+  description: Find a renewable energy provider near you.  Green-e certified renewable energy and carbon offset products meet the most stringent environmental and consumer protection standards in North America. You can search below for certified green power and renewable energy certificate programs for your home or business, and carbon offset products to offset your emissions from activities like driving and flying. As a third-party certifier, Green-e® doesn't sell renewable energy or offsets, but offers these links to retailers that do.
+
 - title: Bulb
   url: https://www.bulb.co.uk
   countries:
