@@ -830,6 +830,13 @@
   tags: ["zero-waste"]
   description: An online application to exchange stuffs and food between people. Easily discuss, meet and give a second life to objects and food.  The more you give the more people trust you when you want to get something.
 
+- title: GrowNYC Food Scrap Collection Schedule
+  url: https://www.grownyc.org/compost/locations
+  categories:
+  - zero-waste
+  tags: ["zero-waste"]
+  description:  Interactive map with over 150 residential Food Scrap Drop-Off sites in NYC.
+
 - title: Hamwells Showers
   url: https://www.hamwells.com/
   categories:
