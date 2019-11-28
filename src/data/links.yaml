@@ -789,6 +789,13 @@
   tags: ["sustainable-lifestyle"]
   description: Fuck each other, not the planet. Condoms made of natural latex from sustainably managed rubber plantations in Malaysia.
 
+- title: Earth Hero
+  url: https://earthhero.com/
+  categories:
+  - sustainable-lifestyle
+  tags: ["sustainable-lifestyle"]
+  description: Our brands are made with better materials, cleaner production, a lower carbon footprint, higher quality, and with less waste. When you shop on EarthHero, you contribute to a better future for us all.
+
 - title: Go "Swaggless"
   url: https://twitter.com/lindybrandon/status/1131202229229314048
   categories:
@@ -1031,3 +1038,10 @@
   - news
   tags: ["news"]
   description: Aggregations of climate change and action articles from various major news sources.
+
+- title: Unwarming
+  url: https://blogs.ei.columbia.edu/category/climate/
+  categories:
+  - news
+  tags: ["news"]
+  description: News from the Earth Institute at Columbia University.  Columbia’s Earth Institute blends research in the physical and social sciences, education and practical solutions to help guide the world onto a path toward sustainability.
