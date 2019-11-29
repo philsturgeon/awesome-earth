@@ -94,6 +94,21 @@
   tags: ["carbon-reduction"]
   description: Offset carbon emissions by purchasing verified carbon credits from a variety of certified, environmentally friendly projects.
 
+- title: CarbonFootprint.com
+  url: https://www.carbonfootprint.com/
+  categories:
+  - carbon-reduction
+  tags: ["carbon-reduction"]
+  description: Measure you carbon footprint, learn how to reduce your consumption, offset your impact, communicate, and comply.
+  
+- title: The US EPA's Carbon Footprint Calculator
+  url: https://www3.epa.gov/carbon-footprint-calculator/
+  countries: [us]
+  categories:
+  - carbon-reduction
+  tags: ["carbon-reduction"]
+  description: The calculator estimates your footprint in three areas- home energy, transportation and waste. Everyone's carbon footprint is different depending on their location, habits, and personal choices.
+  
 - title: Before the Flood
   url: https://www.imdb.com/title/tt5929776/
   categories:
@@ -157,6 +172,34 @@
   tags: ["documentaries"]
   description: A team of brave individuals risk their lives to protect the last mountain gorillas.
 
+- title: "The Power of Community: How Cuba Survived Peak Oil"
+  url: https://www.imdb.com/title/tt0814275/
+  categories:
+  - documentaries
+  tags: ["documentaries"]
+  description: A great example of how a community can survive the oil apocalypse. Cubans were on the edge of starvation due to the oil crisis - the average Cuban lost 20 pounds. The Cuban people helped avert disaster from the bottom up by reclaiming land everywhere and began growing vegetables on them. Here we see the importance of recovering lost knowledge to ensure communal survival.
+
+- title: Garbage Warrior
+  url: http://www.garbagewarrior.com/
+  categories:
+  - documentaries
+  tags: ["documentaries"]
+  description: Imagine a home that heats itself, that provides its own water, hat grows its own food. Imagine that it needs no expensive technology, that it recycles its own waste, that it has its own power source. And now imagine that it can be built anywhere, by anyone, out of the things society throws away. Thirty years ago, architect Michael Reynolds imagined just such a home - then set out to build it. A visionary in the classic American mode, Reynolds has been fighting ever since to bring his concept to the public. He believes that in an age of ecological instability and impending natural disaster, his buildings can - and will - change the way we live. Shot over three years in the USA, India and Mexico, Garbage Warrior is a feature-length documentary film telling the epic story of maverick architect Michael Reynolds, his crew of renegade house builders from New Mexico, and their fight to introduce radically different ways of living.
+
+- title: Where the Heck is Donlin?
+  url: https://vimeo.com/64608183
+  categories:
+  - documentaries
+  tags: ["documentaries"]
+  description: Sited deep in the Bush of Southwestern Alaska, the Donlin Gold prospect is the largest proposed gold mine in Alaska's history. However, an overwhelming majority of Alaskan residents are unfamiliar with the details of it's development and implications. Noting the absence of available data, as well as the lack of awareness surrounding the proposal, Bjorn and Kim took on the ground-truth-trekking model of investigative research, and set out to explore some of the unanswered questions from the source. Completing a three-part, 1,000 mile human powered wilderness expedition through the proposed footprint of the mine, they engaged the people that they encountered on the subjects of perpetual waste storage, the significance of subsistence fisheries, the energy demands of a large-scale mine, and the challenges facing rural residents to name a few.
+
+- title: No Impact Man
+  url: https://www.imdb.com/title/tt1280011/
+  categories:
+  - documentaries
+  tags: ["documentaries"]
+  description: Follow the Manhattan-based Beavan family as they abandon their high consumption 5th Avenue lifestyle and try to live a year while making no net environmental impact.
+
 - title: Community Power
   url: https://communitypower.ie/
   countries: [ie]
@@ -165,7 +208,7 @@
   tags: ["renewable-energy"]
   description: Ireland's first community owned electricity supplier which collaborates with Local Sustainable Energy Communities! Whether you are a household, community, business, public or private building, you can switch and buy your electricity from Community Power.
 
-- title: the Switch
+- title: The Switch
   url: https://theswitch.co.uk/
   countries: [gb]
   categories:
@@ -213,6 +256,14 @@
   - renewable-energy
   tags: ["renewable-energy"]
   description: Humanitarian smart energy metering solution that purchases wasted unused electricity from utilities and resells it to hard-to-reach places and underserved markets, thus reducing overall energy consumption.
+
+- title: Green-E
+  url: https://www.green-e.org/
+  countries: [us]
+  categories:
+  - renewable-energy
+  tags: ["renewable-energy"]
+  description: Find a renewable energy provider near you.  Green-e certified renewable energy and carbon offset products meet the most stringent environmental and consumer protection standards in North America. You can search below for certified green power and renewable energy certificate programs for your home or business, and carbon offset products to offset your emissions from activities like driving and flying. As a third-party certifier, Green-e® doesn't sell renewable energy or offsets, but offers these links to retailers that do.
 
 - title: Bulb
   url: https://www.bulb.co.uk
@@ -646,6 +697,13 @@
   - gb
   description: UK leaders in electric vehicle charging with innovative solutions for homes, workplaces and commercial organisations.
 
+- title: Biking vs. Driving Calculator
+  url: https://bicycleuniverse.com/car-free-millionaire/
+  categories:
+  - transportation
+  tags: ["transportation"]
+  description: Riding your bike can make you a millionaire! You're paying more for your car than you think. A typical American who goes car-free for 35 years can save nearly a million dollars, even adjusted for inflation, and even if they pay for taxi, bus, and car-share trips often. Use the calculator to find how much you can save in your particular situation.
+
 - title: Algramo
   url: https://www.algramoalmacenes.com/
   categories:
@@ -733,6 +791,14 @@
   tags: ["sustainable-lifestyle"]
   description: Fuck each other, not the planet. Condoms made of natural latex from sustainably managed rubber plantations in Malaysia.
 
+- title: Earth Hero
+  url: https://earthhero.com/
+  countries: [us]
+  categories:
+  - sustainable-lifestyle
+  tags: ["sustainable-lifestyle"]
+  description: Our brands are made with better materials, cleaner production, a lower carbon footprint, higher quality, and with less waste. When you shop on EarthHero, you contribute to a better future for us all.
+
 - title: Go "Swaggless"
   url: https://twitter.com/lindybrandon/status/1131202229229314048
   categories:
@@ -795,6 +861,14 @@
   tags: ["zero-waste"]
   description: An online application to exchange stuffs and food between people. Easily discuss, meet and give a second life to objects and food.  The more you give the more people trust you when you want to get something.
 
+- title: GrowNYC Food Scrap Collection Schedule
+  url: https://www.grownyc.org/compost/locations
+  countries: [us]
+  categories:
+  - zero-waste
+  tags: ["zero-waste"]
+  description:  Interactive map with over 150 residential Food Scrap Drop-Off sites in NYC.
+
 - title: Hamwells Showers
   url: https://www.hamwells.com/
   categories:
@@ -802,13 +876,13 @@
   tags: ["home-improvements"]
   description: Shower systems that utilize heat exchangers to recapture heat and filtered pumps to recycle water up to 7 times before it is drained, thus significantly reducing water usage and energy consumption.
 
-- title: Regency Wood Inserts
+- title: Regency Wood Stove Fireplace Inserts
   url: https://www.regency-fire.com/en/Products/Wood/Wood-Inserts
   countries: [us]
   categories:
   - home-improvements
   tags: ["home-improvements"]
-  description: If solar heating is not an option and it needs to be wood, wood inserts can update your drafty, open wood fireplace. They'll send less heat out the chimney, and more heat around your house, drastically improving your wood burning efficiency. They pump the smoke back into the fire to burn that off too, which sends less crap into the atmosphere.
+  description: If solar heating is not an option and it needs to be wood, wood stove inserts can update your drafty, open wood fireplace. They'll send less heat out the chimney, and more heat around your house, drastically improving your wood burning efficiency. They pump the smoke back into the fire to burn that off too, which sends less crap into the atmosphere.
 
 - title: Solar Water Heaters
   url: https://www.energy.gov/energysaver/water-heating/solar-water-heaters
@@ -852,6 +926,29 @@
   - home-improvements
   tags: ["home-improvements"]
   description: Sense is a home energy monitor that gives real-time insight into your home’s energy usage. Sense gives people the knowledge they need to reduce their energy costs and usage, with profound effects on the environment- the company estimates that its users are saving a total of 53 million pounds of CO2 annually.
+
+- title: Rigo Paint made from flax
+  url: https://www.rigoverffabriek.nl/
+  categories:
+  - home-improvements
+  tags: ["home-improvements"]
+  description: Check out their Aquamarine line oil paint and RigoStep water-based paints.  Their oil paints depend on locally grown flax, which is heated and pressed by traditional windmills to extract the oil. Once mixed with other solvents, this forms the liquid base for the paint.
+
+- title: NY State Home Energy Assessment tool
+  url: https://stars.nyserdagreenny.org/
+  countries: [us]
+  categories:
+  - home-improvements
+  tags: ["home-improvements"]
+  description: Get a home energy audit and receive tools, resources, and aid to upgrade your home to be more energy efficient.
+
+- title: EnergyStar.gov
+  url: https://www.energystar.gov/
+  countries: [us]
+  categories:
+  - home-improvements
+  tags: ["home-improvements"]
+  description: Energy efficiency ratings, suppliers, and tax credits for products, homes, utilities, and local governments.  ENERGY STAR is the government-backed symbol for energy efficiency, providing simple, credible, and unbiased information that consumers and businesses rely on to make well-informed decisions. 
 
 - title: The Guardian
   url: https://www.theguardian.com/uk/environment
@@ -947,3 +1044,10 @@
   - news
   tags: ["news"]
   description: Aggregations of climate change and action articles from various major news sources.
+
+- title: State of the Planet - News from The Earth Institute at Columbia University
+  url: https://blogs.ei.columbia.edu/category/climate/
+  categories:
+  - news
+  tags: ["news"]
+  description: News from the Earth Institute at Columbia University.  Columbia’s Earth Institute blends research in the physical and social sciences, education and practical solutions to help guide the world onto a path toward sustainability.
