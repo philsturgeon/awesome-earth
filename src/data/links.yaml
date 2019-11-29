@@ -103,6 +103,7 @@
   
 - title: The US EPA's Carbon Footprint Calculator
   url: https://www3.epa.gov/carbon-footprint-calculator/
+  countries: [us]
   categories:
   - carbon-reduction
   tags: ["carbon-reduction"]
@@ -258,6 +259,7 @@
 
 - title: Green-E
   url: https://www.green-e.org/
+  countries: [us]
   categories:
   - renewable-energy
   tags: ["renewable-energy"]
@@ -791,6 +793,7 @@
 
 - title: Earth Hero
   url: https://earthhero.com/
+  countries: [us]
   categories:
   - sustainable-lifestyle
   tags: ["sustainable-lifestyle"]
@@ -860,6 +863,7 @@
 
 - title: GrowNYC Food Scrap Collection Schedule
   url: https://www.grownyc.org/compost/locations
+  countries: [us]
   categories:
   - zero-waste
   tags: ["zero-waste"]
@@ -932,6 +936,7 @@
 
 - title: NY State Home Energy Assessment tool
   url: https://stars.nyserdagreenny.org/
+  countries: [us]
   categories:
   - home-improvements
   tags: ["home-improvements"]
@@ -939,6 +944,7 @@
 
 - title: EnergyStar.gov
   url: https://www.energystar.gov/
+  countries: [us]
   categories:
   - home-improvements
   tags: ["home-improvements"]
