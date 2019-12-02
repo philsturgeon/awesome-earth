@@ -11,7 +11,7 @@
   - carbon-reduction
   tags: ["carbon-reduction"]
   description: Application that incentive user to change vehicles that emit CO2 for another that not do that and generate one crypto coin for this users.
-  
+
 - title: Offset Earth
   url: https://offset.earth/?r=5d01f2ed12ae7a358b75fdd7
   countries:
@@ -100,7 +100,7 @@
   - carbon-reduction
   tags: ["carbon-reduction"]
   description: Measure you carbon footprint, learn how to reduce your consumption, offset your impact, communicate, and comply.
-  
+
 - title: The US EPA's Carbon Footprint Calculator
   url: https://www3.epa.gov/carbon-footprint-calculator/
   countries: [us]
@@ -108,7 +108,7 @@
   - carbon-reduction
   tags: ["carbon-reduction"]
   description: The calculator estimates your footprint in three areas- home energy, transportation and waste. Everyone's carbon footprint is different depending on their location, habits, and personal choices.
-  
+
 - title: Before the Flood
   url: https://www.imdb.com/title/tt5929776/
   categories:
@@ -948,7 +948,7 @@
   categories:
   - home-improvements
   tags: ["home-improvements"]
-  description: Energy efficiency ratings, suppliers, and tax credits for products, homes, utilities, and local governments.  ENERGY STAR is the government-backed symbol for energy efficiency, providing simple, credible, and unbiased information that consumers and businesses rely on to make well-informed decisions. 
+  description: Energy efficiency ratings, suppliers, and tax credits for products, homes, utilities, and local governments.  ENERGY STAR is the government-backed symbol for energy efficiency, providing simple, credible, and unbiased information that consumers and businesses rely on to make well-informed decisions.
 
 - title: The Guardian
   url: https://www.theguardian.com/uk/environment
@@ -1045,9 +1045,26 @@
   tags: ["news"]
   description: Aggregations of climate change and action articles from various major news sources.
 
-- title: State of the Planet - News from The Earth Institute at Columbia University
+- title: State of the Planet
   url: https://blogs.ei.columbia.edu/category/climate/
   categories:
   - news
   tags: ["news"]
   description: News from the Earth Institute at Columbia University.  Columbia’s Earth Institute blends research in the physical and social sciences, education and practical solutions to help guide the world onto a path toward sustainability.
+
+- title: Bunq Greencard
+  url: https://www.bunq.com/link/upgrade-greencard
+  categories:
+    - sustainable-lifestyle
+  tags:
+    - sustainable-lifestyle
+  countries: [nl]
+  description: Dutch online-only bank with a credit card which plants trees for the money you spend.
+
+- title: Adidas Parley
+  url: https://adidas.com/parley
+  categories:
+    - sustainable-lifestyle
+  tags:
+    - sustainable-lifestyle
+  description: Shoes, apparel and accessories made from upcycled marine plastic waste. Every piece in the collection is made of at least 75% intercepted plastic trash.
