@@ -541,6 +541,14 @@
   - nl
   description: Mail order 100% tree-friendly toilet paper made from post-consumer recycled paper.  50% of net profit from sales of The Good Roll is invested in the installation of safe toilets in East Africa.
 
+- title: Who Gives a Crap
+  url: https://whogivesacrap.org/
+  categories:
+  - sustainable-lifestyle
+  tags: ["sustainable-lifestyle"]
+  countries: [au, us, uk]
+  description: We make all of our products with environmentally friendly materials, and we donate 50% of our profits to help build toilets for those in need.
+
 - title: Palm-Oil Free Products
   url: https://orangutanfoundation.org.au/palm-oil/
   categories:
@@ -949,6 +957,13 @@
   tags: ["home-improvements"]
   description: Shower systems that utilize heat exchangers to recapture heat and filtered pumps to recycle water up to 7 times before it is drained, thus significantly reducing water usage and energy consumption.
 
+- title: Nebia Showers
+  url: https://nebia.com/
+  categories:
+  - home-improvements
+  tags: ["home-improvements"]
+  description: Nebia is proud to offer products that transform your mundane shower routine into a ritual, and also contribute to preserving the planet.
+
 - title: Regency Wood Stove Fireplace Inserts
   url: https://www.regency-fire.com/en/Products/Wood/Wood-Inserts
   countries: [us]
@@ -1129,8 +1144,7 @@
   url: https://www.bunq.com/link/upgrade-greencard
   categories:
     - sustainable-lifestyle
-  tags:
-    - sustainable-lifestyle
+  tags: [banking, reforestation]
   countries: [nl]
   description: Dutch online-only bank with a credit card which plants trees for the money you spend.
 
@@ -1138,6 +1152,5 @@
   url: https://adidas.com/parley
   categories:
     - sustainable-lifestyle
-  tags:
-    - sustainable-lifestyle
+  tags: [clothing, recycle]
   description: Shoes, apparel and accessories made from upcycled marine plastic waste. Every piece in the collection is made of at least 75% intercepted plastic trash.
