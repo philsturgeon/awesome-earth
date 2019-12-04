@@ -32,7 +32,6 @@
 
 - title: Ecosia
   url: https://www.ecosia.org
-  icon: 💻
   categories:
   - carbon-reduction
   tags: ["carbon-reduction"]
@@ -40,7 +39,6 @@
 
 - title: Cloverly
   url: https://cloverly.com/how-it-works
-  icon: 💻
   categories:
   - carbon-reduction
   tags: ["carbon-reduction"]
@@ -73,7 +71,6 @@
 - title: Live Green
   type: app
   url: https://livegreen.io/
-  icon: 📱
   categories:
   - carbon-reduction
   tags: ["carbon-reduction"]
@@ -81,7 +78,6 @@
 
 - title: MyClimate
   url: https://myclimate.org/
-  icon: 🇨🇭
   categories:
   - carbon-reduction
   tags: ["carbon-reduction"]
@@ -283,32 +279,30 @@
 #   - politics
 #   description: The UK government's plan to ban the sale of petrol and diesel cars by 2040 is too tame, and the date [should be rolled forward](https://www.bbc.com/news/science-environment-48097150).
 
-- title: "U.K. Petition: Stop VAT Increases for Renewable Energy Sources"
-  url: https://petition.parliament.uk/petitions/260903
-  countries:
-  - gb
-  categories:
-  - politics
-  tags: ["politics"]
-  description: HM Revenue and Customs (HMRC) is set to increase VAT from 5% to 20% for the installation of a number of renewable and sustainable energy sources, such as solar panels from 1st October.
+# - title: "U.K. Petition: Stop VAT Increases for Renewable Energy Sources"
+#   url: https://petition.parliament.uk/petitions/260903
+#   countries:
+#   - gb
+#   categories:
+#   - politics
+#   tags: ["politics"]
+#   description: HM Revenue and Customs (HMRC) is set to increase VAT from 5% to 20% for the installation of a number of renewable and sustainable energy sources, such as solar panels from 1st October.
 
-- title: "U.K. Petition: Ban Open Fridges / freezers in Retail Outlets"
-  url: https://petition.parliament.uk/petitions/261092
-  countries:
-  - gb
-  categories:
-  - politics
-  tags: ["politics"]
-  description: Retailers in the United Kingdom unnecessarily waste huge amounts of energy on open fridges and freezers. Climate change threatens our planet. If all supermarkets had doors on their fridges and freezers it would save energy the equivalent of the entire residential population of Poland.
+# - title: "U.K. Petition: Ban Open Fridges / freezers in Retail Outlets"
+#   url: https://petition.parliament.uk/petitions/261092
+#   countries:
+#   - gb
+#   categories:
+#   - politics
+#   tags: ["politics"]
+#   description: Retailers in the United Kingdom unnecessarily waste huge amounts of energy on open fridges and freezers. Climate change threatens our planet. If all supermarkets had doors on their fridges and freezers it would save energy the equivalent of the entire residential population of Poland.
 
-- title: "U.K. Petition: Cease all new developments on Greenbelt and Greenfield sites"
-  url: https://petition.parliament.uk/petitions/267197
-  countries:
-  - gb
+- title: The Green Flying Duty
+  url: https://www.responsiblevacation.com/copy/write-to-politicians
   categories:
   - politics
-  tags: ["politics"]
-  description: Government housing policy is forcing councils to meet aggressive house building targets. This directly causes new developments on Greenbelt & Greenfield. Many councils believe the targets are unrealistic. According to CPRE 460,000 homes are currently planned for greenbelt & greenfield sites.
+  tags: ["carbon-tax"]
+  description: The UK is one of the few countries to tax aviation fuel, but it is too low, and not ringfenced for climate solutions. The Green Flying Duty proposal is a reformed version of the UK's APD, that will be ring-fenced for Research and Development (R&D) in electric aviation and to improve railway connectivity. Suggest this to politicians worldwide.
 
 - title: No Fracking in Alaska’s Arctic Wildlife Refuge
   url: https://act.nrdc.org/letter/welcome-arctic-190603
@@ -516,7 +510,6 @@
   categories:
   - sustainable-lifestyle
   tags: ["sustainable-lifestyle"]
-  icon: 🇪🇺
   description: A phone for everyone who cares about how their products are made. It improves the conditions of the people who make it and uses materials that are better for the planet.
 
 - title: Happy Cow
@@ -620,7 +613,7 @@
   url: https://www.cyclingweekly.com/news/latest-news/cycle-to-work-scheme-10-things-to-know-5055/amp
   categories:
   - transportation
-  tags: ["transportation"]
+  tags: ["bike-commute"]
   countries:
   - gb
   description: This scheme allows employees to spend on bikes and equipment, tax-free, making a claimed saving of up to 42 per cent on the overall value.
@@ -629,7 +622,7 @@
   url: https://www.revenue.ie/en/jobs-and-pensions/taxation-of-employer-benefits/cycle-to-work-scheme.aspx
   categories:
   - transportation
-  tags: ["transportation"]
+  tags: ["bike-commute", commute]
   countries:
   - ie
   description: Under the scheme your employer can buy a bicycle and safety equipment for you, up to €1,000 per bicycle and safety equipment.
@@ -638,7 +631,8 @@
   url: https://www.blablacar.com/
   categories:
   - transportation
-  tags: ["transportation"]
+  - travel
+  tags: [rideshare, carpool, commute]
   countries:
   - be
   - br
@@ -667,7 +661,8 @@
   url: https://www.poparide.com/
   categories:
   - transportation
-  tags: ["transportation"]
+  - travel
+  tags: [rideshare, commute]
   countries:
   - ca
   description: Get a ride or fill a seat for rideshares between cities in Canada. Having 3 people in the car can be more efficient than some of their big-ass trains and is 1/5th the impact of flying.
@@ -676,7 +671,7 @@
   url: https://www.wageworks.com/employees/lifestyle-benefits-programs/bicycle-reimbursement-program/
   categories:
   - transportation
-  tags: ["transportation"]
+  tags: ["bike-commute", commute]
   countries:
   - us
   description: Ride your bike to work and pay for eligible bike-related expenses, and then get reimbursed for those expenses.
@@ -685,7 +680,7 @@
   url: https://www.waze.com/carpool
   categories:
   - transportation
-  tags: ["transportation"]
+  tags: [carpool, commute]
   description: Choose to drive or ride, and match with people based on route and time of day.
 
 - title: Pod Point
@@ -703,6 +698,66 @@
   - transportation
   tags: ["transportation"]
   description: Riding your bike can make you a millionaire! You're paying more for your car than you think. A typical American who goes car-free for 35 years can save nearly a million dollars, even adjusted for inflation, and even if they pay for taxi, bus, and car-share trips often. Use the calculator to find how much you can save in your particular situation.
+
+- title: EcoBnB
+  url: https://ecobnb.com/
+  categories:
+  - travel
+  tags: [accommodation, travel]
+  description: Find accommodation for a trip with a focus on sustainability. Most locations get their electricity from renewable sources, you wont find loads of single-use plastics, they recycle more than 80% of their waste, etc.
+
+- title: Home Exchange
+  url: https://www.homeexchange.com/
+  categories:
+  - travel
+  tags: [accommodation, travel]
+  description: Swap homes with another family instead of spending money at a fancy hotel, as hotels have a much higher footprint due to the constant cleaning, overactive AC, etc.
+
+- title: Responsible Vacation
+  url: https://www.responsiblevacation.com/
+  categories:
+  - travel
+  tags: [vacation, travel]
+  description: A travel company who run sustainable trips all over the world. Sail from Scotland to Iceland, cycle across Vietnam, hike in Peru. Admittedly some of these trips will require a flight to get there, but one trip a year (or alternative years) is probably reasonable. At least when you get there, these vacations will be helping and protecting local nature, wildlife and culture.
+
+- title: Rubicon 3
+  url: https://www.rubicon3.co.uk/
+  categories:
+  - travel
+  tags: [sailing, travel]
+  description: Join the crew of one of our sailing expeditions for one of the greatest adventures you can have. Sail from country to country, exploring the world’s most awe-inspiring areas. Learn to sail as you go from inspiring instructors. Make landfall and explore ashore far from the beaten track.
+
+- title: Flight Free (UK)
+  url: https://flightfree.co.uk/
+  countries: [gb]
+  categories:
+  - travel
+  - carbon-reduction
+  tags: [carbon-reduction, travel]
+  description: Aviation is the fastest growing contributor to greenhouse gas emissions at a time when we desperately need to reduce them. Pledge to go flight free in 2020.
+
+- title: Flight Free (Canada)
+  url: https://flightfree.ca
+  countries: [ca]
+  categories:
+  - travel
+  - carbon-reduction
+  tags: [carbon-reduction, travel]
+  description: Aviation is the fastest growing contributor to greenhouse gas emissions at a time when we desperately need to reduce them. Pledge to go flight free in 2020.
+
+- title: Restons les pieds sur terre
+  url: https://www.facebook.com/restonslespiedssurterre/
+  countries: [fr]
+  categories:
+  - travel
+  - carbon-reduction
+  tags: [carbon-reduction, travel]
+  description: Aviation is the fastest growing contributor to greenhouse gas emissions at a time when we desperately need to reduce them. Pledge to go flight free in 2020.
+
+# http://www.freightercruises.com/
+# https://www.freighterexpeditions.com.au/
+# https://www.langsamreisen.de/
+# https://www.cargoshipvoyages.com/VoyageDetails/?SCID=46&VID=328&SGID=1009
 
 - title: Algramo
   url: https://www.algramoalmacenes.com/
