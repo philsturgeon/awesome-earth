@@ -32,7 +32,6 @@
 
 - title: Ecosia
   url: https://www.ecosia.org
-  icon: 💻
   categories:
   - carbon-reduction
   tags: ["carbon-reduction"]
@@ -40,7 +39,6 @@
 
 - title: Cloverly
   url: https://cloverly.com/how-it-works
-  icon: 💻
   categories:
   - carbon-reduction
   tags: ["carbon-reduction"]
@@ -73,7 +71,6 @@
 - title: Live Green
   type: app
   url: https://livegreen.io/
-  icon: 📱
   categories:
   - carbon-reduction
   tags: ["carbon-reduction"]
@@ -81,7 +78,6 @@
 
 - title: MyClimate
   url: https://myclimate.org/
-  icon: 🇨🇭
   categories:
   - carbon-reduction
   tags: ["carbon-reduction"]
@@ -263,12 +259,11 @@
   categories:
   - renewable-energy
   tags: ["renewable-energy"]
-  description: Find a renewable energy provider near you.  Green-e certified renewable energy and carbon offset products meet the most stringent environmental and consumer protection standards in North America. You can search below for certified green power and renewable energy certificate programs for your home or business, and carbon offset products to offset your emissions from activities like driving and flying. As a third-party certifier, Green-e® doesn't sell renewable energy or offsets, but offers these links to retailers that do.
+  description: Find a renewable energy provider near you. Green-e certified renewable energy and carbon offset products meet the most stringent environmental and consumer protection standards in North America. You can search below for certified green power and renewable energy certificate programs for your home or business, and carbon offset products to offset your emissions from activities like driving and flying. As a third-party certifier, Green-e® doesn't sell renewable energy or offsets, but offers these links to retailers that do.
 
 - title: Bulb
   url: https://www.bulb.co.uk
-  countries:
-  - gb
+  countries: [gb]
   categories:
   - renewable-energy
   tags: ["renewable-energy"]
@@ -283,32 +278,30 @@
 #   - politics
 #   description: The UK government's plan to ban the sale of petrol and diesel cars by 2040 is too tame, and the date [should be rolled forward](https://www.bbc.com/news/science-environment-48097150).
 
-- title: "U.K. Petition: Stop VAT Increases for Renewable Energy Sources"
-  url: https://petition.parliament.uk/petitions/260903
-  countries:
-  - gb
-  categories:
-  - politics
-  tags: ["politics"]
-  description: HM Revenue and Customs (HMRC) is set to increase VAT from 5% to 20% for the installation of a number of renewable and sustainable energy sources, such as solar panels from 1st October.
+# - title: "U.K. Petition: Stop VAT Increases for Renewable Energy Sources"
+#   url: https://petition.parliament.uk/petitions/260903
+#   countries:
+#   - gb
+#   categories:
+#   - politics
+#   tags: ["politics"]
+#   description: HM Revenue and Customs (HMRC) is set to increase VAT from 5% to 20% for the installation of a number of renewable and sustainable energy sources, such as solar panels from 1st October.
 
-- title: "U.K. Petition: Ban Open Fridges / freezers in Retail Outlets"
-  url: https://petition.parliament.uk/petitions/261092
-  countries:
-  - gb
-  categories:
-  - politics
-  tags: ["politics"]
-  description: Retailers in the United Kingdom unnecessarily waste huge amounts of energy on open fridges and freezers. Climate change threatens our planet. If all supermarkets had doors on their fridges and freezers it would save energy the equivalent of the entire residential population of Poland.
+# - title: "U.K. Petition: Ban Open Fridges / freezers in Retail Outlets"
+#   url: https://petition.parliament.uk/petitions/261092
+#   countries:
+#   - gb
+#   categories:
+#   - politics
+#   tags: ["politics"]
+#   description: Retailers in the United Kingdom unnecessarily waste huge amounts of energy on open fridges and freezers. Climate change threatens our planet. If all supermarkets had doors on their fridges and freezers it would save energy the equivalent of the entire residential population of Poland.
 
-- title: "U.K. Petition: Cease all new developments on Greenbelt and Greenfield sites"
-  url: https://petition.parliament.uk/petitions/267197
-  countries:
-  - gb
+- title: The Green Flying Duty
+  url: https://www.responsiblevacation.com/copy/write-to-politicians
   categories:
   - politics
-  tags: ["politics"]
-  description: Government housing policy is forcing councils to meet aggressive house building targets. This directly causes new developments on Greenbelt & Greenfield. Many councils believe the targets are unrealistic. According to CPRE 460,000 homes are currently planned for greenbelt & greenfield sites.
+  tags: ["carbon-tax"]
+  description: The UK is one of the few countries to tax aviation fuel, but it is too low, and not ringfenced for climate solutions. The Green Flying Duty proposal is a reformed version of the UK's APD, that will be ring-fenced for Research and Development (R&D) in electric aviation and to improve railway connectivity. Suggest this to politicians worldwide.
 
 - title: No Fracking in Alaska’s Arctic Wildlife Refuge
   url: https://act.nrdc.org/letter/welcome-arctic-190603
@@ -357,7 +350,7 @@
   - fr
   - in
   - nl
-  - no
+  - "no"
   - pk
   - ph
   - ug
@@ -516,7 +509,6 @@
   categories:
   - sustainable-lifestyle
   tags: ["sustainable-lifestyle"]
-  icon: 🇪🇺
   description: A phone for everyone who cares about how their products are made. It improves the conditions of the people who make it and uses materials that are better for the planet.
 
 - title: Happy Cow
@@ -548,6 +540,14 @@
   countries:
   - nl
   description: Mail order 100% tree-friendly toilet paper made from post-consumer recycled paper.  50% of net profit from sales of The Good Roll is invested in the installation of safe toilets in East Africa.
+
+- title: Who Gives a Crap
+  url: https://whogivesacrap.org/
+  categories:
+  - sustainable-lifestyle
+  tags: ["sustainable-lifestyle"]
+  countries: [au, us, gb]
+  description: We make all of our products with environmentally friendly materials, and we donate 50% of our profits to help build toilets for those in need.
 
 - title: Palm-Oil Free Products
   url: https://orangutanfoundation.org.au/palm-oil/
@@ -620,7 +620,7 @@
   url: https://www.cyclingweekly.com/news/latest-news/cycle-to-work-scheme-10-things-to-know-5055/amp
   categories:
   - transportation
-  tags: ["transportation"]
+  tags: ["bike-commute"]
   countries:
   - gb
   description: This scheme allows employees to spend on bikes and equipment, tax-free, making a claimed saving of up to 42 per cent on the overall value.
@@ -629,7 +629,7 @@
   url: https://www.revenue.ie/en/jobs-and-pensions/taxation-of-employer-benefits/cycle-to-work-scheme.aspx
   categories:
   - transportation
-  tags: ["transportation"]
+  tags: ["bike-commute", commute]
   countries:
   - ie
   description: Under the scheme your employer can buy a bicycle and safety equipment for you, up to €1,000 per bicycle and safety equipment.
@@ -638,7 +638,8 @@
   url: https://www.blablacar.com/
   categories:
   - transportation
-  tags: ["transportation"]
+  - travel
+  tags: [rideshare, carpool, commute]
   countries:
   - be
   - br
@@ -667,7 +668,8 @@
   url: https://www.poparide.com/
   categories:
   - transportation
-  tags: ["transportation"]
+  - travel
+  tags: [rideshare, commute]
   countries:
   - ca
   description: Get a ride or fill a seat for rideshares between cities in Canada. Having 3 people in the car can be more efficient than some of their big-ass trains and is 1/5th the impact of flying.
@@ -676,7 +678,7 @@
   url: https://www.wageworks.com/employees/lifestyle-benefits-programs/bicycle-reimbursement-program/
   categories:
   - transportation
-  tags: ["transportation"]
+  tags: ["bike-commute", commute]
   countries:
   - us
   description: Ride your bike to work and pay for eligible bike-related expenses, and then get reimbursed for those expenses.
@@ -685,7 +687,7 @@
   url: https://www.waze.com/carpool
   categories:
   - transportation
-  tags: ["transportation"]
+  tags: [carpool, commute]
   description: Choose to drive or ride, and match with people based on route and time of day.
 
 - title: Pod Point
@@ -704,22 +706,102 @@
   tags: ["transportation"]
   description: Riding your bike can make you a millionaire! You're paying more for your car than you think. A typical American who goes car-free for 35 years can save nearly a million dollars, even adjusted for inflation, and even if they pay for taxi, bus, and car-share trips often. Use the calculator to find how much you can save in your particular situation.
 
+- title: EcoBnB
+  url: https://ecobnb.com/
+  categories:
+  - travel
+  tags: [accommodation, travel]
+  description: Find accommodation for a trip with a focus on sustainability. Most locations get their electricity from renewable sources, you wont find loads of single-use plastics, they recycle more than 80% of their waste, etc.
+
+- title: Home Exchange
+  url: https://www.homeexchange.com/
+  categories:
+  - travel
+  tags: [accommodation, travel]
+  description: Swap homes with another family instead of spending money at a fancy hotel, as hotels have a much higher footprint due to the constant cleaning, overactive AC, etc.
+
+- title: Responsible Vacation
+  url: https://www.responsiblevacation.com/
+  categories:
+  - travel
+  tags: [vacation, travel]
+  description: A travel company who run sustainable trips all over the world. Sail from Scotland to Iceland, cycle across Vietnam, hike in Peru. Admittedly some of these trips will require a flight to get there, but one trip a year (or alternative years) is probably reasonable. At least when you get there, these vacations will be helping and protecting local nature, wildlife and culture.
+
+- title: Rubicon 3
+  url: https://www.rubicon3.co.uk/
+  categories:
+  - travel
+  tags: [sailing, travel]
+  description: Join the crew of one of our sailing expeditions for one of the greatest adventures you can have. Sail from country to country, exploring the world’s most awe-inspiring areas. Learn to sail as you go from inspiring instructors. Make landfall and explore ashore far from the beaten track.
+
+- title: Shift
+  url: https://shift.andrewpairman.com/
+  countries: [gb]
+  categories:
+  - carbon-reduction
+  tags: [electricity]
+  description: Shift highlights the varying carbon intensity of the UK electricity grid. It recommends the least intense two hour period, within the next 24 hours, to help you minimise your carbon dioxide (CO₂) emissions on a regional level.
+
+- title: Flight Free (USA)
+  url: https://flightfreeusa.org/
+  countries: [us]
+  categories:
+  - travel
+  - carbon-reduction
+  tags: [carbon-reduction, travel]
+  description: A grassroots campaign which asks people to agree not to fly in the year of 2020 – on condition that 100,000 others will also pledge to do the same.
+
+- title: Flight Free (UK)
+  url: https://flightfree.co.uk/
+  countries: [gb]
+  categories:
+  - travel
+  - carbon-reduction
+  tags: [carbon-reduction, travel]
+  description: Aviation is the fastest growing contributor to greenhouse gas emissions at a time when we desperately need to reduce them. Pledge to go flight free in 2020.
+
+- title: Flight Free (Canada)
+  url: https://flightfree.ca
+  countries: [ca]
+  categories:
+  - travel
+  - carbon-reduction
+  tags: [carbon-reduction, travel]
+  description: Aviation is the fastest growing contributor to greenhouse gas emissions at a time when we desperately need to reduce them. Pledge to go flight free in 2020.
+
+- title: Restons les pieds sur terre
+  url: https://www.facebook.com/restonslespiedssurterre/
+  countries: [fr]
+  categories:
+  - travel
+  - carbon-reduction
+  tags: [carbon-reduction, travel]
+  description: Aviation is the fastest growing contributor to greenhouse gas emissions at a time when we desperately need to reduce them. Pledge to go flight free in 2020.
+
+- title: Maris - Freighter Cruises
+  url: http://www.freightercruises.com/
+  categories: [travel]
+  tags: [travel]
+  description: These giant freight ships are not running on renewable energy, but if you need to cross an ocean this is the way to do it. Europe to North America, England to Australia, Shanghai to Argentina. It's slower, but your carbon footprint will be saved.
+
+- title: Slow Travel (Langsamreisen)
+  url: https://www.langsamreisen.de/
+  categories: [travel]
+  tags: [travel]
+  description: A travel company all about sustainable and conscious travel. Piggy back on a cargo ship to get to that new job on the other side of the world. Sailing trips to get around without a footprint. Maybe take the trans-siberian railway.
+
 - title: Algramo
   url: https://www.algramoalmacenes.com/
-  categories:
-  - zero-waste
-  tags: ["zero-waste"]
-  countries:
-  - cl
+  categories: ["zero-waste"]
+  tags: ["plastic"]
+  countries: [cl]
   description: Vending machines and mobile refill units for refilling reusable plastic bottles with staple goods from shampoo to salad dressing in packaging that is designed to be returned, cleaned, and reused.  With over 2,000 bodegas in Santiago and plans to expand in the US soon, Algramo, translates to "by the gram", also solves the issue of "poverty tax" where small packages can cost as much as 50% more than the same product in a larger size.
 
 - title: Blue Jeans Go Green
   url: https://bluejeansgogreen.org/
-  countries:
-  - us
-  categories:
-  - zero-waste
-  tags: ["zero-waste"]
+  countries: [us]
+  categories: ["zero-waste"]
+  tags: ["recycle"]
   description: Send in your used jeans to get transformed into natural cotton fiber insulation, some of which is used to help with building efforts around the country.
 
 - title: Litterati
@@ -727,10 +809,10 @@
   categories:
   - zero-waste
   tags: ["zero-waste"]
-  description: Empowering people to clean the planet.  Photograph a piece of litter, tag it, and discard properly.  Participate in a challenge and hold wasteful brands accountable.
+  description: Empowering people to clean the planet. Photograph a piece of litter, tag it, and discard properly.  Participate in a challenge and hold wasteful brands accountable.
 
 - title: Too Good To Go
-  url: https://toogoodtogo.co.uk/en-gb
+  url: https://toogoodtogo.co.uk/
   categories:
   - zero-waste
   tags: ["zero-waste"]
@@ -759,7 +841,7 @@
   categories:
   - sustainable-lifestyle
   - zero-waste
-  tags: ["sustainable-lifestyle", "zero-waste"]
+  tags: [clothing, reuse]
   countries:
   - tn
   description: Tunisian second hand clothes marketplace.
@@ -769,9 +851,8 @@
   categories:
   - sustainable-lifestyle
   - zero-waste
-  tags: ["sustainable-lifestyle", "zero-waste"]
-  countries:
-  - us
+  tags: [clothing, reuse]
+  countries: [us]
   description: Second hand clothes, up-cycled to avoid the electricity, carbon, etc waste of making new clothes, and keeping them from a landfill. Women and kids but nothing for men.
 
 - title: Worn Wear
@@ -779,7 +860,7 @@
   categories:
   - sustainable-lifestyle
   - zero-waste
-  tags: ["sustainable-lifestyle", "zero-waste"]
+  tags: [clothing, reuse, repair, second-hand]
   countries:
   - us
   description: A set of tools to help our customers partner with Patagonia to take mutual responsibility to extend the life of the products Patagonia makes and customers purchase. You can buy second-hand repaired or recrafted clothes, or trade in used Patagonia clothes for credit for new items.
@@ -875,6 +956,13 @@
   - home-improvements
   tags: ["home-improvements"]
   description: Shower systems that utilize heat exchangers to recapture heat and filtered pumps to recycle water up to 7 times before it is drained, thus significantly reducing water usage and energy consumption.
+
+- title: Nebia Showers
+  url: https://nebia.com/
+  categories:
+  - home-improvements
+  tags: ["home-improvements"]
+  description: Nebia is proud to offer products that transform your mundane shower routine into a ritual, and also contribute to preserving the planet.
 
 - title: Regency Wood Stove Fireplace Inserts
   url: https://www.regency-fire.com/en/Products/Wood/Wood-Inserts
@@ -1056,8 +1144,7 @@
   url: https://www.bunq.com/link/upgrade-greencard
   categories:
     - sustainable-lifestyle
-  tags:
-    - sustainable-lifestyle
+  tags: [banking, reforestation]
   countries: [nl]
   description: Dutch online-only bank with a credit card which plants trees for the money you spend.
 
@@ -1065,6 +1152,5 @@
   url: https://adidas.com/parley
   categories:
     - sustainable-lifestyle
-  tags:
-    - sustainable-lifestyle
+  tags: [clothing, recycle]
   description: Shoes, apparel and accessories made from upcycled marine plastic waste. Every piece in the collection is made of at least 75% intercepted plastic trash.
