@@ -9,7 +9,7 @@
   - br
   categories:
   - carbon-reduction
-  tags: ["carbon-reduction"]
+  tags: ["app"]
   description: Application that incentive user to change vehicles that emit CO2 for another that not do that and generate one crypto coin for this users.
 
 - title: Offset Earth
@@ -18,7 +18,7 @@
   - gb
   categories:
   - carbon-reduction
-  tags: ["carbon-reduction"]
+  tags: ["business"]
   description: Monthly subscriptions for you, your family, and your business, where money goes to Eden Reforestation Projects who plant trees and offset and reduce carbon emissions around the world in a myriad of ways.
 
 - title: CarbonFund.org
@@ -41,7 +41,7 @@
   url: https://cloverly.com/how-it-works
   categories:
   - carbon-reduction
-  tags: ["carbon-reduction"]
+  tags: ["business"]
   description:  Offset the carbon footprint of your customers' online transactions, with e-commerce plugins (Shopify, Magento, etc.)
 
 - title: Cool Earth
@@ -58,7 +58,7 @@
   - de
   categories:
   - carbon-reduction
-  tags: ["carbon-reduction"]
+  tags: ["nomad"]
   description: Calculate the footprint for flights and buy compensation or donate to offset any number of carbon emissions. Tax-deductible in Germany.
 
 - title: Leave Me Alone
@@ -80,7 +80,7 @@
   url: https://myclimate.org/
   categories:
   - carbon-reduction
-  tags: ["carbon-reduction"]
+  tags: ["business"]
   description: Helping reduce emissions through a whole bunch of different projects, from consulting companies on their footprint (and helping them to reduce), to education at schools, forest restoration, providing people in Rwanda with efficient cook stoves, and [a whole bunch more](https://www.myclimate.org/information/climate-protection-projects/). Fund them via donations, and use their flight/car/house/company footprint calculators.
 
 - title: Gold Standard
@@ -94,7 +94,7 @@
   url: https://www.carbonfootprint.com/
   categories:
   - carbon-reduction
-  tags: ["carbon-reduction"]
+  tags: ["business"]
   description: Measure you carbon footprint, learn how to reduce your consumption, offset your impact, communicate, and comply.
 
 - title: The US EPA's Carbon Footprint Calculator
@@ -201,7 +201,7 @@
   countries: [ie]
   categories:
   - renewable-energy
-  tags: ["renewable-energy", energy-supply]
+  tags: ["renewable-energy", energy-supply, "business"]
   description: Ireland's first community owned electricity supplier which collaborates with Local Sustainable Energy Communities! Whether you are a household, community, business, public or private building, you can switch and buy your electricity from Community Power.
 
 - title: Big Clean Switch
@@ -236,7 +236,7 @@
   - gb
   categories:
   - renewable-energy
-  tags: ["renewable-energy"]
+  tags: ["developers"]
   description: This officially backed open API from Oxford University and the National Grid ESO gives a snapshot of how much carbon each unit of electricity consumed in the UK emits for every half hour. Also carries forecasts, regional breakdowns with some great charts and re-useable widgets. They also have an [APP!](https://www.cs.ox.ac.uk/people/alex.rogers/gridcarbon/)
 
 - title: Electricity Map
@@ -251,7 +251,7 @@
   categories:
   - renewable-energy
   tags: ["renewable-energy"]
-  description: Humanitarian smart energy metering solution that purchases wasted unused electricity from utilities and resells it to hard-to-reach places and underserved markets, thus reducing overall energy consumption.
+  description: Humanitarian smart energy metering solution that purchases wasted unused electricity from utilities and resells it to hard-to-reach places and under served markets, thus reducing overall energy consumption.
 
 - title: Green-E
   url: https://www.green-e.org/
@@ -395,20 +395,20 @@
   categories:
   - reforestation
   tags: ["reforestation"]
-  description: TREES plant all sorts of trees and plants, and nearly all of the trees we use are either native or naturalized in the environments where we plant them. We partner with farmers to understand their needs and match them with species that will suit their needs and be environmentally benign.
+  description: TREES plants all sorts of trees and plants, and nearly all of the trees used are either native or naturalized in the environments where they are planted. They partner with farmers to understand their needs and match them with species that will suit their needs and be environmentally benign.
 
 - title: Tree-Nation
   url: https://tree-nation.com/projects
   categories:
   - reforestation
-  tags: ["reforestation"]
+  tags: ["business"]
   description: Buy trees for you or your company, and get them planted all over the world.
 
 - title: Droneseed
   url: https://www.droneseed.co/
   categories:
   - reforestation
-  tags: ["reforestation"]
+  tags: ["business", "local-authorities"]
   description: They plant native trees & vegetation using drone swarms and spray to protect them. Provide valuable insights to customers by collecting data in the field. Work with Governments, nonprofits, and private land owners as a service provider.
 
 - title: Land Life Company
@@ -416,7 +416,7 @@
   categories:
   - reforestation
   tags: ["reforestation"]
-  description: Their mission is to reforest the world’s 2 billion hectares of degraded land. Using drones, automated planting and the Cocoon, they plant at scale in urban environments using a fraction of the water.
+  description: Their mission is to reforest the world’s 2 billion hectares of degraded land. Using drones and automated planting, they plant at scale in urban environments using a fraction of the water.
 
 - title: WeForest
   url: https://www.weforest.org/
@@ -436,7 +436,7 @@
   url: https://smartlinerpads.com/
   categories:
   - sustainable-lifestyle
-  tags: ["sustainable-lifestyle"]
+  tags: ["feminine-products"]
   description: Reduce the impact on the environment caused by sanitary waste using Organic Cotton Period Pads.
 
 - title: Transition Network
@@ -693,44 +693,44 @@
   url: https://pod-point.com
   categories:
   - transportation
-  tags: ["transportation"]
+  tags: ["transportation", commute]
   countries:
   - gb
-  description: UK leaders in electric vehicle charging with innovative solutions for homes, workplaces and commercial organisations.
+  description: UK leaders in electric vehicle charging with innovative solutions for homes, workplaces and commercial organizations.
 
 - title: Biking vs. Driving Calculator
   url: https://bicycleuniverse.com/car-free-millionaire/
   categories:
   - transportation
-  tags: ["transportation"]
+  tags: [commute]
   description: Riding your bike can make you a millionaire! You're paying more for your car than you think. A typical American who goes car-free for 35 years can save nearly a million dollars, even adjusted for inflation, and even if they pay for taxi, bus, and car-share trips often. Use the calculator to find how much you can save in your particular situation.
 
 - title: EcoBnB
   url: https://ecobnb.com/
   categories:
   - travel
-  tags: [accommodation, travel]
+  tags: [accommodation, travel, nomad]
   description: Find accommodation for a trip with a focus on sustainability. Most locations get their electricity from renewable sources, you wont find loads of single-use plastics, they recycle more than 80% of their waste, etc.
 
 - title: Home Exchange
   url: https://www.homeexchange.com/
   categories:
   - travel
-  tags: [accommodation, travel]
+  tags: [accommodation, travel, nomad]
   description: Swap homes with another family instead of spending money at a fancy hotel, as hotels have a much higher footprint due to the constant cleaning, overactive AC, etc.
 
 - title: Responsible Vacation
   url: https://www.responsiblevacation.com/
   categories:
   - travel
-  tags: [vacation, travel]
+  tags: [vacation, travel, nomad]
   description: A travel company who run sustainable trips all over the world. Sail from Scotland to Iceland, cycle across Vietnam, hike in Peru. Admittedly some of these trips will require a flight to get there, but one trip a year (or alternative years) is probably reasonable. At least when you get there, these vacations will be helping and protecting local nature, wildlife and culture.
 
 - title: Rubicon 3
   url: https://www.rubicon3.co.uk/
   categories:
   - travel
-  tags: [sailing, travel]
+  tags: [sailing, travel, nomad]
   description: Join the crew of one of our sailing expeditions for one of the greatest adventures you can have. Sail from country to country, exploring the world’s most awe-inspiring areas. Learn to sail as you go from inspiring instructors. Make landfall and explore ashore far from the beaten track.
 
 - title: Shift
@@ -780,13 +780,13 @@
 - title: Maris - Freighter Cruises
   url: http://www.freightercruises.com/
   categories: [travel]
-  tags: [travel]
+  tags: [travel, nomad]
   description: These giant freight ships are not running on renewable energy, but if you need to cross an ocean this is the way to do it. Europe to North America, England to Australia, Shanghai to Argentina. It's slower, but your carbon footprint will be saved.
 
 - title: Slow Travel (Langsamreisen)
   url: https://www.langsamreisen.de/
   categories: [travel]
-  tags: [travel]
+  tags: [travel, nomad]
   description: A travel company all about sustainable and conscious travel. Piggy back on a cargo ship to get to that new job on the other side of the world. Sailing trips to get around without a footprint. Maybe take the trans-siberian railway.
 
 - title: Algramo
@@ -862,7 +862,7 @@
   tags: [clothing, reuse, repair, second-hand]
   countries:
   - us
-  description: A set of tools to help our customers partner with Patagonia to take mutual responsibility to extend the life of the products Patagonia makes and customers purchase. You can buy second-hand repaired or recrafted clothes, or trade in used Patagonia clothes for credit for new items.
+  description: A set of tools to help our customers partner with Patagonia to take mutual responsibility to extend the life of the products Patagonia makes and customers purchase. You can buy second-hand repaired or re-crafted clothes, or trade in used Patagonia clothes for credit for new items.
 
 - title: Good Condom Company
   url: https://www.thegoodc.company/
@@ -883,7 +883,7 @@
   url: https://twitter.com/lindybrandon/status/1131202229229314048
   categories:
   - zero-waste
-  tags: ["zero-waste"]
+  tags: ["business"]
   description: Nobody needs another corporate logo stress ball or other pointless swag. Convince your company to skip the nonsense and donate to something worthwhile - like their [Offset Earth](https://offset.earth/business) business account!
 
 - title: Olio
@@ -893,14 +893,14 @@
   tags: ["zero-waste"]
   countries:
   - gb
-  description: We connect neighbours to share food, and other things, rather than chuck them away.
+  description: We connect neighbors to share food, and other things, rather than chuck them away.
 
-- title: 'Openstreetmap: Zero Waste (Overpass)'
+- title: 'OpenStreetMap: Zero Waste (Overpass)'
   url: http://overpass-turbo.eu/?template=key&key=zero_waste
   categories:
   - zero-waste
   tags: ["zero-waste"]
-  description: Openstreetmap has the tag zero_waste=* for shops who sell items without packaging.
+  description: OpenStreetMap has the tag zero_waste=* for shops who sell items without packaging.
 
 - title: Original Unverpackt
   url: https://original-unverpackt.de/
@@ -918,7 +918,7 @@
   tags: ["zero-waste"]
   countries:
   - us
-  description: They pick up unused, excess food from restaurants, farms, and other food purveyors, and repurpose it into delicious and nutritious meals for under-served New Yorkers.
+  description: They pick up unused, excess food from restaurants, farms, and other food purveyors, and re-purpose it into delicious and nutritious meals for under-served New Yorkers.
 
 - title: Kaiyo
   url: https://kaiyo.com/
@@ -953,14 +953,14 @@
   url: https://www.hamwells.com/
   categories:
   - home-improvements
-  tags: ["home-improvements"]
+  tags: ["homeowner"]
   description: Shower systems that utilize heat exchangers to recapture heat and filtered pumps to recycle water up to 7 times before it is drained, thus significantly reducing water usage and energy consumption.
 
 - title: Nebia Showers
   url: https://nebia.com/
   categories:
   - home-improvements
-  tags: ["home-improvements"]
+  tags: ["homeowner"]
   description: Nebia is proud to offer products that transform your mundane shower routine into a ritual, and also contribute to preserving the planet.
 
 - title: Regency Wood Stove Fireplace Inserts
@@ -968,28 +968,28 @@
   countries: [us]
   categories:
   - home-improvements
-  tags: ["home-improvements"]
+  tags: ["homeowner"]
   description: If solar heating is not an option and it needs to be wood, wood stove inserts can update your drafty, open wood fireplace. They'll send less heat out the chimney, and more heat around your house, drastically improving your wood burning efficiency. They pump the smoke back into the fire to burn that off too, which sends less crap into the atmosphere.
 
 - title: Solar Water Heaters
   url: https://www.energy.gov/energysaver/water-heating/solar-water-heaters
   categories:
   - home-improvements
-  tags: ["home-improvements"]
+  tags: ["homeowner"]
   description: Solar hot water systems capture thermal energy from the sun and use it to heat water for your home. Systems can either be passive or active – while passive systems use gravity and natural circulation, active systems use pumps and controls to circulate water.
 
 - title: Environmentally Friendly Roof Insulation
   url: https://www.greenlivingtips.com/articles/environmentally-friendly-roof-insulation.html
   categories:
   - home-improvements
-  tags: ["home-improvements"]
+  tags: ["homeowner"]
   description: However you heat your home, make sure you aren't leaking heat through insufficient insulation, and save money.
 
 - title: EPA's Responsible Appliance Disposal
   url: https://www.epa.gov/rad
   categories:
   - home-improvements
-  tags: ["home-improvements"]
+  tags: ["homeowner"]
   countries: [us]
   description: RAD is a voluntary partnership program that works with utilities, retailers, manufacturers, state and local government agencies, affiliates, and others to dispose of old refrigerated appliances using the best environmental practices available.
 
@@ -997,7 +997,7 @@
   url: https://en.wikipedia.org/wiki/Solar_thermal_energy
   categories:
   - home-improvements
-  tags: ["home-improvements"]
+  tags: ["homeowner"]
   description: Solar thermal technology can be used for cooking, heating your home through radiant floors, radiators, or forced air. It can be used to heat water directly for hot showers too.
 
 - title: PlanetCare microfibre laundry filters
@@ -1011,14 +1011,14 @@
   url: https://sense.com/
   categories:
   - home-improvements
-  tags: ["home-improvements"]
+  tags: ["homeowner"]
   description: Sense is a home energy monitor that gives real-time insight into your home’s energy usage. Sense gives people the knowledge they need to reduce their energy costs and usage, with profound effects on the environment- the company estimates that its users are saving a total of 53 million pounds of CO2 annually.
 
 - title: Rigo Paint made from flax
   url: https://www.rigoverffabriek.nl/
   categories:
   - home-improvements
-  tags: ["home-improvements"]
+  tags: ["homeowner", "business"]
   description: Check out their Aquamarine line oil paint and RigoStep water-based paints.  Their oil paints depend on locally grown flax, which is heated and pressed by traditional windmills to extract the oil. Once mixed with other solvents, this forms the liquid base for the paint.
 
 - title: NY State Home Energy Assessment tool
@@ -1026,7 +1026,7 @@
   countries: [us]
   categories:
   - home-improvements
-  tags: ["home-improvements"]
+  tags: ["homeowner"]
   description: Get a home energy audit and receive tools, resources, and aid to upgrade your home to be more energy efficient.
 
 - title: EnergyStar.gov
@@ -1034,7 +1034,7 @@
   countries: [us]
   categories:
   - home-improvements
-  tags: ["home-improvements"]
+  tags: ["homeowner", "business"]
   description: Energy efficiency ratings, suppliers, and tax credits for products, homes, utilities, and local governments.  ENERGY STAR is the government-backed symbol for energy efficiency, providing simple, credible, and unbiased information that consumers and businesses rely on to make well-informed decisions.
 
 - title: The Guardian
@@ -1072,7 +1072,7 @@
   tags: ["news"]
   countries:
   - us
-  description: Transforming how buildings are designed, constructed and operated through the LEED construction standard. Articles about benchmarking energy efficiency of materials, city strategy, measuring the helath of indoor spaces, reducing off-gassing, and improving air quality.
+  description: Transforming how buildings are designed, constructed and operated through the LEED construction standard. Articles about benchmarking energy efficiency of materials, city strategy, measuring the health of indoor spaces, reducing off-gassing, and improving air quality.
 
 - title: Citizens Climate Lobby
   url: https://citizensclimatelobby.org/
