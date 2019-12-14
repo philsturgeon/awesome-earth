@@ -47,7 +47,7 @@ export default function Template({
               <div className="padding">
                 <div className="flex items-center">
                   <h2 className="m-r-16">{category.title}</h2>
-                  <SocialLinks text={`Check out ${category.title} links on Awesom.Earth:`} url={data.site.siteMetadata.siteUrl + slug} size={20} all
+                  <SocialLinks text={`Learn more about ${category.title}`} url={data.site.siteMetadata.siteUrl + slug} size={20} all
                   />
                 </div>
                 <div dangerouslySetInnerHTML={{ __html: html }}></div>
@@ -83,7 +83,7 @@ export default function Template({
                           );
                         })}
                         <ReactMarkdown source={link.description} escapeHtml={false} />
-                        <SocialLinks text={`I found ${link.title} on Awesom.Earth!`} url={link.url} size={20} all />
+                        <SocialLinks text={`Check out ${link.title}`} url={link.url} size={20} all />
                       </li>
                       : null}
                   </Fragment>
