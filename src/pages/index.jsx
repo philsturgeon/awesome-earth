@@ -9,6 +9,7 @@ import Layout from "../components/layout";
 
 // CSS
 import "normalize.css";
+import 'bootstrap/dist/css/bootstrap.min.css';
 import "../styles/global.scss";
 
 export default ({ data }) => {

@@ -8,6 +8,41 @@ import CountryContext from "../context/country-context";
 import { Link } from "gatsby";
 import countries from "../countries";
 
+import Navbar from 'react-bootstrap/Navbar';
+import Nav from 'react-bootstrap/Nav';
+import NavDropdown from 'react-bootstrap/NavDropdown';
+
+const useCases = [
+  {
+    tag: 'business',
+    title: 'Business Owners'
+  },
+  {
+    tag: 'homeowner',
+    title: 'Home Owners'
+  },
+  {
+    tag: 'nomad',
+    title: 'Nomads'
+  },
+  {
+    tag: 'commute',
+    title: 'Commuters',
+  },
+  {
+    tag: 'developers',
+    title: 'Developers'
+  },
+  {
+    tag: 'feminine-products',
+    title: 'Feminine Products',
+  },
+  {
+    tag: 'local-authorities',
+    title: 'Local Authorities',
+  },
+];
+
 export default ({ title, seoTitle, image, description, children }) => {
   return (
     <>
@@ -18,13 +53,22 @@ export default ({ title, seoTitle, image, description, children }) => {
         meta={[]}
         image={image}
       />
+      <header>
+        <Navbar fixed="top" expand="lg">
+          <Navbar.Brand href="#home">{title}</Navbar.Brand>
+          <Navbar.Toggle aria-controls="basic-navbar-nav" />
+          <Navbar.Collapse id="basic-navbar-nav" className="d-flex justify-content-end">
+            <Nav className="d-flex justify-content-end">
+              <NavDropdown title="Use-cases" id="basic-nav-dropdown">
+                {useCases.map(useCase =>
+                  <NavDropdown.Item href={`/tags/${useCase.tag}`}>{useCase.title}</NavDropdown.Item>)}
+              </NavDropdown>
+              <Nav.Link href="https://github.com/philsturgeon/awesome-earth/">Contribute</Nav.Link>
+            </Nav>
+          </Navbar.Collapse>
+        </Navbar>
+      </header>
       <div className="content">
-        <header>
-          <Fork />
-          <h1>
-            <Link to="/">{title}</Link>
-          </h1>
-        </header>
         {children}
       </div>
       <footer className="padding">

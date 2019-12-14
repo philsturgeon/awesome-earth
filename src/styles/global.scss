@@ -66,15 +66,10 @@ body {
       padding-left: 20px;
     }
   }
+}
 
-  p,
-  ul {
-    margin: 20px 0;
-
-    &:last-child {
-      margin-bottom: 0;
-    }
-  }
+.content {
+  flex: 1 0 auto;
 
   a {
     font-size: 1em;
@@ -83,10 +78,14 @@ body {
     text-decoration: none;
     border-bottom: 1px dashed black;
   }
-}
 
-.content {
-  flex: 1 0 auto;
+  p, ul {
+    margin: 20px 0;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
 }
 
 .padding {

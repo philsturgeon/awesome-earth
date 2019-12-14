@@ -13,6 +13,7 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing \""
   },
   "dependencies": {
+    "bootstrap": "^4.4.1",
     "country-code-emoji": "^1.0.0",
     "gatsby": "^2.15.29",
     "gatsby-background-image": "^0.8.15",
@@ -31,6 +32,7 @@
     "node-sass": "^4.12.0",
     "normalize.css": "^8.0.1",
     "react": "^16.10.0",
+    "react-bootstrap": "^1.0.0-beta.16",
     "react-dom": "^16.10.0",
     "react-helmet": "^5.2.1",
     "react-markdown": "^4.2.2",
