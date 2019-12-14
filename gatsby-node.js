@@ -1,5 +1,6 @@
 const path = require(`path`);
 const { createFilePath } = require(`gatsby-source-filesystem`);
+const titleCase = require("title-case");
 
 async function asyncForEach(array, callback) {
   for (let index = 0; index < array.length; index++) {
@@ -90,7 +91,7 @@ exports.createPages = async ({ graphql, actions }) => {
     const linksForTag = await graphql(`
       query {
         allLinksYaml(
-          filter: {categories: {in: ["${tag.replace(/^\/|\/$/g, '')}"]}}
+          filter: {tags: {in: ["${tag.replace(/^\/|\/$/g, '')}"]}}
           sort: {fields: title, order: ASC}
         ) {
           edges {
@@ -108,7 +109,7 @@ exports.createPages = async ({ graphql, actions }) => {
     const links = linksForTag.data.allLinksYaml.edges.map(edge => edge.node);
 
     // The tag name with the dashes replaced with spaces and the first letter in each word capitalised.
-    const humanReadableTag = tag.split('-').map(word => word[0].toUpperCase() + word.slice(1)).join(' ');
+    const humanReadableTag = titleCase(tag);
 
     createPage({
       path: `/tags/${tag}`,

@@ -1,7 +1,6 @@
 import React from "react";
 
 // components
-import Fork from "./fork";
 import SEO from "./seo";
 
 import CountryContext from "../context/country-context";
@@ -55,10 +54,10 @@ export default ({ title, seoTitle, image, description, children }) => {
       />
       <header>
         <Navbar fixed="top" expand="lg">
-          <Navbar.Brand href="#home">{title}</Navbar.Brand>
+          <Navbar.Brand href="/">{title}</Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
-          <Navbar.Collapse id="basic-navbar-nav" className="d-flex justify-content-end">
-            <Nav className="d-flex justify-content-end">
+          <Navbar.Collapse id="basic-navbar-nav" >
+            <Nav>
               <NavDropdown title="Use-cases" id="basic-nav-dropdown">
                 {useCases.map(useCase =>
                   <NavDropdown.Item href={`/tags/${useCase.tag}`}>{useCase.title}</NavDropdown.Item>)}

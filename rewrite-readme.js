@@ -1,6 +1,5 @@
 const fs = require("fs");
 const titleCase = require("title-case");
-const flag = require("country-code-emoji");
 const path = require("path");
 const yaml = require("js-yaml");
 
@@ -17,28 +16,28 @@ const formatAsMarkdown = links => {
   links.forEach(link => {
     link.categories.forEach(catKey => {
       if (categorizedData[catKey] === undefined) {
-        categorizedData[catKey] = { 
+        categorizedData[catKey] = {
           title: titleCase(catKey),
           key: catKey,
           links: []
         };
-      } 
+      }
       categorizedData[catKey].links.push(link);
     });
   });
-  
+
   sortedKeys = Object.keys(categorizedData).sort();
 
   let outputArr = [
     '## Contents'
   ];
 
-  // Output Table of Contents  
+  // Output Table of Contents
   outputArr = outputArr.concat(sortedKeys.map(category => {
     const { title, key } = categorizedData[category];
     return `- [${title}](#${key})`;
   }));
-  
+
   // Add the links for each category
   outputArr = outputArr.concat(sortedKeys.flatMap(category => {
     const { title, key, links } = categorizedData[category];
@@ -61,7 +60,7 @@ const markdownLines = formatAsMarkdown(linksData);
 
 fs.writeFileSync(readmeFile, replaceBetween(
   str,
-  str.indexOf(startCursor) + startCursor.length + 1, 
+  str.indexOf(startCursor) + startCursor.length + 1,
   str.indexOf(endCursor),
   markdownLines,
 ), 'utf8');

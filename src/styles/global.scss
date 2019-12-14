@@ -28,42 +28,21 @@ html, body, #___gatsby, #gatsby-focus-wrapper {
 
 body {
   font-family: "Muli", sans-serif;
-  background-image: linear-gradient(to top, #c1dfc4 0%, #deecdd 100%);
+  background-image: linear-gradient(to top, #acc491 0%, #acc491 100%);
   background-repeat: no-repeat;
   background-attachment: fixed;
   font-size: 18px;
+}
 
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    margin-top: 0;
-    margin-bottom: 20px;
-  }
+header {
+  margin-bottom: 5rem;
 
-  h1 {
-    font-size: 3em;
+  nav {
+    color: #ebf2fa;
+    background: #76abc0;
 
-    &,
-    + p {
-      text-align: center;
-    }
-
-    + p {
-      text-align: left;
-      font-size: 1em;
-    }
-  }
-
-  h2 {
-    padding-top: 20px;
-
-    + p {
-      font-size: 1.2em;
-      border-left: 3px solid white;
-      padding-left: 20px;
+    .navbar-brand {
+      font-size: 2rem;
     }
   }
 }
@@ -128,7 +107,7 @@ body {
       transition: width 0.15s;
     }
 
-    a.title {
+    .title {
       display: inline-block;
       text-align: center;
       width: calc(100% - 30px);
@@ -320,7 +299,7 @@ body {
     }
 
     &.disabled {
-      color: #888;
+      color: #222;
       background-color: unset;
       cursor: default;
     }
@@ -392,7 +371,7 @@ footer {
   margin-right: 16px;
 }
 
-ul.social-links {
+.social-links {
   padding: 0;
   margin: 0;
   list-style: none;
