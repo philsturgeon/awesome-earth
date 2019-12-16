@@ -46,7 +46,7 @@ export default function Template({
               <div className="row">
                 <div className="col-12">
                   <div className="padding">
-                    <h2>{category.title} oneoneone</h2>
+                    <h2>{category.title}</h2>
                     <div dangerouslySetInnerHTML={{ __html: html }}></div>
                     {country.name !== null &&
                       <div className="showing-links-for-country">
