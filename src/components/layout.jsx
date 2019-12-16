@@ -9,7 +9,7 @@ import CountryContext from "../context/country-context";
 import { Link } from "gatsby";
 import countries from "../countries";
 
-const Layout = ({ title, seoTitle, image, description, children, dark }) => { 
+const Layout = ({ title, seoTitle, image, description, children, dark }) => {
   return (
     <>
       <SEO
@@ -24,7 +24,7 @@ const Layout = ({ title, seoTitle, image, description, children, dark }) => {
           <Fork />
           <div class="container">
             <div class="row">
-              <nav class={`navbar navbar-expand-lg ${dark ? 'navbar-dark' : 'navbar-light'}`>
+              <nav class={`navbar navbar-expand-lg ${dark ? 'navbar-dark' : 'navbar-light'}`}>
                 <a href="/" class="navbar-brand">Awesome.earth</a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                   <span class="navbar-toggler-icon"></span>
@@ -163,7 +163,7 @@ const Layout = ({ title, seoTitle, image, description, children, dark }) => {
   );
 };
 
-layout.propTypes = {
+Layout.propTypes = {
   title: PropTypes.string,
   seoTitle: PropTypes.string,
   image: PropTypes.string,
