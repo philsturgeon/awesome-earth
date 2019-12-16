@@ -1,5 +1,4 @@
 import React from "react";
-import PropTypes from 'prop-types';
 
 // components
 import Fork from "./fork";
@@ -9,7 +8,7 @@ import CountryContext from "../context/country-context";
 import { Link } from "gatsby";
 import countries from "../countries";
 
-const Layout = ({ title, seoTitle, image, description, children, dark }) => {
+export default ({ title, seoTitle, image, description, children }) => {
   return (
     <>
       <SEO
@@ -20,11 +19,11 @@ const Layout = ({ title, seoTitle, image, description, children, dark }) => {
         image={image}
       />
       <div className="content">
-        <header class={`header header-sticky ${dark ? 'header-minimal-dark' : 'header-minimal-light'}`}>
+        <header class="header header-sticky header-minimal-dark">
           <Fork />
           <div class="container">
             <div class="row">
-              <nav class={`navbar navbar-expand-lg ${dark ? 'navbar-dark' : 'navbar-light'}`}>
+              <nav class="navbar navbar-expand-lg navbar-dark">
                 <a href="/" class="navbar-brand">Awesome.earth</a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                   <span class="navbar-toggler-icon"></span>
@@ -87,7 +86,7 @@ const Layout = ({ title, seoTitle, image, description, children, dark }) => {
           </div>
         </div>
       </div>
-
+    
       <div class="half bg-white">
         <span class="half-bg bg-dark"></span>
         <div class="container">
@@ -99,7 +98,7 @@ const Layout = ({ title, seoTitle, image, description, children, dark }) => {
                     <h3>Get on our mailing list, save the world!</h3>
                   </div>
                   <div class="col-12 col-md-6">
-                    <input type="email" class="form-control form-control-inverted form-control-rounded" id="exampleInputEmail1" placeholder="Enter your email" />
+                    <input type="email" class="form-control form-control-inverted form-control-rounded" id="exampleInputEmail1" placeholder="Enter your email"/>
                   </div>
                 </div>
               </div>
@@ -107,7 +106,7 @@ const Layout = ({ title, seoTitle, image, description, children, dark }) => {
           </div>
         </div>
       </div>
-
+     
       <footer class="bg-dark">
         <div class="container">
           <div class="row gutter-3">
@@ -142,18 +141,18 @@ const Layout = ({ title, seoTitle, image, description, children, dark }) => {
                   <a class="dropdown-item" href="#">French</a>
                 </div>
                 <CountryContext.Consumer>
-                  {({ country }) => (
-                    <>
-                      <div className="credits">
-                        Maintained by <a href="https://twitter.com/philsturgeon">@philsturgeon</a> & <a href="https://twitter.com/jungledev">@jungledev</a>.
+                {({ country }) => (
+                  <>
+                    <div className="credits">
+                      Maintained by <a href="https://twitter.com/philsturgeon">@philsturgeon</a> & <a href="https://twitter.com/jungledev">@jungledev</a>.
                     </div>
-                      <div className="change-country">
-                        {country.name ? <><span className="current">{countries.fromAlpha2Code(country.code).emoji} {country.name}</span> <span>&middot;</span></> : null}
-                        <Link to="/select-your-country" className="link">{country.name ? 'Change' : 'Select'} country</Link>
-                      </div>
-                    </>
-                  )}
-                </CountryContext.Consumer>
+                    <div className="change-country">
+                      {country.name ? <><span className="current">{countries.fromAlpha2Code(country.code).emoji} {country.name}</span> <span>&middot;</span></> : null}
+                      <Link to="/select-your-country" className="link">{country.name ? 'Change' : 'Select'} country</Link>
+                    </div>
+                  </>
+                )}
+              </CountryContext.Consumer>
               </div>
             </div>
           </div>
@@ -162,14 +161,3 @@ const Layout = ({ title, seoTitle, image, description, children, dark }) => {
     </>
   );
 };
-
-Layout.propTypes = {
-  title: PropTypes.string,
-  seoTitle: PropTypes.string,
-  image: PropTypes.string,
-  description: PropTypes.string,
-  children: PropTypes.node,
-  dark: PropTypes.bool,
-};
-
-export default Layout;
