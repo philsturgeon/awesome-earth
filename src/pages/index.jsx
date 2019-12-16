@@ -20,7 +20,7 @@ export default ({ data }) => {
 
   return (
     <>
-      <Layout title={data.site.siteMetadata.title} seoTitle="Welcome">
+      <Layout title={data.site.siteMetadata.title} seoTitle="Welcome" dark>
         <section class="hero">
           <div class="image image-overlay" style={{ backgroundImage:'url(https://images.unsplash.com/photo-1532408840957-031d8034aeef?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1780&q=80)'}}></div>
           <div class="container">
