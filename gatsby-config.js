@@ -5,6 +5,14 @@ module.exports = {
     description: `The world is simultaneously underwater and on fire, and people want to know what they can do about it. This site is full of resources, services, products and ideas you can use to be awesome to the earth.`,
   },
   plugins: [
+    {
+      resolve: 'gatsby-plugin-web-font-loader',
+      options: {
+        google: {
+          families: ['Muli', 'Open Sans', 'Roboto Mono'],
+        },
+      },
+    },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     `gatsby-plugin-sass`,
