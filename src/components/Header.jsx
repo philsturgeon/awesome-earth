@@ -23,21 +23,20 @@ const Header = ({ dark }) => (
       <Row noGutters>
         <Col>
           <Navbar
-            bg={dark ? 'dark' : 'light'}
+            collapseOnSelect
+            expand="lg"
+            bg={dark ? 'dark' : 'white'}
             variant={dark ? 'dark' : 'light'}
           >
             <Navbar.Brand>Awesom.earth</Navbar.Brand>
+            <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse className="justify-content-end">
               <Nav.Link href="/">Home</Nav.Link>
               <Nav.Link href="/about">About</Nav.Link>
               <Nav.Link href="/contribute">Contribute</Nav.Link>
 
               <Form inline>
-                <FormControl
-                  type="text"
-                  placeholder="Search"
-                  className="mr-sm-2"
-                />
+                <FormControl type="text" placeholder="Search" />
                 <Button>Search</Button>
               </Form>
             </Navbar.Collapse>
