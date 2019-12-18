@@ -48,15 +48,15 @@ module.exports = {
             options: {
               maxWidth: 590,
             },
-          }
+          },
         ],
       },
     },
     {
-      resolve: "gatsby-source-filesystem",
+      resolve: 'gatsby-source-filesystem',
       options: {
         path: `${__dirname}/src/images`,
-        name: "images",
+        name: 'images',
       },
     },
     `gatsby-plugin-react-helmet`,

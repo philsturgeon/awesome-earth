@@ -1,5 +1,5 @@
 ---
-title: "Carbon Reduction"
+title: 'Carbon Reduction'
 image: ../images/carbon-reduction.jpg
 ---
 

@@ -1,17 +1,17 @@
-import React from "react";
+import React from 'react';
 
-import Container from "react-bootstrap/Container";
-import Col from "react-bootstrap/Col";
-import Row from "react-bootstrap/Row";
-import Navbar from "react-bootstrap/Navbar";
-import Nav from "react-bootstrap/Nav";
+import Container from 'react-bootstrap/Container';
+import Col from 'react-bootstrap/Col';
+import Row from 'react-bootstrap/Row';
+import Navbar from 'react-bootstrap/Navbar';
+import Nav from 'react-bootstrap/Nav';
 
-import { Fork } from ".";
+import { Fork } from '.';
 
 const Header = ({ dark }) => (
   <header
     className={`header header-sticky ${
-      dark ? "header-minimal-dark" : "header-minimal-light"
+      dark ? 'header-minimal-dark' : 'header-minimal-light'
     }`}
   >
     <Fork />
@@ -20,8 +20,8 @@ const Header = ({ dark }) => (
       <Row noGutters>
         <Col>
           <Navbar
-            bg={dark ? "dark" : "light"}
-            variant={dark ? "dark" : "light"}
+            bg={dark ? 'dark' : 'light'}
+            variant={dark ? 'dark' : 'light'}
           >
             <Nav>
               <Navbar.Brand>Awesom.earth</Navbar.Brand>

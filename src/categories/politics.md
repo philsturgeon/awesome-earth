@@ -3,7 +3,7 @@ title: Politics
 image: ../images/politics.jpg
 ---
 
-Climate action should not be partisan, as if your interests are in economic growth, job opportunities, [personal good health](https://www.theinvadingsea.com/2018/03/01/if-you-live-in-florida-doctors-say-climate-change-is-already-affecting-your-health/), avoiding the [disproportionate impacts to those living in poverty](https://www.theguardian.com/environment/2014/mar/31/climate-change-poor-suffer-most-un-report), [home values](https://www.theinvadingsea.com/2018/04/30/the-risk-of-sea-level-rise-is-chipping-away-at-miami-home-values-new-research-shows/), everyone should care. 
+Climate action should not be partisan, as if your interests are in economic growth, job opportunities, [personal good health](https://www.theinvadingsea.com/2018/03/01/if-you-live-in-florida-doctors-say-climate-change-is-already-affecting-your-health/), avoiding the [disproportionate impacts to those living in poverty](https://www.theguardian.com/environment/2014/mar/31/climate-change-poor-suffer-most-un-report), [home values](https://www.theinvadingsea.com/2018/04/30/the-risk-of-sea-level-rise-is-chipping-away-at-miami-home-values-new-research-shows/), everyone should care.
 
 Individuals can do everything right in their own lives, even help inspire people
 around them, but there is a limit to a single persons ability to effect change.

@@ -1,5 +1,5 @@
 ---
-title: "Cooking"
+title: 'Cooking'
 image: ../images/cooking.jpg
 ---
 

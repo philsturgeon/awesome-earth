@@ -1,26 +1,25 @@
-import React, { useState, createContext } from "react";
+import React, { useState, createContext } from 'react';
 
 const defaultCountry = {
-    code: null,
-    name: null,
+  code: null,
+  name: null,
 };
 
 const CountryContext = createContext({
-    country: defaultCountry,
-    setCountry: () => {},
+  country: defaultCountry,
+  setCountry: () => {},
 });
 
 const CountryProvider = ({ children }) => {
+  const [country, setCountry] = useState(defaultCountry);
+  const clearCountry = () => setCountry(defaultCountry);
 
-    const [country, setCountry] = useState(defaultCountry);
-    const clearCountry = () => setCountry(defaultCountry);
-
-    return (
-        <CountryContext.Provider value={{ country, setCountry, clearCountry }}>
-            {children}
-        </CountryContext.Provider>
-    );
-}
+  return (
+    <CountryContext.Provider value={{ country, setCountry, clearCountry }}>
+      {children}
+    </CountryContext.Provider>
+  );
+};
 
 export default CountryContext;
 export { CountryProvider };

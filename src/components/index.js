@@ -5,6 +5,4 @@ import Header from './Header';
 import Layout from './layout';
 import SEO from './seo';
 
-export {
-  Carousel, Fork, Footer, Header, Layout, SEO
-};
+export { Carousel, Fork, Footer, Header, Layout, SEO };

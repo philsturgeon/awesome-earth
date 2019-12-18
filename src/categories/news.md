@@ -1,5 +1,5 @@
 ---
-title: "News"
+title: 'News'
 image: ../images/news.jpg
 ---
 

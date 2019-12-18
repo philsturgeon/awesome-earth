@@ -1,13 +1,21 @@
-import React from "react";
-import PropTypes from "prop-types";
-
+import React from 'react';
+import PropTypes from 'prop-types';
 
 // components
-import SEO from "./seo";
+import SEO from './seo';
 
-import { Header, Footer } from ".";
+import { Header, Footer } from '.';
 
-const Layout = ({ title, meta, keywords, seoTitle, image, description, children, dark }) => {
+const Layout = ({
+  title,
+  meta,
+  keywords,
+  seoTitle,
+  image,
+  description,
+  children,
+  dark,
+}) => {
   return (
     <>
       <SEO

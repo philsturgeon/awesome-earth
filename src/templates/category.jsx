@@ -1,11 +1,11 @@
-import React, { Fragment } from "react";
-import ReactMarkdown from "react-markdown/with-html";
-import slugify from "slugify";
-import { graphql, Link } from "gatsby";
+import React, { Fragment } from 'react';
+import ReactMarkdown from 'react-markdown/with-html';
+import slugify from 'slugify';
+import { graphql, Link } from 'gatsby';
 
-import { Layout } from "../components";
-import Countries from "../countries";
-import CountryContext from "../context/country-context";
+import { Layout } from '../components';
+import Countries from '../countries';
+import CountryContext from '../context/country-context';
 
 export const query = graphql`
   query {
@@ -25,7 +25,8 @@ export default function Template({
   const seoImage =
     data.site.siteMetadata.siteUrl + category.image.twitterCard.fixed.src;
 
-  const linkHasCountry = (link, country) => !!link.countries && link.countries.includes(country.code.toLowerCase());
+  const linkHasCountry = (link, country) =>
+    !!link.countries && link.countries.includes(country.code.toLowerCase());
 
   return (
     <Layout
@@ -36,28 +37,44 @@ export default function Template({
     >
       <CountryContext.Consumer>
         {({ country, clearCountry }) => {
-          const anyLinksHaveCountry = country.name !== null && links.some(link => linkHasCountry(link, country));
+          const anyLinksHaveCountry =
+            country.name !== null &&
+            links.some(link => linkHasCountry(link, country));
           return (
             <div className="container header-padding">
               <div className="row">
                 <div className="col-12">
                   <h2>{category.title}</h2>
                   <div dangerouslySetInnerHTML={{ __html: html }}></div>
-                  {country.name !== null &&
+                  {country.name !== null && (
                     <div className="showing-links-for-country">
-                      <h3>{anyLinksHaveCountry ? 'Showing' : 'No'} links for {Countries.fromAlpha2Code(country.code).emoji} {country.name}</h3>
+                      <h3>
+                        {anyLinksHaveCountry ? 'Showing' : 'No'} links for{' '}
+                        {Countries.fromAlpha2Code(country.code).emoji}{' '}
+                        {country.name}
+                      </h3>
                       <Link to="/select-your-country">Change</Link>
                       <span>&middot;</span>
-                      <a href="#" onClick={e => { e.preventDefault(); clearCountry(); }}>Remove</a>
+                      <a
+                        href="#"
+                        onClick={e => {
+                          e.preventDefault();
+                          clearCountry();
+                        }}
+                      >
+                        Remove
+                      </a>
                     </div>
-                  }
+                  )}
                 </div>
 
                 <div className="col-12">
                   <ul className="link-wrapper">
                     {links.map(link => (
                       <Fragment key={`${slugify(link.title)}`}>
-                        {country.name === null || (country.name !== null && linkHasCountry(link, country)) ?
+                        {country.name === null ||
+                        (country.name !== null &&
+                          linkHasCountry(link, country)) ? (
                           <li className="link">
                             <strong>
                               <a
@@ -69,16 +86,24 @@ export default function Template({
                               </a>
                             </strong>
                             {(link.countries || []).map(code => {
-                              const country = Countries.fromAlpha2Code(code.toUpperCase());
+                              const country = Countries.fromAlpha2Code(
+                                code.toUpperCase()
+                              );
                               return (
-                                <span key={`${slugify(country.name)}`} title={country.name}>
+                                <span
+                                  key={`${slugify(country.name)}`}
+                                  title={country.name}
+                                >
                                   {country.emoji}
                                 </span>
                               );
                             })}
-                            <ReactMarkdown source={link.description} escapeHtml={false} />
+                            <ReactMarkdown
+                              source={link.description}
+                              escapeHtml={false}
+                            />
                           </li>
-                          : null}
+                        ) : null}
                       </Fragment>
                     ))}
                   </ul>

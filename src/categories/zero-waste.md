@@ -1,5 +1,5 @@
 ---
-title: "Zero Waste"
+title: 'Zero Waste'
 image: ../images/zero-waste.jpg
 ---
 

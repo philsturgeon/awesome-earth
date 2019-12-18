@@ -1,9 +1,9 @@
-import React from "react";
-import { Link, graphql } from "gatsby";
-import BackgroundImage from "gatsby-background-image";
-import slugify from "slugify";
+import React from 'react';
+import { Link, graphql } from 'gatsby';
+import BackgroundImage from 'gatsby-background-image';
+import slugify from 'slugify';
 
-import { Layout } from "../components";
+import { Layout } from '../components';
 
 export default ({ data }) => {
   const categories = data.allMarkdownRemark.edges.map(edge => ({
@@ -15,11 +15,19 @@ export default ({ data }) => {
     <>
       <Layout title={data.site.siteMetadata.title} seoTitle="Welcome">
         <section className="hero">
-          <div className="image image-overlay" style={{ backgroundImage:'url(https://images.unsplash.com/photo-1532408840957-031d8034aeef?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1780&q=80)'}}></div>
+          <div
+            className="image image-overlay"
+            style={{
+              backgroundImage:
+                'url(https://images.unsplash.com/photo-1532408840957-031d8034aeef?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1780&q=80)',
+            }}
+          ></div>
           <div className="container">
             <div className="row">
               <div className="col-8 bg-dark text-white">
-                <h1 className="mb-2">Is today the day you start making a difference?</h1>
+                <h1 className="mb-2">
+                  Is today the day you start making a difference?
+                </h1>
               </div>
             </div>
           </div>
@@ -32,10 +40,20 @@ export default ({ data }) => {
                   <div className="card-body py-2">
                     <div className="row">
                       <div className="col-md-8 col-lg-10">
-                        <input type="text" className="form-control form-control-minimal" placeholder="Find resources, ideas and services here" aria-label="Search"/>
+                        <input
+                          type="text"
+                          className="form-control form-control-minimal"
+                          placeholder="Find resources, ideas and services here"
+                          aria-label="Search"
+                        />
                       </div>
                       <div className="col-md-4 col-lg-2">
-                        <button type="button" className="btn btn-block btn-dark">Search</button>
+                        <button
+                          type="button"
+                          className="btn btn-block btn-dark"
+                        >
+                          Search
+                        </button>
                       </div>
                     </div>
                   </div>
@@ -51,22 +69,30 @@ export default ({ data }) => {
               {categories.map(category => (
                 <div className="col-md-6 col-lg-4">
                   <BackgroundImage
-
                     className="card stacked text-left"
                     key={slugify(category.title)}
                     fluid={category.image.childImageSharp.fluid}
-                    backgroundRepeat='none'
+                    backgroundRepeat="none"
                   >
-                    <div className="card-body">  
-                      <h3 className="card-title mt-3 mb-1 bg-dark text-white pl-1">{category.title}</h3>
-                      <p className="card-text mb-2 text-bold bg-transparent bg-white opacity-8 p-1" >Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae laudantium pariatur architecto aperiam cumque eaque est.</p>
-                      <Link to={category.slug} className="btn btn-dark btn-small">Learn More</Link>
+                    <div className="card-body">
+                      <h3 className="card-title mt-3 mb-1 bg-dark text-white pl-1">
+                        {category.title}
+                      </h3>
+                      <p className="card-text mb-2 text-bold bg-transparent bg-white opacity-8 p-1">
+                        Lorem ipsum dolor sit amet, consectetur adipisicing
+                        elit. Vitae laudantium pariatur architecto aperiam
+                        cumque eaque est.
+                      </p>
+                      <Link
+                        to={category.slug}
+                        className="btn btn-dark btn-small"
+                      >
+                        Learn More
+                      </Link>
                     </div>
                   </BackgroundImage>
                 </div>
-
-                ))}
-              
+              ))}
             </div>
           </div>
         </section>

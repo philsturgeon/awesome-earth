@@ -17,7 +17,7 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
       value: slug,
     });
   }
-}
+};
 
 exports.createPages = async ({ graphql, actions }) => {
   const { createPage } = actions;
@@ -49,7 +49,12 @@ exports.createPages = async ({ graphql, actions }) => {
   `);
 
   await asyncForEach(result.data.allMarkdownRemark.edges, async ({ node }) => {
-    const { frontmatter, fields: { slug }, excerpt, html } = node;
+    const {
+      frontmatter,
+      fields: { slug },
+      excerpt,
+      html,
+    } = node;
 
     const linkResult = await graphql(`
       query {
@@ -108,7 +113,10 @@ exports.createPages = async ({ graphql, actions }) => {
     const links = linksForTag.data.allLinksYaml.edges.map(edge => edge.node);
 
     // The tag name with the dashes replaced with spaces and the first letter in each word capitalised.
-    const humanReadableTag = tag.split('-').map(word => word[0].toUpperCase() + word.slice(1)).join(' ');
+    const humanReadableTag = tag
+      .split('-')
+      .map(word => word[0].toUpperCase() + word.slice(1))
+      .join(' ');
 
     createPage({
       path: `/tags/${tag}`,
@@ -116,4 +124,4 @@ exports.createPages = async ({ graphql, actions }) => {
       context: { tag: humanReadableTag, links },
     });
   });
-}
+};

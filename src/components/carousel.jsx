@@ -1,10 +1,10 @@
-import React from "react";
-import Img from "gatsby-image";
-import { useStaticQuery, graphql } from "gatsby";
-import { Carousel } from "react-responsive-carousel";
-import "react-responsive-carousel/lib/styles/carousel.min.css";
+import React from 'react';
+import Img from 'gatsby-image';
+import { useStaticQuery, graphql } from 'gatsby';
+import { Carousel } from 'react-responsive-carousel';
+import 'react-responsive-carousel/lib/styles/carousel.min.css';
 
-import Featured from "../data/featured.yaml";
+import Featured from '../data/featured.yaml';
 
 export default () => {
   const { allFile } = useStaticQuery(
@@ -31,7 +31,7 @@ export default () => {
           }
         }
       }
-    `,
+    `
   );
   const images = allFile.edges;
   return (

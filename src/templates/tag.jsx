@@ -1,10 +1,10 @@
-import React from "react";
-import ReactMarkdown from "react-markdown/with-html";
-import slugify from "slugify";
+import React from 'react';
+import ReactMarkdown from 'react-markdown/with-html';
+import slugify from 'slugify';
 
-import { Layout } from "../components";
-import Countries from "../countries";
-import { graphql } from "gatsby";
+import { Layout } from '../components';
+import Countries from '../countries';
+import { graphql } from 'gatsby';
 
 export const query = graphql`
   query {
@@ -16,13 +16,10 @@ export const query = graphql`
   }
 `;
 
-export default function Template({ data, pageContext: { tag, links }}) {
+export default function Template({ data, pageContext: { tag, links } }) {
   return (
     <>
-      <Layout
-        title={data.site.siteMetadata.title}
-        seoTitle={tag}
-      >
+      <Layout title={data.site.siteMetadata.title} seoTitle={tag}>
         <div className="padding">
           <h2>{tag}</h2>
         </div>

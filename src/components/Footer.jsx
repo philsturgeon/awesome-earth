@@ -1,8 +1,8 @@
-import React from "react";
-import { Link } from "gatsby";
+import React from 'react';
+import { Link } from 'gatsby';
 
-import CountryContext from "../context/country-context";
-import countries from "../countries";
+import CountryContext from '../context/country-context';
+import countries from '../countries';
 
 const Footer = () => (
   <footer className="bg-dark">
@@ -23,17 +23,17 @@ const Footer = () => (
               <ul className="list-group list-group-minimal">
                 <li className="list-group-item">
                   <a href="" className="link">
-                    Link{" "}
+                    Link{' '}
                   </a>
                 </li>
                 <li className="list-group-item">
                   <a href="" className="link">
-                    Link{" "}
+                    Link{' '}
                   </a>
                 </li>
                 <li className="list-group-item">
                   <a href="" className="link">
-                    Link{" "}
+                    Link{' '}
                   </a>
                 </li>
               </ul>
@@ -78,23 +78,25 @@ const Footer = () => (
               {({ country }) => (
                 <>
                   <div className="credits">
-                    Maintained by{" "}
-                    <a href="https://twitter.com/philsturgeon">@philsturgeon</a>{" "}
-                    <a href="https://twitter.com/jungledev">@jungledev</a> {" "}
-                    <a href="https://twitter.com/irreverentmike">@irreverentmike</a>
+                    Maintained by{' '}
+                    <a href="https://twitter.com/philsturgeon">@philsturgeon</a>{' '}
+                    <a href="https://twitter.com/jungledev">@jungledev</a>{' '}
+                    <a href="https://twitter.com/irreverentmike">
+                      @irreverentmike
+                    </a>
                   </div>
                   <div className="change-country">
                     {country.name ? (
                       <>
                         <span className="current">
-                          {countries.fromAlpha2Code(country.code).emoji}{" "}
+                          {countries.fromAlpha2Code(country.code).emoji}{' '}
                           {country.name}
-                        </span>{" "}
+                        </span>{' '}
                         <span>&middot;</span>
                       </>
                     ) : null}
                     <Link to="/select-your-country" className="link">
-                      {country.name ? "Change" : "Select"} country
+                      {country.name ? 'Change' : 'Select'} country
                     </Link>
                   </div>
                 </>
