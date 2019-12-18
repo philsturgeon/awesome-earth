@@ -34,6 +34,7 @@
     "normalize.css": "^8.0.1",
     "prop-types": "^15.7.2",
     "react": "^16.10.0",
+    "react-bootstrap": "^1.0.0-beta.16",
     "react-dom": "^16.10.0",
     "react-helmet": "^5.2.1",
     "react-markdown": "^4.2.2",
