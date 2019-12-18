@@ -13,6 +13,15 @@ module.exports = {
         },
       },
     },
+    {
+      resolve: 'gatsby-plugin-google-tagmanager',
+      options: {
+        // TODOL Supply ID for GTM here
+        // id: 'GTM-PZRPQ5H',
+        // set this to true to make GTM work in dev environment (for testing/debug)
+        includeInDevelopment: false,
+      },
+    },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     `gatsby-plugin-sass`,
