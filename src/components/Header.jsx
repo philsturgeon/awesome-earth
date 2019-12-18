@@ -28,7 +28,7 @@ const Header = ({ dark }) => (
             bg={dark ? 'dark' : 'white'}
             variant={dark ? 'dark' : 'light'}
           >
-            <Navbar.Brand>Awesom.earth</Navbar.Brand>
+            <Navbar.Brand href="/">Awesom.earth</Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse className="justify-content-end">
               <Nav.Link href="/">Home</Nav.Link>
