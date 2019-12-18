@@ -80,7 +80,8 @@ const Footer = () => (
                   <div className="credits">
                     Maintained by{" "}
                     <a href="https://twitter.com/philsturgeon">@philsturgeon</a>{" "}
-                    & <a href="https://twitter.com/jungledev">@jungledev</a>.
+                    <a href="https://twitter.com/jungledev">@jungledev</a> {" "}
+                    <a href="https://twitter.com/irreverentmike">@irreverentmike</a>
                   </div>
                   <div className="change-country">
                     {country.name ? (
