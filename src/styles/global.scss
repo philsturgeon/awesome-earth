@@ -27,7 +27,6 @@
 
 /* Select Your Country */
 .select-your-country {
-
   max-width: 768px;
   margin: 0 auto;
 
@@ -40,11 +39,11 @@
     input {
       border: 1px solid transparent;
       width: 256px;
-      border-radius: .25rem;
-      padding-left: .5rem;
-      padding-right: .5rem;
-      padding-top: .5rem;
-      padding-bottom: .5rem;
+      border-radius: 0.25rem;
+      padding-left: 0.5rem;
+      padding-right: 0.5rem;
+      padding-top: 0.5rem;
+      padding-bottom: 0.5rem;
       line-height: 1;
       appearance: none;
 
@@ -59,26 +58,26 @@
     color: #333;
     font-size: 1em;
     font-weight: 800;
-    padding-left: .5rem;
-    padding-right: .5rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
     padding-top: 1.5rem;
     padding-bottom: 1.5rem;
-    transition: background-color .15s ease;
+    transition: background-color 0.15s ease;
     border-bottom: 1px dashed black;
     cursor: pointer;
 
     &:hover {
-      background-color: #BBDBBA;
+      background-color: #bbdbba;
     }
 
     &.disabled {
-      color: #888;
+      color: #222;
       background-color: unset;
       cursor: default;
     }
 
     &.selected {
-      background-color: #BBDBBA;
+      background-color: #bbdbba;
       cursor: auto;
 
       small {
@@ -94,7 +93,7 @@
   }
 
   .no-content-message {
-    margin-top: .5rem;
+    margin-top: 0.5rem;
     font-weight: 600;
   }
 }
