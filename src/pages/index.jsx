@@ -42,7 +42,7 @@ export default ({ data }) => {
         </Jumbotron>
 
         <Container>
-          <Row>
+          {/* <Row>
             <Col>
               <Card>
                 <Card.Body>
@@ -68,11 +68,18 @@ export default ({ data }) => {
                 </Card.Footer>
               </Card>
             </Col>
-          </Row>
+          </Row> */}
           <Row>
-            {categories.map(category => (
-              <CategoryCard category={category} key={slugify(category.title)} />
-            ))}
+            <Col>
+              <div className="card-grid">
+                {categories.map(category => (
+                  <CategoryCard
+                    category={category}
+                    key={slugify(category.title)}
+                  />
+                ))}
+              </div>
+            </Col>
           </Row>
         </Container>
       </Layout>
