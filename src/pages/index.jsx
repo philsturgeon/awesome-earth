@@ -23,7 +23,7 @@ export default ({ data }) => {
       <Layout title={data.site.siteMetadata.title} seoTitle="Welcome">
         <Jumbotron
           style={{
-            height: '45vh',
+            minHeight: '45vh',
             backgroundPosition: 'center center',
             backgroundSize: 'cover',
             backgroundImage:
