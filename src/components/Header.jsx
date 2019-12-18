@@ -17,7 +17,7 @@ const Header = ({ dark }) => (
           }`}
         >
           <a href="/" className="navbar-brand">
-            Awesome.earth
+            Awesom.earth
           </a>
           <button
             className="navbar-toggler"
