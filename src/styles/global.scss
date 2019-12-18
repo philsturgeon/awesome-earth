@@ -134,3 +134,28 @@ footer {
 .header-padding {
   margin-top: 4rem;
 }
+
+.card-grid {
+  display: grid;
+  grid-row-gap: 1.5rem;
+  grid-column-gap: 1.5rem;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+@media screen and (max-width: 1680px) {
+  .card-grid {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .card-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .card-grid {
+    grid-template-columns: 1fr;
+  }
+}
