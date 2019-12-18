@@ -55,15 +55,14 @@ export default function Template({
                       </h3>
                       <Link to="/select-your-country">Change</Link>
                       <span>&middot;</span>
-                      <a
-                        href="#"
+                      <button
                         onClick={e => {
                           e.preventDefault();
                           clearCountry();
                         }}
                       >
                         Remove
-                      </a>
+                      </button>
                     </div>
                   )}
                 </div>
