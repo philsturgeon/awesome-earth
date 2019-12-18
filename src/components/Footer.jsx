@@ -1,121 +1,86 @@
 import React from 'react';
-import { Link } from 'gatsby';
 import { OutboundLink } from 'gatsby-plugin-google-analytics';
 
 import Button from 'react-bootstrap/Button';
 import Container from 'react-bootstrap/Container';
 import Col from 'react-bootstrap/Col';
-import Form from 'react-bootstrap/Form';
-import FormControl from 'react-bootstrap/FormControl';
+// import Dropdown from 'react-bootstrap/Dropdown';
 import Row from 'react-bootstrap/Row';
-import Navbar from 'react-bootstrap/Navbar';
-import Nav from 'react-bootstrap/Nav';
 
 import CountryContext from '../context/country-context';
 import countries from '../countries';
 
 const Footer = () => (
-  <footer className="bg-dark">
+  <footer
+    className="bg-dark"
+    style={{ marginTop: '4rem', paddingTop: '2rem', paddingBottom: '10rem' }}
+  >
     <Container>
       <Row noGutters>
-        <Col xs={12} md={2}>
-          <a href="/" className="text-white">
-            Awesom.earth
-          </a>
-        </Col>
-        <Col xs={12} md={6} className="text-white">
-          <p className="mb-4">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
-          </p>
-          <Row>
-            <Col>
-              <ul className="list-group list-group-minimal">
-                <li className="list-group-item">
-                  <a href="/" className="link">
-                    Link{' '}
-                  </a>
-                </li>
-                <li className="list-group-item">
-                  <a href="/" className="link">
-                    Link{' '}
-                  </a>
-                </li>
-                <li className="list-group-item">
-                  <a href="/" className="link">
-                    Link{' '}
-                  </a>
-                </li>
-              </ul>
-            </Col>
-          </Row>
-        </Col>
-        <div className="col-12 col-md-4 col-lg-2 ml-auto text-md-right">
-          <div className="dropdown">
-            <button
-              className="btn btn-inverted btn-block dropdown-toggle"
-              type="button"
-              id="dropdownMenuButton"
-              data-toggle="dropdown"
-              aria-haspopup="true"
-              aria-expanded="false"
+        <Col xs={12} md={10} className="text-white">
+          <a href="/">&copy; 2019- Awesom.earth</a>
+
+          <div className="credits">
+            Maintained by{' '}
+            <OutboundLink
+              href="https://twitter.com/philsturgeon"
+              target="_blank"
+              rel="noopener noreferrer"
             >
-              English
-            </button>
-            <div className="dropdown-menu" aria-labelledby="dropdownMenuButton">
-              <a className="dropdown-item" href="#">
-                British
-              </a>
-              <a className="dropdown-item" href="#">
-                French
-              </a>
-            </div>
-            <CountryContext.Consumer>
-              {({ country }) => (
-                <>
-                  <div className="credits">
-                    Maintained by{' '}
-                    <OutboundLink
-                      to="https://twitter.com/philsturgeon"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      @philsturgeon
-                    </OutboundLink>{' '}
-                    <OutboundLink
-                      href="https://twitter.com/jungledev"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      >@jungledev
-                    </OutboundLink>{' '}
-                    <OutboundLink
-                      href="https://twitter.com/irreverentmike"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      @irreverentmike
-                    </OutboundLink>
-                  </div>
-                  <div className="change-country">
-                    {country.name ? (
-                      <>
-                        <span className="current">
-                          {countries.fromAlpha2Code(country.code).emoji}{' '}
-                          {country.name}
-                        </span>{' '}
-                        <span>&middot;</span>
-                      </>
-                    ) : null}
-                    <Link to="/select-your-country" className="link">
-                      {country.name ? 'Change' : 'Select'} country
-                    </Link>
-                  </div>
-                </>
-              )}
-            </CountryContext.Consumer>
+              @philsturgeon
+            </OutboundLink>{' '}
+            <OutboundLink
+              href="https://twitter.com/jungledev"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              @jungledev
+            </OutboundLink>{' '}
+            <OutboundLink
+              href="https://twitter.com/irreverentmike"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              @irreverentmike
+            </OutboundLink>
           </div>
-        </div>
+        </Col>
+        <Col xs={12} md={2} lg={2}>
+          {/* <Dropdown>
+            <Dropdown.Toggle variant="secondary" id="dropdown-basic">
+              Language
+            </Dropdown.Toggle>
+
+            <Dropdown.Menu>
+              <Dropdown.Item href="#/action-1">English</Dropdown.Item>
+              <Dropdown.Item href="#/action-2">Español</Dropdown.Item>
+              <Dropdown.Item href="#/action-3">Français</Dropdown.Item>
+            </Dropdown.Menu>
+          </Dropdown> */}
+          <CountryContext.Consumer>
+            {({ country }) => (
+              <>
+                <div className="change-country">
+                  {country.name ? (
+                    <>
+                      <span className="current">
+                        {countries.fromAlpha2Code(country.code).emoji}{' '}
+                        {country.name}
+                      </span>{' '}
+                      <span>&middot;</span>
+                    </>
+                  ) : null}
+                  <Button
+                    href="/select-your-country"
+                    className="link text-white"
+                  >
+                    {country.name ? 'Change' : 'Filter site for your'} country
+                  </Button>
+                </div>
+              </>
+            )}
+          </CountryContext.Consumer>
+        </Col>
       </Row>
     </Container>
   </footer>
