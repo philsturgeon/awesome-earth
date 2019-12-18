@@ -31,7 +31,6 @@ const Header = ({ dark }) => (
             <Navbar.Brand href="/">Awesom.earth</Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse className="justify-content-end">
-              <Nav.Link href="/">Home</Nav.Link>
               <Nav.Link href="/about">About</Nav.Link>
               <Nav.Link href="/contribute">Contribute</Nav.Link>
 
