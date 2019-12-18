@@ -3,10 +3,7 @@ import { Link, graphql } from "gatsby";
 import BackgroundImage from "gatsby-background-image";
 import slugify from "slugify";
 
-// Components
-// TODO We lost the carousel in the redesign, should it come back or do we just do that on categories now?
-import Carousel from "../components/carousel";
-import Layout from "../components/layout";
+import { Layout } from "../components";
 
 export default ({ data }) => {
   const categories = data.allMarkdownRemark.edges.map(edge => ({
@@ -16,7 +13,7 @@ export default ({ data }) => {
 
   return (
     <>
-      <Layout title={data.site.siteMetadata.title} seoTitle="Welcome" dark>
+      <Layout title={data.site.siteMetadata.title} seoTitle="Welcome">
         <section className="hero">
           <div className="image image-overlay" style={{ backgroundImage:'url(https://images.unsplash.com/photo-1532408840957-031d8034aeef?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1780&q=80)'}}></div>
           <div className="container">

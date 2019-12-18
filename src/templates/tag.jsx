@@ -1,7 +1,8 @@
 import React from "react";
 import ReactMarkdown from "react-markdown/with-html";
 import slugify from "slugify";
-import Layout from "../components/layout";
+
+import { Layout } from "../components";
 import Countries from "../countries";
 import { graphql } from "gatsby";
 

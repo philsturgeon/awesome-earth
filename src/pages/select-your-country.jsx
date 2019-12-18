@@ -1,9 +1,10 @@
 import React, { useState } from "react";
 import { graphql, navigate } from "gatsby";
 import flag from "country-code-emoji";
-import Layout from "../components/layout";
-import CountryContext from "../context/country-context";
 import { flattenDeep } from "lodash";
+
+import { Layout } from "../components";
+import CountryContext from "../context/country-context";
 
 export default ({ data }) => {
     const countries = require('i18n-iso-countries').getNames('en');

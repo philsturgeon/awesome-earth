@@ -3,7 +3,7 @@ import ReactMarkdown from "react-markdown/with-html";
 import slugify from "slugify";
 import { graphql, Link } from "gatsby";
 
-import Layout from "../components/layout";
+import { Layout } from "../components";
 import Countries from "../countries";
 import CountryContext from "../context/country-context";
 
