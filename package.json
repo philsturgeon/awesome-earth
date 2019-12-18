@@ -13,6 +13,7 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing \""
   },
   "dependencies": {
+    "bootstrap": "^4.4.1",
     "country-code-emoji": "^1.0.0",
     "gatsby": "^2.15.29",
     "gatsby-background-image": "^0.8.15",
