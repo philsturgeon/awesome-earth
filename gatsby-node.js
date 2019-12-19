@@ -36,6 +36,11 @@ exports.createPages = async ({ graphql, actions }) => {
                     src
                   }
                 }
+                banner: childImageSharp {
+                  fixed(quality: 100, width: 1600) {
+                    src
+                  }
+                }
               }
             }
             fields {

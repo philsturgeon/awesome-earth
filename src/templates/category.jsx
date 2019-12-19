@@ -48,6 +48,8 @@ export default function Template({
     categoryLinks = links.slice(featuredLinks.length);
   }
 
+  console.log(category);
+
   return (
     <Layout
       title={`${category.title} resources`}
@@ -61,10 +63,7 @@ export default function Template({
           minHeight: '45vh',
           backgroundPosition: 'center center',
           backgroundSize: 'cover',
-          backgroundImage: `url(https://source.unsplash.com/featured/1600x400?${category.title.replace(
-            ' ',
-            ','
-          )})`,
+          backgroundImage: `url(${category.image.banner.fixed.src})`,
         }}
       >
         <Container>
