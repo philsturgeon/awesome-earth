@@ -13,7 +13,7 @@ import countries from '../countries';
 const Footer = () => (
   <footer
     className="bg-dark"
-    style={{ marginTop: '4rem', paddingTop: '2rem', paddingBottom: '10rem' }}
+    style={{ marginTop: '3rem', paddingTop: '8rem', paddingBottom: '10rem' }}
   >
     <Container>
       <Row noGutters>
