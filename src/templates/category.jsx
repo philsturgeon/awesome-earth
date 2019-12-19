@@ -91,7 +91,7 @@ export default function Template({
                 </Row>
               </Container>
 
-              {featuredLinks.length > 0 && (
+              {featuredLinks && featuredLinks.length > 0 && (
                 <Container fluid style={{ padding: 0 }}>
                   <Jumbotron>
                     <Container>
