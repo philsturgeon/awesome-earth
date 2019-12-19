@@ -55,6 +55,34 @@ export default function Template({
       image={seoImage}
       description={excerpt}
     >
+      <Jumbotron
+        style={{
+          marginTop: '1rem',
+          minHeight: '45vh',
+          backgroundPosition: 'center center',
+          backgroundSize: 'cover',
+          backgroundImage: `url(https://source.unsplash.com/featured/1600x400?${category.title.replace(
+            ' ',
+            ','
+          )})`,
+        }}
+      >
+        <Container>
+          <Row>
+            <Col>
+              <h1
+                style={{
+                  backgroundColor: 'rgba(255,255,255,0.9)',
+                  display: 'inline-block',
+                  padding: '0.5rem 0.75rem',
+                }}
+              >
+                Awesome resources for {category.title}
+              </h1>
+            </Col>
+          </Row>
+        </Container>
+      </Jumbotron>
       <CountryContext.Consumer>
         {({ country, clearCountry }) => {
           const anyLinksHaveCountry =
@@ -62,10 +90,9 @@ export default function Template({
             links.some(link => linkHasCountry(link, country));
           return (
             <>
-              <Container className="header-padding">
+              <Container>
                 <Row>
                   <Col>
-                    <h1>{category.title}</h1>
                     <div dangerouslySetInnerHTML={{ __html: html }}></div>
                     {country.name !== null && (
                       <div className="showing-links-for-country">
