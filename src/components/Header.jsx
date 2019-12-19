@@ -1,17 +1,15 @@
 import React from 'react';
 
-import Button from 'react-bootstrap/Button';
+// import Button from 'react-bootstrap/Button';
 import Container from 'react-bootstrap/Container';
 import Col from 'react-bootstrap/Col';
 import Dropdown from 'react-bootstrap/Dropdown';
 import DropdownButton from 'react-bootstrap/DropdownButton';
-import Form from 'react-bootstrap/Form';
-import FormControl from 'react-bootstrap/FormControl';
+// import Form from 'react-bootstrap/Form';
+// import FormControl from 'react-bootstrap/FormControl';
 import Row from 'react-bootstrap/Row';
 import Navbar from 'react-bootstrap/Navbar';
 import Nav from 'react-bootstrap/Nav';
-
-import { Fork } from '.';
 
 const useCases = [
   {
@@ -34,10 +32,6 @@ const useCases = [
     tag: 'developers',
     title: 'Developer',
   },
-  {
-    tag: 'local-authorities',
-    title: 'Local Authority',
-  },
 ];
 
 const Header = ({ dark }) => (
@@ -46,8 +40,6 @@ const Header = ({ dark }) => (
       dark ? 'header-minimal-dark' : 'header-minimal-light'
     }`}
   >
-    <Fork />
-
     <Container>
       <Row noGutters>
         <Col>
@@ -57,7 +49,7 @@ const Header = ({ dark }) => (
             bg={dark ? 'dark' : 'white'}
             variant={dark ? 'dark' : 'light'}
           >
-            <Navbar.Brand href="/">Awesom.earth</Navbar.Brand>
+            <Navbar.Brand href="/">Awesom.Earth</Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse className="justify-content-end">
               <DropdownButton title="I am a..." variant="Default">
@@ -71,12 +63,14 @@ const Header = ({ dark }) => (
                 ))}
               </DropdownButton>
               <Nav.Link href="/about">About</Nav.Link>
-              <Nav.Link href="/contribute">Contribute</Nav.Link>
+              <Nav.Link href="https://github.com/philsturgeon/awesome-earth">
+                Contribute
+              </Nav.Link>
 
-              <Form inline>
+              {/* <Form inline>
                 <FormControl type="text" placeholder="Search" />
                 <Button>Search</Button>
-              </Form>
+              </Form> */}
             </Navbar.Collapse>
           </Navbar>
         </Col>
