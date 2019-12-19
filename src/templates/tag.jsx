@@ -21,7 +21,7 @@ export default function Template({ data, pageContext: { tag, links } }) {
     <>
       <Layout title={data.site.siteMetadata.title} seoTitle={tag}>
         <div className="padding">
-          <h2>{tag}</h2>
+          <h1>{tag}</h1>
         </div>
         <ul className="link-wrapper">
           {links.map(link => (

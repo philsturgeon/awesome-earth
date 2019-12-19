@@ -24,7 +24,7 @@ export default ({ data }) => {
         {({ country, setCountry, clearCountry }) => (
           <div className="select-your-country padding">
             <div className="header">
-              <h2>Select Your Country</h2>
+              <h1>Select Your Country</h1>
               <input
                 type="text"
                 placeholder="Filter Countries"
