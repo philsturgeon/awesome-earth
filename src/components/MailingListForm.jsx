@@ -21,16 +21,8 @@ const MailingListForm = () => (
                 <Form.Group controlId="formBasicEmail">
                   <Form.Label>Email address</Form.Label>
                   <div style={{ display: 'flex', flexDirection: 'row' }}>
-                    <Form.Control
-                      inline
-                      type="email"
-                      placeholder="Enter email"
-                    />
-                    <Button
-                      inline
-                      type="submit"
-                      style={{ marginLeft: '0.5rem' }}
-                    >
+                    <Form.Control type="email" placeholder="Enter email" />
+                    <Button type="submit" style={{ marginLeft: '0.5rem' }}>
                       Subscribe
                     </Button>
                   </div>
