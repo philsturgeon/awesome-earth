@@ -19,7 +19,7 @@ const Layout = ({
   return (
     <>
       <SEO
-        title={title || seoTitle}
+        title={title || seoTitle || ''}
         description={description}
         keywords={keywords}
         meta={meta}
