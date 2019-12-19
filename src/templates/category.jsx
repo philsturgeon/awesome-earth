@@ -40,14 +40,13 @@ export default function Template({
   const FEATURED_LINKS_TO_DISPLAY = 3;
 
   let featuredLinks;
-  let categoryLinks;
+  let categoryLinks = links;
 
   if (links.length > FEATURED_LINK_COUNT_THRESHHOLD) {
     featuredLinks = links.slice(0, FEATURED_LINKS_TO_DISPLAY);
+    // all remaining links are displayed below the feature section
+    categoryLinks = links.slice(featuredLinks.length);
   }
-
-  // all remaining links are displayed below the feature section
-  categoryLinks = links.slice(featuredLinks.length);
 
   return (
     <Layout
