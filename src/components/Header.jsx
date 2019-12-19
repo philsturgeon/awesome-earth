@@ -62,7 +62,10 @@ const Header = ({ dark }) => (
             <Navbar.Collapse className="justify-content-end">
               <DropdownButton title="I am a..." variant="Default">
                 {useCases.map(useCase => (
-                  <Dropdown.Item href={`/tags/${useCase.tag}`}>
+                  <Dropdown.Item
+                    key={`tag-${useCase.tag}`}
+                    href={`/tags/${useCase.tag}`}
+                  >
                     {useCase.title}
                   </Dropdown.Item>
                 ))}
