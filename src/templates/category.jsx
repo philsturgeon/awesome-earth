@@ -2,7 +2,6 @@ import React, { Fragment } from 'react';
 import ReactMarkdown from 'react-markdown/with-html';
 import slugify from 'slugify';
 import { graphql, Link } from 'gatsby';
-
 import Card from 'react-bootstrap/Card';
 import CardDeck from 'react-bootstrap/CardDeck';
 import Container from 'react-bootstrap/Container';

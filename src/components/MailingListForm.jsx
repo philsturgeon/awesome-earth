@@ -17,11 +17,22 @@ const MailingListForm = () => (
               <h3>Get on our mailing list, save the world!</h3>
             </Col>
             <Col xs={12} md={6}>
-              <Form>
+              <Form
+                action="https://tinyletter.com/Awesom_Earth"
+                method="post"
+                target="popupwindow"
+                onSubmit="window.open('https://tinyletter.com/Awesom_Earth', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"
+              >
                 <Form.Group controlId="formBasicEmail">
-                  <Form.Label>Email address</Form.Label>
+                  <Form.Label for="tlemail">Email address</Form.Label>
                   <div style={{ display: 'flex', flexDirection: 'row' }}>
-                    <Form.Control type="email" placeholder="Enter email" />
+                    <Form.Control
+                      id="tlemail"
+                      name="email"
+                      type="email"
+                      placeholder="Enter email"
+                    />
+                    <input type="hidden" value="1" name="embed" />
                     <Button type="submit" style={{ marginLeft: '0.5rem' }}>
                       Subscribe
                     </Button>
