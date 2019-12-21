@@ -5,7 +5,6 @@ import slugify from 'slugify';
 import Badge from 'react-bootstrap/Badge';
 import Container from 'react-bootstrap/Container';
 import Col from 'react-bootstrap/Col';
-import Form from 'react-bootstrap/Form';
 import Jumbotron from 'react-bootstrap/Jumbotron';
 import Row from 'react-bootstrap/Row';
 

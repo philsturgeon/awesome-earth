@@ -4,6 +4,7 @@ import slugify from 'slugify';
 import { graphql, Link } from 'gatsby';
 
 import Card from 'react-bootstrap/Card';
+import CardDeck from 'react-bootstrap/CardDeck';
 import Container from 'react-bootstrap/Container';
 import Col from 'react-bootstrap/Col';
 import Jumbotron from 'react-bootstrap/Jumbotron';
@@ -34,21 +35,8 @@ export default function Template({
   const linkHasCountry = (link, country) =>
     !!link.countries && link.countries.includes(country.code.toLowerCase());
 
-  // if we have > 6 links, we'll display the newest 3 as featured links
-  // until we have a better way to pick features for each category
-  const FEATURED_LINK_COUNT_THRESHHOLD = 6;
-  const FEATURED_LINKS_TO_DISPLAY = 3;
-
-  let featuredLinks;
-  let categoryLinks = links;
-
-  if (links.length > FEATURED_LINK_COUNT_THRESHHOLD) {
-    featuredLinks = links.slice(0, FEATURED_LINKS_TO_DISPLAY);
-    // all remaining links are displayed below the feature section
-    categoryLinks = links.slice(featuredLinks.length);
-  }
-
-  console.log(category);
+  const featuredLinks = links.filter(l => l.featured === true);
+  const categoryLinks = links.filter(l => l.featured !== true);
 
   return (
     <Layout
@@ -76,7 +64,7 @@ export default function Template({
                   padding: '0.5rem 0.75rem',
                 }}
               >
-                Awesome resources for {category.title}
+                {category.title}
               </h1>
             </Col>
           </Row>
@@ -121,32 +109,34 @@ export default function Template({
                   <Jumbotron>
                     <Container>
                       <Row>
-                        <Col>
-                          <h2>Awesome Projects</h2>
-                        </Col>
-                      </Row>
-                      <Row>
-                        {featuredLinks.map(link => (
-                          <Col
-                            xs={12}
-                            lg={4}
-                            key={`featured-item-${slugify(link.title)}`}
-                          >
-                            <Card>
-                              <Card.Body>
-                                <Card.Title>{link.title}</Card.Title>
-                                <Card.Text>{link.description}</Card.Text>
-                                <Card.Link
-                                  href={link.url}
-                                  target="_blank"
-                                  rel="noopener noreferrer"
-                                >
-                                  Learn More
-                                </Card.Link>
-                              </Card.Body>
-                            </Card>
-                          </Col>
-                        ))}
+                        <CardDeck>
+                          {featuredLinks.map(link => (
+                            <Col xs={12} lg={4} key={slugify(link.title)}>
+                              <Card>
+                                <Card.Body>
+                                  <Card.Title>
+                                    <Card.Link href={link.url}>
+                                      {link.title}
+                                    </Card.Link>
+                                  </Card.Title>
+                                  <Card.Text>
+                                    <ReactMarkdown
+                                      source={link.description}
+                                      escapeHtml={false}
+                                    />
+                                  </Card.Text>
+                                  <Card.Link
+                                    href={link.url}
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                  >
+                                    Learn More
+                                  </Card.Link>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                          ))}
+                        </CardDeck>
                       </Row>
                     </Container>
                   </Jumbotron>

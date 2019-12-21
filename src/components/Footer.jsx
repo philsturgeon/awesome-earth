@@ -57,7 +57,7 @@ const Footer = () => (
               <Dropdown.Item href="#/action-3">Français</Dropdown.Item>
             </Dropdown.Menu>
           </Dropdown> */}
-          <CountryContext.Consumer>
+          {/* <CountryContext.Consumer>
             {({ country }) => (
               <>
                 <div className="change-country">
@@ -79,7 +79,7 @@ const Footer = () => (
                 </div>
               </>
             )}
-          </CountryContext.Consumer>
+          </CountryContext.Consumer> */}
         </Col>
       </Row>
     </Container>

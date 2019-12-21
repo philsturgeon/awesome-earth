@@ -74,6 +74,7 @@ exports.createPages = async ({ graphql, actions }) => {
               url
               description
               countries
+              featured
             }
           }
         }

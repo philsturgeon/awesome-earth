@@ -13,11 +13,12 @@
   description: Application that incentive user to change vehicles that emit CO2 for another that not do that and generate one crypto coin for this users.
 
 - title: Offset Earth
+  featured: true
   url: https://offset.earth/?r=5d01f2ed12ae7a358b75fdd7
-  countries:
-    - gb
+  countries: [gb]
   categories:
     - carbon-reduction
+    - reforestation
   tags: ["business"]
   description: Monthly subscriptions for you, your family, and your business, where money goes to Eden Reforestation Projects who plant trees and offset and reduce carbon emissions around the world in a myriad of ways.
 
@@ -61,6 +62,7 @@
   description: Calculate the footprint for flights and buy compensation or donate to offset any number of carbon emissions. Tax-deductible in Germany.
 
 - title: Leave Me Alone
+  featured: true
   url: https://leavemealone.app/save-the-planet/
   categories:
     - carbon-reduction
@@ -68,6 +70,7 @@
   description: Emails contribute to 986,000 tonnes of CO2 being dumped into the atmosphere every day, that's 4g per email. Unsubscribe from unwanted subscription emails and reduce your carbon footprint.
 
 - title: Live Green
+  featured: true
   type: app
   url: https://livegreen.io/
   categories:
@@ -133,6 +136,7 @@
   description: This is the modern-day story of a native peoples' remarkable victory over Western Colonial power. A Pacific island rose up in arms against giant mining corporation Rio Tinto Zinc (RTZ) - and won despite a military occupation and blockade.
 
 - title: Chasing Coral
+  featured: true
   url: https://www.imdb.com/title/tt6333054/
   categories:
     - documentaries
@@ -175,6 +179,7 @@
   description: A great example of how a community can survive the oil apocalypse. Cubans were on the edge of starvation due to the oil crisis - the average Cuban lost 20 pounds. The Cuban people helped avert disaster from the bottom up by reclaiming land everywhere and began growing vegetables on them. Here we see the importance of recovering lost knowledge to ensure communal survival.
 
 - title: Garbage Warrior
+  featured: true
   url: http://www.garbagewarrior.com/
   categories:
     - documentaries
@@ -189,6 +194,7 @@
   description: Sited deep in the Bush of Southwestern Alaska, the Donlin Gold prospect is the largest proposed gold mine in Alaska's history. However, an overwhelming majority of Alaskan residents are unfamiliar with the details of it's development and implications. Noting the absence of available data, as well as the lack of awareness surrounding the proposal, Bjorn and Kim took on the ground-truth-trekking model of investigative research, and set out to explore some of the unanswered questions from the source. Completing a three-part, 1,000 mile human powered wilderness expedition through the proposed footprint of the mine, they engaged the people that they encountered on the subjects of perpetual waste storage, the significance of subsistence fisheries, the energy demands of a large-scale mine, and the challenges facing rural residents to name a few.
 
 - title: No Impact Man
+  featured: true
   url: https://www.imdb.com/title/tt1280011/
   categories:
     - documentaries
@@ -200,10 +206,11 @@
   countries: [ie]
   categories:
     - renewable-energy
-  tags: ["renewable-energy", energy-supply, "business"]
+  tags: [energy-supply, "business"]
   description: Ireland's first community owned electricity supplier which collaborates with Local Sustainable Energy Communities! Whether you are a household, community, business, public or private building, you can switch and buy your electricity from Community Power.
 
 - title: Big Clean Switch
+  featured: true
   url: https://bigcleanswitch.org/
   countries: [gb]
   categories:
@@ -235,6 +242,7 @@
   description: Humanitarian smart energy metering solution that purchases wasted unused electricity from utilities and resells it to hard-to-reach places and under served markets, thus reducing overall energy consumption.
 
 - title: Green-E
+  featured: true
   url: https://www.green-e.org/
   countries: [us]
   categories:
@@ -243,6 +251,7 @@
   description: Find a renewable energy provider near you. Green-e certified renewable energy and carbon offset products meet the most stringent environmental and consumer protection standards in North America. You can search below for certified green power and renewable energy certificate programs for your home or business, and carbon offset products to offset your emissions from activities like driving and flying. As a third-party certifier, Green-e® doesn't sell renewable energy or offsets, but offers these links to retailers that do.
 
 - title: Ecotricity
+  featured: true
   url: https://www.ecotricity.co.uk/
   countries: [gb]
   categories:
@@ -259,6 +268,7 @@
   description: One of the few energy suppliers in the UK to generate renewable power from their own wind and solar farms, and buy renewable power from small independent renewable generators. From local farmers and community energy schemes to sustainable businesses that generate their own power and sell them the excess. A true renewable supplier, not just coal power + offset credits.
 
 - title: The Green Flying Duty
+  featured: true
   url: https://www.responsiblevacation.com/copy/write-to-politicians
   categories:
     - politics
@@ -290,7 +300,8 @@
   description: Fossil-fueled power plants are responsible for nearly 40 percent of America’s carbon footprint. The Clean Power Plan calls for setting limits on this climate-warming pollution from these power plants, specifically at least 32 percent by 2030, compared to 2005 levels. By 2030, the Clean Power Plan could save the United States $20 billion in climate-related costs and deliver up to $34 billion in health benefits.
 
 - title: U.K. Double Tree Cover
-  url: https://act.friendsoftheearth.uk/petition/tell-uk-government-double-tree-cover
+  featured: true
+  url: httpsv://act.friendsoftheearth.uk/petition/tell-uk-government-double-tree-cover
   countries: [gb]
   categories:
     - politics
@@ -298,6 +309,7 @@
   description: Over the centuries the United Kingdom has cleared its forests, leaving it with some of the lowest levels of woodland in Europe. If the government is serious about protecting the climate, it needs to bring back the lost trees.
 
 - title: Energy Innovation and Carbon Dividend Act
+  featured: true
   url: https://energyinnovationact.org/
   countries: [us]
   categories:
@@ -306,6 +318,7 @@
   description: The Energy Innovation and Carbon Dividend Act (H.R. 763) will drive down America's carbon pollution and bring climate change under control, while unleashing American technology innovation and ingenuity. This policy was also introduced in the Senate in 2018 as S. 3791.
 
 - title: Our Children's Trust
+  featured: true
   url: https://www.ourchildrenstrust.org/
   countries:
     - au
@@ -364,6 +377,7 @@
   description: Form International is a forest management and services company that manages forest assets in Africa and delivers a range of technical and financial services to clients worldwide.
 
 - title: Team Trees
+  featured: true
   url: https://teamtrees.org/
   categories:
     - reforestation
@@ -371,6 +385,7 @@
   description: TeamTrees started in May 2019 when the internet challenged [Mr. Beast](https://twitter.com/MrBeastYT) to plant 20 million trees to commemorate hitting the 20M subscriber milestone. Fans then suggested he band together with a bunch of other YouTubers and influencers to make it happen.
 
 - title: Treedom
+  featured: true
   url: https://www.treedom.net/
   categories:
     - reforestation
@@ -392,6 +407,7 @@
   description: Buy trees for you or your company, and get them planted all over the world.
 
 - title: Droneseed
+  featured: true
   url: https://www.droneseed.co/
   categories:
     - reforestation
@@ -413,7 +429,7 @@
   description: Building upon corporate and scientific partnerships, WeForest empowers communities to sustainably advance and implement innovative, high standard, scalable and lasting solutions to restore forest landscapes.
 
 - title: EcoTree
-  url: https://ecotree.green/en/
+  url: https://ecotree.green/
   categories:
     - reforestation
   tags: ["reforestation"]
@@ -438,11 +454,11 @@
   categories:
     - sustainable-lifestyle
   tags: ["sustainable-lifestyle"]
-  countries:
-    - gb
+  countries: [gb]
   description: A selection of environmentally products for the home, garden, pets and other stuff.
 
 - title: Bees Wrap
+  featured: true
   url: https://www.beeswrap.com/
   categories:
     - sustainable-lifestyle
@@ -459,6 +475,7 @@
   description: Made from Plant Based (sugar cane) materials instead of fossil fuel.
 
 - title: Clean Cult
+  featured: true
   url: https://cleancult.pvzi.net/qq4kq
   categories:
     - sustainable-lifestyle
@@ -467,6 +484,7 @@
   description: Cleaning supplies with zero-waste packaging, and a powerful clean that's better for you and the planet.
 
 - title: Fairphone
+  featured: true
   url: https://www.fairphone.com/
   categories:
     - sustainable-lifestyle
@@ -495,6 +513,7 @@
   description: A sustainable alternative to wipes and paper for better hygiene and a greener planet.
 
 - title: The Good Roll
+  featured: true
   url: https://www.thegoodroll.nl
   categories:
     - sustainable-lifestyle
@@ -616,6 +635,7 @@
   description: Under the scheme your employer can buy a bicycle and safety equipment for you, up to €1,000 per bicycle and safety equipment.
 
 - title: BlaBlaCar
+  featured: true
   url: https://www.blablacar.com/
   categories:
     - transportation
@@ -624,24 +644,24 @@
   countries:
     - be
     - br
+    - cz
     - de
     - es
     - fr
+    - gb
     - hr
+    - hu
     - in
     - it
-    - hu
     - mx
     - nl
     - pl
     - pt
     - ro
-    - sk
     - rs
-    - tr
-    - gb
-    - cz
     - ru
+    - sk
+    - tr
     - ua
   description: The world’s leading long-distance carpooling platform, which is available in most of Europe and Mexico.
 
@@ -664,6 +684,7 @@
   description: Ride your bike to work and pay for eligible bike-related expenses, and then get reimbursed for those expenses.
 
 - title: Waze Carpool
+  featured: true
   url: https://www.waze.com/carpool
   categories:
     - transportation
@@ -675,8 +696,7 @@
   categories:
     - transportation
   tags: ["transportation", commute]
-  countries:
-    - gb
+  countries: [gb]
   description: UK leaders in electric vehicle charging with innovative solutions for homes, workplaces and commercial organizations.
 
 - title: Biking vs. Driving Calculator
@@ -694,6 +714,7 @@
   description: Find accommodation for a trip with a focus on sustainability. Most locations get their electricity from renewable sources, you wont find loads of single-use plastics, they recycle more than 80% of their waste, etc.
 
 - title: Home Exchange
+  featured: true
   url: https://www.homeexchange.com/
   categories:
     - travel
@@ -708,6 +729,7 @@
   description: A travel company who run sustainable trips all over the world. Sail from Scotland to Iceland, cycle across Vietnam, hike in Peru. Admittedly some of these trips will require a flight to get there, but one trip a year (or alternative years) is probably reasonable. At least when you get there, these vacations will be helping and protecting local nature, wildlife and culture.
 
 - title: Rubicon 3
+  featured: true
   url: https://www.rubicon3.co.uk/
   categories:
     - travel
@@ -759,6 +781,7 @@
   description: Aviation is the fastest growing contributor to greenhouse gas emissions at a time when we desperately need to reduce them. Pledge to go flight free in 2020.
 
 - title: Maris - Freighter Cruises
+  featured: true
   url: http://www.freightercruises.com/
   categories: [travel]
   tags: [travel, nomad]
@@ -778,6 +801,7 @@
   description: Vending machines and mobile refill units for refilling reusable plastic bottles with staple goods from shampoo to salad dressing in packaging that is designed to be returned, cleaned, and reused.  With over 2,000 bodegas in Santiago and plans to expand in the US soon, Algramo, translates to "by the gram", also solves the issue of "poverty tax" where small packages can cost as much as 50% more than the same product in a larger size.
 
 - title: Blue Jeans Go Green
+  featured: true
   url: https://bluejeansgogreen.org/
   countries: [us]
   categories: ["zero-waste"]
@@ -834,6 +858,7 @@
   description: Second hand clothes, up-cycled to avoid the electricity, carbon, etc waste of making new clothes, and keeping them from a landfill. Women and kids but nothing for men.
 
 - title: Worn Wear
+  featured: true
   url: https://wornwear.patagonia.com/
   categories:
     - sustainable-lifestyle
@@ -865,6 +890,7 @@
   description: Nobody needs another corporate logo stress ball or other pointless swag. Convince your company to skip the nonsense and donate to something worthwhile - like their [Offset Earth](https://offset.earth/business) business account!
 
 - title: Olio
+  featured: true
   url: https://olioex.com/
   categories:
     - zero-waste
