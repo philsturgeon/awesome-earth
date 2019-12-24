@@ -75,6 +75,7 @@ export default function Template({ data, pageContext: { tag, links } }) {
                       const country = Countries.fromAlpha2Code(
                         code.toUpperCase()
                       );
+                      console.log({ country });
                       return (
                         <span
                           key={`${slugify(country.name)}`}

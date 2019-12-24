@@ -1,8 +1,8 @@
 {
-  "name": "awesom.earth",
+  "name": "fixeverything.earth",
   "private": true,
   "description": "",
-  "version": "0.3.0",
+  "version": "1.0.0",
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
