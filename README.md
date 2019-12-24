@@ -32,6 +32,7 @@ The world is simultaneously underwater and on fire, and people want to know what
 - [MyClimate](https://myclimate.org/) - Helping reduce emissions through a whole bunch of different projects, from consulting companies on their footprint (and helping them to reduce), to education at schools, forest restoration, providing people in Rwanda with efficient cook stoves, and [a whole bunch more](https://www.myclimate.org/information/climate-protection-projects/). Fund them via donations, and use their flight/car/house/company footprint calculators.
 - [Offset Earth](https://offset.earth/?r=5d01f2ed12ae7a358b75fdd7) - Monthly subscriptions for you, your family, and your business, where money goes to Eden Reforestation Projects who plant trees and offset and reduce carbon emissions around the world in a myriad of ways.
 - [atmosfair](https://www.atmosfair.de/) - Calculate the footprint for flights and buy compensation or donate to offset any number of carbon emissions. Tax-deductible in Germany.
+- [Carbon Footprint Extension](https://oiworld.github.io/CarbonFootprint/) - Automatically estimates CO2 emissions on Google Maps™, other maps services and train and flight search engines.
 
 ## Cooking
 
