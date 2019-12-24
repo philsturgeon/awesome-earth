@@ -18,7 +18,7 @@ const Footer = () => (
     <Container>
       <Row noGutters>
         <Col xs={12} md={10} className="text-white">
-          <a href="/">&copy; 2019- Awesom.earth</a>
+          <a href="/">&copy; 2019 - FixEverything.Earth</a>
 
           <div className="credits">
             Maintained by{' '}
