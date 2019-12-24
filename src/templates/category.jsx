@@ -40,7 +40,7 @@ export default function Template({
   return (
     <Layout
       title={`${category.title} resources`}
-      seoTitle={`${category.title} links, companies, products, and helpful resources.  Start doing better for the earth today at awesom.earth`}
+      seoTitle={`${category.title} links, companies, products, and helpful resources.  Start doing better for the earth today at fixeverything.earth`}
       image={seoImage}
       description={excerpt}
     >

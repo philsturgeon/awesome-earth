@@ -49,7 +49,7 @@ const Header = ({ dark }) => (
             bg={dark ? 'dark' : 'white'}
             variant={dark ? 'dark' : 'light'}
           >
-            <Navbar.Brand href="/">Awesom.Earth</Navbar.Brand>
+            <Navbar.Brand href="/">FixEverything.Earth</Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse className="justify-content-end">
               <DropdownButton title="I am a..." variant="Default">
