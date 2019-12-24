@@ -960,6 +960,23 @@
   tags: ["zero-waste"]
   description: Interactive map with over 150 residential Food Scrap Drop-Off sites in NYC.
 
+- title: Domestic Renewable Heat Incentive (RHI)
+  url: https://www.gov.uk/domestic-renewable-heat-incentive
+  countries: [gb]
+  categories:
+    - home-improvements
+    - renewable-energy
+  tags: ["homeowner"]
+  description: You could get money towards renewable heating costs in your home. You can claim for biomass boilers, solar water heating, heat pumps. Payments are made for 7 years and are based on the amount of renewable heat made by your heating system.
+
+- title: Non-domestic Renewable Heat Incentive (RHI)
+  url: https://www.gov.uk/non-domestic-renewable-heat-incentive
+  countries: [gb]
+  categories:
+    - renewable-energy
+  tags: ["business"]
+  description: The non-domestic Renewable Heat Incentive helps businesses, public sector and non-profit organisations meet the cost of installing renewable heat technologies.
+
 - title: Hamwells Showers
   url: https://www.hamwells.com/
   categories:
