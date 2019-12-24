@@ -1,6 +1,6 @@
 # Awesome Earth [![Financial Contributors on Open Collective](https://opencollective.com/awesomeearth/all/badge.svg?label=financial+contributors)](https://opencollective.com/awesomeearth) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Buy us a tree](https://img.shields.io/badge/Buy%20me%20a%20tree-%F0%9F%8C%B3-lightgreen)](https://offset.earth/philsturgeon)
 
-The world is simultaneously underwater and on fire, and people want to know what they can do about it. [Awesome Earth](https://awesom.earth/) is full of resources, services, products and ideas you can use to be awesome to the earth.
+The world is simultaneously underwater and on fire, and people want to know what they can do about it. Let's share resources, services, products and ideas you can use to stop kicking the planet in the face.
 
 <!-- links:start -->
 
