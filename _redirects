@@ -1,5 +1,6 @@
-# Redirect domain aliases to primary domain
-https://awesom.earth/* https://protect.earth/:splat 301!
+http://protect.earth/* https://protect.earth/:splat 301!
 
-# Optional: Redirect default Netlify subdomain to primary domain
-https://protect-earth.netlify.com/* https://protect.earth/:splat 301!
+http://awesom.earth/* https://protect.earth/:splat 301!
+https://awesom.earth/* https://protect.earth/:splat 301!
+http://fixeverything.earth/* https://protect.earth/:splat 301!
+https://fixeverything.earth/* https://protect.earth/:splat 301!
