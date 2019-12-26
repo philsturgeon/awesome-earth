@@ -32,10 +32,10 @@ export default ({ data }) => {
               <Col xs={8} className="bg-dark text-white p-4">
                 <h1 className="mb-2">Start saving the planet today.</h1>
                 <p>
-                  FixEverything.Earth is a list of strategies, products,
-                  services, and companies focused on sustainability and
-                  environmental protection. We are faced with a global
-                  existential crisis - every little bit you can do helps.
+                  Protect.Earth is a list of strategies, products, services, and
+                  companies focused on sustainability and environmental
+                  protection. We are faced with a global existential crisis -
+                  every little bit you can do helps.
                 </p>
               </Col>
             </Row>
