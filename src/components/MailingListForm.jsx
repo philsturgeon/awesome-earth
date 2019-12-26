@@ -18,10 +18,10 @@ const MailingListForm = () => (
             </Col>
             <Col xs={12} md={6}>
               <Form
-                action="https://tinyletter.com/Awesom_Earth"
+                action="https://tinyletter.com/ProtectEarth"
                 method="post"
                 target="popupwindow"
-                onSubmit="window.open('https://tinyletter.com/Awesom_Earth', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"
+                onSubmit="window.open('https://tinyletter.com/ProtectEarth', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"
               >
                 <Form.Group controlId="formBasicEmail">
                   <Form.Label for="tlemail">Email address</Form.Label>

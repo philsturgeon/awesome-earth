@@ -7,8 +7,8 @@ import Col from 'react-bootstrap/Col';
 // import Dropdown from 'react-bootstrap/Dropdown';
 import Row from 'react-bootstrap/Row';
 
-import CountryContext from '../context/country-context';
-import countries from '../countries';
+// import CountryContext from '../context/country-context';
+// import countries from '../countries';
 
 const Footer = () => (
   <footer
@@ -18,7 +18,7 @@ const Footer = () => (
     <Container>
       <Row noGutters>
         <Col xs={12} md={10} className="text-white">
-          <a href="/">&copy; 2019 - FixEverything.Earth</a>
+          <a href="/">&copy; 2019 - Protect.Earth</a>
 
           <div className="credits">
             Maintained by{' '}
