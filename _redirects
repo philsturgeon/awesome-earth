@@ -2,4 +2,4 @@
 https://awesom.earth/* https://protect.earth/:splat 301!
 
 # Optional: Redirect default Netlify subdomain to primary domain
-https://protectearth.netlify.com/* https://protect.earth/:splat 301!
+https://protect-earth.netlify.com/* https://protect.earth/:splat 301!
