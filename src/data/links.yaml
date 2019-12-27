@@ -780,6 +780,14 @@
   tags: [carbon-reduction, travel]
   description: Aviation is the fastest growing contributor to greenhouse gas emissions at a time when we desperately need to reduce them. Pledge to go flight free in 2020.
 
+- title: Mijn Impact
+  url: https://www.mijnimpact.app/
+  countries: [nl]
+  categories:
+    - carbon-reduction
+  tags: [carbon-reduction, app]
+  description: Discover the effect of your sustainable choices. The app that provides easy insight into the CO2 impact of your purchases - and challenges you to reduce your impact with personal goals.
+
 - title: Maris - Freighter Cruises
   featured: true
   url: http://www.freightercruises.com/
