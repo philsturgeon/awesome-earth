@@ -1143,6 +1143,12 @@
   countries: [us]
   description: Tree planting and tree care events around Austin, Texas, from October to April.
 
+- title: Precious Plastic
+  url: https://preciousplastic.com/
+  categories: [volunteering, zero-waste]
+  tags: [community, developers]
+  description: A global community of hundreds of people working towards a solution to plastic pollution. Knowledge, tools and techniques are shared online, for free. So everyone can start (yes, you too!). People all over the world contribute to the project with their skills & knowledge. Join the fight against plastic pollution.
+
 - title: Metabolic
   url: https://metabolic.nl/news
   categories:
