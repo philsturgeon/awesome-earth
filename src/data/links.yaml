@@ -780,6 +780,14 @@
   tags: [carbon-reduction, travel]
   description: Aviation is the fastest growing contributor to greenhouse gas emissions at a time when we desperately need to reduce them. Pledge to go flight free in 2020.
 
+- title: Mijn Impact
+  url: https://www.mijnimpact.app/
+  countries: [nl]
+  categories:
+    - carbon-reduction
+  tags: [carbon-reduction, app]
+  description: Discover the effect of your sustainable choices. The app that provides easy insight into the CO2 impact of your purchases - and challenges you to reduce your impact with personal goals.
+
 - title: Maris - Freighter Cruises
   featured: true
   url: http://www.freightercruises.com/
@@ -1143,6 +1151,20 @@
   countries: [us]
   description: Tree planting and tree care events around Austin, Texas, from October to April.
 
+- title: Precious Plastic
+  url: https://preciousplastic.com/
+  categories: [volunteering, zero-waste]
+  tags: [community, developers]
+  description: A global community of hundreds of people working towards a solution to plastic pollution. Knowledge, tools and techniques are shared online, for free. So everyone can start (yes, you too!). People all over the world contribute to the project with their skills & knowledge. Join the fight against plastic pollution.
+
+- title: What is my lamp worth? (The Netherlands)
+  url: https://www.watismijnlampwaard.nl/
+  categories:
+    - zero-waste
+  tags: [zero-waste]
+  countries: [nl]
+  description: Find the nearest collection points for discarded electrical appliances and energy-efficient light bulbs. This site helps you responsibly recycle, donate, repair, or sell electrical appliances and lights.
+
 - title: Metabolic
   url: https://metabolic.nl/news
   categories:
@@ -1192,3 +1214,40 @@
     - sustainable-lifestyle
   tags: [clothing, recycle]
   description: Old-School sneakers, new school ethics. Cariuma's sneakers are handcrafted with premium natural materials, an obsessive eye for detail, and a conscious mind. They care deeply about our craftsmen, and ensure that they earn fair wages and experience safe working conditions.  Some of their shoes are carbon _negative_, and they are committed to carbon-neutral shipping processes, which they do by purchasing carbon offsets for each shipment.
+
+- title: How Good
+  url: https://howgood.com/
+  categories:
+    - sustainable-lifestyle
+  tags: [developers, business, app]
+  description: Future-Proof your products.  HowGood data offers data to businesses and consumers about product sustainability from 350+ independent sources on over 1 million products.  Extensive data library on product sustainability designed to help brands and retailers use that data to source better and consumers to buy better, to build a better world.
+
+- title: The Rotten Fruit Box
+  url: https://therottenfruitbox.com/
+  categories:
+    - sustainable-lifestyle
+    - zero-waste
+  tags: [nomad]
+  description: 100% Natural Freeze-Dried Fruit Snacks from Spain and Portugal shipped to you. The fruit you’re enjoying would have otherwise gone unused and rotted away on the ground. We also think that the name "Rotten" helps bring attention to the serious issue of food waste. Delicious, healthy, 100% natural, with a long shelf life, our freeze dried fruit snack pouches are ideal for home, work, office, to take to school, camping or just about anywhere. Help reduce food waste. Help small local farmers. We use 100% compostable packaging and ship with your local postal service because it is the lowest carbon footprint option.  But reducing carbon emissions is not enough, and we plant trees to compensate for our CO2 emissions.
+
+- title: Pieter Pot
+  url: https://www.pieter-pot.nl/
+  categories:
+    - sustainable-lifestyle
+    - zero-waste
+  countries:
+    - nl
+  tags: [zero-waste]
+  description: Your groceries, delivered without packaging. Pieter Pot delivers your groceries with a cargo bike in beautiful glass jars in The Netherlands. Empty pot? Then we fill it again. This is how we make it fun and easy to do shopping without all those unnecessary (plastic) packaging. That's nice, right?
+
+- title: The Crappy Planet - Bamboo Toilet Paper
+  url: https://www.thecrappyplanet.com/
+  categories:
+    - sustainable-lifestyle
+    - zero-waste
+  countries:
+    - nl
+    - be
+    - lu
+  tags: [zero-waste]
+  description: The use of bamboo significantly reduces deforestation. According to the EPA, one hardwood tree produces approximately 45 kg of toilet paper and about 83 million toilet rolls are produced every day. Bamboo toilet paper production requires less energy, one-fifth of the water, produces considerably more fiber on less land area, generates 30-35% more oxygen than other plants and trees, and it reduces the amount of carbon dioxide by about the same amount.  In addition, the production process requires that water and other materials are collected, reused and recycled. Finally, we invest 25% of our profits to stop deforestation and global warming.
