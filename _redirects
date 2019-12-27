@@ -1,3 +1,6 @@
+http://protect.earth/* https://protect.earth/:splat 301!
 
-https://awesom.earth/* https://fixeverything.earth/:splat 301!
-
+http://awesom.earth/* https://protect.earth/:splat 301!
+https://awesom.earth/* https://protect.earth/:splat 301!
+http://fixeverything.earth/* https://protect.earth/:splat 301!
+https://fixeverything.earth/* https://protect.earth/:splat 301!
