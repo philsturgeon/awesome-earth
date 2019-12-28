@@ -9,7 +9,7 @@ import Col from 'react-bootstrap/Col';
 import Jumbotron from 'react-bootstrap/Jumbotron';
 import Row from 'react-bootstrap/Row';
 
-import { Layout } from '../components';
+import { Layout, SocialLinks } from '../components';
 import Countries from '../countries';
 import CountryContext from '../context/country-context';
 
@@ -80,6 +80,14 @@ export default function Template({
                 <Row>
                   <Col>
                     <div dangerouslySetInnerHTML={{ __html: html }}></div>
+                    <div className="d-flex align-items-center mb-3">
+                      <span className="mr-2">Share this page:</span>
+                      <SocialLinks
+                        text={`Check out ${category.title} links on Protect.Earth:`}
+                        url={data.site.siteMetadata.siteUrl + slug}
+                        all
+                      />
+                    </div>
                     {country.name !== null && (
                       <div className="showing-links-for-country">
                         <h3>
@@ -131,6 +139,12 @@ export default function Template({
                                   >
                                     Learn More
                                   </Card.Link>
+                                  <SocialLinks
+                                    className="mt-2"
+                                    text={`I found ${link.title} on Protect.Earth!`}
+                                    url={link.url}
+                                    all
+                                  />
                                 </Card.Body>
                               </Card>
                             </Col>
@@ -152,29 +166,40 @@ export default function Template({
                           (country.name !== null &&
                             linkHasCountry(link, country)) ? (
                             <li className="link">
-                              <strong>
-                                <a
-                                  href={link.url}
-                                  className="title"
-                                  target="_blank"
-                                  rel="nofollow noopener noreferrer"
-                                >
-                                  {link.title}
-                                </a>
-                              </strong>
-                              {(link.countries || []).map(code => {
-                                const country = Countries.fromAlpha2Code(
-                                  code.toUpperCase()
-                                );
-                                return (
-                                  <span
-                                    key={`${slugify(country.name)}`}
-                                    title={country.name}
-                                  >
-                                    {country.emoji}
-                                  </span>
-                                );
-                              })}
+                              <div className="mb-1 d-flex align-items-center justify-content-between">
+                                <div>
+                                  <strong>
+                                    <a
+                                      href={link.url}
+                                      className="title"
+                                      target="_blank"
+                                      rel="nofollow noopener noreferrer"
+                                    >
+                                      {link.title}
+                                    </a>
+                                  </strong>
+                                  {(link.countries || []).map(code => {
+                                    const country = Countries.fromAlpha2Code(
+                                      code.toUpperCase()
+                                    );
+                                    return (
+                                      <span
+                                        key={`${slugify(country.name)}`}
+                                        title={country.name}
+                                        className="ml-1"
+                                      >
+                                        {country.emoji}
+                                      </span>
+                                    );
+                                  })}
+                                </div>
+                                <SocialLinks
+                                  text={`I found ${link.title} on Protect.Earth!`}
+                                  url={link.url}
+                                  all
+                                  size={20}
+                                />
+                              </div>
                               <ReactMarkdown
                                 source={link.description}
                                 escapeHtml={false}
