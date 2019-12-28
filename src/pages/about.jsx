@@ -25,13 +25,13 @@ const AboutPage = () => (
           <h1>About</h1>
           <p>
             Protect.Earth came around after{' '}
-            <a href="https://philsturgeon.com/">Phil</a>
-            went riding around Europe in the summer of 2019, the hottest year on
-            record with the hottest three months on record.
+            <a href="https://philsturgeon.com/">Phil</a> went riding around
+            Europe in the summer of 2019, the hottest year on record with the
+            hottest three months on record.
           </p>
           <p>
             Phil was{' '}
-            <a href="https://phil.bike/trees/">raising money for trees</a> with
+            <a href="https://phil.bike/trees/">raising money for trees</a> with{' '}
             <a href="https://offset.earth/">Offset Earth</a>, and after the tour
             lead to a lengthy injury he wanted to find other ways to fight the
             climate crisis.
