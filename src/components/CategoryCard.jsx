@@ -10,6 +10,7 @@ const CategoryCard = ({ category }) => {
         className="card-image-top img-fluid"
         style={{ height: '200px', width: 'auto' }}
         srcSet={category.image.childImageSharp.fluid.srcSet}
+        sizes={category.image.childImageSharp.fluid.sizes}
         alt={category.title}
       />
       <Card.Body>
