@@ -26,7 +26,7 @@ export const query = graphql`
 
 export default function Template({
   data,
-  pageContext: { category, html, excerpt, links, slug },
+  pageContext: { category, html, links, slug },
 }) {
   const seoImage =
     data.site.siteMetadata.siteUrl + category.image.twitterCard.fixed.src;
@@ -42,7 +42,7 @@ export default function Template({
       title={`${category.title} resources`}
       seoTitle={`${category.title} links, companies, products, and helpful resources.  Start doing better for the earth today at protect.earth`}
       image={seoImage}
-      description={excerpt}
+      description={category.intro}
     >
       <Jumbotron
         style={{

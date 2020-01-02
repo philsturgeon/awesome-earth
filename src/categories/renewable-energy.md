@@ -1,6 +1,7 @@
 ---
 title: 'Renewable Energy'
 image: ../images/renewable-energy.jpg
+intro: Regular citizens need to do what we can to source clean energy for our homes, businesses, schools, etc.
 ---
 
 In 2019 coal became [more expensive that wind and solar](https://www.theguardian.com/environment/2019/mar/25/coal-more-expensive-wind-solar-us-energy-study?utm_source=dlvr.it&utm_medium=twitter), and most [US and EU insurance companies refuse to cover coal plants](https://www.theguardian.com/environment/2019/dec/02/coal-power-becoming-uninsurable-as-firms-refuse-cover), meaning the age of coal - the most emission intense energy source - should be coming to an end sometime, but it cannot come soon enough.

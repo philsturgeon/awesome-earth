@@ -1,6 +1,7 @@
 ---
 title: Travel
 image: ../images/travel.jpg
+intro: Everyone needs a vacation, but overtourism is destroying amazing places.
 ---
 
 Everyone needs a vacation, but [overtourism](https://www.stuff.co.nz/travel/news/104207105/countries-with-the-most-tourists-per-head-of-population-destinations-suffering-overtourism) is destroying amazing places. We need to practice [sustainable tourism](https://www.fix.com/blog/sustainable-tourism/), and chose closer locations for more of our vacations.
