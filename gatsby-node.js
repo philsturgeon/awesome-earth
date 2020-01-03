@@ -30,6 +30,7 @@ exports.createPages = async ({ graphql, actions }) => {
           node {
             frontmatter {
               title
+              intro
               image {
                 twitterCard: childImageSharp {
                   fixed(quality: 100) {
@@ -47,7 +48,6 @@ exports.createPages = async ({ graphql, actions }) => {
               slug
             }
             html
-            excerpt(pruneLength: 500)
           }
         }
       }
@@ -58,7 +58,6 @@ exports.createPages = async ({ graphql, actions }) => {
     const {
       frontmatter,
       fields: { slug },
-      excerpt,
       html,
     } = node;
 
@@ -86,7 +85,7 @@ exports.createPages = async ({ graphql, actions }) => {
     createPage({
       path: slug,
       component: path.resolve(`./src/templates/category.jsx`),
-      context: { category: frontmatter, excerpt, html, links, slug },
+      context: { category: frontmatter, html, links, slug },
     });
   });
 

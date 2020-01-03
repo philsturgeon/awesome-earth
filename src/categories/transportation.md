@@ -1,6 +1,7 @@
 ---
 title: 'Transportation'
 image: ../images/transportation.jpg
+intro: Lowering or removing our reliance on personal cars can make a big difference.
 ---
 
 Personal cars and trucks account for [nearly one-quater of all U.S. greenhouse gas emissions](https://www.ucsusa.org/clean-vehicles/car-emissions-and-global-warming). Visit the EPA website for important information about SUVs and light trucks.

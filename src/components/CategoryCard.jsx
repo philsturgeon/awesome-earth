@@ -15,6 +15,7 @@ const CategoryCard = ({ category }) => {
       />
       <Card.Body>
         <Card.Title>{category.title}</Card.Title>
+        <Card.Text>{category.intro}</Card.Text>
         <Button className="mx-auto" variant="primary" href={category.slug}>
           Act Now
         </Button>

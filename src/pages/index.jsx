@@ -104,6 +104,7 @@ export const pageQuery = graphql`
           }
           frontmatter {
             title
+            intro
             image {
               childImageSharp {
                 fluid(maxWidth: 350, maxHeight: 200) {

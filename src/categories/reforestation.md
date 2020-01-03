@@ -1,6 +1,7 @@
 ---
 title: 'Reforestation'
 image: ../images/reforestation.jpg
+intro: We need to reforest an area the size of the USA as quickly as possible.
 ---
 
 We need to [reforest an area the size of the

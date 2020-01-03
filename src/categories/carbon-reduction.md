@@ -1,6 +1,7 @@
 ---
 title: 'Carbon Reduction'
 image: ../images/carbon-reduction.jpg
+intro: Scientists need our help! Figure out your footprint with some of these calculators.
 ---
 
 Air pollution causes [200,000 early deaths each year in the USA](http://news.mit.edu/2013/study-air-pollution-causes-200000-early-deaths-each-year-in-the-us-0829).
