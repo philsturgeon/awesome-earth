@@ -1,6 +1,7 @@
 ---
 title: 'Volunteering'
 image: ../images/volunteering.jpg
+intro: Wherever you are in the world there's something you can do.
 ---
 
 Wherever you are in the world there's something you can do. Research local land trusts or land management organizations to see if they need help. You can help maintain woodlands, eradicate invasive species, and monitor deforestation. Even just going for a hike on popular trails to collect rubbish can stop wildlife dying from eating plastic. Walking along any stretch of beach you'll find plenty of trash, and stop it going out to join the [Great Pacific Garbage Patch](https://www.nationalgeographic.org/encyclopedia/great-pacific-garbage-patch/) or [North Atlantic Garbage Patch](https://en.wikipedia.org/wiki/North_Atlantic_garbage_patch).
