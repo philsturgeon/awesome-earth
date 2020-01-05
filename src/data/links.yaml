@@ -1308,16 +1308,18 @@
 
 - title: Woodland Trust
   url: https://www.woodlandtrust.org.uk/
+  featured: true
   categories:
     - land-management
     - volunteering
   countries: [gb]
   tags: [charity, land-owner]
   description: >-
-    Creating new woodland is at the heart of what we do. We mobilise communities, landowners and volunteers to get trees in the ground, and aim to plant a tree for every person in the UK.
+    The Woodland Trust is reforesting the United Kingdom, working with communities, local authorities, and land owners, to get trees in the ground.
 
 - title: Farm Bot
   url: https://farm.bot/
+  featured: true
   categories:
     - land-management
   tags: [home-owners, land-owner, food, farming]
