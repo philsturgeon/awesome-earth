@@ -44,12 +44,13 @@
   tags: ["carbon-reduction"]
   description: The search engine that plants trees. >50% of the ad revenue goes directly to planting trees.
 
-- title: Cloverly
-  url: https://cloverly.com/how-it-works
-  categories:
-    - carbon-reduction
-  tags: ["business"]
-  description: Offset the carbon footprint of your customers' online transactions, with e-commerce plugins (Shopify, Magento, etc.)
+# Waiting for them to add Gold Standard, ASC, etc links to their project pages
+# - title: Cloverly
+#   url: https://cloverly.com/how-it-works
+#   categories:
+#     - carbon-reduction
+#   tags: ["business"]
+#   description: Offset the carbon footprint of your customers' online transactions, with e-commerce plugins (Shopify, Magento, etc.)
 
 - title: Cool Earth
   url: https://www.coolearth.org/
