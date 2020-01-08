@@ -13,6 +13,10 @@ import Nav from 'react-bootstrap/Nav';
 
 const useCases = [
   {
+    tag: 'commute',
+    title: 'Commuter',
+  },
+  {
     tag: 'business',
     title: 'Business Owner',
   },
@@ -22,19 +26,15 @@ const useCases = [
   },
   {
     tag: 'land-owner',
-    title: 'Home Owner',
+    title: 'Land Owner',
   },
   {
     tag: 'nomad',
     title: 'Nomad',
   },
   {
-    tag: 'commute',
-    title: 'Commuter',
-  },
-  {
     tag: 'developers',
-    title: 'Developer',
+    title: 'Programmer',
   },
 ];
 
