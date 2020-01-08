@@ -5,6 +5,7 @@ module.exports = {
     description: `All the climate action your need to save our planet from being simultaneously underwater and on fire.`,
   },
   plugins: [
+    'gatsby-plugin-netlify-cms',
     {
       resolve: 'gatsby-plugin-web-font-loader',
       options: {
