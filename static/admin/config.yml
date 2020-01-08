@@ -1,0 +1,22 @@
+backend:
+  name: git-gateway
+  branch: master
+  open_authoring: true
+
+media_folder: static/img
+public_folder: /img
+publish_mode: editorial_workflow
+
+collections:
+  - name: 'links'
+    label: 'links'
+    files:
+      - label: 'Links'
+        name: 'links'
+        file: 'data/links.yaml'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Url', name: 'url', widget: 'string' }
+          - { label: 'Categories', name: 'categories', widget: 'list' }
+          - { label: 'Tags', name: 'tags', widget: 'list' }
+          - { label: 'Description', name: 'description', widget: 'markdown' }
