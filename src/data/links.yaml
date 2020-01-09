@@ -423,7 +423,7 @@
   categories:
     - reforestation
     - land-management
-  tags: ["business", "local-authorities", "land-owners"]
+  tags: [business, local-authorities, land-owners, open-source, developers]
   description: Open-source drone reforestation technology. Drones, coupled with native coated seeds, can transform the efficiency with which we restore ecosystems.
 
 - title: Land Life Company
@@ -1046,7 +1046,7 @@
   tags: ["home-owner"]
   description: Solar thermal technology can be used for cooking, heating your home through radiant floors, radiators, or forced air. It can be used to heat water directly for hot showers too.
 
-- title: PlanetCare microfibre laundry filters
+- title: PlanetCare Microfibre Laundry Filters
   url: https://www.planetcare.org
   categories:
     - home-improvements
@@ -1060,7 +1060,7 @@
   tags: ["home-owner"]
   description: Sense is a home energy monitor that gives real-time insight into your home’s energy usage. Sense gives people the knowledge they need to reduce their energy costs and usage, with profound effects on the environment- the company estimates that its users are saving a total of 53 million pounds of CO2 annually.
 
-- title: Rigo Paint made from flax
+- title: Rigo Paint - Made From Flax
   url: https://www.rigoverffabriek.nl/
   categories:
     - home-improvements
@@ -1135,7 +1135,7 @@
 - title: ClimateAction.Tech
   url: https://climateaction.tech/
   categories: [volunteering]
-  tags: ["volunteering"]
+  tags: ["volunteering", "developers"]
   description: A global community of tech professionals using our skills, expertise and platforms to support solutions to the climate crisis. The mission is to empower technology professionals to play our part — to meet, discuss, learn and take climate action.
 
 - title: ClimatePrediction.net
@@ -1322,7 +1322,7 @@
   featured: true
   categories:
     - land-management
-  tags: [home-owners, land-owner, food, farming]
+  tags: [home-owners, land-owner, food, farming, developers, open-source]
   description: >-
     Farm Bot is a fully automated, open-source, crowd-funded project, which helps you grow food for yourself, your family, and your community. Install FarmBot on a raised bed, urban rooftop, or in a small greenhouse at home. Hyper-local food production has never been easier.
 
@@ -1342,5 +1342,15 @@
   tags: [land-owner, landscaping, land-trusts, conservation]
   description: >-
     A land trust is a charitable organization that acquires land or conservation easements, or that stewards land or easements, for conservation purposes. Land owners may consider designating portions of their land as a land trust, in order to preserve natural features in perpetuity, and be eligible for tax benefits as a result.
+
+- title: Google Cloud Computing
+  url: https://cloud.google.com/sustainability/
+  countries: [us]
+  categories: [carbon-reduction]
+  tags: [developers]
+  description: >-
+    Google are a long way from perfect, but Google Cloud advertises 100% renewable energy. Their main rival, Amazon AWS,
+    does not do that, and actively hosts oil and gas companies, who use the platform to find more places to dig. Switching to
+    Google Cloud, (or a host based on Google Cloud), is one of many ways to make your platform have less impact on the earth.
 
 # https://forest.stormconsultancy.com/
