@@ -4,7 +4,8 @@ image: ../images/carbon-reduction.jpg
 intro: Scientists need our help! Figure out your footprint with some of these calculators.
 ---
 
-Air pollution causes [200,000 early deaths each year in the USA](http://news.mit.edu/2013/study-air-pollution-causes-200000-early-deaths-each-year-in-the-us-0829).
+Air pollution kills millions of people around the world every year. In India, [1,240,000 million people died in 2017](https://www.reuters.com/article/us-india-pollution-lancet/indias-polluted-air-claimed-1-24-million-lives-in-2017-study-idUSKBN1O51T8). In the USA was around [200,000 early deaths per year](http://news.mit.edu/2013/study-air-pollution-causes-200000-early-deaths-each-year-in-the-us-0829) back in 2013, but with recent EPA air quality rollbacks that number is [growing by tens of thousands](https://www.theguardian.com/environment/2019/nov/20/us-air-pollution-deaths-study-jama).
+
 Billionaires and scientists are [scaling up carbon trapping programs](https://www.theguardian.com/environment/2018/feb/04/carbon-emissions-negative-emissions-technologies-capture-storage-bill-gates)
 with big old turbines, even looking at turning that byproduct into fuel, but those
 same scientists are begging us to live less carbon intensive lives and fund
