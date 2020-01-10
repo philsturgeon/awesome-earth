@@ -33,6 +33,13 @@
   tags: ["carbon-reduction"]
   description: Calculate your footprint based on flights, driving, shipping, and make tax-deductible donations to offset your emissions.
 
+- title: Carbon Footprint Extension
+  url: https://gitlab.com/aossie/CarbonFootprint
+  categories:
+    - carbon-reduction
+  tags: ["carbon-reduction"]
+  description: Automatically estimates CO2 emissions on Google Maps™, other maps services and train and flight search engines.
+
 - title: Ecosia
   url: https://www.ecosia.org
   categories:

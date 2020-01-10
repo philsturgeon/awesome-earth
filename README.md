@@ -20,6 +20,7 @@ The world is simultaneously underwater and on fire, and people want to know what
 ## Carbon Reduction
 - [CarbonFootprint.com](https://www.carbonfootprint.com/) - Measure you carbon footprint, learn how to reduce your consumption, offset your impact, communicate, and comply.
 - [CarbonFund.org](https://carbonfund.org/) - Calculate your footprint based on flights, driving, shipping, and make tax-deductible donations to offset your emissions.
+- [Carbon Footprint Extension](https://gitlab.com/aossie/CarbonFootprint) - Automatically estimates CO2 emissions on Google Maps™, other maps services and train and flight search engines.
 - [Cloverly](https://cloverly.com/how-it-works) - Offset the carbon footprint of your customers' online transactions, with e-commerce plugins (Shopify, Magento, etc.)
 - [Cool Earth](https://www.coolearth.org/) - This charity was created to tackle climate change by reducing carbon emissions from rainforest loss.
 - [Ecosia](https://www.ecosia.org) - The search engine that plants trees. >50% of the ad revenue goes directly to planting trees.
