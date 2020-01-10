@@ -8,15 +8,23 @@ public_folder: /img
 publish_mode: editorial_workflow
 
 collections:
-  - name: 'links'
-    label: 'Links'
+  - name: 'content'
+    label: 'Site Content'
     files:
-      - label: 'links.yaml'
+      - label: 'Links'
         name: 'links'
         file: 'src/data/links.yaml'
         fields:
-          - { label: 'Title', name: 'title', widget: 'string' }
-          - { label: 'Url', name: 'url', widget: 'string' }
-          - { label: 'Categories', name: 'categories', widget: 'list' }
-          - { label: 'Tags', name: 'tags', widget: 'list' }
-          - { label: 'Description', name: 'description', widget: 'markdown' }
+          - label: Links
+            name: links
+            widget: list
+            fields:
+              - { label: 'Title', name: 'title', widget: 'string' }
+              - { label: 'Url', name: 'url', widget: 'string' }
+              - { label: 'Categories', name: 'categories', widget: 'list' }
+              - { label: 'Tags', name: 'tags', widget: 'list' }
+              - {
+                  label: 'Description',
+                  name: 'description',
+                  widget: 'markdown',
+                }
