@@ -9,11 +9,11 @@ publish_mode: editorial_workflow
 
 collections:
   - name: 'links'
-    label: 'links'
+    label: 'Links'
     files:
-      - label: 'Links'
+      - label: 'links.yaml'
         name: 'links'
-        file: 'data/links.yaml'
+        file: 'src/data/links.yaml'
         fields:
           - { label: 'Title', name: 'title', widget: 'string' }
           - { label: 'Url', name: 'url', widget: 'string' }
