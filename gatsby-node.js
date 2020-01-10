@@ -1,6 +1,6 @@
 const path = require(`path`);
 const { createFilePath } = require(`gatsby-source-filesystem`);
-const titleCase = require('title-case');
+const titleCase = require('title-case').titleCase;
 
 async function asyncForEach(array, callback) {
   for (let index = 0; index < array.length; index++) {
