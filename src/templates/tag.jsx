@@ -23,7 +23,6 @@ export const query = graphql`
 `;
 
 export default function Template({ data, pageContext: { tag, links } }) {
-  debugger;
   return (
     <>
       <Layout title={data.site.siteMetadata.title} seoTitle={tag}>

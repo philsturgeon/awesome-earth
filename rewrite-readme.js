@@ -29,7 +29,7 @@ const formatAsMarkdown = links => {
     });
   });
 
-  sortedKeys = Object.keys(categorizedData).sort();
+  const sortedKeys = Object.keys(categorizedData).sort();
 
   let outputArr = ['## Contents'];
 
