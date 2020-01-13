@@ -7,6 +7,14 @@ import Form from 'react-bootstrap/Form';
 import Jumbotron from 'react-bootstrap/Jumbotron';
 import Row from 'react-bootstrap/Row';
 
+const popup = () => {
+  window.open(
+    'https://tinyletter.com/ProtectEarth',
+    'popupwindow',
+    'scrollbars=yes,width=800,height=600'
+  );
+};
+
 const MailingListForm = () => (
   <Container>
     <Row>
@@ -21,13 +29,12 @@ const MailingListForm = () => (
                 action="https://tinyletter.com/ProtectEarth"
                 method="post"
                 target="popupwindow"
-                onSubmit="window.open('https://tinyletter.com/ProtectEarth', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"
+                onSubmit={popup}
               >
                 <Form.Group controlId="formBasicEmail">
-                  <Form.Label for="tlemail">Email address</Form.Label>
+                  <Form.Label>Email address</Form.Label>
                   <div style={{ display: 'flex', flexDirection: 'row' }}>
                     <Form.Control
-                      id="tlemail"
                       name="email"
                       type="email"
                       placeholder="Enter email"

@@ -120,18 +120,24 @@ export default function Template({
                           {featuredLinks.map(link => (
                             <Col xs={12} lg={4} key={slugify(link.title)}>
                               <Card>
+                                {link.image && (
+                                  <Card.Img
+                                    variant="top"
+                                    src={link.image}
+                                    alt={link.title}
+                                  />
+                                )}
                                 <Card.Body>
                                   <Card.Title>
                                     <Card.Link href={link.url}>
                                       {link.title}
                                     </Card.Link>
                                   </Card.Title>
-                                  <Card.Text>
-                                    <ReactMarkdown
-                                      source={link.description}
-                                      escapeHtml={false}
-                                    />
-                                  </Card.Text>
+                                  <ReactMarkdown
+                                    source={link.description}
+                                    escapeHtml={false}
+                                    className={Card.Text.className}
+                                  />
                                   <Card.Link
                                     href={link.url}
                                     target="_blank"

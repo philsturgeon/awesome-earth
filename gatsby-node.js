@@ -72,6 +72,7 @@ exports.createPages = async ({ graphql, actions }) => {
               title
               type
               url
+              image
             }
           }
         }
