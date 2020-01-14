@@ -1,4 +1,5 @@
 import React, { Fragment } from 'react';
+import PropTypes from 'prop-types';
 import ReactMarkdown from 'react-markdown/with-html';
 import slugify from 'slugify';
 import { graphql, Link } from 'gatsby';
@@ -23,6 +24,42 @@ export const query = graphql`
     }
   }
 `;
+
+const FeaturedCard = ({ title, url, description, image }) => (
+  <Card>
+    {image && <Card.Img src={image} alt={title} />}
+    <Card.Body>
+      <Card.Title>
+        <Card.Link href={url}>{title}</Card.Link>
+      </Card.Title>
+      <ReactMarkdown
+        source={description}
+        escapeHtml={false}
+        className={Card.Text.className}
+      />
+      <Card.Link href={url} target="_blank" rel="noopener noreferrer">
+        Learn More
+      </Card.Link>
+      <SocialLinks
+        className="mt-2"
+        text={`I found ${title} on Protect.Earth!`}
+        url={url}
+        all
+      />
+    </Card.Body>
+  </Card>
+);
+
+FeaturedCard.propTypes = {
+  title: PropTypes.string.isRequired,
+  url: PropTypes.string.isRequired,
+  description: PropTypes.string.isRequired,
+  image: PropTypes.string,
+};
+
+FeaturedCard.defaultProps = {
+  image: null,
+};
 
 export default function Template({
   data,
@@ -117,44 +154,18 @@ export default function Template({
                     <Container>
                       <Row>
                         <CardDeck>
-                          {featuredLinks.map(link => (
-                            <Col xs={12} lg={4} key={slugify(link.title)}>
-                              <Card>
-                                {link.image && (
-                                  <Card.Img
-                                    variant="top"
-                                    src={link.image}
-                                    alt={link.title}
-                                  />
-                                )}
-                                <Card.Body>
-                                  <Card.Title>
-                                    <Card.Link href={link.url}>
-                                      {link.title}
-                                    </Card.Link>
-                                  </Card.Title>
-                                  <ReactMarkdown
-                                    source={link.description}
-                                    escapeHtml={false}
-                                    className={Card.Text.className}
-                                  />
-                                  <Card.Link
-                                    href={link.url}
-                                    target="_blank"
-                                    rel="noopener noreferrer"
-                                  >
-                                    Learn More
-                                  </Card.Link>
-                                  <SocialLinks
-                                    className="mt-2"
-                                    text={`I found ${link.title} on Protect.Earth!`}
-                                    url={link.url}
-                                    all
-                                  />
-                                </Card.Body>
-                              </Card>
-                            </Col>
-                          ))}
+                          {featuredLinks.map(
+                            ({ title, url, description, image }) => (
+                              <Col xs={12} lg={4} key={slugify(title)}>
+                                <FeaturedCard
+                                  title={title}
+                                  url={url}
+                                  description={description}
+                                  image={image}
+                                />
+                              </Col>
+                            )
+                          )}
                         </CardDeck>
                       </Row>
                     </Container>

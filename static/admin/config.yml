@@ -3,7 +3,7 @@ backend:
   branch: master
   open_authoring: true
 
-media_folder: static/img
+media_folder: src/images/featured/cards
 public_folder: /img
 publish_mode: editorial_workflow
 
@@ -23,6 +23,12 @@ collections:
               - { label: 'Url', name: 'url', widget: 'string' }
               - { label: 'Categories', name: 'categories', widget: 'list' }
               - { label: 'Tags', name: 'tags', widget: 'list' }
+              - {
+                  label: 'Image',
+                  name: 'image',
+                  widget: 'image',
+                  required: false,
+                }
               - {
                   label: 'Description',
                   name: 'description',
