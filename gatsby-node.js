@@ -2,6 +2,9 @@ const path = require(`path`);
 const { createFilePath } = require(`gatsby-source-filesystem`);
 const titleCase = require('title-case').titleCase;
 
+const uniq = require('lodash').uniq;
+const includes = require('lodash').includes;
+
 async function asyncForEach(array, callback) {
   for (let index = 0; index < array.length; index++) {
     await callback(array[index], index, array);
@@ -54,6 +57,30 @@ exports.createPages = async ({ graphql, actions }) => {
     }
   `);
 
+  const allLinksQuery = await graphql(`
+    query {
+      allDataYaml {
+        edges {
+          node {
+            links {
+              categories
+              charity_url
+              countries
+              description
+              featured
+              tags
+              title
+              type
+              url
+            }
+          }
+        }
+      }
+    }
+  `);
+
+  const allLinks = allLinksQuery.data.allDataYaml.edges[0].node.links;
+
   await asyncForEach(result.data.allMarkdownRemark.edges, async ({ node }) => {
     const {
       frontmatter,
@@ -61,62 +88,36 @@ exports.createPages = async ({ graphql, actions }) => {
       html,
     } = node;
 
-    const linkResult = await graphql(`
-      query {
-        allLinksYaml(
-          filter: {categories: {in: ["${slug.replace(/^\/|\/$/g, '')}"]}}
-          sort: {fields: title, order: ASC}
-        ) {
-          edges {
-            node {
-              title
-              url
-              description
-              countries
-              featured
-            }
-          }
-        }
-      }
-    `);
-
-    const links = linkResult.data.allLinksYaml.edges.map(edge => edge.node);
+    const sanitizedSlug = slug.replace(/^\/|\/$/g, '');
+    const linksForThisCategory = allLinks.filter(link =>
+      includes(link.categories, sanitizedSlug)
+    );
 
     createPage({
       path: slug,
       component: path.resolve(`./src/templates/category.jsx`),
-      context: { category: frontmatter, html, links, slug },
+      context: {
+        category: frontmatter,
+        html,
+        links: linksForThisCategory,
+        slug,
+      },
     });
   });
 
-  const allTags = await graphql(`
-    {
-      allLinksYaml {
-        tags: distinct(field: tags)
-      }
-    }
-  `);
+  let allTags = [];
 
-  await asyncForEach(allTags.data.allLinksYaml.tags, async tag => {
-    const linksForTag = await graphql(`
-      query {
-        allLinksYaml(
-          filter: {tags: {in: ["${tag.replace(/^\/|\/$/g, '')}"]}}
-          sort: {fields: title, order: ASC}
-        ) {
-          edges {
-            node {
-              title
-              url
-              description
-              countries
-            }
-          }
-        }
-      }
-    `);
+  allLinks.forEach(link => {
+    allTags = [...allTags, ...link.categories];
+  });
 
-    const links = linksForTag.data.allLinksYaml.edges.map(edge => edge.node);
+  allTags = uniq(allTags);
+
+  await asyncForEach(allTags, async tag => {
+    const sanitizedTag = tag.replace(/^\/|\/$/g, '');
+    const linksForTag = allLinks.filter(link =>
+      includes(link.tags, sanitizedTag)
+    );
 
     // The tag name with the dashes replaced with spaces and the first letter in each word capitalised.
     const humanReadableTag = titleCase(tag);
@@ -124,7 +125,7 @@ exports.createPages = async ({ graphql, actions }) => {
     createPage({
       path: `/tags/${tag}`,
       component: path.resolve(`./src/templates/tag.jsx`),
-      context: { tag: humanReadableTag, links },
+      context: { tag: humanReadableTag, links: linksForTag },
     });
   });
 };
