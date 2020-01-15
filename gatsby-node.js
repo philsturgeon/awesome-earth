@@ -1,4 +1,8 @@
+const axios = require('axios');
+const fs = require('fs');
 const path = require(`path`);
+const url = require('url');
+const { snakeCase } = require('lodash');
 const { createFilePath } = require(`gatsby-source-filesystem`);
 const titleCase = require('title-case').titleCase;
 
@@ -94,6 +98,73 @@ exports.createPages = async ({ graphql, actions }) => {
       includes(link.categories, sanitizedSlug)
     );
 
+    const linkResult = await graphql(`
+      query {
+        allLinksYaml(
+          filter: {categories: {in: ["${slug.replace(/^\/|\/$/g, '')}"]}}
+          sort: {fields: title, order: ASC}
+        ) {
+          edges {
+            node {
+              title
+              url
+              description
+              countries
+              featured
+              image
+            }
+          }
+        }
+      }
+    `);
+
+    const featuredCardsImages = './src/images/featured/cards';
+    const featuredCardsImagesDir = fs.readdirSync(featuredCardsImages);
+    const links = await Promise.all(
+      linkResult.data.allLinksYaml.edges.map(async ({ node }) => {
+        const { image, title } = node;
+
+        // no image? no thing to do
+        if (!image) return node;
+
+        const link = url.parse(image);
+        // not a valid url? jump out
+        if (!link || !link.hostname || 'https:' !== link.protocol) return node;
+
+        const filename = snakeCase(title);
+        const hasFile = featuredCardsImagesDir.includes(
+          file => path.parse(file).name === filename
+        );
+        // there's the file already. get out
+        if (hasFile === true) return node;
+
+        const response = await axios({
+          url: image,
+          method: 'GET',
+          responseType: 'stream',
+        });
+
+        return new Promise((resolve, reject) => {
+          const { headers, data } = response;
+          const extension = headers['content-type'].split('/').pop();
+          const name = `${filename}.${extension}`;
+          const file = fs.createWriteStream(
+            `./src/images/featured/cards/${name}`
+          );
+
+          data.pipe(file);
+
+          file.on('finish', () =>
+            resolve({
+              ...node,
+              image: name,
+            })
+          );
+          file.on('error', () => reject(node));
+        });
+      })
+    );
+
     createPage({
       path: slug,
       component: path.resolve(`./src/templates/category.jsx`),
@@ -102,6 +173,7 @@ exports.createPages = async ({ graphql, actions }) => {
         html,
         links: linksForThisCategory,
         slug,
+        images: links.map(({ image }) => image),
       },
     });
   });

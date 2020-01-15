@@ -14,6 +14,7 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing \""
   },
   "dependencies": {
+    "axios": "^0.19.1",
     "bootstrap": "^4.4.1",
     "country-code-emoji": "^1.0.0",
     "gatsby": "^2.18.21",
