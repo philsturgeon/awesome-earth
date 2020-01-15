@@ -1378,3 +1378,44 @@ links:
       toys, et cetera. You’ll also find expert volunteers, with repair skills in
       all kinds of fields. Repair your stuff, or just enjoy a coffee. They're
       world-wide, and the site is multi-lingual.
+
+  - title: No Meat Today
+  url: https://nomeat.today/
+  categories:
+    - sustainable-lifestyle
+    - carbon-reduction
+  tags: [food, meat, vegetarian, vegan, carbon-reduction, app]
+  description: >-
+    Your companion to eat less meat. It's good for you and the planet, but let's be honest, eating less meat is hard. Don't do it alone!
+
+  - title: Greenpeace
+    url: https://engage.us.greenpeace.org/onlineactions/Hx3BaZLxxkyUUo2Jfzsk7w2
+    categories: [volunteering]
+    description: >-
+      Greenpeace has many ways for people to get involved. Start small by
+      launching and participating in campaigns and petitions, or go further and
+      discover or create events. Play an active role in achieving a green and
+      peaceful future!
+
+  - title: Tell Microsoft to End Big Oil Contracts
+    url: https://engage.us.greenpeace.org/onlineactions/Hx3BaZLxxkyUUo2Jfzsk7w2
+    categories: [volunteering]
+    tags: [petitions]
+    description: >-
+      Right now, while our planet speeds toward the brink of the climate crisis,
+      Microsoft is putting its foot on the accelerator. As oil and gas profits
+      continue to fall, giant oil corporations have turned to cloud computing and
+      artificial intelligence (AI) to answer their problems. Microsoft promises
+      companies like ExxonMobil that its analytical tools and other AI
+      technologies will help them discover and pump even more oil at a lower cost.
+      This Greenpeace petition will let Microsoft know this is not acceptable.
+
+  - title: Climate Careers
+    url: https://climate.careers/
+    categories: [volunteering]
+    tags: [career, jobs, developers]
+    description: >-
+      We help people find high-impact, high-paying jobs at organizations advancing
+      climate solutions, research, policy, education, and advocacy for climate action.
+      We support those organizations by helping them attract mission-driven talent. Software
+      engineers, photographers, sales, operations, researchers, all sorts of jobs here.
