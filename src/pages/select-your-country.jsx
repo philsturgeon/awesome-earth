@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { graphql, navigate } from 'gatsby';
 import flag from 'country-code-emoji';
-import { uniq } from 'lodash';
+import { union } from 'lodash';
 
 import { Layout } from '../components';
 import CountryContext from '../context/country-context';
@@ -12,10 +12,8 @@ export default ({ data }) => {
 
   let countriesWithContent = [];
   data.allDataYaml.nodes[0].links.forEach(link => {
-    countriesWithContent = [...countriesWithContent, ...link.countries];
+    countriesWithContent = union(countriesWithContent, link.countries);
   });
-
-  countriesWithContent = uniq(countriesWithContent);
 
   return (
     <Layout title={data.site.siteMetadata.title} seoTitle="Select Your Country">
