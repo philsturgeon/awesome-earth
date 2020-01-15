@@ -1,12 +1,12 @@
 import React from 'react';
 import { OutboundLink } from 'gatsby-plugin-google-analytics';
 
-import Button from 'react-bootstrap/Button';
+// import Button from 'react-bootstrap/Button';
 import Container from 'react-bootstrap/Container';
 import Col from 'react-bootstrap/Col';
 // import Dropdown from 'react-bootstrap/Dropdown';
 import Row from 'react-bootstrap/Row';
-import { useCountry } from '../context/country-context';
+// import { useCountry } from '../context/country-context';
 
 // import { useCountry } from '../context/country-context';
 // import countries from '../countries';
