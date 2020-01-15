@@ -8,7 +8,6 @@ import Col from 'react-bootstrap/Col';
 import Row from 'react-bootstrap/Row';
 // import { useCountry } from '../context/country-context';
 
-// import { useCountry } from '../context/country-context';
 // import countries from '../countries';
 
 const Footer = () => {
