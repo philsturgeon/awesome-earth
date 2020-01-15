@@ -1142,6 +1142,7 @@
 
 - title: ClimateAction.Tech
   url: https://climateaction.tech/
+  featured: true
   categories: [volunteering]
   tags: ['volunteering', 'developers']
   description: A global community of tech professionals using our skills, expertise and platforms to support solutions to the climate crisis. The mission is to empower technology professionals to play our part — to meet, discuss, learn and take climate action.
@@ -1153,6 +1154,7 @@
   description: The world’s largest climate modelling experiment. Evidence of how our climate is changing is vital to reducing greenhouse gas emissions.  Help discover how the climate could look by running software on your computer.
 
 - title: Economists for Future
+  featured: true
   url: https://econ4future.org/
   categories: [volunteering]
   tags: ['volunteering']
