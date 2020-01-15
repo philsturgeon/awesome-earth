@@ -11,7 +11,7 @@ collections:
   - name: 'content'
     label: 'Site Content'
     files:
-      - label: 'Links'
+      - label: 'links.yaml'
         name: 'links'
         file: 'src/data/links.yaml'
         fields:
