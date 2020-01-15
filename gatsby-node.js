@@ -2,8 +2,8 @@ const path = require(`path`);
 const { createFilePath } = require(`gatsby-source-filesystem`);
 const titleCase = require('title-case').titleCase;
 
-const uniq = require('lodash').uniq;
 const includes = require('lodash').includes;
+const union = require('lodash').union;
 
 async function asyncForEach(array, callback) {
   for (let index = 0; index < array.length; index++) {
@@ -108,10 +108,8 @@ exports.createPages = async ({ graphql, actions }) => {
   let allTags = [];
 
   allLinks.forEach(link => {
-    allTags = [...allTags, ...link.categories];
+    allTags = union(allTags, link.tags);
   });
-
-  allTags = uniq(allTags);
 
   await asyncForEach(allTags, async tag => {
     const sanitizedTag = tag.replace(/^\/|\/$/g, '');
