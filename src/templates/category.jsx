@@ -15,11 +15,21 @@ import Countries from '../countries';
 import CountryContext from '../context/country-context';
 
 export const query = graphql`
-  query {
+  query fetchFeatured($images: [String]!) {
     site {
       siteMetadata {
         title
         siteUrl
+      }
+    }
+    allImageSharp(filter: { fluid: { originalName: { in: $images } } }) {
+      edges {
+        node {
+          fluid {
+            originalName
+            src
+          }
+        }
       }
     }
   }
@@ -63,7 +73,7 @@ FeaturedCard.defaultProps = {
 
 export default function Template({
   data,
-  pageContext: { category, html, links, slug },
+  pageContext: { category, html, links, slug, images },
 }) {
   const seoImage =
     data.site.siteMetadata.siteUrl + category.image.twitterCard.fixed.src;
@@ -73,6 +83,20 @@ export default function Template({
 
   const featuredLinks = links.filter(l => l.featured === true);
   const categoryLinks = links.filter(l => l.featured !== true);
+
+  const fetchImage = image => {
+    if (!image) return;
+
+    const result = data.allImageSharp.edges.find(({ node }) => {
+      if (!node || !node.fluid) return false;
+
+      return node.fluid.originalName === image;
+    });
+
+    if (!result) return;
+
+    return result.node.fluid.src;
+  };
 
   return (
     <Layout
@@ -161,7 +185,7 @@ export default function Template({
                                   title={title}
                                   url={url}
                                   description={description}
-                                  image={image}
+                                  image={fetchImage(image)}
                                 />
                               </Col>
                             )
