@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { graphql, navigate } from 'gatsby';
 import flag from 'country-code-emoji';
-import { flattenDeep } from 'lodash';
+import { union } from 'lodash';
 
 import { Layout } from '../components';
 import CountryContext from '../context/country-context';
@@ -10,13 +10,10 @@ export default ({ data }) => {
   const countries = require('i18n-iso-countries').getNames('en');
   const [searchTerm, setSearchTerm] = useState('');
 
-  const countriesWithContent = flattenDeep([
-    ...new Set(
-      data.allLinksYaml.edges
-        .map(({ node }) => node.countries)
-        .filter(countryList => !!countryList)
-    ),
-  ]).map(countryCode => countryCode.toUpperCase());
+  let countriesWithContent = [];
+  data.allDataYaml.nodes[0].links.forEach(link => {
+    countriesWithContent = union(countriesWithContent, link.countries);
+  });
 
   return (
     <Layout title={data.site.siteMetadata.title} seoTitle="Select Your Country">
@@ -116,9 +113,9 @@ export const pageQuery = graphql`
         title
       }
     }
-    allLinksYaml {
-      edges {
-        node {
+    allDataYaml {
+      nodes {
+        links {
           countries
         }
       }
