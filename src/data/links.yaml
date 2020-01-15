@@ -612,7 +612,7 @@ links:
     url: https://www.seafoodwatch.org/
     categories:
       - cooking
-      tags: ['cooking']
+    tags: ['cooking']
     description: Seafood Watch recommends seafood that is fished or farmed in ways that promote healthy oceans. They recommend best options, good alternatives, and things to avoid.
 
   - title: Sun Oven
