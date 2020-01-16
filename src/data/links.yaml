@@ -692,6 +692,7 @@ links:
       - tr
       - ua
     description: The world’s leading long-distance carpooling platform, which is available in most of Europe and Mexico.
+    image: https://placekitten.com/300/200
 
   - title: Poparide
     url: https://www.poparide.com/
@@ -748,6 +749,7 @@ links:
       - travel
     tags: [accommodation, travel, nomad]
     description: Swap homes with another family instead of spending money at a fancy hotel, as hotels have a much higher footprint due to the constant cleaning, overactive AC, etc.
+    image: https://placekitten.com/300/200
 
   - title: Responsible Vacation
     url: https://www.responsiblevacation.com/

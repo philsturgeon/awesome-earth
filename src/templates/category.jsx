@@ -73,7 +73,7 @@ FeaturedCard.defaultProps = {
 
 export default function Template({
   data,
-  pageContext: { category, html, links, slug, images },
+  pageContext: { category, html, links, slug },
 }) {
   const seoImage =
     data.site.siteMetadata.siteUrl + category.image.twitterCard.fixed.src;

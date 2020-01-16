@@ -1,8 +1,8 @@
-const axios = require('axios');
 const fs = require('fs');
-const path = require(`path`);
 const url = require('url');
-const { snakeCase } = require('lodash');
+const path = require(`path`);
+const axios = require('axios');
+const { kebabCase } = require('lodash');
 const { createFilePath } = require(`gatsby-source-filesystem`);
 const titleCase = require('title-case').titleCase;
 
@@ -98,45 +98,27 @@ exports.createPages = async ({ graphql, actions }) => {
       includes(link.categories, sanitizedSlug)
     );
 
-    const linkResult = await graphql(`
-      query {
-        allLinksYaml(
-          filter: {categories: {in: ["${slug.replace(/^\/|\/$/g, '')}"]}}
-          sort: {fields: title, order: ASC}
-        ) {
-          edges {
-            node {
-              title
-              url
-              description
-              countries
-              featured
-              image
-            }
-          }
-        }
-      }
-    `);
-
     const featuredCardsImages = './src/images/featured/cards';
     const featuredCardsImagesDir = fs.readdirSync(featuredCardsImages);
     const links = await Promise.all(
-      linkResult.data.allLinksYaml.edges.map(async ({ node }) => {
-        const { image, title } = node;
+      linksForThisCategory.map(async link => {
+        const { image, title } = link;
 
         // no image? no thing to do
-        if (!image) return node;
+        if (!image) return link;
 
-        const link = url.parse(image);
+        const target = url.parse(image);
         // not a valid url? jump out
-        if (!link || !link.hostname || 'https:' !== link.protocol) return node;
+        if (!target || !target.hostname || 'https:' !== target.protocol) {
+          return link;
+        }
 
-        const filename = snakeCase(title);
+        const filename = kebabCase(title);
         const hasFile = featuredCardsImagesDir.includes(
           file => path.parse(file).name === filename
         );
         // there's the file already. get out
-        if (hasFile === true) return node;
+        if (hasFile === true) return link;
 
         const response = await axios({
           url: image,
@@ -156,11 +138,11 @@ exports.createPages = async ({ graphql, actions }) => {
 
           file.on('finish', () =>
             resolve({
-              ...node,
+              ...link,
               image: name,
             })
           );
-          file.on('error', () => reject(node));
+          file.on('error', () => reject(link));
         });
       })
     );
@@ -171,7 +153,7 @@ exports.createPages = async ({ graphql, actions }) => {
       context: {
         category: frontmatter,
         html,
-        links: linksForThisCategory,
+        links,
         slug,
         images: links.map(({ image }) => image),
       },
