@@ -1443,3 +1443,21 @@ links:
       organization holds retailers accountable by monitoring how offsets are
       transacted and advertised in the retail market, protecting both the buyer
       and the seller.
+
+  - title: TenTree
+    url: https://www.tentree.ca/
+    featured: true
+    categories:
+      - clothing
+    tags: [clothing]
+    description: >-
+      Ten tree is a brand that actively promotes environmental stewardship. They have a wide variety of comfortable clothes and accessories and with each purchase, they pledge to plant 10 trees.
+
+  - title: Arvin  Goods
+    url: https://www.arvingoods.com/
+    featured: true
+    categories: 
+      - clothing
+    tags: [clothing]
+    description: >-
+      Brand that makes fashionable socks through a sustainable supply chain process they have developed. They have removed excess water from their manufacturing process - leaving more water left for communities to drink!
