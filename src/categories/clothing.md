@@ -4,7 +4,7 @@ image: ../images/clothing.jpg
 intro: The best brands are ones that use ethical production and sustainable materials
 ---
 
-Sustainable clothing comes in many shapes and forms. One such form is through ethical manufacturing which respects both the environment as well as humans living in surrounding areas - such as avoiding the use of harmful dyes. Another form can come from clothing made with natural materials such as:
+Sustainable clothing comes in many shapes and forms. One example is through ethical manufacturing which respects both the environment as well as humans living in surrounding areas - such as avoiding the use of harmful dyes. Another form can come from clothing made with natural materials such as:
  * Modal - a breathable material made from beech tree pulp
  * Rayon/Viscose - a manufactured fibre made with wood and plant-based products
  * Bamboo - the bamboo plant makes light-weight, anti-bacterial clothes
