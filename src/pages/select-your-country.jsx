@@ -52,7 +52,7 @@ export default ({ data }) => {
             )
             .map(countryCode => {
               const countryHasContent = countriesWithContent.includes(
-                countryCode
+                countryCode.toLowerCase()
               );
               const countryFlag = flag(countryCode);
               const countryName = countries[countryCode];
