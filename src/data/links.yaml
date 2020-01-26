@@ -1496,8 +1496,31 @@ links:
       revive them. [More on Last Week Tonight](https://www.youtube.com/watch?v=Wpzvaqypav8).
 
   - title: Precious Plastic
-    featured:
+    featured: true
     url: https://preciousplastic.com/
+    categories: [volunteering, zero-waste]
+    tags: [community, developers, recycling, making]
+    description: >
+      Open-source community who share instructions for creating plastic
+      shredders, injectors, and sheet presses, so you can create anything you
+      want from used plastic. Collect plastic from neighbors, clean it, shred
+      it, [3D print a mold](https://pinshape.com/blog/low-cost-injection-molding-using-3d-printing/),
+      and create anything you can imagine! You can [buy the
+      machines](https://preciousplastic.com/solutions/machines/overview.html)
+      too if making them is out of your wheelhouse.
+
+  - title: Blue Planet II
+    url: https://www.imdb.com/title/tt6769208/
+    categories: [documentaries]
+    tags: [wildlife, plastic]
+    description: >
+      David Attenborough returns to the world's oceans in this sequel to the
+      acclaimed documentary filming rare and unusual creatures of the deep, as
+      well as documenting the problems our oceans face, including showing how
+      plastic waste is destroying marine life.
+
+  - title: Bloomberg Green
+    url: https://www.bloomberg.com/green
     categories: [volunteering, zero-waste]
     tags: [community, developers, recycling, making]
     description: >
