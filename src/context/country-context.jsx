@@ -6,6 +6,7 @@ const defaultCountry = {
 };
 
 const CountryContext = createContext({
+  clearCountry: () => {},
   country: defaultCountry,
   setCountry: () => {},
 });
@@ -21,5 +22,7 @@ const CountryProvider = ({ children }) => {
   );
 };
 
+const useCountry = () => React.useContext(CountryContext);
+
 export default CountryContext;
-export { CountryProvider };
+export { CountryProvider, useCountry };
