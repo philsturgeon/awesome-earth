@@ -1193,12 +1193,6 @@ links:
     countries: [us]
     description: Tree planting and tree care events around Austin, Texas, from October to April.
 
-  - title: Precious Plastic
-    url: https://preciousplastic.com/
-    categories: [volunteering, zero-waste]
-    tags: [community, developers]
-    description: A global community of hundreds of people working towards a solution to plastic pollution. Knowledge, tools and techniques are shared online, for free. So everyone can start (yes, you too!). People all over the world contribute to the project with their skills & knowledge. Join the fight against plastic pollution.
-
   - title: What is my lamp worth? (The Netherlands)
     url: https://www.watismijnlampwaard.nl/
     categories:
@@ -1490,3 +1484,16 @@ links:
       down these damns as soon as possible, be that when their contract runs out
       or sooner, instead of wasting tax-payer money operating them or trying to
       revive them.
+
+  - title: Precious Plastic
+    url: https://preciousplastic.com/
+    categories: [volunteering, zero-waste]
+    tags: [community, developers, recycling, making]
+    description: >
+      Open-source community who share instructions for creating plastic
+      shredders, injectors, and sheet presses, so you can create anything you
+      want from used plastic. Collect plastic from neighbors, clean it, shred
+      it, [3D print a mold](https://pinshape.com/blog/low-cost-injection-molding-using-3d-printing/),
+      and create anything you can imagine! You can [buy the
+      machines](https://preciousplastic.com/solutions/machines/overview.html)
+      too if making them is out of your wheelhouse.
