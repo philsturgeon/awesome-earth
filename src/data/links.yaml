@@ -874,7 +874,6 @@ links:
   - title: Dabchy
     url: https://www.dabchy.com/
     categories:
-      - sustainable-lifestyle
       - zero-waste
       - clothing
     tags: [clothing, reuse]
@@ -885,7 +884,6 @@ links:
   - title: thredUP
     url: https://www.thredup.com/
     categories:
-      - sustainable-lifestyle
       - zero-waste
       - clothing
     tags: [clothing, reuse]
@@ -896,7 +894,6 @@ links:
     featured: true
     url: https://wornwear.patagonia.com/
     categories:
-      - sustainable-lifestyle
       - zero-waste
       - clothing
     tags: [clothing, reuse, repair, second-hand]
@@ -1249,14 +1246,13 @@ links:
   - title: Adidas Parley
     url: https://adidas.com/parley
     categories:
-      - sustainable-lifestyle
+      - clothing
     tags: [clothing, recycle]
     description: Shoes, apparel and accessories made from upcycled marine plastic waste. Every piece in the collection is made of at least 75% intercepted plastic trash.
 
   - title: Cariuma
     url: https://cariuma.com/
     categories:
-      - sustainable-lifestyle
       - clothing
     tags: [clothing, recycle]
     description: Old-School sneakers, new school ethics. Cariuma's sneakers are handcrafted with premium natural materials, an obsessive eye for detail, and a conscious mind. They care deeply about our craftsmen, and ensure that they earn fair wages and experience safe working conditions.  Some of their shoes are carbon _negative_, and they are committed to carbon-neutral shipping processes, which they do by purchasing carbon offsets for each shipment.
@@ -1477,12 +1473,4 @@ links:
     tags: [clothing]
     description: >-
         Subsciption service that provides clothing with a zero-waste approach. When you sign up you purchase a membership and recieve an organic cotton shirt -  each time you want to purchase another article you send them back any old item to swap them out.
-
-  - title: Kotn
-    url: https://kotn.com/
-    categories:
-      - clothing
-    tags: [clothing]
-    description: >-
-        A canadian company that uses organic cotton to produce high quality clothes. They source their cotton from farmers in Egypt.
 
