@@ -191,12 +191,22 @@ links:
     description: A great example of how a community can survive the oil apocalypse. Cubans were on the edge of starvation due to the oil crisis - the average Cuban lost 20 pounds. The Cuban people helped avert disaster from the bottom up by reclaiming land everywhere and began growing vegetables on them. Here we see the importance of recovering lost knowledge to ensure communal survival.
 
   - title: Garbage Warrior
-    featured: true
     url: http://www.garbagewarrior.com/
     categories:
       - documentaries
     tags: ['documentaries']
-    description: Imagine a home that heats itself, that provides its own water, hat grows its own food. Imagine that it needs no expensive technology, that it recycles its own waste, that it has its own power source. And now imagine that it can be built anywhere, by anyone, out of the things society throws away. Thirty years ago, architect Michael Reynolds imagined just such a home - then set out to build it. A visionary in the classic American mode, Reynolds has been fighting ever since to bring his concept to the public. He believes that in an age of ecological instability and impending natural disaster, his buildings can - and will - change the way we live. Shot over three years in the USA, India and Mexico, Garbage Warrior is a feature-length documentary film telling the epic story of maverick architect Michael Reynolds, his crew of renegade house builders from New Mexico, and their fight to introduce radically different ways of living.
+    description: >
+      Garbage Warrior is a feature-length documentary film telling the epic
+      story of maverick architect Michael Reynolds, his crew of renegade house
+      builders from New Mexico, and their fight to introduce radically different
+      ways of living. Imagine a home that heats itself, that provides its own
+      water, hat grows its own food. Imagine that it needs no expensive
+      technology, that it recycles its own waste, that it has its own power
+      source. And now imagine that it can be built anywhere, by anyone, out of
+      the things society throws away. Thirty years ago, architect Michael
+      Reynolds imagined just such a home - then set out to build it. Reynolds
+      believes that in an age of ecological instability and impending natural
+      disaster, his buildings can - and will - change the way we live.
 
   - title: Where the Heck is Donlin?
     url: https://vimeo.com/64608183
@@ -312,7 +322,6 @@ links:
     description: Fossil-fueled power plants are responsible for nearly 40 percent of America’s carbon footprint. The Clean Power Plan calls for setting limits on this climate-warming pollution from these power plants, specifically at least 32 percent by 2030, compared to 2005 levels. By 2030, the Clean Power Plan could save the United States $20 billion in climate-related costs and deliver up to $34 billion in health benefits.
 
   - title: U.K. Double Tree Cover
-    featured: true
     url: https://act.friendsoftheearth.uk/petition/tell-uk-government-double-tree-cover
     countries: [gb]
     categories:
@@ -1436,6 +1445,7 @@ links:
 
   - title: Artifishial
     url: https://www.patagonia.com/artifishal.html
+    featured: true
     categories:
       - documentaries
     tags: [wildlife, overfishing]
@@ -1486,6 +1496,7 @@ links:
       revive them. [More on Last Week Tonight](https://www.youtube.com/watch?v=Wpzvaqypav8).
 
   - title: Precious Plastic
+    featured:
     url: https://preciousplastic.com/
     categories: [volunteering, zero-waste]
     tags: [community, developers, recycling, making]
