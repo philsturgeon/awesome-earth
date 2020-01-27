@@ -883,8 +883,8 @@ links:
   - title: Dabchy
     url: https://www.dabchy.com/
     categories:
-      - sustainable-lifestyle
       - zero-waste
+      - clothing
     tags: [clothing, reuse]
     countries:
       - tn
@@ -893,8 +893,8 @@ links:
   - title: thredUP
     url: https://www.thredup.com/
     categories:
-      - sustainable-lifestyle
       - zero-waste
+      - clothing
     tags: [clothing, reuse]
     countries: [us]
     description: Second hand clothes, up-cycled to avoid the electricity, carbon, etc waste of making new clothes, and keeping them from a landfill. Women and kids but nothing for men.
@@ -903,8 +903,8 @@ links:
     featured: true
     url: https://wornwear.patagonia.com/
     categories:
-      - sustainable-lifestyle
       - zero-waste
+      - clothing
     tags: [clothing, reuse, repair, second-hand]
     countries: [us]
     description: A set of tools to help our customers partner with Patagonia to take mutual responsibility to extend the life of the products Patagonia makes and customers purchase. You can buy second-hand repaired or re-crafted clothes, or trade in used Patagonia clothes for credit for new items.
@@ -1249,14 +1249,14 @@ links:
   - title: Adidas Parley
     url: https://adidas.com/parley
     categories:
-      - sustainable-lifestyle
+      - clothing
     tags: [clothing, recycle]
     description: Shoes, apparel and accessories made from upcycled marine plastic waste. Every piece in the collection is made of at least 75% intercepted plastic trash.
 
   - title: Cariuma
     url: https://cariuma.com/
     categories:
-      - sustainable-lifestyle
+      - clothing
     tags: [clothing, recycle]
     description: Old-School sneakers, new school ethics. Cariuma's sneakers are handcrafted with premium natural materials, an obsessive eye for detail, and a conscious mind. They care deeply about our craftsmen, and ensure that they earn fair wages and experience safe working conditions.  Some of their shoes are carbon _negative_, and they are committed to carbon-neutral shipping processes, which they do by purchasing carbon offsets for each shipment.
 
@@ -1443,6 +1443,40 @@ links:
       transacted and advertised in the retail market, protecting both the buyer
       and the seller.
 
+  - title: TenTree
+    url: https://www.tentree.ca/
+    featured: true
+    categories:
+      - clothing
+    tags: [clothing]
+    description: >-
+      Ten tree is a brand that actively promotes environmental stewardship. They have a wide variety of comfortable clothes and accessories and with each purchase, they pledge to plant 10 trees.
+
+  - title: Arvin  Goods
+    url: https://www.arvingoods.com/
+    featured: true
+    categories: 
+      - clothing
+    tags: [clothing]
+    description: >-
+      Brand that makes fashionable socks through a sustainable supply chain process they have developed. They have removed excess water from their manufacturing process - leaving more water left for communities to drink!
+
+  - title: Siizu
+    url: https://siizu.com/
+    categories:
+      - clothing
+    tags: [clothing]
+    description: >-
+      A mininalistic-styled brand that creates clothing with organic and natural fabrics - one such using oyster shell waste. They use an ethical manufacturing process by having their factories close to each other and their shipping only uses recyclable packaging.
+
+  - title: For Days
+    url: https://www.fordays.com/
+    categories:
+      - clothing
+    tags: [clothing]
+    description: >-
+        Subsciption service that provides clothing with a zero-waste approach. When you sign up you purchase a membership and recieve an organic cotton shirt -  each time you want to purchase another article you send them back any old item to swap them out.
+
   - title: Artifishial
     url: https://www.patagonia.com/artifishal.html
     featured: true
@@ -1531,3 +1565,10 @@ links:
       and create anything you can imagine! You can [buy the
       machines](https://preciousplastic.com/solutions/machines/overview.html)
       too if making them is out of your wheelhouse.
+
+  - title: REI Used
+    url: https://www.rei.com/used
+    categories: [clothing]
+    tags: [clothing]
+    description: >-
+      CO-OP owned company that sells reused hiking and outdoor gear and clothing with the goal of preventing waste and getting more people into outdoor activities. They offer gift cards in exchange for your used gear too.
