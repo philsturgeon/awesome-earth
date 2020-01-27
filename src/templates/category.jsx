@@ -39,7 +39,9 @@ export default function Template({
     !!link.countries && link.countries.includes(country.code.toLowerCase());
 
   const featuredLinks = links.filter(l => l.featured === true);
-  const categoryLinks = links.filter(l => l.featured !== true);
+  const categoryLinks = links
+    .filter(l => l.featured !== true)
+    .sort((a, b) => a.title.localeCompare(b.title));
 
   return (
     <Layout
