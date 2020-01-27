@@ -1467,7 +1467,7 @@ links:
       - clothing
     tags: [clothing]
     description: >-
-      A mininalistic-styled brand that creates clothing with organic and natural fabrics. They use an ethical manufacturing process by having their factories close to each other and their shipping only uses recyclable packaging.
+      A mininalistic-styled brand that creates clothing with organic and natural fabrics - one such using oyster shell waste. They use an ethical manufacturing process by having their factories close to each other and their shipping only uses recyclable packaging.
 
   - title: For Days
     url: https://www.fordays.com/
@@ -1565,3 +1565,10 @@ links:
       and create anything you can imagine! You can [buy the
       machines](https://preciousplastic.com/solutions/machines/overview.html)
       too if making them is out of your wheelhouse.
+
+  - title: REI Used
+    url: https://www.rei.com/used
+    categories: [clothing]
+    tags: [clothing]
+    description: >-
+      CO-OP owned company that sells reused hiking and outdoor gear and clothing with the goal of preventing waste and getting more people into outdoor activities. They offer gift cards in exchange for your used gear too.
