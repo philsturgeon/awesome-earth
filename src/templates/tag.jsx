@@ -59,36 +59,38 @@ export default function Template({ data, pageContext: { tag, links } }) {
           <Row>
             <Col>
               <ul className="link-wrapper">
-                {links.map(link => (
-                  <li className="link" key={`${slugify(link.title)}`}>
-                    <strong>
-                      <a
-                        href={link.url}
-                        className="title"
-                        rel="nofollow noopener noreferrer"
-                      >
-                        {link.title}
-                      </a>
-                    </strong>
-                    {(link.countries || []).map(code => {
-                      const country = Countries.fromAlpha2Code(
-                        code.toUpperCase()
-                      );
-                      return (
-                        <span
-                          key={`${slugify(country.name)}`}
-                          title={country.name}
+                {links
+                  .sort((a, b) => a.title.localeCompare(b.title))
+                  .map(link => (
+                    <li className="link" key={`${slugify(link.title)}`}>
+                      <strong>
+                        <a
+                          href={link.url}
+                          className="title"
+                          rel="nofollow noopener noreferrer"
                         >
-                          {country.emoji}
-                        </span>
-                      );
-                    })}
-                    <ReactMarkdown
-                      source={link.description}
-                      escapeHtml={false}
-                    />
-                  </li>
-                ))}
+                          {link.title}
+                        </a>
+                      </strong>
+                      {(link.countries || []).map(code => {
+                        const country = Countries.fromAlpha2Code(
+                          code.toUpperCase()
+                        );
+                        return (
+                          <span
+                            key={`${slugify(country.name)}`}
+                            title={country.name}
+                          >
+                            {country.emoji}
+                          </span>
+                        );
+                      })}
+                      <ReactMarkdown
+                        source={link.description}
+                        escapeHtml={false}
+                      />
+                    </li>
+                  ))}
               </ul>
             </Col>
           </Row>
