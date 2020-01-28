@@ -74,11 +74,11 @@ export default ({ data }) => {
             <Col>
               <RecentLinks
                 links={data.dataYaml.links}
-                showAmmount={5}
+                showAmount={5}
               />
             </Col>
           </Row>
-          <Row>
+          <Row className="pt-5">
             <Col>
               <div className="card-grid">
                 {categories.map(category => (
