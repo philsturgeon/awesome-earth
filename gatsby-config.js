@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: `Protect.Earth`,
-    siteUrl: `https://www.protect.earth`,
-    description: `All the climate action you need to help save our planet from being simultaneously underwater and on fire.`,
+    siteUrl: `https://protect.earth`,
+    description: `Links, resources, and articles to help you lead a more sustainable life. Learn about how to reduce your carbon footprint, and how to find and support sustainable projects and companies around the world. Take action today - the earth needs you to do your part.`,
   },
   plugins: [
     'gatsby-plugin-netlify-cms',
