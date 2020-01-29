@@ -11,20 +11,27 @@ import Row from 'react-bootstrap/Row';
 import { Layout } from '../components';
 import Countries from '../countries';
 
+const unsplashImageUrl = (tag, width = 1600, height = 400) => {
+  const cleanTag = tag.replace(' ', ',');
+  return `https://source.unsplash.com/featured/${width}x${height}?${cleanTag}`;
+};
+
+
 export default function Template({ data, pageContext: { tag, links } }) {
   return (
     <>
-      <Layout title={`Links tagged with ${tag}`}>
+      <Layout
+        title={`Links tagged with ${tag}`}
+        image={unsplashImageUrl(tag, 1200, 627)}
+        description={`Awesome links for sustainability tagged with ${tag}`}
+      >
         <Jumbotron
           style={{
             marginTop: '1rem',
             minHeight: '45vh',
             backgroundPosition: 'center center',
             backgroundSize: 'cover',
-            backgroundImage: `url(https://source.unsplash.com/featured/1600x400?${tag.replace(
-              ' ',
-              ','
-            )})`,
+            backgroundImage: `url(${unsplashImageUrl(tag)})`,
           }}
         >
           <Container>
