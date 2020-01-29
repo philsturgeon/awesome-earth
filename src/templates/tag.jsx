@@ -14,7 +14,7 @@ import Countries from '../countries';
 export default function Template({ data, pageContext: { tag, links } }) {
   return (
     <>
-      <Layout seoTitle={tag}>
+      <Layout title={`Links tagged with ${tag}`}>
         <Jumbotron
           style={{
             marginTop: '1rem',
