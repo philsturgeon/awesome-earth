@@ -4,6 +4,7 @@ import PropTypes from 'prop-types';
 import { useStaticQuery, graphql } from 'gatsby';
 
 import favicon from '../images/globe.png';
+import newsImage from '../images/news.jpg';
 
 const SEO = ({ title, description, keywords, meta, image }) => {
   const {
@@ -15,6 +16,7 @@ const SEO = ({ title, description, keywords, meta, image }) => {
           siteMetadata {
             title
             description
+            siteUrl
           }
         }
       }
@@ -42,7 +44,7 @@ const SEO = ({ title, description, keywords, meta, image }) => {
     },
     {
       property: 'og:image',
-      content: image,
+      content: image || `${siteMetadata.siteUrl}${newsImage}`,
     },
     {
       name: 'twitter:card',

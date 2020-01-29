@@ -17,7 +17,6 @@ export const query = graphql`
   query {
     site {
       siteMetadata {
-        title
         siteUrl
       }
     }
@@ -46,9 +45,8 @@ export default function Template({
   return (
     <Layout
       title={`${category.title} resources`}
-      seoTitle={`${category.title} links, companies, products, and helpful resources.  Start doing better for the earth today at protect.earth`}
       image={seoImage}
-      description={category.intro}
+      description={html}
     >
       <Jumbotron
         style={{

@@ -10,22 +10,11 @@ import Row from 'react-bootstrap/Row';
 
 import { Layout } from '../components';
 import Countries from '../countries';
-import { graphql } from 'gatsby';
-
-export const query = graphql`
-  query {
-    site {
-      siteMetadata {
-        title
-      }
-    }
-  }
-`;
 
 export default function Template({ data, pageContext: { tag, links } }) {
   return (
     <>
-      <Layout title={data.site.siteMetadata.title} seoTitle={tag}>
+      <Layout title={`Links tagged with ${tag}`}>
         <Jumbotron
           style={{
             marginTop: '1rem',
