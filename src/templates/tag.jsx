@@ -23,6 +23,7 @@ export default function Template({ data, pageContext: { tag, links } }) {
       <Layout
         title={`Links tagged with ${tag}`}
         image={unsplashImageUrl(tag, 1200, 627)}
+        description={`Awesome links for sustainability tagged with ${tag}`}
       >
         <Jumbotron
           style={{
