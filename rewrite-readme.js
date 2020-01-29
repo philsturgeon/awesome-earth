@@ -1,6 +1,5 @@
 const fs = require('fs');
-const titleCase = require('title-case');
-const flag = require('country-code-emoji');
+const { titleCase } = require('title-case');
 const path = require('path');
 const yaml = require('js-yaml');
 
@@ -65,8 +64,8 @@ const startCursor = '<!-- links:start -->';
 const endCursor = '<!-- links:end -->';
 const str = fs.readFileSync(readmeFile, 'utf8');
 
-const linksData = yaml.load(fs.readFileSync(linkFile, 'utf8'));
-const markdownLines = formatAsMarkdown(linksData);
+const { links } = yaml.load(fs.readFileSync(linkFile, 'utf8'));
+const markdownLines = formatAsMarkdown(links);
 
 fs.writeFileSync(
   readmeFile,

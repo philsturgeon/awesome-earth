@@ -16,6 +16,7 @@ const unsplashImageUrl = (tag, width = 1600, height = 400) => {
   return `https://source.unsplash.com/featured/${width}x${height}?${cleanTag}`;
 };
 
+
 export default function Template({ data, pageContext: { tag, links } }) {
   return (
     <>

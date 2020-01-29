@@ -7,7 +7,7 @@ import Container from 'react-bootstrap/Container';
 import Jumbotron from 'react-bootstrap/Jumbotron';
 import Row from 'react-bootstrap/Row';
 
-import { Layout, CategoryCard } from '../components';
+import { Layout, CategoryCard, RecentLinks } from '../components';
 
 export default ({ data }) => {
   const categories = data.allMarkdownRemark.edges.map(edge => ({
@@ -72,6 +72,14 @@ export default ({ data }) => {
           </Row> */}
           <Row>
             <Col>
+              <RecentLinks
+                links={data.dataYaml.links}
+                showAmount={5}
+              />
+            </Col>
+          </Row>
+          <Row className="pt-5">
+            <Col>
               <div className="card-grid">
                 {categories.map(category => (
                   <CategoryCard
@@ -110,5 +118,18 @@ export const pageQuery = graphql`
         }
       }
     }
+    dataYaml {
+    links {
+      charity_url
+      categories
+      countries
+      description
+      featured
+      title
+      type
+      url
+      tags
+    }
+  }
   }
 `;
