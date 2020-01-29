@@ -17,7 +17,7 @@ export default ({ data }) => {
 
   return (
     <>
-      <Layout title={data.site.siteMetadata.title} seoTitle="Welcome">
+      <Layout title="Home">
         <Jumbotron
           style={{
             minHeight: '45vh',
@@ -90,12 +90,6 @@ export default ({ data }) => {
 
 export const pageQuery = graphql`
   query {
-    site {
-      siteMetadata {
-        title
-        siteUrl
-      }
-    }
     allMarkdownRemark(sort: { order: ASC, fields: frontmatter___title }) {
       edges {
         node {

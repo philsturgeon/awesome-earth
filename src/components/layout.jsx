@@ -10,7 +10,6 @@ const Layout = ({
   title,
   meta,
   keywords,
-  seoTitle,
   image,
   description,
   children,
@@ -19,7 +18,7 @@ const Layout = ({
   return (
     <>
       <SEO
-        title={title || seoTitle || ''}
+        title={title || ''}
         description={description}
         keywords={keywords}
         meta={meta}
@@ -38,7 +37,6 @@ const Layout = ({
 
 Layout.propTypes = {
   title: PropTypes.string,
-  seoTitle: PropTypes.string,
   image: PropTypes.string,
   description: PropTypes.string,
   children: PropTypes.node,

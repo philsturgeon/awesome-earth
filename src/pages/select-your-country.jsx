@@ -17,7 +17,7 @@ export default ({ data }) => {
   });
 
   return (
-    <Layout title={data.site.siteMetadata.title} seoTitle="Select Your Country">
+    <Layout title="Select Your Country">
       <div className="select-your-country padding">
         <div className="header">
           <h1>Select Your Country</h1>
