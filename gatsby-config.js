@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Protect.Earth`,
     siteUrl: `https://www.protect.earth`,
-    description: `All the climate action your need to save our planet from being simultaneously underwater and on fire.`,
+    description: `All the climate action you need to help save our planet from being simultaneously underwater and on fire.`,
   },
   plugins: [
     'gatsby-plugin-netlify-cms',
