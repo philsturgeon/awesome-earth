@@ -1594,7 +1594,7 @@ links:
     countries:
       - us
       - ca
-      - uk
+      - gb
     categories:
       - jobs
     tags: ['jobs']
@@ -1612,7 +1612,7 @@ links:
   - title: The Guardian, Climate Change Jobs
     url: https://jobs.theguardian.com/jobs/climate-change/
     countries:
-      - uk
+      - gb
     categories:
       - jobs
     tags: ['jobs']
