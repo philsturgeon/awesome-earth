@@ -9,6 +9,7 @@ The world is simultaneously underwater and on fire, and people want to know what
 - [Cooking](#cooking)
 - [Documentaries](#documentaries)
 - [Home-Improvements](#home-improvements)
+- [Jobs](#jobs)
 - [Land-Management](#land-management)
 - [News](#news)
 - [Politics](#politics)
@@ -21,8 +22,12 @@ The world is simultaneously underwater and on fire, and people want to know what
 - [Zero-Waste](#zero-waste)
 ## Carbon-Reduction
 - [Carbon Footprint Extension](https://gitlab.com/aossie/CarbonFootprint) - Automatically estimates CO2 emissions on Google Maps™, other maps services and train and flight search engines.
+- [Carbon Pricing Dashboard](https://carbonpricingdashboard.worldbank.org/) - Maps and statistics on regional, national, and subnational carbon pricing initiatives.
+
 - [CarbonFootprint.com](https://www.carbonfootprint.com/) - Measure you carbon footprint, learn how to reduce your consumption, offset your impact, communicate, and comply.
 - [CarbonFund.org](https://carbonfund.org/) - Calculate your footprint based on flights, driving, shipping, and make tax-deductible donations to offset your emissions.
+- [Climate Action Tracker](https://climateactiontracker.org/countries/) - See which countries are on track for the Paris Agreement or similar, and which countries are failing horribly. Hint: it's everyone but Morocco and The Gambia.
+
 - [Cool Earth](https://www.coolearth.org/) - This charity was created to tackle climate change by reducing carbon emissions from rainforest loss.
 - [Ecosia](https://www.ecosia.org) - The search engine that plants trees. >50% of the ad revenue goes directly to planting trees.
 - [Flight Free (UK)](https://flightfree.co.uk/) - Aviation is the fastest growing contributor to greenhouse gas emissions at a time when we desperately need to reduce them. Pledge to go flight free in 2020.
@@ -91,6 +96,14 @@ The world is simultaneously underwater and on fire, and people want to know what
 - [Sense](https://sense.com/) - Sense is a home energy monitor that gives real-time insight into your home’s energy usage. Sense gives people the knowledge they need to reduce their energy costs and usage, with profound effects on the environment- the company estimates that its users are saving a total of 53 million pounds of CO2 annually.
 - [Solar Thermal Energy](https://en.wikipedia.org/wiki/Solar_thermal_energy) - Solar thermal technology can be used for cooking, heating your home through radiant floors, radiators, or forced air. It can be used to heat water directly for hot showers too.
 - [Solar Water Heaters](https://www.energy.gov/energysaver/water-heating/solar-water-heaters) - Solar hot water systems capture thermal energy from the sun and use it to heat water for your home. Systems can either be passive or active – while passive systems use gravity and natural circulation, active systems use pumps and controls to circulate water.
+## Jobs
+- [Climate Careers](https://climate.careers/) - Site that helps people find high-impact, high-paying jobs at organizations advancing climate solutions, research, policy, education, and advocacy for climate action. Software engineers, photographers, sales, operations, researchers, all sorts of jobs here.
+
+- [GoodWork](https://www.goodwork.ca/) - GoodWork is a Canadian community of environmental changemakers, sustainability professionals, job seekers and volunteers.
+
+- [Green Jobs](hhttps://greenjobs.glideapp.io) - Application that helps users find green jobs in top US cities.
+- [GreenJobs](https://greenjobs.com) - Site advertising a wide variety of green jobs to enhance your environmental career.
+- [The Guardian, Climate Change Jobs](https://jobs.theguardian.com/jobs/climate-change/) - The Guardian advertises the latest climate change jobs in the UK and some areas of Europe/Asia.
 ## Land-Management
 - [Creating a Land Trust](https://conservationtools.org/guides/150-what-is-a-land-trust) - A land trust is a charitable organization that acquires land or conservation easements, or that stewards land or easements, for conservation purposes. Land owners may consider designating portions of their land as a land trust, in order to preserve natural features in perpetuity, and be eligible for tax benefits as a result.
 - [Dronecoria](http://dronecoria.org/) - Open-source drone reforestation technology. Drones, coupled with native coated seeds, can transform the efficiency with which we restore ecosystems.
@@ -101,6 +114,8 @@ The world is simultaneously underwater and on fire, and people want to know what
 - [Woodland Trust](https://www.woodlandtrust.org.uk/) - The Woodland Trust is reforesting the United Kingdom, working with communities, local authorities, and land owners, to get trees in the ground.
 ## News
 - [BBC.com Climate Change](https://www.bbc.com/news/topics/cmj34zmwm1zt/climate-change) - BBC may give fairly slanted reporting when it comes to partisan UK politics, but their climate coverage is usually pretty on point.
+- [Bloomberg Green](https://www.bloomberg.com/green) - Climate news and insights on the latest in science, environmental impacts, zero-emission tech and green finance.
+
 - [Carbon Brief](https://www.carbonbrief.org/) - UK-based website covering the latest developments in climate science, climate policy and energy policy. Clear, data-driven articles and graphics to help improve the understanding of climate change, both in terms of the science and the policy response.
 - [David Bauer's Climate Crisis Collection](https://refind.com/davidbauer/climate-crisis) - How we got here, where we're headed and what we can do about it.
 - [Good](https://www.good.is/planet) - Good and upworthy news covering big issues, 'making purpose contagious'.
@@ -202,11 +217,8 @@ With dams causing wild salmon populations to go extinct, their only benefit is h
 - [Seat61](https://www.seat61.com/) - Train travel is a more rewarding, low-stress alternative to flying, which brings us closer to the countries we visit and reduces our contribution to climate change. It's time to rediscover the pleasure, romance & adventure of travel by train or ship. This site explains how to travel comfortably & affordably by train or ferry where you might think air was now the only option. For help with train travel, ask the Man in Seat 61!
 - [Slow Travel (Langsamreisen)](https://www.langsamreisen.de/) - A travel company all about sustainable and conscious travel. Piggy back on a cargo ship to get to that new job on the other side of the world. Sailing trips to get around without a footprint. Maybe take the trans-siberian railway.
 ## Volunteering
-- [Bloomberg Green](https://www.bloomberg.com/green) - Open-source community who share instructions for creating plastic shredders, injectors, and sheet presses, so you can create anything you want from used plastic. Collect plastic from neighbors, clean it, shred it, [3D print a mold](https://pinshape.com/blog/low-cost-injection-molding-using-3d-printing/), and create anything you can imagine! You can [buy the machines](https://preciousplastic.com/solutions/machines/overview.html) too if making them is out of your wheelhouse.
-
 - [Citizens Climate Lobby](https://citizensclimatelobby.org/) - If you’re an English, economics or poly sci major, you probably should consider volunteering for Citizens’ Climate Lobby, an organization focused on confronting climate change through policy.
 - [Clean Trails](https://www.cleantrails.org/join) - Step by step, and little by little, our aim is to eliminate waste on all the trails that grace our public lands.  We believe we can do that in a positive and proactive manner by educating, encouraging, and reconnecting outdoor users to our pristine places.
-- [Climate Careers](https://climate.careers/) - We help people find high-impact, high-paying jobs at organizations advancing climate solutions, research, policy, education, and advocacy for climate action. We support those organizations by helping them attract mission-driven talent. Software engineers, photographers, sales, operations, researchers, all sorts of jobs here.
 - [ClimateAction.Tech](https://climateaction.tech/) - A global community of tech professionals using our skills, expertise and platforms to support solutions to the climate crisis. The mission is to empower technology professionals to play our part — to meet, discuss, learn and take climate action.
 - [ClimatePrediction.net](https://www.climateprediction.net/) - The world’s largest climate modelling experiment. Evidence of how our climate is changing is vital to reducing greenhouse gas emissions.  Help discover how the climate could look by running software on your computer.
 - [Economists for Future](https://econ4future.org/) - Economists for Future growing movement of people committed to galvanising the economics community behind addressing the greatest challenge of our day. If the discipline which dedicates itself to studying the economy cannot sufficiently engage in the economic transformation that the climate science requires, then who else can be expected to do this?
@@ -224,8 +236,6 @@ With dams causing wild salmon populations to go extinct, their only benefit is h
 ## Zero-Waste
 - [Algramo](https://www.algramoalmacenes.com/) - Vending machines and mobile refill units for refilling reusable plastic bottles with staple goods from shampoo to salad dressing in packaging that is designed to be returned, cleaned, and reused.  With over 2,000 bodegas in Santiago and plans to expand in the US soon, Algramo, translates to "by the gram", also solves the issue of "poverty tax" where small packages can cost as much as 50% more than the same product in a larger size.
 - [Bio Bean](https://www.bio-bean.com/) - The world’s largest recycler of coffee grounds, Bio Bean recycle spent coffee grounds into sustainable products, like coffee logs for fires, and other biomass fuel.
-- [Bloomberg Green](https://www.bloomberg.com/green) - Open-source community who share instructions for creating plastic shredders, injectors, and sheet presses, so you can create anything you want from used plastic. Collect plastic from neighbors, clean it, shred it, [3D print a mold](https://pinshape.com/blog/low-cost-injection-molding-using-3d-printing/), and create anything you can imagine! You can [buy the machines](https://preciousplastic.com/solutions/machines/overview.html) too if making them is out of your wheelhouse.
-
 - [Blue Jeans Go Green](https://bluejeansgogreen.org/) - Send in your used jeans to get transformed into natural cotton fiber insulation, some of which is used to help with building efforts around the country.
 - [City Harvest](https://www.cityharvest.org/) - City Harvest is New York City’s largest food rescue organization. They rescue food and deliver it to hundreds of food pantries, soup kitchens and other community partners.
 - [Dabchy](https://www.dabchy.com/) - Tunisian second hand clothes marketplace.
