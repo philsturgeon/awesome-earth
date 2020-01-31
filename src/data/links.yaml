@@ -1411,16 +1411,6 @@ links:
       technologies will help them discover and pump even more oil at a lower cost.
       This Greenpeace petition will let Microsoft know this is not acceptable.
 
-  - title: Climate Careers
-    url: https://climate.careers/
-    categories: [volunteering]
-    tags: [career, jobs, developers]
-    description: >-
-      We help people find high-impact, high-paying jobs at organizations advancing
-      climate solutions, research, policy, education, and advocacy for climate action.
-      We support those organizations by helping them attract mission-driven talent. Software
-      engineers, photographers, sales, operations, researchers, all sorts of jobs here.
-
   - title: Stop the Money Pipeline
     url: https://www.stopthemoneypipeline.com/
     categories: [volunteering]
@@ -1593,7 +1583,11 @@ links:
     categories:
       - jobs
     tags: ['jobs']
-    description: Site that helps people find high-impact jobs at organizations advancing climate solutions, research, policy, education, and advocacy for climate action.
+    description: >
+      Site that helps people find high-impact, high-paying jobs at organizations
+      advancing climate solutions, research, policy, education, and advocacy for
+      climate action. Software engineers, photographers, sales, operations,
+      researchers, all sorts of jobs here.
 
   - title: GreenJobs
     url: https://greenjobs.com
