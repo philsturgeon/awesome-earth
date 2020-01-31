@@ -6,7 +6,7 @@ import RecentLinkItem from './RecentLinkItem'
 
 export default ({ links, showAmount }) => {
 
-    const recentLinks = links.slice((-1 * showAmount))
+    const recentLinks = links.slice((-1 * showAmount)).reverse()
 
     return (
         <div>
