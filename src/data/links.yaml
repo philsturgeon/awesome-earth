@@ -223,6 +223,57 @@ links:
     tags: ["documentaries"]
     description: Follow the Manhattan-based Beavan family as they abandon their high consumption 5th Avenue lifestyle and try to live a year while making no net environmental impact.
 
+  - title: Climate Careers
+    url: https://climate.careers/
+    countries:
+      - us
+      - ca
+      - eg
+      - de
+      - nl
+    categories:
+      - jobs
+    tags: ["jobs"]
+    description: Site that helps people find high-impact jobs at organizations advancing climate solutions, research, policy, education, and advocacy for climate action.
+
+  - title: GreenJobs
+    url: https://greenjobs.com
+    countries:
+      - us
+      - ca
+      - uk
+    categories:
+      - jobs
+    tags: ["jobs"]
+    description: Site advertising a wide variety of green jobs to enhance your environmental career.
+
+  - title: Green Jobs
+    url: hhttps://greenjobs.glideapp.io
+    countries:
+      - us
+    categories:
+      - jobs
+    tags: ["jobs", "app"]
+    description: Application that helps users find green jobs in top US cities.
+
+  - title: The Guardian, Climate Change Jobs
+    url: https://jobs.theguardian.com/jobs/climate-change/
+    countries:
+      - uk
+    categories:
+      - jobs
+    tags: ["jobs"]
+    description: The Guardian advertises the latest climate change jobs in the UK and some areas of Europe/Asia.
+
+  - title: GoodWork
+    url: https://www.goodwork.ca/
+    counries:
+      - ca
+    categories:
+      - jobs
+    tags: ["jobs"]
+    description: GoodWork is a Canadian community of environmental changemakers, sustainability professionals, job seekers and volunteers.
+
   - title: Community Power
     url: https://communitypower.ie/
     countries: [ie]
