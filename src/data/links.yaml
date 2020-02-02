@@ -1658,3 +1658,85 @@ links:
       See which countries are on track for the Paris Agreement or similar, and
       which countries are failing horribly. Hint: it's everyone but Morocco and
       The Gambia.
+
+  - title: Open Circularity
+    url: https://opencircularity.info/
+    tags: [community, developers, recycling, making]
+    countries: [de]
+    categories: [zero-waste]
+    description: >
+      Lars Zimmermann runs Mifactori Design & Activism Studio in Berlin. This
+      website is where he shares content & thoughts on Open Source Circularity.
+      General idea is - open source all products, allowing them to be repaired
+      or repurposed if they break rather than ending up in landfill.
+
+  - title: Circular Berlin
+    url: http://circular.berlin/
+    tags: [community, recycling]
+    countries: [de]
+    categories: [zero-waste]
+    description: >
+      A Berlin based non-profit developing the local circular economy agenda through
+      research, community-building and practical programmes. Good overview of events
+      and initiatives happening in Berlin.
+
+  - title: Pure Waste
+    url: https://www.purewaste.org/
+    tags: [clothing, recycling]
+    countries: [fi]
+    categories: [clothing, zero-waste]
+    description: Helsinki based, making 100% recycled clothing out of waste materials.
+
+  - title: We Mean Business
+    url: https://www.wemeanbusinesscoalition.org/
+    tags: [business]
+    categories: [carbon-reduction]
+    description: A coalition aiming to catalyze business action and driving policy ambition to accelerate the zero-carbon transition.
+
+  - title: Better Future Faster
+    url: https://betterfuturefaster.org/
+    tags: [business]
+    categories: [carbon-reduction]
+    description: >
+      Breaks the climate problem into 4 pillars, lays out explicit actions
+      required for each and allows businesses and policy makers to commit
+      to these actions.
+
+  - title: 1% for the Planet
+    url: https://www.onepercentfortheplanet.org/
+    tags: [business, community]
+    categories: [carbon-reduction]
+    description: >
+      A membership program for businesses and now also individuals, allowing them
+      to donate 1% of their gross yearly profits or salary back to environmental
+      nonprofits to create a healthier planet.
+
+  - title: Future Earth
+    url: https://futureearth.org/
+    tags: [business, community]
+    categories: [carbon-reduction]
+    description: >
+      Future Earth is a global research programme designed to provide the
+      knowledge needed to support transformations towards sustainability.
+      They focus on systems-based approaches, seeking to deepen the understanding
+      of complex Earth systems and human dynamics across different disciplines.
+
+  - title: Possible
+    url: https://www.wearepossible.org/
+    tags: [community, charity]
+    countries: [uk]
+    categories: [carbon-reduction]
+    description: >
+      Combining individual and local actions with larger systemic change, we face our
+      climate dread with a can-do attitude and sense of fun. Possible are tackling the
+      climate cisis by inspiring people to act in 5 key areas - eat & buy, travel,
+      enery, nature and talking.
+
+  - title: ClimateWorks
+    url: https://www.climateworks.org/
+    tags: [business, community, charity]
+    countries: [uk]
+    categories: [carbon-reduction]
+    description: >
+      An NGO partnering with philanthropists to tackle the climate crisis. They seek
+      to ensure investments have the maximum impact.
