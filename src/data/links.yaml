@@ -30,46 +30,33 @@ links:
     url: https://carbonfund.org/
     countries: [us]
     categories:
-      - carbon-reduction
-    tags: ['carbon-reduction']
+      - footprint-calculators
     description: Calculate your footprint based on flights, driving, shipping, and make tax-deductible donations to offset your emissions.
 
   - title: Carbon Footprint Extension
     url: https://gitlab.com/aossie/CarbonFootprint
     categories:
-      - carbon-reduction
-    tags: ['carbon-reduction']
-    description: Automatically estimates CO2 emissions on Google Maps™, other maps services and train and flight search engines.
+      - footprint-calculators
+    description: Automatically estimates CO2 emissions on Google Maps, other maps services, and train and flight search engines.
 
   - title: Ecosia
     url: https://www.ecosia.org
     categories:
       - carbon-reduction
-    tags: ['carbon-reduction']
     description: The search engine that plants trees. >50% of the ad revenue goes directly to planting trees.
-
-  # Waiting for them to add Gold Standard, ASC, etc links to their project pages
-  # - title: Cloverly
-  #   url: https://cloverly.com/how-it-works
-  #   categories:
-  #     - carbon-reduction
-  #   tags: ["business"]
-  #   description: Offset the carbon footprint of your customers' online transactions, with e-commerce plugins (Shopify, Magento, etc.)
 
   - title: Cool Earth
     url: https://www.coolearth.org/
     categories:
       - carbon-reduction
-    tags: ['carbon-reduction']
     description: This charity was created to tackle climate change by reducing carbon emissions from rainforest loss.
     charity_url: https://www.guidestar.org/profile/26-3688173
 
   - title: atmosfair
     url: https://www.atmosfair.de/
-    countries:
-      - de
+    countries: [de]
     categories:
-      - carbon-reduction
+      - footprint-calculators
     tags: ['nomad']
     description: Calculate the footprint for flights and buy compensation or donate to offset any number of carbon emissions. Tax-deductible in Germany.
 
@@ -78,7 +65,6 @@ links:
     url: https://leavemealone.app/save-the-planet/
     categories:
       - carbon-reduction
-    tags: ['carbon-reduction']
     description: Emails contribute to 986,000 tonnes of CO2 being dumped into the atmosphere every day, that's 4g per email. Unsubscribe from unwanted subscription emails and reduce your carbon footprint.
 
   - title: Live Green
@@ -86,14 +72,15 @@ links:
     type: app
     url: https://livegreen.io/
     categories:
-      - carbon-reduction
-    tags: ['carbon-reduction']
+      - footprint-calculators
     description: Track your daily carbon emissions from meals, travel, purchases, and more! Set goals to reduce your emissions and your impact on the planet.
 
   - title: MyClimate
     url: https://myclimate.org/
     categories:
       - carbon-reduction
+      - footprint-calculators
+      - reforestation
     tags: ['business']
     description: Helping reduce emissions through a whole bunch of different projects, from consulting companies on their footprint (and helping them to reduce), to education at schools, forest restoration, providing people in Rwanda with efficient cook stoves, and [a whole bunch more](https://www.myclimate.org/information/climate-protection-projects/). Fund them via donations, and use their flight/car/house/company footprint calculators.
 
@@ -101,13 +88,12 @@ links:
     url: https://www.goldstandard.org/take-action/offset-your-emissions
     categories:
       - carbon-reduction
-    tags: ['carbon-reduction']
     description: Offset carbon emissions by purchasing verified carbon credits from a variety of certified, environmentally friendly projects.
 
   - title: CarbonFootprint.com
     url: https://www.carbonfootprint.com/
     categories:
-      - carbon-reduction
+      - footprint-calculators
     tags: ['business']
     description: Measure you carbon footprint, learn how to reduce your consumption, offset your impact, communicate, and comply.
 
@@ -115,8 +101,7 @@ links:
     url: https://www3.epa.gov/carbon-footprint-calculator/
     countries: [us]
     categories:
-      - carbon-reduction
-    tags: ['carbon-reduction']
+      - footprint-calculators
     description: The calculator estimates your footprint in three areas- home energy, transportation and waste. Everyone's carbon footprint is different depending on their location, habits, and personal choices.
 
   - title: Before the Flood
@@ -639,7 +624,7 @@ links:
     tags: ['cooking']
     description: Discover a great way not only to use less energy in food preparation, but to serve tastier and more nutritious meals at the same time.  Any recipe that calls for boiling, simmering, steaming, or roasting will often taste better— [hot from the haybox](https://www.motherearthnews.com/diy/haybox-cooking-zmaz80jfzraw) — than it would with regular stove preparation ... and you'll save heat energy at the same time.  You can pick up a pot-sized [thermal cooker](http://www.cookingworld.biz/thermal-cooker-guide/), or simply put a blanket in a cooler.
 
-  - title: Preserve extra food with a solar dehydrator
+  - title: Solar Dehydrators
     url: https://www.motherearthnews.com/diy/tools/solar-food-dehydrator-plans-zm0z14jjzmar
     categories:
       - cooking
@@ -732,7 +717,7 @@ links:
     url: https://pod-point.com
     categories:
       - transportation
-    tags: ['transportation', commute]
+    tags: [commute]
     countries: [gb]
     description: UK leaders in electric vehicle charging with innovative solutions for homes, workplaces and commercial organizations.
 
@@ -913,7 +898,6 @@ links:
     url: https://www.thegoodc.company/
     categories:
       - sustainable-lifestyle
-    tags: ['sustainable-lifestyle']
     description: Fuck each other, not the planet. Condoms made of natural latex from sustainably managed rubber plantations in Malaysia.
 
   - title: Earth Hero
@@ -921,8 +905,7 @@ links:
     countries: [us]
     categories:
       - sustainable-lifestyle
-    tags: ['sustainable-lifestyle']
-    description: Our brands are made with better materials, cleaner production, a lower carbon footprint, higher quality, and with less waste. When you shop on EarthHero, you contribute to a better future for us all.
+    description: Our brands are made with better materials, cleaner production, higher quality, and with less waste.
 
   - title: Go "Swaggless"
     url: https://twitter.com/lindybrandon/status/1131202229229314048
@@ -1750,3 +1733,23 @@ links:
       Wish you could avoid airport queues, tedious transfers and long drives?
       Want to travel sustainably and enjoyably by train instead - to fantastic accommodation in the best ski resorts in the Alps?
       Snowcarbon is an independent guide founded by ski journalist Daniel Elkan to help you do exactly that.
+
+  - title: WWF Footprint Calculator
+    url: https://footprint.wwf.org.uk/
+    featured: true
+    countries: [gb]
+    categories: [footprint-calculators]
+    description: >
+      The planet is in crisis - from climate change to the pollution in our
+      oceans and devastation of our forests. It's up to all of us to fix it.
+      Take your first step with our environmental footprint calculator.
+
+  - title: Ecological Footprint
+    url: https://www.footprintcalculator.org/
+    featured: true
+    countries: [gb]
+    categories: [footprint-calculators]
+    description: >
+      How many planets do we need if everybody lives like you? Find out your
+      Ecological Footprint and personal Earth Overshoot Day and learn about
+      solutions to help us all tread more lightly on the Earth.
