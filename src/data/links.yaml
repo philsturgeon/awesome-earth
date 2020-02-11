@@ -1751,7 +1751,7 @@ links:
       Want to travel sustainably and enjoyably by train instead - to fantastic accommodation in the best ski resorts in the Alps?
       Snowcarbon is an independent guide founded by ski journalist Daniel Elkan to help you do exactly that.
 
-  - title: UK Government: Act now on the Climate Emergency
+  - title: "UK Government: Act now on the Climate Emergency"
     url: https://secure.greenpeace.org.uk/page/s/declare-climate-emergency
     countries: [gb]
     categories:
@@ -1762,3 +1762,15 @@ links:
       banning all new oil and gas production in the UK, including fracking, tripling renewable energy by 2030, 
       planting 700 million trees, introducing a Frequent Flyer Tax, ending the sale of all new petrol and diesel 
       cars by 2030, and more.
+
+  - title: "EU: Demand the Right to Repair your smartphone "
+    url: https://secure.greenpeace.org.uk/page/s/declare-climate-emergency
+    categories:
+      - politics
+    tags: ['politics']
+    description: > 
+      Cracked screens, weak batteries, broken charging ports... We’d like to fix them, but instead we end up buying 
+      a new smartphone because repairs are too expensive, difficult or impossible. Reducing the lifespan of a 
+      product may drive sales, but this comes at the expense of consumers, workers and the planet. Ask the European 
+      Union to give people the Right to Repair by requiring manufacturers to design repairable smartphones and provide
+      spare parts and repair information to all repairers and consumers. 
