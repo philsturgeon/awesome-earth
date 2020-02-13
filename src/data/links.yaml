@@ -1774,3 +1774,50 @@ links:
       product may drive sales, but this comes at the expense of consumers, workers and the planet. Ask the European 
       Union to give people the Right to Repair by requiring manufacturers to design repairable smartphones and provide
       spare parts and repair information to all repairers and consumers. 
+
+  - title: Runamics Running & Sports Gear
+    url: https://www.runamics.com
+    categories: [clothing]
+    tags: [clothing]
+    description: >
+      Crowd-funded for-purpose eco-friendly alternatives to traditional sports gear. 
+      We combine merino wool with wood-based cellulosic fibres like Lyocell. We make 
+      experiments with highly innovative fibres like biodegradable elastic fibres or “polyester-like”
+      substitutes.  WE're climate neutral always working to reduce our footprint, use plastic-free packaging and ship globally with DHL GoGreen.
+      
+  - title: MakeSense Jobs
+    url: https://jobs.makesense.org
+    categories: [volunteering, jobs]
+    tags: [career, job, volunteering, internship]
+    description: >
+      Makesense inspires and empowers citizens, entrepreneurs and organizations to build an inclusive and sustainable society together.  MakeSense's Job and assignment announcements platform for associations and social entrepreneurs who recruit profiles passionate about the impact. Job types include internship, freelance, civic service, partner, program, volunteer mission, mentoring.
+
+  - title: Loop A Life - 100% Circular Fashion
+    url: https://loopalife.com/
+    featured: true
+    countries: [nl]
+    categories: [clothing]
+    tags: [clothing, second-hand]
+    description: >
+      This circular textile award winning brand sets the new standard by clothing from local raw salvaged materials, recycling them without any chemicals, generating no wastewater, recycling their own products at end-of-life, researching and developing new ways to develop circular products.  They organize local sorting campaigns, workshops, collection campaigns, and facilitate other fashion companies in their circular transition.  Each sweater saves 500 liters of water, 60mJ of energy, uses zero chemicals, and saves at least 6kg of C02 emissions (when compared to traditional manufacturing).
+
+  - title: Lost in Samsara - Bags, Jewelry, and Accessories
+    url: https://www.lostinsamsara.co.uk
+    categories: [clothing]
+    tags: [clothing, second-hand, jewelry]
+    description: >
+      Stylish products produced ethically from upcycled materials.  Bags made from cement bags, tires, and jewelry made from upcycled bullet casings.
+
+  - title: A Good Company - The Plastic-Free Store
+    url: https://agood.com/
+    categories: [sustainable-lifestyle]
+    tags: [hygienic-products, electronic-accesories, office-supplies]
+    description: >
+      Everyday products including notebooks, toothbrushes, phone cases, art supplies, water bottles, etc. designed with by a company with complete transparency that has extremely ambitious environmental standards including plastic-free low-carbon materials including bio-plastics, bamboo, stone paper, and recycled aluminum, shipped to you with climate-compensated shipping. We refuse to take shortcuts, and we obsess over every single step in the journey of our products – from how they are made to how they end up on your doorstep.
+
+  - title: DHL GoGreen
+    url: https://www.dpdhl.com/en/responsibility/environment-and-solutions.html
+    categories: [sustainable-lifestyle]
+    tags: [shipping, logistics, business]
+    description: >
+      GoGreen Solutions include both standardized products and customized solutions to help customers develop their own eco-friendly business models and green supply chains. With our carbon reports, climate neutral products, and green optimization, we give customers transparency, offset unavoidable emissions, and identify ways in whihc our customers can reduce emissions and waste.  These optimization measures achieve savings potential that most companies would not be able to achieve on their own.
