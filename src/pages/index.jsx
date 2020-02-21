@@ -126,7 +126,6 @@ export const pageQuery = graphql`
       description
       featured
       title
-      type
       url
       tags
     }

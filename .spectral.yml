@@ -1,0 +1,54 @@
+rules:
+  links-schema:
+    description: "Links file needs to match this schema."
+    recommended: true
+    given: "$"
+    then:
+      field: servers
+      function: schema
+      functionOptions:
+        schema:
+          type: object
+          properties:
+            links:
+              type: array
+              items:
+                type: object
+                additionalProperties: false
+                properties:
+                  title:
+                    type: string
+                  url:
+                    type: string
+                    qt-uri-protocols:
+                      - http
+                      - https
+                    qt-uri-extensions:
+                      - ".aspx"
+                      - ".html"
+                  countries:
+                    type: array
+                    items:
+                      type: string
+                      minItems: 1
+                      pattern": "^[A-Z]{2}$"
+                  categories:
+                    type: array
+                    items:
+                      type: string
+                  tags:
+                    type: array
+                    items:
+                      type: string
+                  description:
+                    type: string
+                  featured:
+                    type: boolean
+                  charity_url:
+                    type: string
+                    format: uri
+                    qt-uri-protocols:
+                      - https
+                required:
+                  - categories
+                  - description

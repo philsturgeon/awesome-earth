@@ -70,7 +70,6 @@ exports.createPages = async ({ graphql, actions }) => {
               featured
               tags
               title
-              type
               url
             }
           }
