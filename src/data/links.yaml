@@ -1810,6 +1810,39 @@ links:
     featured: true
     tags: [app]
     description: >
-      Automatically calculate the climate impact of your daily choices by connecting to 
-      apps and services you already use. Hook it up to TripIt, Uber, Trainline, and 
-      all sorts of other apps, to track your carbon footprint over time.
+      iOS/Android app for automatically calculating the climate impact of your daily
+      choices. Hook it up to TripIt, Uber, Trainline, and all sorts of other apps, to 
+      reduce the need for manual inputs, and track your carbon footprint over time.
+
+  - title: Plan A
+    url: https://plana.earth/
+    categories:
+      - footprint-calculators
+    featured: true
+    tags: [businesses]
+    description: >
+      Software that helps your business calculate, monitor and reduce its carbon 
+      footprint. Our platform allows you to track your carbon footprint monthly and 
+      learn how to reduce it with the support of a custom sustainability action plan, 
+      automatically created based on your worst-performing indicators.
+
+  - title: Carbon Analytics
+    url: https://www.co2analytics.com/
+    featured: true
+    categories:
+      - footprint-calculators
+    tags: [businesses]
+    description: >
+      Link a Xero accounts to assess each purchase a company makes, calculating the 
+      carbon impact of things like fuel, power purchases, transportation and more 
+      as well as supply chain impacts
+
+  - title: Carbon Analytics
+    url: https://github.com/protea-earth/carbon_footprint
+    categories:
+      - footprint-calculators
+    tags: [businesses]
+    description: >
+      Link a Xero accounts to assess each purchase a company makes, calculating the 
+      carbon impact of things like fuel, power purchases, transportation and more 
+      as well as supply chain impacts
