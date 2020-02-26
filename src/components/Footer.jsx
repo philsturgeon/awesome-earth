@@ -20,7 +20,7 @@ const Footer = () => {
       <Container>
         <Row noGutters>
           <Col xs={12} md={10} className="text-white">
-            <a href="/">&copy; 2019 - Protect.Earth</a>
+            <a href="/">&copy; {new Date().getFullYear()} - Protect.Earth</a>
 
             <div className="credits">
               Maintained by{' '}
