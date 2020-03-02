@@ -72,10 +72,7 @@ export default ({ data }) => {
           </Row> */}
           <Row>
             <Col>
-              <RecentLinks
-                links={data.dataYaml.links}
-                showAmount={5}
-              />
+              <RecentLinks links={data.dataYaml.links} showAmount={5} />
             </Col>
           </Row>
           <Row className="pt-5">
@@ -119,16 +116,16 @@ export const pageQuery = graphql`
       }
     }
     dataYaml {
-    links {
-      charity_url
-      categories
-      countries
-      description
-      featured
-      title
-      url
-      tags
+      links {
+        charity_url
+        categories
+        countries
+        description
+        featured
+        title
+        url
+        tags
+      }
     }
-  }
   }
 `;
