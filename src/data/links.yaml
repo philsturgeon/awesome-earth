@@ -1851,11 +1851,12 @@ links:
       - transportation
     tags: [commute]
     description: >
-      Like the idea of cycling but feel like it's a bit far, bit hilly, or no access to a shower
-      at the other end? E-bikes aren't just for the older riders, they've pushed into the
-      mainstream culturally and financially, and are a hell of a lot of fun. Combine it with
-      local "cycle to work schemes" listed here for extra savings, some places
-      do [specific deals on e-bikes](https://urbanebikes.com/pages/cycle-to-work-scheme-electric).
+      Like the idea of cycling but feel like it's a bit far, bit hilly, or no
+      access to a shower at the other end? E-bikes aren't just for the older
+      riders, they've pushed into the mainstream culturally and financially, and
+      are a hell of a lot of fun. Combine it with local "cycle to work schemes"
+      listed here for extra savings, some places do [specific deals on
+      e-bikes](https://urbanebikes.com/pages/cycle-to-work-scheme-electric).
 
   - title: Commute on Electric Motorbikes
     url: https://urbanebikes.com/collections/electric-motorbikes
@@ -1863,10 +1864,11 @@ links:
       - transportation
     tags: [commute]
     description: >
-      Electric cars are still priced beyond the reach of many, but swapping a car for an electric motorbike
-      will leave plenty of cash in your pocket. The average used car sells for $20,840 in the USA, and you can
-      get a lot of electric motorbike for $3,000. Finding a used electric motorbike will get that manufactoring
-      footprint off your conscience too.
+      Electric cars are still priced beyond the reach of many, but swapping a
+      car for an electric motorbike will leave plenty of cash in your pocket.
+      The average used car sells for $20,840 in the USA, and you can get a lot
+      of electric motorbike for $3,000. Finding a used electric motorbike will
+      get that manufactoring footprint off your conscience too.
 
   - title: British Heart Foundation Toxic Air Campaign
     url: https://www.bhf.org.uk/toxicair
@@ -1875,6 +1877,19 @@ links:
     tags: [air-quality]
     countries: [gb]
     description: >
-      Air pollution is toxic. Join us in demanding change now. Simply living in the worst hit areas of the UK
-      could be as deadly as smoking over 150 cigarettes each year. British Heart Foundation is calling for the
-      UK Government to update current air quality limits to match World Health Organization recommendations.
+      Air pollution is toxic. Join us in demanding change now. Simply living in
+      the worst hit areas of the UK could be as deadly as smoking over 150
+      cigarettes each year. British Heart Foundation is calling for the UK
+      Government to update current air quality limits to match World Health
+      Organization recommendations.
+
+  - title: Rome2rio
+    url: https://rome2rio.com/
+    categories:
+      - travel
+    tags: [vacation, flightfree]
+    description: >
+      Search any city, town, landmark, or address across
+      the globe and find a whole bunch of different ways to get there. Rome2rio is pretty
+      insistent on showing you flights, but it can help you find bus and train combinations
+      to get from Lison to Azerbaijan if that's a trip you need to do.
