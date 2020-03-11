@@ -15,8 +15,32 @@ personal enrichment, or [just don't really care](https://www.nbcnews.com/politic
 
 The whole idea of a democracy is that politicians are responsible for enacting the will of the people. This doesn't always happen, but participating in the process [can make a huge difference](https://www.nrdc.org/onearth/good-news-public-lands-no-really). Use these links to find out how to talk to your politicians.
 
-- 🇺🇸 [Congress](https://www.nrdc.org/stories/how-call-congress) & [President Trump](https://www.nrdc.org/demand-climate-action)
-- 🇬🇧 [Members of Parliament](https://www.parliament.uk/get-involved/contact-your-mp/)
+- 🇦🇺 **Australia**
+  - [Members of Parliament](https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=&mem=1&par=-1&gen=0&ps=0)
+  - [Senators](https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=&sen=1&par=-1&gen=0&ps=0)
+- 🇨🇦 **Canada**
+  - [Members of Parliament](https://www.ourcommons.ca/Members/en/search)
+  - [Senators](https://sencanada.ca/en/senators-list/)
+- 🇺🇸 **USA**
+  - [House of Congress](https://www.nrdc.org/stories/how-call-congress)
+  - [White House](https://www.nrdc.org/demand-climate-action)
+- 🇬🇧 **UK**
+  - [Members of Parliament](https://www.parliament.uk/get-involved/contact-your-mp/)
+  - [House of Commons](https://members.parliament.uk/members/Commons)
+- 🇫🇷 **France**
+  - [Senators](https://www.senat.fr/elus.html)
+  - [Deputies of the National Assembly](http://www.assemblee-nationale.fr/dyn/vos-deputes)
+- 🇪🇸 **Spain**
+  - [President, Senators and Parliamentary groups/administration](http://www.senado.es/web/relacionesciudadanos/atencionciudadano/contactar/index.html)
+- 🇩🇪 **Germany**
+  - [Members of the Bundestag](https://www.bundestag.de/en/members#)
+  - [Members of the Bundesrat](https://www.bundesrat.de/DE/bundesrat/mitglieder/mitglieder-node.html)
+- 🇮🇹 **Italy**
+  - [Senators](http://www.senato.it/leg/18/BGT/Schede/Attsen/Sena.html)
+  - [Chamber of Deputies](https://www.camera.it/leg18/28)
+- 🇮🇳 **India**
+  - [House of the People](http://loksabhaph.nic.in/Members/AlphabeticalList.aspx)
+  - [Council of States](https://rajyasabha.nic.in/rsnew/member_site/memberlist.aspx)
 - _Please [add more ways](https://github.com/philsturgeon/awesome-earth/edit/master/src/categories/politics.md) to contact politicians around the world_
 
 Use the links in this section as a basis for demanding action. If they won't commit to fast, effective and immediate action to resolve the climate crisis, we will [sue the government](https://www.ourchildrenstrust.org/). It [worked in The Netherlands](https://www.theguardian.com/environment/2018/oct/09/dutch-appeals-court-upholds-landmark-climate-change-ruling), and legal action is underway in various stages with governments all around the world!
