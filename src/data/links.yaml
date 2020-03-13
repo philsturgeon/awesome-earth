@@ -523,6 +523,14 @@ links:
     countries: [au, us, gb]
     description: We make all of our products with environmentally friendly materials, and we donate 50% of our profits to help build toilets for those in need.
 
+  - title: The Cheeky Panda
+    url: https://www.thecheekypanda.co.uk
+    categories:
+      - sustainable-lifestyle
+    tags: ["sustainable-lifestyle"]
+    countries: [gb]
+    description: 100% bamboo tissues shipped with 0% plastic, wipes in recyclable plastic and carbon balanced through the World Land Trust.
+
   - title: Palm-Oil Free Products
     url: https://orangutanfoundation.org.au/palm-oil/
     categories:
