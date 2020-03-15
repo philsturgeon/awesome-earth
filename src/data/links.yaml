@@ -1970,3 +1970,12 @@ links:
       your garden, this video shows how simply burying food scraps can be a
       quick and simple solution to get rid of waste and improve soil quality
       too.
+
+  - title: Barry
+    url: https://getbarry.co/
+    categories:
+      - home-improvements
+    countries: [dk]
+    tags: ['home-owner']
+    description: >
+      Få et smart strømforbrug. Udskift din gamle el-leverandør med en app til din strøm.
