@@ -1098,13 +1098,6 @@ links:
     tags: ['news']
     description: How we got here, where we're headed and what we can do about it.
 
-  - title: BBC.com Climate Change
-    url: https://www.bbc.com/news/topics/cmj34zmwm1zt/climate-change
-    categories:
-      - news
-    tags: ['news']
-    description: BBC may give fairly slanted reporting when it comes to partisan UK politics, but their climate coverage is usually pretty on point.
-
   - title: US Green Build Council
     url: https://www.usgbc.org/articles
     categories:
