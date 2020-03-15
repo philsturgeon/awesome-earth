@@ -527,7 +527,7 @@ links:
     url: https://www.thecheekypanda.co.uk
     categories:
       - sustainable-lifestyle
-    tags: ["sustainable-lifestyle"]
+    tags: ['sustainable-lifestyle']
     countries: [gb]
     description: 100% bamboo tissues shipped with 0% plastic, wipes in recyclable plastic and carbon balanced through the World Land Trust.
 
@@ -1072,6 +1072,7 @@ links:
 
   - title: Carbon Brief
     url: https://www.carbonbrief.org/
+    featured: true
     categories:
       - news
     tags: ['news']
@@ -1079,6 +1080,7 @@ links:
 
   - title: The Guardian
     url: https://www.theguardian.com/uk/environment
+    featured: true
     categories:
       - news
     tags: ['news']
@@ -1971,4 +1973,15 @@ links:
     countries: [dk]
     tags: ['home-owner']
     description: >
-      Få et smart strømforbrug. Udskift din gamle el-leverandør med en app til din strøm.
+      Få et smart strømforbrug. Udskift din gamle el-leverandør med en app til
+      din strøm.
+
+  - title: Heated
+    url: https://heated.world/
+    featured: true
+    categories:
+      - news
+    description: >
+      Original reporting and analysis on the climate crisis at the top of your
+      inbox every morning, Monday through Thursday. News should arm you with the
+      knowledge you need to effectively fight this crisis.
