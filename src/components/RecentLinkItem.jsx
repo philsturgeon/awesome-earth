@@ -16,23 +16,24 @@ export default ({ link }) => {
     >
       <p className="h4">
         {link.title}
-        {link.tags.map(tag => {
-          return (
-            <Badge
-              variant="secondary"
-              className="ml-4"
-              style={{
-                marginLeft: '2em',
-                'font-size': '60%',
-                'font-weight': 300,
-              }}
-            >
-              <a href={`/tags/${tag}`} style={{ color: 'white' }}>
-                {tag}
-              </a>
-            </Badge>
-          );
-        })}
+        {link.tags &&
+          link.tags.map(tag => {
+            return (
+              <Badge
+                variant="secondary"
+                className="ml-4"
+                style={{
+                  marginLeft: '2em',
+                  'font-size': '60%',
+                  'font-weight': 300,
+                }}
+              >
+                <a href={`/tags/${tag}`} style={{ color: 'white' }}>
+                  {tag}
+                </a>
+              </Badge>
+            );
+          })}
       </p>
       <div> {shorten(link.description, 90)} </div>
     </a>
