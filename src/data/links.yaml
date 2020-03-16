@@ -1,6 +1,5 @@
 # Agriculture https://seawatergreenhouse.com/
 # home improvement seawater? https://www.elementalwatermakers.com/
-# French food chain https://comerso.fr/ and https://wearephenix.com/
 # https://forest.stormconsultancy.com/
 # bioremediation for land management
 # cpr land designation
@@ -1834,8 +1833,8 @@ links:
     tags: [app]
     description: >
       iOS/Android app for automatically calculating the climate impact of your daily
-      choices. Hook it up to TripIt, Uber, Trainline, and all sorts of other apps, to
-      reduce the need for manual inputs, and track your carbon footprint over time.
+      choices. Hook it up to TripIt, Uber, smart meters like Sense, and some electric car apps,
+      to easily gather metrics to calculate your carbon footprint over time.
 
   - title: Plan A
     url: https://plana.earth/
@@ -1977,3 +1976,14 @@ links:
       Job board that connects employers with job seekers who are interested in
       jobs that focus on environmental or social responsibility. Not just tech
       jobs like some of these boards, they cover all sorts of jobs.
+
+  - title: '8000 Hours'
+    url: https://80000hours.org/job-board/
+    categories:
+      - jobs
+    description: >
+      This board presents some of the most promising publicly advertised
+      vacancies we know about. Most of these roles are demanding and difficult
+      to get, but if you’re a good fit for one of them, it could be your best
+      opportunity to work on one of the world’s most pressing problems, or to
+      get the career capital you need to have a big impact later.
