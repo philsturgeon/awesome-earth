@@ -1,0 +1,36 @@
+title: BlaBlaCar
+featured: true
+url: 'https://www.blablacar.com/'
+categories:
+  - transportation
+  - travel
+tags:
+  - rideshare
+  - carpool
+  - commute
+countries:
+  - be
+  - br
+  - cz
+  - de
+  - es
+  - fr
+  - gb
+  - hr
+  - hu
+  - in
+  - it
+  - mx
+  - nl
+  - pl
+  - pt
+  - ro
+  - rs
+  - ru
+  - sk
+  - tr
+  - ua
+description: >-
+  The world’s leading long-distance carpooling platform, which is available in
+  most of Europe and Mexico.
+image: null

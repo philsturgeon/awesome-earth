@@ -1,0 +1,15 @@
+title: Carbon Intensity API
+url: 'https://carbonintensity.org.uk/'
+countries:
+  - gb
+categories:
+  - renewable-energy
+tags:
+  - developers
+description: >-
+  This officially backed open API from Oxford University and the National Grid
+  ESO gives a snapshot of how much carbon each unit of electricity consumed in
+  the UK emits for every half hour. Also carries forecasts, regional breakdowns
+  with some great charts and re-useable widgets. They also have an
+  [APP!](https://www.cs.ox.ac.uk/people/alex.rogers/gridcarbon/)
+image: null
