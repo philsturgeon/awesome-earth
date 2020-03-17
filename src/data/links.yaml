@@ -1985,7 +1985,7 @@ links:
       opportunity to work on one of the world’s most pressing problems, or to
       get the career capital you need to have a big impact later.
 
-  - title: Wren
+  - title: Project Wren
     url: https://projectwren.com/
     categories:
       - carbon-reduction
@@ -2010,14 +2010,17 @@ links:
     url: https://www.beamproject.co/
     categories:
       - carbon-reduction
-    tags: [offsets]
+    tags: [donate]
     description: >-
-      Beam provide a Chrome browser extension allowing people to make donations
-      to clean energy startups while shopping online. Donations can be a small,
-      fixed amount of a percentage of the purchase.
+      Make small automatic donations while you shop online, to support the
+      cleantech startups trying to change the world. Clean Tech investment money
+      has dried up over the years, so crowdsourcing is becoming the only option
+      for many, and with a Chrome extension you can chuck in a dollar when
+      you're buying other stuff.
 
   - title: Emitwise
     url: https://www.emitwise.com/
+    tags: [business]
     countries: [uk]
     categories:
       - footprint-calculators
