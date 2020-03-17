@@ -1,0 +1,18 @@
+title: Google Cloud Computing
+url: 'https://cloud.google.com/sustainability/'
+countries:
+  - us
+categories:
+  - carbon-reduction
+tags:
+  - developers
+description: >-
+  Google are a long way from perfect, but Google Cloud advertises 100% renewable
+  energy. They don't _just_ offset, they actually reduce the electricity usage
+  too, and "strive to build the world’s most energy-efficient computing network
+  by squeezing more out of every watt of power we consume." Their main rival,
+  Amazon AWS, does not do that, and actively hosts oil and gas companies, who
+  use the platform to find more places to dig. Switching to Google Cloud (or a
+  host who in turn is on Google Cloud), is one of many ways to make your
+  platform have less impact on the earth.
+image: null

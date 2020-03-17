@@ -43,7 +43,7 @@ const formatAsMarkdown = links => {
   // Add the links for each category
   outputArr = outputArr.concat(
     sortedKeys.flatMap(category => {
-      const { title, key, links } = categorizedData[category];
+      const { title, links } = categorizedData[category];
       return (
         [`## ${title}\n`] +
         links

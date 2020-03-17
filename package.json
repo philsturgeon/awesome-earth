@@ -21,7 +21,7 @@
     "gatsby-image": "^2.2.39",
     "gatsby-plugin-google-analytics": "^2.1.34",
     "gatsby-plugin-google-tagmanager": "^2.1.24",
-    "gatsby-plugin-netlify-cms": "^4.1.37",
+    "gatsby-plugin-netlify-cms": "^4.1.42",
     "gatsby-plugin-react-helmet": "^3.1.21",
     "gatsby-plugin-sass": "^2.1.27",
     "gatsby-plugin-sharp": "^2.4.0",
@@ -34,7 +34,7 @@
     "i18n-iso-countries": "^4.3.1",
     "lodash": "^4.17.15",
     "markdown-to-jsx": "^6.10.3",
-    "netlify-cms-app": "^2.11.9",
+    "netlify-cms-app": "^2.11.14",
     "node-sass": "^4.13.1",
     "normalize.css": "^8.0.1",
     "prop-types": "^15.7.2",
@@ -51,6 +51,7 @@
     "eslint-config-prettier": "^6.9.0",
     "eslint-config-react-app": "^5.1.0",
     "eslint-plugin-prettier": "^3.1.2",
+    "js-yaml": "^3.13.1",
     "prettier": "^1.19.1"
   },
   "repository": {

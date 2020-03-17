@@ -1,0 +1,10 @@
+title: 'OpenStreetMap: Zero Waste (Overpass)'
+url: 'http://overpass-turbo.eu/?template=key&key=zero_waste'
+categories:
+  - zero-waste
+tags:
+  - zero-waste
+description: >-
+  OpenStreetMap has the tag zero_waste=* for shops who sell items without
+  packaging.
+image: null

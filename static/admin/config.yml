@@ -1,30 +1,39 @@
 backend:
   name: git-gateway
-  branch: master
+  branch: development
   open_authoring: true
+
+# local development
+# local_backend: true
+# must be running in parallel: `npx netlify-cms-proxy-server`
 
 media_folder: static/img
 public_folder: /img
 publish_mode: editorial_workflow
 
 collections:
-  - name: 'content'
-    label: 'Site Content'
-    files:
-      - label: 'links.yaml'
-        name: 'links'
-        file: 'src/data/links.yaml'
-        fields:
-          - label: Links
-            name: links
-            widget: list
-            fields:
-              - { label: 'Title', name: 'title', widget: 'string' }
-              - { label: 'Url', name: 'url', widget: 'string' }
-              - { label: 'Categories', name: 'categories', widget: 'list' }
-              - { label: 'Tags', name: 'tags', widget: 'list' }
-              - {
-                  label: 'Description',
-                  name: 'description',
-                  widget: 'markdown',
-                }
+  # Example of configuration on pair to the collection
+  # - name: content
+  #   label: Site Content
+  #   files:
+  #     - label: Configuration
+  #       name: config
+  #       file: src/data/config.yaml
+  #       fields:
+  #         - label: Configuration
+  #           name: config
+  #           widget: list
+
+  - name: links
+    label: Links
+    folder: src/data/links
+    create: true
+    extension: yaml
+    format: yaml
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Url', name: 'url', widget: 'string' }
+      - { label: 'Categories', name: 'categories', widget: 'list' }
+      - { label: 'Tags', name: 'tags', widget: 'list', required: false }
+      - { label: 'Picture', name: 'picture', widget: 'image', required: false }
+      - { label: 'Description', name: 'description', widget: 'markdown' }

@@ -1,0 +1,8 @@
+title: Carbon Footprint Extension
+url: 'https://gitlab.com/aossie/CarbonFootprint'
+categories:
+  - footprint-calculators
+description: >-
+  Automatically estimates CO2 emissions on Google Maps, other maps services and
+  train and flight search engines.
+image: null
