@@ -1,4 +1,8 @@
 {
   "editor.formatOnSave": true,
-  "editor.formatOnPaste": true
+  "editor.formatOnPaste": true,
+  "cSpell.ignoreWords": [
+    "ecotricity",
+    "sunmills"
+  ]
 }
