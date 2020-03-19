@@ -62,7 +62,6 @@ exports.createPages = async ({ graphql, actions }) => {
       allLinksYaml {
         nodes {
           categories
-          charity_url
           countries
           description
           featured

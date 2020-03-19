@@ -12,7 +12,7 @@ export default ({ data }) => {
   const [searchTerm, setSearchTerm] = useState('');
 
   let countriesWithContent = [];
-  data.allLinksYaml.nodes[0].forEach(link => {
+  data.allLinksYaml.nodes.forEach(link => {
     countriesWithContent = union(countriesWithContent, link.countries);
   });
 

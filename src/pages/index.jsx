@@ -117,7 +117,7 @@ export const pageQuery = graphql`
     }
     allLinksYaml {
       nodes {
-        charity_url
+        # charity_url
         categories
         countries
         description
