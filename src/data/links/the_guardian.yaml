@@ -1,5 +1,6 @@
 title: The Guardian
 url: 'https://www.theguardian.com/uk/environment'
+featured: true
 categories:
   - news
 tags:
