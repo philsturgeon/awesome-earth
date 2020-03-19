@@ -10,7 +10,8 @@
       "args": ["develop"],
       "stopOnEntry": false,
       "runtimeArgs": ["--nolazy"],
-      "sourceMaps": false
+      "sourceMaps": false,
+      "console": "integratedTerminal"
     },
     {
       "name": "Gatsby build",

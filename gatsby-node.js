@@ -59,26 +59,22 @@ exports.createPages = async ({ graphql, actions }) => {
 
   const allLinksQuery = await graphql(`
     query {
-      allDataYaml {
-        edges {
-          node {
-            links {
-              categories
-              charity_url
-              countries
-              description
-              featured
-              tags
-              title
-              url
-            }
-          }
+      allLinksYaml {
+        nodes {
+          categories
+          charity_url
+          countries
+          description
+          featured
+          tags
+          title
+          url
         }
       }
     }
   `);
 
-  const allLinks = allLinksQuery.data.allDataYaml.edges[0].node.links;
+  const allLinks = allLinksQuery.data.allLinksYaml.nodes;
 
   await asyncForEach(result.data.allMarkdownRemark.edges, async ({ node }) => {
     const {

@@ -4,7 +4,7 @@ backend:
   open_authoring: true
 
 # local development
-# local_backend: true
+local_backend: true
 # must be running in parallel: `npx netlify-cms-proxy-server`
 
 media_folder: static/img
