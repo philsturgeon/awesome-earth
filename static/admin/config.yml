@@ -30,6 +30,9 @@ collections:
     create: true
     extension: yaml
     format: yaml
+    # defines the slug
+    identifier_field: title
+    slug: '{{year}}-{{month}}-{{day}}_{{slug}}'
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Url', name: 'url', widget: 'string' }
