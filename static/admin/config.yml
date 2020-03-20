@@ -4,7 +4,7 @@ backend:
   open_authoring: true
 
 # local development
-# local_backend: true
+local_backend: true
 # must be running in parallel: `npx netlify-cms-proxy-server`
 
 media_folder: static/img
@@ -30,10 +30,13 @@ collections:
     create: true
     extension: yaml
     format: yaml
+    # defines the slug
+    identifier_field: title
+    slug: '{{year}}-{{month}}-{{day}}_{{slug}}'
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Url', name: 'url', widget: 'string' }
       - { label: 'Categories', name: 'categories', widget: 'list' }
       - { label: 'Tags', name: 'tags', widget: 'list', required: false }
-      - { label: 'Picture', name: 'picture', widget: 'image', required: false }
+      - { label: 'Picture', name: 'image', widget: 'image', required: false }
       - { label: 'Description', name: 'description', widget: 'markdown' }

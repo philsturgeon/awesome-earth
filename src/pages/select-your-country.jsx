@@ -12,7 +12,7 @@ export default ({ data }) => {
   const [searchTerm, setSearchTerm] = useState('');
 
   let countriesWithContent = [];
-  data.allDataYaml.nodes[0].links.forEach(link => {
+  data.allLinksYaml.nodes.forEach(link => {
     countriesWithContent = union(countriesWithContent, link.countries);
   });
 
@@ -107,11 +107,9 @@ export const pageQuery = graphql`
         title
       }
     }
-    allDataYaml {
+    allLinksYaml {
       nodes {
-        links {
-          countries
-        }
+        countries
       }
     }
   }
