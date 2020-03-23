@@ -1,5 +1,6 @@
 title: No Meat Today
 url: 'https://nomeat.today/'
+featured: true
 categories:
   - food
   - carbon-reduction
@@ -8,7 +9,7 @@ tags:
   - meat
   - vegetarian
   - vegan
-  - carbon-reduction
+  - reduce
   - app
 description: >-
   Your companion to eat less meat. It's good for you and the planet, but let's
