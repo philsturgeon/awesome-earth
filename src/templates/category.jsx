@@ -1,4 +1,5 @@
 import React, { Fragment } from 'react';
+import PropTypes from 'prop-types';
 import ReactMarkdown from 'react-markdown/with-html';
 import slugify from 'slugify';
 import { graphql, Link } from 'gatsby';
@@ -14,17 +15,65 @@ import Countries from '../countries';
 import { useCountry } from '../context/country-context';
 
 export const query = graphql`
-  query {
+  {
     site {
       siteMetadata {
         siteUrl
       }
     }
+
+    pictures: allFile(filter: { sourceInstanceName: { eq: "uploads" } }) {
+      nodes {
+        relativePath
+        childImageSharp {
+          fixed(width: 350, height: 200) {
+            src
+            originalName
+          }
+        }
+      }
+    }
   }
 `;
 
+const FeaturedCard = ({ title, url, description, image }) => (
+  <Card>
+    {image && <Card.Img src={image} alt={title} />}
+    <Card.Body>
+      <Card.Title>
+        <Card.Link href={url}>{title}</Card.Link>
+      </Card.Title>
+      <ReactMarkdown
+        source={description}
+        escapeHtml={false}
+        className={Card.Text.className}
+      />
+      <Card.Link href={url} target="_blank" rel="noopener noreferrer">
+        Learn More
+      </Card.Link>
+      <SocialLinks
+        className="mt-2"
+        text={`I found ${title} on Protect.Earth!`}
+        url={url}
+        all
+      />
+    </Card.Body>
+  </Card>
+);
+
+FeaturedCard.propTypes = {
+  title: PropTypes.string.isRequired,
+  url: PropTypes.string.isRequired,
+  description: PropTypes.string.isRequired,
+  image: PropTypes.string,
+};
+
+FeaturedCard.defaultProps = {
+  image: null,
+};
+
 export default function Template({
-  data,
+  data: { site, pictures },
   pageContext: { category, html, links, slug },
 }) {
   const { country, clearCountry } = useCountry();
@@ -32,7 +81,7 @@ export default function Template({
     country.name !== null && links.some(link => linkHasCountry(link, country));
 
   const seoImage =
-    data.site.siteMetadata.siteUrl + category.image.twitterCard.fixed.src;
+    site.siteMetadata.siteUrl + category.image.twitterCard.fixed.src;
 
   const linkHasCountry = (link, country) =>
     !!link.countries && link.countries.includes(country.code.toLowerCase());
@@ -41,6 +90,22 @@ export default function Template({
   const categoryLinks = links
     .filter(l => l.featured !== true)
     .sort((a, b) => a.title.localeCompare(b.title));
+
+  const findLinkPicture = src => {
+    if (!src) return;
+
+    const filename = src
+      .split('/')
+      .reverse()
+      .shift();
+
+    const picture = pictures.nodes.find(
+      ({ relativePath }) => relativePath === filename
+    );
+
+    if (!picture) return;
+    return picture.childImageSharp.fixed.src;
+  };
 
   return (
     <Layout
@@ -82,7 +147,7 @@ export default function Template({
               <span className="mr-2">Share this page:</span>
               <SocialLinks
                 text={`Check out ${category.title} links on Protect.Earth:`}
-                url={data.site.siteMetadata.siteUrl + slug}
+                url={site.siteMetadata.siteUrl + slug}
                 all
               />
             </div>
@@ -116,32 +181,12 @@ export default function Template({
                 <CardDeck>
                   {featuredLinks.map(link => (
                     <Col xs={12} lg={4} key={slugify(link.title)}>
-                      <Card>
-                        <Card.Body>
-                          <Card.Title>
-                            <Card.Link href={link.url}>{link.title}</Card.Link>
-                          </Card.Title>
-                          <Card.Text>
-                            <ReactMarkdown
-                              source={link.description}
-                              escapeHtml={false}
-                            />
-                          </Card.Text>
-                          <Card.Link
-                            href={link.url}
-                            target="_blank"
-                            rel="noopener noreferrer"
-                          >
-                            Learn More
-                          </Card.Link>
-                          <SocialLinks
-                            className="mt-2"
-                            text={`I found ${link.title} on Protect.Earth!`}
-                            url={link.url}
-                            all
-                          />
-                        </Card.Body>
-                      </Card>
+                      <FeaturedCard
+                        title={link.title}
+                        url={link.url}
+                        description={link.description}
+                        image={findLinkPicture(link.image)}
+                      />
                     </Col>
                   ))}
                 </CardDeck>

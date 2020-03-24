@@ -11,6 +11,16 @@ async function asyncForEach(array, callback) {
   }
 }
 
+exports.createSchemaCustomization = ({ actions }) => {
+  const { createTypes } = actions;
+  const typeDefs = `
+    type LinksYaml implements Node {
+      image: String
+    }
+  `;
+  createTypes(typeDefs);
+};
+
 exports.onCreateNode = ({ node, getNode, actions }) => {
   const { createNodeField } = actions;
   if (node.internal.type === `MarkdownRemark`) {
@@ -68,6 +78,7 @@ exports.createPages = async ({ graphql, actions }) => {
           tags
           title
           url
+          image
         }
       }
     }

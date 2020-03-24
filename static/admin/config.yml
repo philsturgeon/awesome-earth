@@ -38,5 +38,11 @@ collections:
       - { label: 'Url', name: 'url', widget: 'string' }
       - { label: 'Categories', name: 'categories', widget: 'list' }
       - { label: 'Tags', name: 'tags', widget: 'list', required: false }
-      - { label: 'Picture', name: 'image', widget: 'image', required: false }
+      - {
+          label: 'Picture',
+          name: 'image',
+          widget: 'image',
+          required: false,
+          allow_multiple: false,
+        }
       - { label: 'Description', name: 'description', widget: 'markdown' }
