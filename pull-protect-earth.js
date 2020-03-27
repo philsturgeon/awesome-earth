@@ -3,8 +3,7 @@ const fs = require('fs');
 const path = require('path');
 const { titleCase } = require('title-case');
 
-const linksUrl = 'http://localhost:8000/links.json';
-// const linksUrl = 'https://protect.earth/links.json';
+const linksUrl = 'https://protect.earth/links.json';
 const readmeFile = path.resolve(`./README.md`);
 
 const replaceBetween = (origin, startIndex, endIndex, insertion) => {

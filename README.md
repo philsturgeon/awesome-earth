@@ -6,19 +6,19 @@ The world is simultaneously underwater and on fire, and people want to know what
 ## Contents
 - [Carbon-Reduction](#carbon-reduction)
 - [Clothing](#clothing)
+- [Consumer-Products](#consumer-products)
 - [Cooking](#cooking)
 - [Documentaries](#documentaries)
 - [Food](#food)
 - [Footprint-Calculators](#footprint-calculators)
 - [Home-Improvements](#home-improvements)
+- [Hygiene](#hygiene)
 - [Jobs](#jobs)
 - [Land-Management](#land-management)
 - [News](#news)
 - [Politics](#politics)
 - [Reforestation](#reforestation)
 - [Renewable-Energy](#renewable-energy)
-- [Research, Developers, Tech, Software, Accellerator, Data](#research, developers, tech, software, accellerator, data)
-- [Sustainable-Lifestyle](#sustainable-lifestyle)
 - [Transportation](#transportation)
 - [Travel](#travel)
 - [Volunteering](#volunteering)
@@ -77,6 +77,15 @@ The world is simultaneously underwater and on fire, and people want to know what
 - [TenTree](https://www.tentree.ca/) - Ten tree is a brand that actively promotes environmental stewardship. They have a wide variety of comfortable clothes and accessories and with each purchase, they pledge to plant 10 trees.
 - [Worn Wear](https://wornwear.patagonia.com/) - A set of tools to help our customers partner with Patagonia to take mutual responsibility to extend the life of the products Patagonia makes and customers purchase. You can buy second-hand repaired or re-crafted clothes, or trade in used Patagonia clothes for credit for new items.
 - [thredUP](https://www.thredup.com/) - Second hand clothes, up-cycled to avoid the electricity, carbon, etc waste of making new clothes, and keeping them from a landfill. Women and kids but nothing for men.
+## Consumer-Products
+- [A Good Company - The Plastic-Free Store](https://agood.com/) - Everyday products including notebooks, toothbrushes, phone cases, art supplies, water bottles, etc. designed with by a company with complete transparency that has extremely ambitious environmental standards including plastic-free low-carbon materials including bio-plastics, bamboo, stone paper, and recycled aluminum.
+
+- [Earth Hero](https://earthhero.com/) - Our brands are made with better materials, cleaner production, a lower carbon footprint, higher quality, and with less waste. When you shop on EarthHero, you contribute to a better future for us all.
+- [Fairphone](https://www.fairphone.com/) - A phone for everyone who cares about how their products are made. It improves the conditions of the people who make it and uses materials that are better for the planet.
+- [Grayl Water Filter](https://grayl.com/) - Water bottle with built in filter that works like a french press. Great for urban and outdoor use.
+- [Lehman's](https://www.lehmans.com/) - One-stop shop for non-electric, homesteading, survival, handmade, Amish made, plastic free, durable, quality goods.  If you envision switching to live a simpler life, this place has all the tools you need to do so.
+- [Palm-Oil Free Products](https://orangutanfoundation.org.au/palm-oil/) - Make sure your makeup, biofuel, popcorn, candy, and other [various products](https://www.ethicalconsumer.org/palm-oil/palm-oil-free-list) are palm-oil free. The World Wildlife Fund estimates that 48 football fields worth of rainforest are cut down every minute! It’s estimated that palm oil plantations now cover around 27 million hectares. The forests being clear cut are often habitat for orangutans, who will be completely gone within 5-10 years at this rate.
+- [Pela Case](https://pelacase.com/) - 100% Compostable phone case for iPhone and Android made with flax. Also zero-waste screen protectors and sunglasses.
 ## Cooking
 - [Ecocina Rocket Stoves](http://www.stoveteam.org/) - Wood fired cook stove that uses ~40-50% less fuel than traditional fires and emits ~1/3 the CO2. Learn how to build one!  Check out their research center at [Aprovecho](http://aprovecho.org/).
 - [Go Sun](https://www.gosun.co/) - An innovative portable ultra-efficient solar cooker that can be used for backpacking, boating, car camping, etc.
@@ -104,7 +113,9 @@ The world is simultaneously underwater and on fire, and people want to know what
 
 ## Food
 - [Able & Cole](https://www.abelandcole.co.uk/) - Get fruit, veg, pantry staples, and other organic food delivered in returnable, reusable, recyclable packaging. Seasonal boxes of veg so its not traveling around the world, sustainably sourced fish, they've even got beer.
+- [All Plants - Vegan Prepared Meals](https://allplants.com/) - Get super tasty and 100% plant-based meals cooked by chefs and delivered straight to your door. Two people getting six meals works out at £5 a meal, which is amazing. Use [this referral link](https://allplants.mention-me.com/me/referee/registerko/48827185/206943008/er/796b4fb5d581862f565aa73f01fe733b8576831c/fe/cw?epr=1) to get £10 off your first box. We'll get £10 off our next box, so we'll spend that saving on trees on [Offset Earth](https://offset.earth/philsturgeon). 🥳
 - [Bees Wrap](https://www.beeswrap.com/) - Stop using cling film and start using reusable recyclable wraps made from bees wax and organic jojoba oil.
+- [EIT Food](https://www.eitfood.eu/) - EIT Food is Europe’s leading food innovation initiative, working to make the food system more sustainable, healthy and trusted by consumers.
 - [Farm Drop](https://www.farmdrop.com/) - Next day delivery in London for groceries and household products from local and independend producers.
 - [Food Cloud](https://food.cloud/) - FoodCloud is a social enterprise that connects businesses with surplus food to charities in their local communities that need it via a software platform.
 - [Forkful](https://www.forkful.app/) - Sustainable, nutritious eating that is as good for you as it is for the planet. With our powerful recipe search, you can view the nutritional benefit and environmental impact of thousands of recipes at a glance, empowering you to make awesome decisions.
@@ -125,6 +136,7 @@ The world is simultaneously underwater and on fire, and people want to know what
 - [The Rotten Fruit Box](https://therottenfruitbox.com/) - 100% Natural Freeze-Dried Fruit Snacks from Spain and Portugal shipped to you. The fruit you’re enjoying would have otherwise gone unused and rotted away on the ground. We also think that the name "Rotten" helps bring attention to the serious issue of food waste. Delicious, healthy, 100% natural, with a long shelf life, our freeze dried fruit snack pouches are ideal for home, work, office, to take to school, camping or just about anywhere. Help reduce food waste. Help small local farmers. We use 100% compostable packaging and ship with your local postal service because it is the lowest carbon footprint option.  But reducing carbon emissions is not enough, and we plant trees to compensate for our CO2 emissions.
 - [Tight5 farm](https://tight5.farm) - Delivered by cargo bicycle, our microgreens, sprouts, and culinary herbs are grown sustainably at production scale in an ultra-minimalist hydroponic vertical farming unit
 - [Too Good To Go](https://toogoodtogo.co.uk/) - Sell your surplus food, easily and sustainably! Save delicious food and fight food waste. Find your favorite food and go rescue it.
+- [We Are Phenix](https://wearephenix.com/en/) - Buy unsold goods from local businesses at a reduced price.  Sell expired products to clients, donate to charities, reuse organic waste for animal food, and more.  With over 100k meals saved per day, we are well on our way to reach the objective of zero food waste.  
 ## Footprint-Calculators
 - [AirCare](https://get.air.care/) - Forward your flights booking confirmation email to us to get an idea of the carbon footprint, get help offsetting the flight, and discover low-carbon alternatives to help avoid flying in the future.
 - [Carbon Analytics](https://www.co2analytics.com/) - Link a Xero accounts to assess each purchase a company makes, calculating the carbon impact of things like fuel, power purchases, transportation and more as well as supply chain impacts.
@@ -133,6 +145,8 @@ The world is simultaneously underwater and on fire, and people want to know what
 - [CarbonFootprint.com](https://www.carbonfootprint.com/) - Measure you carbon footprint, learn how to reduce your consumption, offset your impact, communicate, and comply.
 - [CarbonFund.org](https://carbonfund.org/) - Calculate your footprint based on flights, driving, shipping, and make tax-deductible donations to offset your emissions.
 - [Emitwise](https://www.emitwise.com/) - The Emitwise Reportwise tool calculates company level GHG emissions in line with the GHG Protocol for scope 1 and 2 emissions. Primarily targeting the UK but would also be useful for other countries.
+- [How Good](https://howgood.com/) - Future-Proof your products.  HowGood data offers data to businesses and consumers about product sustainability from 350+ independent sources on over 1 million products.  Extensive data library on product sustainability designed to help brands and retailers use that data to source better and consumers to buy better, to build a better world.
+- [Impact Forecast](https://www.impactforecast.org/) - The Climate impact forecast is a quick-and-easy tool to see and improve the carbon footprint of business ideas in the startup phase, and a stepping stone towards more meticulous life cycle assessment for established companies.
 - [MyClimate](https://myclimate.org/) - Helping reduce emissions through a whole bunch of different projects, from consulting companies on their footprint (and helping them to reduce), to education at schools, forest restoration, providing people in Rwanda with efficient cook stoves, and [a whole bunch more](https://www.myclimate.org/information/climate-protection-projects/). Fund them via donations, and use their flight/car/house/company footprint calculators.
 - [North (from Tomorrow)](https://north-app.com/) - iOS/Android app for automatically calculating the climate impact of your daily choices. Hook it up to TripIt, Uber, smart meters like Sense, and some electric car apps, to easily gather metrics to calculate your carbon footprint over time.
 
@@ -145,6 +159,7 @@ The world is simultaneously underwater and on fire, and people want to know what
 
 - [atmosfair](https://www.atmosfair.de/) - Calculate the footprint for flights and buy compensation or donate to offset any number of carbon emissions. Tax-deductible in Germany.
 ## Home-Improvements
+- [All Green](https://www.all-green.co.uk/) - A selection of environmentally friendly products for the home, garden, pets and other stuff.
 - [Barry](https://getbarry.co/) - Få et smart strømforbrug. Udskift din gamle el-leverandør med en app til din strøm.
 
 - [Domestic Renewable Heat Incentive (RHI)](https://www.gov.uk/domestic-renewable-heat-incentive) - You could get money towards renewable heating costs in your home. You can claim for biomass boilers, solar water heating, heat pumps. Payments are made for 7 years and are based on the amount of renewable heat made by your heating system.
@@ -152,6 +167,7 @@ The world is simultaneously underwater and on fire, and people want to know what
 - [EnergyStar.gov](https://www.energystar.gov/) - Energy efficiency ratings, suppliers, and tax credits for products, homes, utilities, and local governments.  ENERGY STAR is the government-backed symbol for energy efficiency, providing simple, credible, and unbiased information that consumers and businesses rely on to make well-informed decisions.
 - [Environmentally Friendly Roof Insulation](https://www.greenlivingtips.com/articles/environmentally-friendly-roof-insulation.html) - However you heat your home, make sure you aren't leaking heat through insufficient insulation, and save money.
 - [Hamwells Showers](https://www.hamwells.com/) - Shower systems that utilize heat exchangers to recapture heat and filtered pumps to recycle water up to 7 times before it is drained, thus significantly reducing water usage and energy consumption.
+- [Lehman's Appliances](https://www.lehmans.com/category/appliances) - Off the grid and super efficient appliances, including gas refrigerators, freezers, composting toilets, wood stoves, water heaters and pumps.
 - [NY State Home Energy Assessment tool](https://stars.nyserdagreenny.org/) - Get a home energy audit and receive tools, resources, and aid to upgrade your home to be more energy efficient.
 - [Nebia Showers](https://nebia.com/) - Nebia is proud to offer products that transform your mundane shower routine into a ritual, and also contribute to preserving the planet.
 - [PlanetCare Microfibre Laundry Filters](https://www.planetcare.org) - 35% of microplastics are fibers that are released when we wash our clothes.  With consumer and industrial laundry filters, tackle the problem close to the source – with a filter in your washing machine.  PlanteCare makes efficient, practical and affordable laundry filters that allow every household to stop sending microfibres into the environment.
@@ -160,6 +176,20 @@ The world is simultaneously underwater and on fire, and people want to know what
 - [Sense](https://sense.com/) - Sense is a home energy monitor that gives real-time insight into your home’s energy usage. Sense gives people the knowledge they need to reduce their energy costs and usage, with profound effects on the environment- the company estimates that its users are saving a total of 53 million pounds of CO2 annually.
 - [Solar Thermal Energy](https://en.wikipedia.org/wiki/Solar_thermal_energy) - Solar thermal technology can be used for cooking, heating your home through radiant floors, radiators, or forced air. It can be used to heat water directly for hot showers too.
 - [Solar Water Heaters](https://www.energy.gov/energysaver/water-heating/solar-water-heaters) - Solar hot water systems capture thermal energy from the sun and use it to heat water for your home. Systems can either be passive or active – while passive systems use gravity and natural circulation, active systems use pumps and controls to circulate water.
+## Hygiene
+- [A Good Company - The Plastic-Free Store](https://agood.com/) - Everyday products including notebooks, toothbrushes, phone cases, art supplies, water bottles, etc. designed with by a company with complete transparency that has extremely ambitious environmental standards including plastic-free low-carbon materials including bio-plastics, bamboo, stone paper, and recycled aluminum.
+
+- [Bidet Hose Toilet Attachment](https://www.homedecorous.com/Bidet-Diaper-Handheld-Sprayer-Set-Water-Shattaf-A132) - This sprayer will feel nice and sturdy in your hand as the whole thing is stainless steel. You will be able to adjust the water flow from zero to maximum by pushing the switch or by using the lever on the T-valve adapter.
+- [Buy a F**king Bidet](https://buyafuckingbidet.com/) - Buying a bidet attachment for your toilet is cheap and easy, helps the environment and solves problems during the coronavirus pandemic. No more toilet-paper panic-buying/brawling. Do you have a basic understanding of how screwdrivers and hoses work? Congratulations, you're a goddamn bidet installation expert.
+- [CuloClean Water Bottle Bidet](https://culoclean.com/) - CuloClean is the portable bidet that you can plumb in your plastic bottle, fully discreet, efficient and portable. It is specially designed so that it fits in the two most common diameters of water bottle on the market.
+- [Good Condom Company](https://www.thegoodc.company/) - Fuck each other, not the planet. Condoms made of natural latex from sustainably managed rubber plantations in Malaysia.
+- [Improve how you do laundry](https://greenlivingideas.com/2014/09/23/3-easy-ways-to-green-your-laundry/) - Six tips for a more sustainable laundry routine.
+- [Smartliners](https://smartlinerpads.com/) - Reduce the impact on the environment caused by sanitary waste using Organic Cotton Period Pads.
+- [Sonny](https://www.indiegogo.com/projects/sonny-a-portable-bidet-for-eco-conscious-humans/x/17318484#/) - Never worry about running out of toilet paper again with Sonny, a sustainable alternative to wipes and paper for better hygiene and a greener planet.
+- [The Cheeky Panda](https://www.thecheekypanda.co.uk) - 100% bamboo tissues shipped with zero plastic, wipes in recyclable plastic, and carbon balanced through the World Land Trust.
+- [The Crappy Planet - Bamboo Toilet Paper](https://www.thecrappyplanet.com/) - The use of bamboo significantly reduces deforestation. According to the EPA, one hardwood tree produces approximately 45 kg of toilet paper and about 83 million toilet rolls are produced every day. Bamboo toilet paper production requires less energy, one-fifth of the water, produces considerably more fiber on less land area, generates 30-35% more oxygen than other plants and trees, and it reduces the amount of carbon dioxide by about the same amount.  In addition, the production process requires that water and other materials are collected, reused and recycled. Finally, we invest 25% of our profits to stop deforestation and global warming.
+- [The Good Roll](https://www.thegoodroll.nl) - Mail order 100% tree-friendly toilet paper made from post-consumer recycled paper.  50% of net profit from sales of The Good Roll is invested in the installation of safe toilets in East Africa.
+- [Who Gives a Crap](https://whogivesacrap.org/) - We make all of our products with environmentally friendly materials, and we donate 50% of our profits to help build toilets for those in need.
 ## Jobs
 - [8000 Hours](https://80000hours.org/job-board/) - This board presents some of the most promising publicly advertised vacancies we know about. Most of these roles are demanding and difficult to get, but if you’re a good fit for one of them, it could be your best opportunity to work on one of the world’s most pressing problems, or to get the career capital you need to have a big impact later.
 
@@ -248,27 +278,6 @@ With dams causing wild salmon populations to go extinct, their only benefit is h
 - [Green-E](https://www.green-e.org/) - Find a renewable energy provider near you. Green-e certified renewable energy and carbon offset products meet the most stringent environmental and consumer protection standards in North America. You can search below for certified green power and renewable energy certificate programs for your home or business, and carbon offset products to offset your emissions from activities like driving and flying. As a third-party certifier, Green-e® doesn't sell renewable energy or offsets, but offers these links to retailers that do.
 - [Non-domestic Renewable Heat Incentive (RHI)](https://www.gov.uk/non-domestic-renewable-heat-incentive) - The non-domestic Renewable Heat Incentive helps businesses, public sector and non-profit organisations meet the cost of installing renewable heat technologies.
 - [SparkMeter](http://www.sparkmeter.io/) - Humanitarian smart energy metering solution that purchases wasted unused electricity from utilities and resells it to hard-to-reach places and under served markets, thus reducing overall energy consumption.
-## Research, Developers, Tech, Software, Accellerator, Data
-- [EIT Food](https://www.eitfood.eu/) - EIT Food is Europe’s leading food innovation initiative, working to make the food system more sustainable, healthy and trusted by consumers.
-## Sustainable-Lifestyle
-- [A Good Company - The Plastic-Free Store](https://agood.com/) - Everyday products including notebooks, toothbrushes, phone cases, art supplies, water bottles, etc. designed with by a company with complete transparency that has extremely ambitious environmental standards including plastic-free low-carbon materials including bio-plastics, bamboo, stone paper, and recycled aluminum, shipped to you with climate-compensated shipping. We refuse to take shortcuts, and we obsess over every single step in the journey of our products – from how they are made to how they end up on your doorstep.
-
-- [All Green](https://www.all-green.co.uk/) - A selection of environmentally friendly products for the home, garden, pets and other stuff.
-- [Earth Hero](https://earthhero.com/) - Our brands are made with better materials, cleaner production, a lower carbon footprint, higher quality, and with less waste. When you shop on EarthHero, you contribute to a better future for us all.
-- [Fairphone](https://www.fairphone.com/) - A phone for everyone who cares about how their products are made. It improves the conditions of the people who make it and uses materials that are better for the planet.
-- [Good Condom Company](https://www.thegoodc.company/) - Fuck each other, not the planet. Condoms made of natural latex from sustainably managed rubber plantations in Malaysia.
-- [Grayl Water Filter](https://grayl.com/) - Water bottle with built in filter that works like a french press. Great for urban and outdoor use.
-- [How Good](https://howgood.com/) - Future-Proof your products.  HowGood data offers data to businesses and consumers about product sustainability from 350+ independent sources on over 1 million products.  Extensive data library on product sustainability designed to help brands and retailers use that data to source better and consumers to buy better, to build a better world.
-- [Improve how you do laundry](https://greenlivingideas.com/2014/09/23/3-easy-ways-to-green-your-laundry/) - Six tips for a more sustainable laundry routine.
-- [Lehman's](https://www.lehmans.com/) - One-stop shop for non-electric, homesteading, survival, handmade, Amish made, plastic free, durable, quality goods.  If you envision switching to live a simpler life, this place has all the tools you need to do so.
-- [Palm-Oil Free Products](https://orangutanfoundation.org.au/palm-oil/) - Make sure your makeup, biofuel, popcorn, candy, and other [various products](https://www.ethicalconsumer.org/palm-oil/palm-oil-free-list) are palm-oil free. The World Wildlife Fund estimates that 48 football fields worth of rainforest are cut down every minute! It’s estimated that palm oil plantations now cover around 27 million hectares. The forests being clear cut are often habitat for orangutans, who will be completely gone within 5-10 years at this rate.
-- [Smartliners](https://smartlinerpads.com/) - Reduce the impact on the environment caused by sanitary waste using Organic Cotton Period Pads.
-- [The Cheeky Panda](https://www.thecheekypanda.co.uk) - 100% bamboo tissues shipped with zero plastic, wipes in recyclable plastic, and carbon balanced through the World Land Trust.
-- [The Crappy Planet - Bamboo Toilet Paper](https://www.thecrappyplanet.com/) - The use of bamboo significantly reduces deforestation. According to the EPA, one hardwood tree produces approximately 45 kg of toilet paper and about 83 million toilet rolls are produced every day. Bamboo toilet paper production requires less energy, one-fifth of the water, produces considerably more fiber on less land area, generates 30-35% more oxygen than other plants and trees, and it reduces the amount of carbon dioxide by about the same amount.  In addition, the production process requires that water and other materials are collected, reused and recycled. Finally, we invest 25% of our profits to stop deforestation and global warming.
-- [The Good Roll](https://www.thegoodroll.nl) - Mail order 100% tree-friendly toilet paper made from post-consumer recycled paper.  50% of net profit from sales of The Good Roll is invested in the installation of safe toilets in East Africa.
-- [What can a technologist do about climate change?](http://worrydream.com/ClimateChange/) - Amazing article, full of data and advice for people in tech on where they can make a difference.
-
-- [Who Gives a Crap](https://whogivesacrap.org/) - We make all of our products with environmentally friendly materials, and we donate 50% of our profits to help build toilets for those in need.
 ## Transportation
 - [Biking vs. Driving Calculator](https://bicycleuniverse.com/car-free-millionaire/) - Riding your bike can make you a millionaire! You're paying more for your car than you think. A typical American who goes car-free for 35 years can save nearly a million dollars, even adjusted for inflation, and even if they pay for taxi, bus, and car-share trips often. Use the calculator to find how much you can save in your particular situation.
 - [BlaBlaCar](https://www.blablacar.com/) - The world’s leading long-distance carpooling platform, which is available in most of Europe and Mexico.
@@ -326,15 +335,18 @@ With dams causing wild salmon populations to go extinct, their only benefit is h
 - [Woodland Trust](https://www.woodlandtrust.org.uk/) - The Woodland Trust is reforesting the United Kingdom, working with communities, local authorities, and land owners, to get trees in the ground.
 ## Zero-Waste
 - [Algramo](https://www.algramoalmacenes.com/) - Vending machines and mobile refill units for refilling reusable plastic bottles with staple goods from shampoo to salad dressing in packaging that is designed to be returned, cleaned, and reused.  With over 2,000 bodegas in Santiago and plans to expand in the US soon, Algramo, translates to "by the gram", also solves the issue of "poverty tax" where small packages can cost as much as 50% more than the same product in a larger size.
+- [Bidet Hose Toilet Attachment](https://www.homedecorous.com/Bidet-Diaper-Handheld-Sprayer-Set-Water-Shattaf-A132) - This sprayer will feel nice and sturdy in your hand as the whole thing is stainless steel. You will be able to adjust the water flow from zero to maximum by pushing the switch or by using the lever on the T-valve adapter.
 - [Bio Bean](https://www.bio-bean.com/) - The world’s largest recycler of coffee grounds, Bio Bean recycle spent coffee grounds into sustainable products, like coffee logs for fires, and other biomass fuel.
 - [Bio-plastic Trash Bags](https://www.amazon.com/Plant-Based-Kitchen-Handles-Gallon/dp/B071JMFKM5/) - Made from Plant Based (sugar cane) materials instead of fossil fuel.
 - [Blue Jeans Go Green](https://bluejeansgogreen.org/) - Send in your used jeans to get transformed into natural cotton fiber insulation, some of which is used to help with building efforts around the country.
 - [Burying Food Scraps](https://www.youtube.com/watch?v=yQFB9M2UdK0) - Composting can be time consuming, expensive, and if done incorrectly it can actually produce a lot of methane. If you've got a bit of space in your garden, this video shows how simply burying food scraps can be a quick and simple solution to get rid of waste and improve soil quality too.
 
+- [Buy a F**king Bidet](https://buyafuckingbidet.com/) - Buying a bidet attachment for your toilet is cheap and easy, helps the environment and solves problems during the coronavirus pandemic. No more toilet-paper panic-buying/brawling. Do you have a basic understanding of how screwdrivers and hoses work? Congratulations, you're a goddamn bidet installation expert.
 - [Circular Berlin](http://circular.berlin/) - A Berlin based non-profit developing the local circular economy agenda through research, community-building and practical programmes. Good overview of events and initiatives happening in Berlin.
 
 - [City Harvest](https://www.cityharvest.org/) - City Harvest is New York City’s largest food rescue organization. They rescue food and deliver it to hundreds of food pantries, soup kitchens and other community partners.
 - [Clean Cult](https://cleancult.pvzi.net/qq4kq) - Cleaning supplies with zero-waste packaging, and a powerful clean that's better for you and the planet.
+- [CuloClean Water Bottle Bidet](https://culoclean.com/) - CuloClean is the portable bidet that you can plumb in your plastic bottle, fully discreet, efficient and portable. It is specially designed so that it fits in the two most common diameters of water bottle on the market.
 - [Dabchy](https://www.dabchy.com/) - Tunisian second hand clothes marketplace.
 - [Donate Toys](https://www.moneycrashers.com/where-donate-used-toys/) - Donate toys that your children have grown out of instead of throwing them away.
 - [Food Cloud](https://food.cloud/) - FoodCloud is a social enterprise that connects businesses with surplus food to charities in their local communities that need it via a software platform.
@@ -350,7 +362,6 @@ With dams causing wild salmon populations to go extinct, their only benefit is h
 
 - [OpenStreetMap: Zero Waste (Overpass)](http://overpass-turbo.eu/?template=key&key=zero_waste) - OpenStreetMap has the tag zero_waste=* for shops who sell items without packaging.
 - [Original Unverpackt](https://original-unverpackt.de/) - Zero packaging supermarket in Berlin. _Original Unverpackt hat sich als erster Supermarkt weltweit dem Zero-Waste-Lifestyle gewidmet._
-- [Pela Case](https://pelacase.com/) - 100% Compostable phone case for iPhone and Android made with flax. Also zero-waste screen protectors and sunglasses.
 - [Pieter Pot](https://www.pieter-pot.nl/) - Your groceries, delivered without packaging. Pieter Pot delivers your groceries with a cargo bike in beautiful glass jars in The Netherlands. Empty pot? Then we fill it again. This is how we make it fun and easy to do shopping without all those unnecessary (plastic) packaging. That's nice, right?
 - [Precious Plastic](https://preciousplastic.com/) - Open-source community who share instructions for creating plastic shredders, injectors, and sheet presses, so you can create anything you want from used plastic. Collect plastic from neighbors, clean it, shred it, [3D print a mold](https://pinshape.com/blog/low-cost-injection-molding-using-3d-printing/), and create anything you can imagine! You can [buy the machines](https://preciousplastic.com/solutions/machines/overview.html) too if making them is out of your wheelhouse.
 
