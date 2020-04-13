@@ -4,7 +4,6 @@ The world is simultaneously underwater and on fire, and people want to know what
 
 <!-- links:start -->
 ## Contents
-- [Contents](#contents)
 - [Carbon-Reduction](#carbon-reduction)
 - [Clothing](#clothing)
 - [Consumer-Products](#consumer-products)
@@ -24,9 +23,6 @@ The world is simultaneously underwater and on fire, and people want to know what
 - [Travel](#travel)
 - [Volunteering](#volunteering)
 - [Waste](#waste)
-- [Zero-Waste](#zero-waste)
-- [Contributing](#contributing)
-- [License](#license)
 ## Carbon-Reduction
 - [1% for the Planet](https://www.onepercentfortheplanet.org/) - A membership program for businesses and now also individuals, allowing them to donate 1% of their gross yearly profits or salary back to environmental nonprofits to create a healthier planet.
 
@@ -362,6 +358,7 @@ With dams causing wild salmon populations to go extinct, their only benefit is h
 - [Bio Bean](https://www.bio-bean.com/) - The world’s largest recycler of coffee grounds, Bio Bean recycle spent coffee grounds into sustainable products, like coffee logs for fires, and other biomass fuel.
 - [Bio-plastic Trash Bags](https://www.amazon.com/Plant-Based-Kitchen-Handles-Gallon/dp/B071JMFKM5/) - Made from Plant Based (sugar cane) materials instead of fossil fuel.
 - [Blue Jeans Go Green](https://bluejeansgogreen.org/) - Send in your used jeans to get transformed into natural cotton fiber insulation, some of which is used to help with building efforts around the country.
+- [Boulder Food Rescue](https://www.boulderfoodrescue.org/) - We facilitate the sustainable redistribution of healthy food that would otherwise be wasted to low-income communities, by bicycle. We work with communities to facilitate their own food redistribution and create decentralized systems to bypass barriers to food access. Our work envisions a world in which everyone has equitable access to healthy food.
 - [Burying Food Scraps](https://www.youtube.com/watch?v=yQFB9M2UdK0) - Composting can be time consuming, expensive, and if done incorrectly it can actually produce a lot of methane. If you've got a bit of space in your garden, this video shows how simply burying food scraps can be a quick and simple solution to get rid of waste and improve soil quality too.
 
 - [Circular Berlin](http://circular.berlin/) - A Berlin based non-profit developing the local circular economy agenda through research, community-building and practical programmes. Good overview of events and initiatives happening in Berlin.
@@ -384,6 +381,7 @@ With dams causing wild salmon populations to go extinct, their only benefit is h
 - [Pieter Pot](https://www.pieter-pot.nl/) - Your groceries, delivered without packaging. Pieter Pot delivers your groceries with a cargo bike in beautiful glass jars in The Netherlands. Empty pot? Then we fill it again. This is how we make it fun and easy to do shopping without all those unnecessary (plastic) packaging. That's nice, right?
 - [Precious Plastic](https://preciousplastic.com/) - Open-source community who share instructions for creating plastic shredders, injectors, and sheet presses, so you can create anything you want from used plastic. Collect plastic from neighbors, clean it, shred it, [3D print a mold](https://pinshape.com/blog/low-cost-injection-molding-using-3d-printing/), and create anything you can imagine! You can [buy the machines](https://preciousplastic.com/solutions/machines/overview.html) too if making them is out of your wheelhouse.
 
+- [Pure Waste](https://www.purewaste.org/) - Helsinki based, making 100% recycled clothing out of waste materials.
 - [Recycle Now](https://www.recyclenow.com/) - Find out where to recycle pretty much anything, including aerosols, old mobile phones, soft plastics, and get advice on how to reduce waste too.
 - [Repair Café](https://repaircafe.org/) - Repair Cafés are free meeting places and they’re all about repairing things (together). You’ll find tools and materials to help you make any repairs to clothes, furniture, electrical appliances, bicycles, crockery, appliances, toys, et cetera. You’ll also find expert volunteers, with repair skills in all kinds of fields. Repair your stuff, or just enjoy a coffee. They're world-wide, and the site is multi-lingual.
 - [Rethink Food NYC](https://www.rethinkfood.nyc/) - They pick up unused, excess food from restaurants, farms, and other food purveyors, and re-purpose it into delicious and nutritious meals for under-served New Yorkers.
@@ -391,10 +389,7 @@ With dams causing wild salmon populations to go extinct, their only benefit is h
 - [The Rotten Fruit Box](https://therottenfruitbox.com/) - 100% Natural Freeze-Dried Fruit Snacks from Spain and Portugal shipped to you. The fruit you’re enjoying would have otherwise gone unused and rotted away on the ground. We also think that the name "Rotten" helps bring attention to the serious issue of food waste. Delicious, healthy, 100% natural, with a long shelf life, our freeze dried fruit snack pouches are ideal for home, work, office, to take to school, camping or just about anywhere. Help reduce food waste. Help small local farmers. We use 100% compostable packaging and ship with your local postal service because it is the lowest carbon footprint option.  But reducing carbon emissions is not enough, and we plant trees to compensate for our CO2 emissions.
 - [Too Good To Go](https://toogoodtogo.co.uk/) - Sell your surplus food, easily and sustainably! Save delicious food and fight food waste. Find your favorite food and go rescue it.
 - [Vegware](https://vegware.co.uk/) - Napkins, carrier bags, salad boxes, sushi trays, cutlery, disposable coffee cups, all made from plants using renewable, lower carbon, recycled or reclaimed materials, and designed to be commercially compostable with food waste, where accepted.
-- [What is my lamp worth?](https://www.watismijnlampwaard.nl/) - Find the nearest collection points for discarded electrical appliances and energy-efficient light bulbs. This site helps you responsibly recycle, donate, repair, or sell electrical appliances and lights.
-## Zero-Waste
-- [Boulder Food Rescue](https://www.boulderfoodrescue.org/) - We facilitate the sustainable redistribution of healthy food that would otherwise be wasted to low-income communities, by bicycle. We work with communities to facilitate their own food redistribution and create decentralized systems to bypass barriers to food access. Our work envisions a world in which everyone has equitable access to healthy food.
-- [Pure Waste](https://www.purewaste.org/) - Helsinki based, making 100% recycled clothing out of waste materials.<!-- links:end -->
+- [What is my lamp worth?](https://www.watismijnlampwaard.nl/) - Find the nearest collection points for discarded electrical appliances and energy-efficient light bulbs. This site helps you responsibly recycle, donate, repair, or sell electrical appliances and lights.<!-- links:end -->
 
 ## Contributing
 
