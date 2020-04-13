@@ -4,6 +4,7 @@ The world is simultaneously underwater and on fire, and people want to know what
 
 <!-- links:start -->
 ## Contents
+- [Contents](#contents)
 - [Carbon-Reduction](#carbon-reduction)
 - [Clothing](#clothing)
 - [Consumer-Products](#consumer-products)
@@ -24,6 +25,8 @@ The world is simultaneously underwater and on fire, and people want to know what
 - [Volunteering](#volunteering)
 - [Waste](#waste)
 - [Zero-Waste](#zero-waste)
+- [Contributing](#contributing)
+- [License](#license)
 ## Carbon-Reduction
 - [1% for the Planet](https://www.onepercentfortheplanet.org/) - A membership program for businesses and now also individuals, allowing them to donate 1% of their gross yearly profits or salary back to environmental nonprofits to create a healthier planet.
 
@@ -395,7 +398,7 @@ With dams causing wild salmon populations to go extinct, their only benefit is h
 
 ## Contributing
 
-This README is just a rendering of the data in `src/data`, and this data is powered by contributions. We're trying to learn about projects from all over the world, so please [contribute ideas](CONTRIBUTING.md)!
+Please send us a PR because all this data is powered by contributions. We're trying to learn about projects from all over the world, so wherever you're from and whatever language you want to write the descriptions in, please send a PR to this file!
 
 ## License
 
