@@ -350,6 +350,8 @@ With dams causing wild salmon populations to go extinct, their only benefit is h
 
 Please send us a PR because all this data is powered by contributions. We're trying to learn about projects from all over the world, so wherever you're from and whatever language you want to write the descriptions in, please send a PR to this file!
 
+Please consider opening a PR in the [protect.earth repository](https://github.com/protect-earth/protect.earth) to add the new links there, too. The list in this repository is updated irregularly with the links from there.
+
 ## License
 
 The list in this README under [CCO](https://creativecommons.org/publicdomain/zero/1.0/)
