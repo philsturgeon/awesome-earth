@@ -79,7 +79,9 @@ The world is simultaneously underwater and on fire, and people want to know what
 - [Grayl Water Filter](https://grayl.com/) - Water bottle with built in filter that works like a french press. Great for urban and outdoor use.
 - [Lehman's](https://www.lehmans.com/) - One-stop shop for non-electric, homesteading, survival, handmade, Amish made, plastic free, durable, quality goods. If you envision switching to live a simpler life, this place has all the tools you need to do so.
 - [Palm-Oil Free Products](https://orangutanfoundation.org.au/palm-oil/) - Make sure your makeup, biofuel, popcorn, candy, and other [various products](https://www.ethicalconsumer.org/palm-oil/palm-oil-free-list) are palm-oil free. The World Wildlife Fund estimates that 48 football fields worth of rainforest are cut down every minute! It’s estimated that palm oil plantations now cover around 27 million hectares. The forests being clear cut are often habitat for orangutans, who will be completely gone within 5-10 years at this rate.
+- [Paprcuts](https://www.paprcuts.de/) - Wallets, watches and sneakers made out of Tyvek® (light as paper, mechanically recyclable, water resistant). 100% recyclable and vegan.
 - [Pela Case](https://pelacase.com/) - 100% Compostable phone case for iPhone and Android made with flax. Also zero-waste screen protectors and sunglasses.
+- [Wijld](https://www.wijld.com/) - wijld stands for stylish, fair and environmentally friendly clothing made of wood.
 ## Cooking
 - [Ecocina Rocket Stoves](http://www.stoveteam.org/) - Wood fired cook stove that uses ~40-50% less fuel than traditional fires and emits ~1/3 the CO2. Learn how to build one! Check out their research center at [Aprovecho](http://aprovecho.org/).
 - [Go Sun](https://www.gosun.co/) - An innovative portable ultra-efficient solar cooker that can be used for backpacking, boating, car camping, etc.
