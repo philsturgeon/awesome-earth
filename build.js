@@ -30,7 +30,7 @@ const formatAsMarkdown = links => {
 
   const sortedKeys = Object.keys(categorizedData).sort();
 
-  let outputArr = ['## Contents'];
+  let outputArr = [];
 
   // Output Table of Contents
   outputArr = outputArr.concat(
