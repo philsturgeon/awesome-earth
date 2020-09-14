@@ -1,9 +1,10 @@
-# Awesome Earth [![Buy us a tree](https://img.shields.io/badge/Buy%20me%20a%20tree-%F0%9F%8C%B3-lightgreen)](https://offset.earth/philsturgeon) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <!-- omit in toc -->
+# Awesome Earth ![Ecologi (Carbon Offset)](https://img.shields.io/ecologi/carbon/philsturgeon) ![Ecologi (Trees)](https://img.shields.io/ecologi/trees/philsturgeon) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <!-- omit in toc -->
 
 The world is simultaneously underwater and on fire, and people want to know what they can do about it. Let's share resources, services, products and ideas you can use to stop kicking the planet in the face.
 
 <!-- links:start -->
 ## Contents
+- [Contents](#contents)
 - [Carbon Reduction](#carbon-reduction)
 - [Clothing](#clothing)
 - [Consumer Products](#consumer-products)
@@ -26,6 +27,8 @@ The world is simultaneously underwater and on fire, and people want to know what
 - [Volunteering](#volunteering)
 - [Waste](#waste)
 - [Zero Waste](#zero-waste)
+- [Contributing](#contributing)
+- [License](#license)
 ## Carbon Reduction
 - [1% for the Planet](https://www.onepercentfortheplanet.org/) - A membership program for businesses and individuals, allowing them to donate 1% of their gross yearly profits or salary back to environmental nonprofits to create a healthier planet.
 
