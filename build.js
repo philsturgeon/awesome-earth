@@ -1,42 +1,10 @@
 const fetch = require('node-fetch');
 const fs = require('fs');
 const path = require('path');
+const { titleCase } = require('title-case');
 
-var TurndownService = require('turndown')
-var turndownService = new TurndownService();
-
-const apiHost = 'https://api.protect.earth/api';
+const linksUrl = 'https://protect.earth/links.json';
 const readmeFile = path.resolve(`./README.md`);
-
-const getActions = async () => {  
-  const grabActionsFromUrl = async (url, existingActions = []) => {
-    const response = await fetch(url);
-    const { data, links } = await response.json();
-
-    existingActions.push(...data);
-
-    if (!!links.next) {
-      await grabActionsFromUrl(links.next, existingActions);
-    }
-
-    return existingActions;
-  }
-
-  return await grabActionsFromUrl(`${apiHost}/collections/actions/entries`);
-}
-
-const getCategories = async () => {
-  const response = await fetch(`${apiHost}/collections/categories/entries`)
-  const data = (await response.json()).data;
-  
-  return data.map(category => ({
-    id: category.id,
-    title: category.title,
-    key: category.slug,
-    intro: category.intro,
-    actions: [],
-  }));
-}
 
 const replaceBetween = (origin, startIndex, endIndex, insertion) => {
   return (
@@ -44,27 +12,44 @@ const replaceBetween = (origin, startIndex, endIndex, insertion) => {
   );
 };
 
-const formatAsMarkdown = (categories, actions) => {
+const formatAsMarkdown = links => {
+  const categorizedData = {};
+
+  links.forEach(link => {
+    link.categories.forEach(catKey => {
+      if (categorizedData[catKey] === undefined) {
+        categorizedData[catKey] = {
+          title: titleCase(catKey).replace('-', ' '),
+          key: catKey,
+          links: [],
+        };
+      }
+      categorizedData[catKey].links.push(link);
+    });
+  });
+
+  const sortedKeys = Object.keys(categorizedData).sort();
+
   let outputArr = ['## Contents'];
 
   // Output Table of Contents
   outputArr = outputArr.concat(
-    categories.map(category => {
-      const { title, key } = category;
+    sortedKeys.map(category => {
+      const { title, key } = categorizedData[category];
       return `- [${title}](#${key})`;
     })
   );
 
-  // Add the actions for each category
+  // Add the links for each category
   outputArr = outputArr.concat(
-    categories.flatMap(category => {
-      const { title, actions } = category;
+    sortedKeys.flatMap(category => {
+      const { title, links } = categorizedData[category];
       return (
         [`## ${title}\n`] +
-        actions
-          .map(action => {
-            const { title, action_url, description } = action;
-            return `- [${title}](${action_url}) - ${turndownService.turndown(description)}`;
+        links
+          .map(link => {
+            const { title, url, description } = link;
+            return `- [${title}](${url}) - ${description}`;
           })
           .sort()
           .join('\n')
@@ -75,34 +60,26 @@ const formatAsMarkdown = (categories, actions) => {
   return outputArr.join('\n');
 };
 
-const startCursor = '<!-- actions:start -->';
-const endCursor = '<!-- actions:end -->';
+const startCursor = '<!-- links:start -->';
+const endCursor = '<!-- links:end -->';
 const str = fs.readFileSync(readmeFile, 'utf8');
 
-const main = async () => {
-  const categories = await getCategories();
-  const actions = await getActions();
 
-  // Join em up
-  actions.forEach(action => {
-    action.categories.forEach(actionCategory => {
-      const pushIntoCategory = categories.find(c => c.id === actionCategory.id)
-      pushIntoCategory.actions.push(action);
-    });
+fetch(linksUrl).then(function(response) {
+  response.json().then(links => {
+
+    const markdownLines = formatAsMarkdown(links);
+
+    fs.writeFileSync(
+      readmeFile,
+      replaceBetween(
+        str,
+        str.indexOf(startCursor) + startCursor.length + 1,
+        str.indexOf(endCursor),
+        markdownLines
+      ),
+      'utf8'
+    );
   });
 
-  const markdownLines = formatAsMarkdown(categories, actions);
-
-  fs.writeFileSync(
-    readmeFile,
-    replaceBetween(
-      str,
-      str.indexOf(startCursor) + startCursor.length + 1,
-      str.indexOf(endCursor),
-      markdownLines
-    ),
-    'utf8'
-  );
-}
-
-Promise.resolve(main());
+})
