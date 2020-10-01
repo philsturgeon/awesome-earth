@@ -272,7 +272,7 @@ The world is simultaneously underwater and on fire, and people want to know what
 - [The Good Roll](https://www.thegoodroll.nl) - Mail order 100% tree-friendly toilet paper made from post-consumer recycled paper.  50% of net profit from sales of The Good Roll is invested in the installation of safe toilets in East Africa.
 - [Who Gives a Crap](https://whogivesacrap.org/) - We make all of our products with environmentally friendly materials, and we donate 50% of our profits to help build toilets for those in need.
 ## Jobs
-- [8000 Hours](https://80000hours.org/job-board/) - This board presents some of the most promising publicly advertised vacancies we know about. Most of these roles are demanding and difficult to get, but if you’re a good fit for one of them, it could be your best opportunity to work on one of the world’s most pressing problems, or to get the career capital you need to have a big impact later.
+- [80,000 Hours](https://80000hours.org/job-board/) - This board presents some of the most promising publicly advertised vacancies we know about. Most of these roles are demanding and difficult to get, but if you’re a good fit for one of them, it could be your best opportunity to work on one of the world’s most pressing problems, or to get the career capital you need to have a big impact later.
 
 - [Climate Careers](https://climate.careers/) - Site that helps people find high-impact, high-paying jobs at organizations advancing climate solutions, research, policy, education, and advocacy for climate action. Software engineers, photographers, sales, operations, researchers, all sorts of jobs here.
 
