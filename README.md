@@ -103,6 +103,7 @@ The world is simultaneously underwater and on fire, and people want to know what
 - [Worn Wear](https://wornwear.patagonia.com/) - A set of tools to help our customers partner with Patagonia to take mutual responsibility to extend the life of the products Patagonia makes and customers purchase. You can buy second-hand repaired or re-crafted clothes, or trade in used Patagonia clothes for credit for new items.
 - [Woron Store](https://www.woronstore.com/) - Lingerie and base wear essentials made from GOTS-certified, antibacterial 'Lenzing Modal' (Beech wood!) made from CO2-neutral FSC-certified native tree plantations.
 - [thredUP](https://www.thredup.com/) - Second hand clothes, up-cycled to avoid the electricity, carbon, etc waste of making new clothes, and keeping them from a landfill. Women and kids but nothing for men.
+- [4ocean](https://www.4ocean.com/) - By buying their bracelets ( or many other awesome things... ) you support cleaning up coastlines from plastic pollution.
 ## Consumer Products
 - [A Good Company - The Plastic-Free Store](https://agood.com/) - Everyday products including notebooks, toothbrushes, phone cases, art supplies, water bottles, etc. designed with by a company with complete transparency that has extremely ambitious environmental standards including plastic-free low-carbon materials including bio-plastics, bamboo, stone paper, and recycled aluminum.
 
