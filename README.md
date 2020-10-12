@@ -211,6 +211,7 @@ The world is simultaneously underwater and on fire, and people want to know what
 - [Carbon Footprint Extension](https://gitlab.com/aossie/CarbonFootprint) - Automatically estimates CO2 emissions on Google Maps, other maps services and train and flight search engines.
 - [CarbonFootprint.com](https://www.carbonfootprint.com/) - Measure you carbon footprint, learn how to reduce your consumption, offset your impact, communicate, and comply.
 - [CarbonFund.org](https://carbonfund.org/) - Calculate your footprint based on flights, driving, shipping, and make tax-deductible donations to offset your emissions.
+- [conservation.org](https://www.conservation.org/carbon-footprint-calculator#/) - Calculates the annual emissions based on your household, transport, travel and compares it with the average emissions.
 - [Eco Passenger](http://ecopassenger.hafas.de/) - More than a quarter of worldwide greenhouse gases emissions come from the transportation sector, and more important, it is the sector where we have seen the highest growth in these emissions the last decades and it is not stopping. To help, EcoPassenger is a calculator to compare the energy consumption, CO2 and exhaust atmospheric emissions for planes, cars, and trains, for passenger transport.
 
 - [Emitwise](https://www.emitwise.com/) - The Emitwise Reportwise tool calculates company level GHG emissions in line with the GHG Protocol for scope 1 and 2 emissions. Primarily targeting the UK but would also be useful for other countries.
