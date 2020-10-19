@@ -484,6 +484,7 @@ With dams causing wild salmon populations to go extinct, their only benefit is h
 - [What is my lamp worth?](https://www.watismijnlampwaard.nl/) - Find the nearest collection points for discarded electrical appliances and energy-efficient light bulbs. This site helps you responsibly recycle, donate, repair, or sell electrical appliances and lights.
 ## Zero Waste
 - [Berkley Water Filters](https://www.berkeyfilters.com/) - 21,000,000 Americans drink water that violates U.S. health standards. Berkey water filter systems are actually water purifiers because they remove bacteria and viruses that conventional filters cannot.<!-- links:end -->
+- [Kent Zero Water Wastage Technology](https://www.kent.co.in/water-purifiers/zero-water-wastage-technology) - KENT RO Purifiers equipped with the ‘Zero Water Wastage’ Technology push back the rejected water to the overhead tank, thereby rendering wastage to zero. As a result, instead of wasting the rejected water, it gets diluted and reused as normal tap water for household purposes.<!-- links:end -->
 
 ## Contributing
 
