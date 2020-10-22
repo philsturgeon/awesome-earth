@@ -68,6 +68,8 @@ const str = fs.readFileSync(readmeFile, 'utf8');
 fetch(linksUrl).then(function(response) {
   response.json().then(links => {
 
+    console.log(`Found ${links.length} links.`);
+    
     const markdownLines = formatAsMarkdown(links);
 
     fs.writeFileSync(
