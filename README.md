@@ -327,6 +327,7 @@ The world is simultaneously underwater and on fire, and people want to know what
 - [The Energy Transition Show](https://xenetwork.org/ets/) - Straight talk about the world’s transition from fossil fuels to renewables with energy expert Chris Nelder.
 - [The Yikes Podcast](https://radiopublic.com/the-yikes-podcast-6nKDQq) - Climate Change, Human Rights and the messiness of everything going on at the moment can be really overwhelming BUT we want to provide a space to chat about these things and find hope in the midst of it all.
 - [You've Been Warmed](https://www.youvebeenwarmed.com/) - By interviewing the top scientists, entrepreneurs, activists & politicians, we seek to find answers to all of the above while uncovering the leaders behind our fight for the preservation of our planet.
+- [Green Pulse](https://omny.fm/shows/green-pulse-1) - The Straits Times (A Singapore news outlet) analyses the beat of the changing environment, from biodiversity conservation to climate change.
 ## Politics
 - [EU: Right to Repair](https://repair.eu/) - Cracked screens, weak batteries, broken charging ports... We’d like to fix them, but instead we end up buying a new smartphone because repairs are too expensive, difficult or impossible. Reducing the lifespan of a product may drive sales, but this comes at the expense of consumers, workers and the planet. Ask the European Union to give people the Right to Repair by requiring manufacturers to design repairable smartphones and provide spare parts and repair information to all repairers and consumers.
 
