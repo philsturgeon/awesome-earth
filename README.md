@@ -18,7 +18,7 @@ The world is simultaneously underwater and on fire, and people want to know what
 - [Jobs](#jobs)
 - [Land Management](#land-management)
 - [News](#news)
-- [Other Services](#other)
+- [Other Services](#other-services)
 - [Podcasts](#podcasts)
 - [Politics](#politics)
 - [Reforestation](#reforestation)
