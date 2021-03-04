@@ -18,6 +18,7 @@ The world is simultaneously underwater and on fire, and people want to know what
 - [Jobs](#jobs)
 - [Land Management](#land-management)
 - [News](#news)
+- [Other Services](#other-services)
 - [Podcasts](#podcasts)
 - [Politics](#politics)
 - [Reforestation](#reforestation)
@@ -318,6 +319,8 @@ The world is simultaneously underwater and on fire, and people want to know what
 - [The Cleanest Line](https://www.patagonia.com/blog/) - Patagonia's blog on their efforts into political engagement for environmental protection of green spaces, global strikes, their efforts subsidizing solar energy in various communities, and all sorts of other climate action.
 - [The Guardian](https://www.theguardian.com/uk/environment) - The Guardian covers international environmental issues and climate change.
 - [US Green Build Council](https://www.usgbc.org/articles) - Transforming how buildings are designed, constructed and operated through the LEED construction standard. Articles about benchmarking energy efficiency of materials, city strategy, measuring the health of indoor spaces, reducing off-gassing, and improving air quality.
+## Other Services
+- [Ecotalk](https://www.ecotalk.co.uk) - UK-based mobile network powered by renewable energy. Profits are used to buy land which is then given back to nature.
 ## Podcasts
 - [Democracy Now!](https://www.democracynow.org/topics/climate_change) - Independent global news produced daily, hosted by award-winning journalists Amy Goodman and Juan González. Our reporting includes breaking daily news headlines and in-depth interviews with people on the front lines of the world’s most pressing issues by a diversity of voices.  Free from government funding, corporate sponsorship, underwriting or advertising revenue.
 - [How to Save a Planet](https://gimletmedia.com/shows/howtosaveaplanet) - weekly-ish podcast by Gimlet Media that asks the big questions: what do we need to do to solve the climate crisis, and how do we get it done? Journalist Alex Blumberg and scientist and policy nerd Dr. Ayana Elizabeth Johnson talk to people who are making a difference and work to figure out how to build the future we want, tackling a different subject related to the climate crisis each episode.
