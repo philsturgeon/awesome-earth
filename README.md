@@ -208,8 +208,6 @@ The world is simultaneously underwater and on fire, and people want to know what
 - [Too Good To Go](https://toogoodtogo.co.uk/) - Sell your surplus food, easily and sustainably! Save delicious food and fight food waste. Find your favorite food and go rescue it.
 - [We Are Phenix](https://wearephenix.com/en/) - Buy unsold goods from local businesses at a reduced price.  Sell expired products to clients, donate to charities, reuse organic waste for animal food, and more.  With over 100k meals saved per day, we are well on our way to reach the objective of zero food waste.  
 ## Footprint Calculators
-- [Bloom (from Tomorrow)](https://bloomclimate.com/) - Bloom integrates with software you already use to automatically track and visualize your company's carbon footprint in real time, giving every business the tools to thrive in a climate-conscious world and show climate leadership.
-
 - [Carbon Analytics](https://www.co2analytics.com/) - Link a Xero accounts to assess each purchase a company makes, calculating the carbon impact of things like fuel, power purchases, transportation and more as well as supply chain impacts.
 
 - [CarbonFootprint.com](https://www.carbonfootprint.com/) - Measure you carbon footprint, learn how to reduce your consumption, offset your impact, communicate, and comply.
