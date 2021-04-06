@@ -209,9 +209,9 @@ The world is simultaneously underwater and on fire, and people want to know what
 - [Tight5 farm](https://tight5.farm) - Delivered by cargo bicycle, our microgreens, sprouts, and culinary herbs are grown sustainably at production scale in an ultra-minimalist hydroponic vertical farming unit
 - [Too Good To Go](https://toogoodtogo.co.uk/) - Sell your surplus food, easily and sustainably! Save delicious food and fight food waste. Find your favorite food and go rescue it.
 - [We Are Phenix](https://wearephenix.com/en/) - Buy unsold goods from local businesses at a reduced price.  Sell expired products to clients, donate to charities, reuse organic waste for animal food, and more.  With over 100k meals saved per day, we are well on our way to reach the objective of zero food waste.  
+- [The Felix Project](https://thefelixproject.org/) - London-based charity that collects fresh, nutritious food that cannot be sold. Deliver this surplus food to charities and schools so they can provide healthy meals and help the most vulnerable in our society. Reducing food waste and poverty.
+- [OddBox](https://www.oddbox.co.uk) - English Certified B Corp that is reducing food waste. Collects food rejected by Supermarkets, directly from farms and delivers to your door. £10 off your first box with this link (https://mention-me.com/m/ol/qd4ho-0d5026f88d). I will plant trees through Ecologi with the £10 I get for this.
 ## Footprint Calculators
-- [Bloom (from Tomorrow)](https://bloomclimate.com/) - Bloom integrates with software you already use to automatically track and visualize your company's carbon footprint in real time, giving every business the tools to thrive in a climate-conscious world and show climate leadership.
-
 - [Carbon Analytics](https://www.co2analytics.com/) - Link a Xero accounts to assess each purchase a company makes, calculating the carbon impact of things like fuel, power purchases, transportation and more as well as supply chain impacts.
 
 - [CarbonFootprint.com](https://www.carbonfootprint.com/) - Measure you carbon footprint, learn how to reduce your consumption, offset your impact, communicate, and comply.
