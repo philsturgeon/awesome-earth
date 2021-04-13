@@ -281,6 +281,8 @@ The world is simultaneously underwater and on fire, and people want to know what
 ## Jobs
 - [80,000 Hours](https://80000hours.org/job-board/) - This board presents some of the most promising publicly advertised vacancies we know about. Most of these roles are demanding and difficult to get, but if you’re a good fit for one of them, it could be your best opportunity to work on one of the world’s most pressing problems, or to get the career capital you need to have a big impact later.
 
+- [awesome-sustainability-jobs](https://github.com/pogopaule/awesome-sustainability-jobs) - A curated, open source list of developer jobs in the sustainability sector.
+
 - [Climate Careers](https://climate.careers/) - Site that helps people find high-impact, high-paying jobs at organizations advancing climate solutions, research, policy, education, and advocacy for climate action. Software engineers, photographers, sales, operations, researchers, all sorts of jobs here.
 
 - [Climate Change Jobs (The Guardian)](https://jobs.theguardian.com/jobs/climate-change/) - The Guardian advertises the latest climate change jobs in the UK and some areas of Europe/Asia.
