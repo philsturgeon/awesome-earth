@@ -185,6 +185,7 @@ The world is simultaneously underwater and on fire, and people want to know what
 - [EIT Food](https://www.eitfood.eu/) - EIT Food is Europe’s leading food innovation initiative, working to make the food system more sustainable, healthy and trusted by consumers.
 - [Farm Drop](https://www.farmdrop.com/) - Next day delivery in London for groceries and household products from local and independent producers.
 - [Food Cloud](https://food.cloud/) - FoodCloud is a social enterprise that connects businesses with surplus food to charities in their local communities that need it via a software platform.
+- [Foodsharing.de](https://foodsharing.de/) - If you are located in Germany, join your local food rescuing group on foodsharing.de.
 - [Forkful](https://www.forkful.app/) - Sustainable, nutritious eating that is as good for you as it is for the planet. With our powerful recipe search, you can view the nutritional benefit and environmental impact of thousands of recipes at a glance, empowering you to make awesome decisions.
 - [Geev](https://corporate.geev.com/) - An online application to exchange stuffs and food between people. Easily discuss, meet and give a second life to objects and food.  The more you give the more people trust you when you want to get something.
 - [Giki](https://gikibadges.com/) - The Giki app provides accessible, independent, transparent information to help people change habits to live more sustainably. Our 14 badges cover sustainability, health and fairness.
