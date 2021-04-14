@@ -185,6 +185,7 @@ The world is simultaneously underwater and on fire, and people want to know what
 - [EIT Food](https://www.eitfood.eu/) - EIT Food is Europe’s leading food innovation initiative, working to make the food system more sustainable, healthy and trusted by consumers.
 - [Farm Drop](https://www.farmdrop.com/) - Next day delivery in London for groceries and household products from local and independent producers.
 - [Food Cloud](https://food.cloud/) - FoodCloud is a social enterprise that connects businesses with surplus food to charities in their local communities that need it via a software platform.
+- [Foodsharing.de](https://foodsharing.de/) - If you are located in Germany, join your local food rescuing group on foodsharing.de.
 - [Forkful](https://www.forkful.app/) - Sustainable, nutritious eating that is as good for you as it is for the planet. With our powerful recipe search, you can view the nutritional benefit and environmental impact of thousands of recipes at a glance, empowering you to make awesome decisions.
 - [Geev](https://corporate.geev.com/) - An online application to exchange stuffs and food between people. Easily discuss, meet and give a second life to objects and food.  The more you give the more people trust you when you want to get something.
 - [Giki](https://gikibadges.com/) - The Giki app provides accessible, independent, transparent information to help people change habits to live more sustainably. Our 14 badges cover sustainability, health and fairness.
@@ -195,6 +196,7 @@ The world is simultaneously underwater and on fire, and people want to know what
 - [Impossible Foods](https://impossiblefoods.com/) - We’re making meat from plants so that we never have to use animals again.  Just one Impossible Burger (instead of a burger made from cows) will use 96% less land, 87% less water, and 89% fewer GHG emissions.
 - [Karma](https://karma.life/) - Rescue unsold meals, delivered, always 50% off in hundreds of cities across Sweden, United Kingdom, and France.
 - [Karma](https://new.karma.life/) - A Swedish company that lets restaurants sell surplus food at a lower price. It lets you pay less for food and prevent food waste.
+- [Karrot](https://karrot.world/) - Join or start a group in your home town that rescues food. Karrot is a free and open-source tool for grassroots initiatives and groups of people that want to coordinate face-to-face activities on a local, autonomous and voluntary basis.
 - [Kitche](https://kitche.co/) - Kitche works to reduce waste from inside users’ kitchens and makes it easier than ever before to manage food at home, saving money and reducing food waste all within one app. Scan receipts and stop wasting money!
 - [Makkelijke Moestuin (Easy Vegetable Garden)](https://www.makkelijkemoestuin.nl/) - We make the vegetable garden easy. Thanks to our stuff and app, you can immediately garden like a pro.  Setting up your vegetable garden perfectly is 80% of the work. Our stuff is specially made for that. With the other 20% - maintenance - our app helps you completely.  You harvest 5 times as much per m² as from an ordinary vegetable garden. Ka-ching!
 - [Milk Run](https://localmilkrun.com) - Shop for and subscribe to deliveries from our hub of local farmers, butchers, bakers, and makers in Portland, Oregon.
@@ -278,6 +280,8 @@ The world is simultaneously underwater and on fire, and people want to know what
 - [Who Gives a Crap](https://whogivesacrap.org/) - We make all of our products with environmentally friendly materials, and we donate 50% of our profits to help build toilets for those in need.
 ## Jobs
 - [80,000 Hours](https://80000hours.org/job-board/) - This board presents some of the most promising publicly advertised vacancies we know about. Most of these roles are demanding and difficult to get, but if you’re a good fit for one of them, it could be your best opportunity to work on one of the world’s most pressing problems, or to get the career capital you need to have a big impact later.
+
+- [awesome-sustainability-jobs](https://github.com/pogopaule/awesome-sustainability-jobs) - A curated, open source list of developer jobs in the sustainability sector.
 
 - [Climate Careers](https://climate.careers/) - Site that helps people find high-impact, high-paying jobs at organizations advancing climate solutions, research, policy, education, and advocacy for climate action. Software engineers, photographers, sales, operations, researchers, all sorts of jobs here.
 
