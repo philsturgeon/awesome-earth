@@ -89,10 +89,11 @@ The world is simultaneously underwater and on fire, and people want to know what
 - [Lost in Samsara - Bags, Jewelry, and Accessories](https://www.lostinsamsara.co.uk) - Stylish products produced ethically from upcycled materials.  Bags made from cement bags, tires, and jewelry made from upcycled bullet casings.
 
 - [Love Linen](https://www.lovelinen.com.au/) - Linen clothing made with love in Australia
+- [MUD Jeans](https://mudjeans.eu/) - Zero impact jeans production obeying circular economy principles, paying fair wages and offering a repair service.
 - [Mezzoroni](https://mezzoroni.com/) - Oeko-tex certificated, cruelty free customizable linen clothing brand. All of the packaging are plastic free. 
 - [NN07](https://www.nn07.com/) - Using its [sustainable material matrix](https://www.nn07.com/made-to-last), No Nationality designs made-to-last clothing primarily with recycled and non-cotton natural materials including hemp, linen, wool, alpaca, and silk.
 - [Norm Shoes](https://norm.shoes/) - Our shoes are made from 90% recycled materials: recycled polyester (6 plastic bottles per pair), recycled rubber, and fairtrade rubber.  The impact for one pair of Norm shoes is only 6,5 kg of CO2 equivalent (80% lower than the industry average). We partner with a Belgian NGO, Graine de Vie, to plant two trees in Madagascar for each pair we sell and we offset our emissions as well.
-
+- [Patagonia](https://www.patagonia.com/) - Sports clothing produced in the most sustainable way ([footprint](https://www.patagonia.com/our-footprint/): working towards carbon neutral, recycled, fair trade, organic, ...)
 - [Pure Waste](https://www.purewaste.org/) - Helsinki based, making 100% recycled clothing out of waste materials.
 - [REI Used](https://www.rei.com/used) - CO-OP owned company that sells reused hiking and outdoor gear and clothing with the goal of preventing waste and getting more people into outdoor activities. They offer gift cards in exchange for your used gear too.
 - [Recover Brands](https://recoverbrands.com/) - Soft and strong T-shirts, each made from 8 plastic bottles. Closed Loop manufacturing from the start.
@@ -284,6 +285,8 @@ The world is simultaneously underwater and on fire, and people want to know what
 - [80,000 Hours](https://80000hours.org/job-board/) - This board presents some of the most promising publicly advertised vacancies we know about. Most of these roles are demanding and difficult to get, but if you’re a good fit for one of them, it could be your best opportunity to work on one of the world’s most pressing problems, or to get the career capital you need to have a big impact later.
 
 - [awesome-sustainability-jobs](https://github.com/pogopaule/awesome-sustainability-jobs) - A curated, open source list of developer jobs in the sustainability sector.
+
+- [Circul'R](https://www.circul-r.com/) - Bridging startups and companies so they can co-create circular economy solutions
 
 - [Climate Careers](https://climate.careers/) - Site that helps people find high-impact, high-paying jobs at organizations advancing climate solutions, research, policy, education, and advocacy for climate action. Software engineers, photographers, sales, operations, researchers, all sorts of jobs here.
 
