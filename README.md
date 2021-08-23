@@ -307,6 +307,9 @@ The world is simultaneously underwater and on fire, and people want to know what
 - [TBD Community](https://www.tbd.community/) - More than 3,000 impact-driven companies and organisations use tbd* to look for new team members, in English and German but many of the jobs are in Germany.
 
 - [Tech Jobs for Good](https://techjobsforgood.com/) - Find tech jobs at social impact companies, foundations, and innovative nonprofits in the United States. They cover all sorts of impact areas, with Environment being one you can select. Some jobs are remote, some are in-office.
+
+- [Terra.do](https://www.terra.do) - Climate learning and career transition platform, runs several fellowships on climate education (broad and sector-specific), hosts climate job fairs, connects to mentors and experts, etc.
+
 ## Land Management
 - [Creating a Land Trust](https://conservationtools.org/guides/150-what-is-a-land-trust) - A land trust is a charitable organization that acquires land or conservation easements, or that stewards land or easements, for conservation purposes. Land owners may consider designating portions of their land as a land trust, in order to preserve natural features in perpetuity, and be eligible for tax benefits as a result.
 - [Dronecoria](http://dronecoria.org/) - Open-source drone reforestation technology. Drones, coupled with native coated seeds, can transform the efficiency with which we restore ecosystems.
