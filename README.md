@@ -239,7 +239,7 @@ The world is simultaneously underwater and on fire, and people want to know what
 - [atmosfair](https://www.atmosfair.de/) - Calculate the footprint for flights and buy compensation or donate to offset any number of carbon emissions. Tax-deductible in Germany.
 ## Home Improvements
 - [All Green](https://www.all-green.co.uk/) - A selection of environmentally friendly products for the home, garden, pets and other stuff.
-- [Barry](https://getbarry.co/) - Få et smart strømforbrug. Udskift din gamle el-leverandør med en app til din strøm.
+- [Barry](https://barry.energy) - Få et smart strømforbrug. Udskift din gamle el-leverandør med en app til din strøm.
 
 - [Berkley Water Filters](https://www.berkeyfilters.com/) - 21,000,000 Americans drink water that violates U.S. health standards. Berkey water filter systems are actually water purifiers because they remove bacteria and viruses that conventional filters cannot.
 - [Domestic Renewable Heat Incentive (RHI)](https://www.gov.uk/domestic-renewable-heat-incentive) - You could get money towards renewable heating costs in your home. You can claim for biomass boilers, solar water heating, heat pumps. Payments are made for 7 years and are based on the amount of renewable heat made by your heating system.
