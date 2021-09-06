@@ -367,7 +367,7 @@ With dams causing wild salmon populations to go extinct, their only benefit is h
 
 ## Reforestation
 - [Arbor Day Foundation](https://www.arborday.org/) - The Arbor Day Foundation is a 501(c)(3) nonprofit conservation and education organization. A million members, donors, and partners support our programs to make our world greener and healthier.
-- [Bunq Greencard](https://www.bunq.com/link/upgrade-greencard) - Dutch online-only bank with a credit card which plants trees for the money you spend.
+- [Bunq Greencard](https://www.bunq.com/easygreen) - Dutch online-only bank with a credit card which plants trees for the money you spend.
 - [Coforest](https://coforest.co.uk/) - To create our first co-forest in the Bath & Bristol area, we’re inviting organisations and individuals to adopt up to an acre of land. You’ll be able to name your forest plot and even help to plant it. Together, we’ll create a whole new forest.
 - [DigitalHumani](https://digitalhumani.com) - DigitalHumani offers a Reforestation as a Service, to help enterprises plant trees! Run by a volunteer collective, they provide simple Application Programming Interfaces (APIs) to help connect websites and mobile applications to trusted reforestation organizations to have trees planted.
 - [Dronecoria](http://dronecoria.org/) - Open-source drone reforestation technology. Drones, coupled with native coated seeds, can transform the efficiency with which we restore ecosystems.
