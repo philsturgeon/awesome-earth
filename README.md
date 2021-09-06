@@ -302,7 +302,7 @@ The world is simultaneously underwater and on fire, and people want to know what
 
 - [Practical guide to finding a climate change job in tech](https://medium.com/@leventov/how-to-find-a-job-in-a-tech-company-helping-to-combat-climate-change-practical-guide-e212e262a32) - Nice guide on finding a job in tech tackling climate change.
 
-- [Reconsidered Jobs](https://jobs.reconsidered.co/) - Aggregate jobs in social impact, sustainability and corporate social responsibility.
+- [Reconsidered Jobs](https://www.reconsidered.co/jobs) - Aggregate jobs in social impact, sustainability and corporate social responsibility.
 
 - [TBD Community](https://www.tbd.community/) - More than 3,000 impact-driven companies and organisations use tbd* to look for new team members, in English and German but many of the jobs are in Germany.
 
