@@ -300,6 +300,8 @@ The world is simultaneously underwater and on fire, and people want to know what
 - [GreenJobs](https://greenjobs.com) - Site advertising a wide variety of green jobs to enhance your environmental career.
 - [MakeSense Jobs](https://jobs.makesense.org) - Makesense inspires and empowers citizens, entrepreneurs and organizations to build an inclusive and sustainable society together.  MakeSense's Job and assignment announcements platform for associations and social entrepreneurs who recruit profiles passionate about the impact. Job types include internship, freelance, civic service, partner, program, volunteer mission, mentoring.
 
+- [NatureTech Jobs](https://naturetech.io) - The jobs platform for naturetech. Naturetech applies new advances in tech - satellite monitoring, drone technology, AI, genomic sequencing and blockchain to nature based solutions including reforestation, monitoring deforestation and supply chain transparency. Sections for Software, Biodiversity, Data Science but also Marketing and Business Jobs.
+
 - [Practical guide to finding a climate change job in tech](https://medium.com/@leventov/how-to-find-a-job-in-a-tech-company-helping-to-combat-climate-change-practical-guide-e212e262a32) - Nice guide on finding a job in tech tackling climate change.
 
 - [Reconsidered Jobs](https://www.reconsidered.co/jobs) - Aggregate jobs in social impact, sustainability and corporate social responsibility.
