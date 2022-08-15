@@ -241,7 +241,7 @@ The world is simultaneously underwater and on fire, and people want to know what
 - [All Green](https://www.all-green.co.uk/) - A selection of environmentally friendly products for the home, garden, pets and other stuff.
 - [Barry](https://barry.energy) - Få et smart strømforbrug. Udskift din gamle el-leverandør med en app til din strøm.
 
-- [Berkley Water Filters](https://www.berkeyfilters.com/) - 21,000,000 Americans drink water that violates U.S. health standards. Berkey water filter systems are actually water purifiers because they remove bacteria and viruses that conventional filters cannot.
+- [Berkey Water Filters](https://www.berkeyfilters.com/) - 21,000,000 Americans drink water that violates U.S. health standards. Berkey water filter systems are actually water purifiers because they remove bacteria and viruses that conventional filters cannot.
 - [Domestic Renewable Heat Incentive (RHI)](https://www.gov.uk/domestic-renewable-heat-incentive) - You could get money towards renewable heating costs in your home. You can claim for biomass boilers, solar water heating, heat pumps. Payments are made for 7 years and are based on the amount of renewable heat made by your heating system.
 - [EPA's Responsible Appliance Disposal](https://www.epa.gov/rad) - RAD is a voluntary partnership program that works with utilities, retailers, manufacturers, state and local government agencies, affiliates, and others to dispose of old refrigerated appliances using the best environmental practices available.
 - [Ecobee](https://www.ecobee.com/) - Improve how people consume energy to create a more sustainable future. Live in harmony with a thermostat and sensor that learn and adapt to your schedule. _Lower the manufacturing footprint by buying one of their refurbished products._
@@ -513,7 +513,7 @@ With dams causing wild salmon populations to go extinct, their only benefit is h
 - [Simon Clark](https://www.youtube.com/user/SimonOxfPhys) - PhD in climate physics by day, YouTuber by night. He makes videos about both!
 
 ## Zero Waste
-- [Berkley Water Filters](https://www.berkeyfilters.com/) - 21,000,000 Americans drink water that violates U.S. health standards. Berkey water filter systems are actually water purifiers because they remove bacteria and viruses that conventional filters cannot.<!-- links:end -->
+- [Berkey Water Filters](https://www.berkeyfilters.com/) - 21,000,000 Americans drink water that violates U.S. health standards. Berkey water filter systems are actually water purifiers because they remove bacteria and viruses that conventional filters cannot.<!-- links:end -->
 - [Kent Zero Water Wastage Technology](https://www.kent.co.in/water-purifiers/zero-water-wastage-technology) - KENT RO Purifiers equipped with the ‘Zero Water Wastage’ Technology push back the rejected water to the overhead tank, thereby rendering wastage to zero. As a result, instead of wasting the rejected water, it gets diluted and reused as normal tap water for household purposes.<!-- links:end -->
 
 ## Contributing
