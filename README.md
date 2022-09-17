@@ -511,6 +511,7 @@ With dams causing wild salmon populations to go extinct, their only benefit is h
 - [Hot Mess](https://www.youtube.com/channel/UCsaEBhRsI6tmmz12fkSEYdw) - A show about how climate change impacts all of us, and about how we can create a better future for our planet and ourselves. Hosted by Miriam Nielsen, Talia Buford, and Joe Hanson.
 - [Our Changing Climate](https://www.youtube.com/channel/UCNXvxXpDJXp-mZu3pFMzYHQ) - A bi-weekly video essay series that investigates humanity's relationship to the natural world.
 - [Simon Clark](https://www.youtube.com/user/SimonOxfPhys) - PhD in climate physics by day, YouTuber by night. He makes videos about both!
+- [DW Planet A](https://www.youtube.com/c/DWPlanetA) - Planet A explores the shift towards an eco-friendly world — and challenges our ideas about what dealing with climate change means.
 
 ## Zero Waste
 - [Berkley Water Filters](https://www.berkeyfilters.com/) - 21,000,000 Americans drink water that violates U.S. health standards. Berkey water filter systems are actually water purifiers because they remove bacteria and viruses that conventional filters cannot.<!-- links:end -->
