@@ -46,6 +46,9 @@ The world is simultaneously underwater and on fire, and people want to know what
 - [Cool Earth](https://www.coolearth.org/) - This charity was created to tackle climate change by reducing carbon emissions from rainforest loss.
 - [Ecologi](https://ecologi.com/?r=5d01f2ed12ae7a358b75fdd7) - Help the planet from your sofa, for less than a cheap bottle of wine per month. Watch your own forest come to life and offset your entire footprint for $6.50/€6 per-month. Then get your friends, family, business, and even your dog signed up!
 - [Ecosia](https://www.ecosia.org) - The search engine that plants trees. >50% of the ad revenue goes directly to planting trees.
+
+- [Earth Hero](https://www.earthhero.org/) - Free app that makes it easy to act on the climate emergency and reduce carbon emissions. Includes hundreds of action ideas that you can sort through and keep track of your progress. Non-profit volunteer team.
+
 - [Flight Free (UK)](https://flightfree.co.uk/) - Aviation is the fastest growing contributor to greenhouse gas emissions at a time when we desperately need to reduce them. Pledge to go flight free in 2020.
 - [Flight Free (USA)](https://flightfreeusa.org/) - A grassroots campaign which asks people to agree not to fly in the year of 2020 – on condition that 100,000 others will also pledge to do the same.
 - [Future Earth](https://futureearth.org/) - Future Earth is a global research programme designed to provide the knowledge needed to support transformations towards sustainability. They focus on systems-based approaches, seeking to deepen the understanding of complex Earth systems and human dynamics across different disciplines.
