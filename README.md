@@ -21,6 +21,7 @@ The world is simultaneously underwater and on fire, and people want to know what
 - [Other Services](#other-services)
 - [Podcasts](#podcasts)
 - [Politics](#politics)
+- [Preservation] (#preservation)
 - [Reforestation](#reforestation)
 - [Renewable Energy](#renewable-energy)
 - [Transportation](#transportation)
@@ -365,6 +366,9 @@ Tell NOAA Regional Administrator Barry Thom, WDFW Director Kelly Susewind, and o
 With dams causing wild salmon populations to go extinct, their only benefit is hydropower, yet dams are woefully inefficient by modern standards. For example, the Tugalo Dam in Georgia destroyed 597 acres of temperate rainforest to produce 45 Megawatts, which is the equivalent of 7,500 homes adding 6kw rooftop solar panels. We should tear down these dams as soon as possible, be that when their contract runs out or sooner, instead of wasting tax-payer money operating them or trying to revive them. [More on Last Week Tonight](https://www.youtube.com/watch?v=Wpzvaqypav8).
 - [Climate Reality](https://climaterealityproject.org) - an initiative of former United States vice president and 2007 Nobel Peace Prize laureate Al Gore to make urgent action a necessity to address climate change issues through activism and cutting greenhouse gas emissions.
 
+
+## Preservation
+- [Onçafari](https://oncafari.org/en/) - Onçafari is a brazillian non-governmental organization that exists since 2011 and collects and assemble data to understand better the jaguar behavior, the biggest feline of the Americas, trying to figure out how to improve conservation of those animals. In 2020, the world is witnessing the Pantanal (brazillian wetlands) fires, and the harm to our wild life and plants. Onçafari is using its funds to help preserve the biome and animals, including jaguars. Anyone can donate to them on their website, helping the planet.
 
 ## Reforestation
 - [Arbor Day Foundation](https://www.arborday.org/) - The Arbor Day Foundation is a 501(c)(3) nonprofit conservation and education organization. A million members, donors, and partners support our programs to make our world greener and healthier.
