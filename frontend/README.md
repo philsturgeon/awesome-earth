@@ -2,6 +2,8 @@ A front end for the Awesome Earth project.
 
 Deployed at https://awesome-earth.org
 
+![awesome-earth.org](/awesome-earth-org.png?raw=true)
+
 ## Development
 
 First, run the development server:
