@@ -1,5 +1,6 @@
 {
   "name": "frontend",
+  "description": "Front-end for Awesome Earth project http://awesome-earth.org",
   "version": "0.1.0",
   "private": true,
   "scripts": {
