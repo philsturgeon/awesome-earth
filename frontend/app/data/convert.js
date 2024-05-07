@@ -1,5 +1,4 @@
 // Convert the README.md file to JSON format
-// eslint-disable-next-line @typescript-eslint/no-var-requires
 const fs = require('fs')
 
 // Read the input file
