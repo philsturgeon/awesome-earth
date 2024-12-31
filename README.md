@@ -485,7 +485,7 @@ With dams causing wild salmon populations to go extinct, their only benefit is h
 - [Kaiyo](https://kaiyo.com/) - Buy and sell used furniture to keep it out of landfill. They'll even come and pick it up! _I've used this to get rid of a giant sofa which nobody wanted to buy, it was about to go on the street and they got me a cheque._
 - [Karma](https://new.karma.life/) - A Swedish company that lets restaurants sell surplus food at a lower price. It lets you pay less for food and prevent food waste.
 - [Litterati](https://www.litterati.org/) - Empowering people to clean the planet. Photograph a piece of litter, tag it, and discard properly.  Participate in a challenge and hold wasteful brands accountable.
-- [No Food Wasted](https://toogoodtogo.com/) - toogoodtogo maps products that reach the best before date and shows where and how much you can save. Download the app, select a provider near you and start saving today.
+- [Too Good To Go](https://toogoodtogo.com/) - toogoodtogo maps products that reach the best before date and shows where and how much you can save. Download the app, select a provider near you and start saving today.
 - [Olio](https://olioex.com/) - We connect neighbors to share food, and other things, rather than chuck them away.
 - [Open Circularity](https://opencircularity.info/) - Lars Zimmermann runs Mifactori Design & Activism Studio in Berlin. This website is where he shares content & thoughts on Open Source Circularity. General idea is - open source all products, allowing them to be repaired or repurposed if they break rather than ending up in landfill.
 
