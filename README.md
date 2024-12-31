@@ -1,4 +1,4 @@
-# Awesome Earth ![Ecologi (Carbon Offset)](https://img.shields.io/ecologi/carbon/philsturgeon) ![Ecologi (Trees)](https://img.shields.io/ecologi/trees/philsturgeon) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <!-- omit in toc -->
+# Awesome Earth [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <!-- omit in toc -->
 
 The world is simultaneously underwater and on fire, and people want to know what they can do about it. Let's share resources, services, products and ideas you can use to stop kicking the planet in the face.
 
@@ -245,6 +245,7 @@ The world is simultaneously underwater and on fire, and people want to know what
 - [Reconsidered Jobs](https://www.reconsidered.co/jobs) - Aggregate jobs in social impact, sustainability and corporate social responsibility.
 - [TBD Community](https://www.tbd.community/) - More than 3,000 impact-driven companies and organisations use tbd\* to look for new team members, in English and German but many of the jobs are in Germany.
 - [Tech Jobs for Good](https://techjobsforgood.com/) - Find tech jobs at social impact companies, foundations, and innovative nonprofits in the United States. They cover all sorts of impact areas, with Environment being one you can select. Some jobs are remote, some are in-office.
+- [ClimateTriage](https://climatetriage.com/) - Discover a meaningful way to join open source projects by contributing to Good First Issues focused on climate and sustainability.
 - [Terra.do](https://www.terra.do) - Climate learning and career transition platform, runs several fellowships on climate education (broad and sector-specific), hosts climate job fairs, connects to mentors and experts, etc.
 
 ## Land Management
@@ -406,6 +407,7 @@ The world is simultaneously underwater and on fire, and people want to know what
 - [GrowNYC Food Scrap Collection Schedule](https://www.grownyc.org/compost/locations) - Interactive map with over 150 residential Food Scrap Drop-Off sites in NYC.
 - [Karma](https://new.karma.life/) - A Swedish company that lets restaurants sell surplus food at a lower price. It lets you pay less for food and prevent food waste.
 - [Litterati](https://www.litterati.org/) - Empowering people to clean the planet. Photograph a piece of litter, tag it, and discard properly. Participate in a challenge and hold wasteful brands accountable.
+- [Too Good To Go](https://toogoodtogo.com/) - toogoodtogo maps products that reach the best before date and shows where and how much you can save. Download the app, select a provider near you and start saving today.
 - [Olio](https://olioex.com/) - We connect neighbors to share food, and other things, rather than chuck them away.
 - [Open Circularity](https://opencircularity.info/) - Lars Zimmermann runs Mifactori Design & Activism Studio in Berlin. This website is where he shares content & thoughts on Open Source Circularity. General idea is - open source all products, allowing them to be repaired or repurposed if they break rather than ending up in landfill.
 - [OpenStreetMap: Zero Waste (Overpass)](http://overpass-turbo.eu/?template=key&key=zero_waste) - OpenStreetMap has the tag zero_waste=\* for shops who sell items without packaging.
