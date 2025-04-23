@@ -434,6 +434,7 @@ The world is simultaneously underwater and on fire, and people want to know what
 - [Hot Mess](https://www.youtube.com/channel/UCsaEBhRsI6tmmz12fkSEYdw) - A show about how climate change impacts all of us, and about how we can create a better future for our planet and ourselves. Hosted by Miriam Nielsen, Talia Buford, and Joe Hanson.
 - [Our Changing Climate](https://www.youtube.com/channel/UCNXvxXpDJXp-mZu3pFMzYHQ) - A bi-weekly video essay series that investigates humanity's relationship to the natural world.
 - [Simon Clark](https://www.youtube.com/user/SimonOxfPhys) - PhD in climate physics by day, YouTuber by night. He makes videos about both!
+- [DW Planet A](https://www.youtube.com/c/DWPlanetA) - Planet A explores the shift towards an eco-friendly world — and challenges our ideas about what dealing with climate change means.
 
 ## Zero Waste
 
