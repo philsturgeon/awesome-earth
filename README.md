@@ -10,6 +10,7 @@ The world is simultaneously underwater and on fire, and people want to know what
 - [Clothing](#clothing)
 - [Consumer Products](#consumer-products)
 - [Cooking](#cooking)
+- [Development](#development)
 - [Documentaries](#documentaries)
 - [Finance](#finance)
 - [Food](#food)
@@ -107,6 +108,9 @@ The world is simultaneously underwater and on fire, and people want to know what
 - [Insulated Cooking](https://www.milkwood.net/2015/07/06/thermal-cooking/) - Discover a great way not only to use less energy in food preparation, but to serve tastier and more nutritious meals at the same time. Any recipe that calls for boiling, simmering, steaming, or roasting will often taste better— [hot from the haybox](https://www.motherearthnews.com/diy/haybox-cooking-zmaz80jfzraw) — than it would with regular stove preparation ... and you'll save heat energy at the same time. You can pick up a pot-sized [thermal cooker](http://www.cookingworld.biz/thermal-cooker-guide/), or simply put a blanket in a cooler.
 - [Preserve Extra Food With A Solar Dehydrator](https://www.motherearthnews.com/diy/tools/solar-food-dehydrator-plans-zm0z14jjzmar) - A solar food dehydrator is a device that removes moisture from food to aid in its preservation. You can [buy a simple one](https://www.kickstarter.com/projects/mixedmediaeng/dryceratop-solar-food-dehydrator-for-mason-jars/description) or make your own. Food drying is a method of preserving fruit, vegetables, and animal proteins that has been practiced since antiquity.
 - [Sun Oven](https://www.sunoven.com) - Insulated solar oven that can cook food just like a regular oven.
+
+## Development
+- [Step CI](https://docs.stepci.com/guides/co2-testing.html) - Open-source framework for API Quality Assurance, which tests REST, GraphQL and gRPC automated and from Open API spec. It lets you calculate carbon emissions of your API calls.
 
 ## Documentaries
 
