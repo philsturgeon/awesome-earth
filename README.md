@@ -129,7 +129,7 @@ The world is simultaneously underwater and on fire, and people want to know what
 - [Sun Oven](https://www.sunoven.com) - Insulated solar oven that can cook food just like a regular oven.
 
 ## Development
-- [Step CI](https://www.stepci.com) - Open-source framework for API Quality Assurance, which tests REST, GraphQL and gRPC automated and from Open API spec. It lets you calculate carbon emissions of your API calls.
+- [Step CI](https://docs.stepci.com/guides/co2-testing.html) - Open-source framework for API Quality Assurance, which tests REST, GraphQL and gRPC automated and from Open API spec. It lets you calculate carbon emissions of your API calls.
 
 ## Documentaries
 - [Artifishial](https://www.patagonia.com/artifishal.html) - Artifishal is a film about people, rivers, and the fight for the future of wild fish and the environment that supports them. It explores wild salmon’s slide toward extinction, threats posed by fish hatcheries and fish farms, and our continued loss of faith in nature.
