@@ -1858,6 +1858,11 @@ export const links = [
     "name": "Waste",
     "links": [
       {
+        "name": "Afida",
+        "url": "https://afida.com/",
+        "description": "Eco-friendly catering supplies for restaurants and takeaway businesses in the UK. Products include 100% biodegradable straws, cups, containers, and packaging made from sustainable materials, helping businesses reduce single-use plastic waste."
+      },
+      {
         "name": "Algramo",
         "url": "https://www.algramoalmacenes.com/",
         "description": "Vending machines and mobile refill units for refilling reusable plastic bottles with staple goods from shampoo to salad dressing in packaging that is designed to be returned, cleaned, and reused.  With over 2,000 bodegas in Santiago and plans to expand in the US soon, Algramo, translates to \"by the gram\", also solves the issue of \"poverty tax\" where small packages can cost as much as 50% more than the same product in a larger size."

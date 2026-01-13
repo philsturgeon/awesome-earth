@@ -401,6 +401,7 @@ The world is simultaneously underwater and on fire, and people want to know what
 
 ## Waste
 
+- [Afida](https://afida.com/) - Eco-friendly catering supplies for restaurants and takeaway businesses in the UK. Products include 100% biodegradable straws, cups, containers, and packaging made from sustainable materials, helping businesses reduce single-use plastic waste.
 - [Algramo](https://www.algramoalmacenes.com/) - Vending machines and mobile refill units for refilling reusable plastic bottles with staple goods from shampoo to salad dressing in packaging that is designed to be returned, cleaned, and reused. With over 2,000 bodegas in Santiago and plans to expand in the US soon, Algramo, translates to "by the gram", also solves the issue of "poverty tax" where small packages can cost as much as 50% more than the same product in a larger size.
 - [Bio Bean](https://www.bio-bean.com/) - The world’s largest recycler of coffee grounds, Bio Bean recycle spent coffee grounds into sustainable products, like coffee logs for fires, and other biomass fuel.
 - [Bio-plastic Trash Bags](https://www.amazon.com/Plant-Based-Kitchen-Handles-Gallon/dp/B071JMFKM5/) - Made from Plant Based (sugar cane) materials instead of fossil fuel.
