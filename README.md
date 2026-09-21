@@ -206,6 +206,7 @@ The world is simultaneously underwater and on fire, and people want to know what
 
 - [All Green](https://www.all-green.co.uk/) - A selection of environmentally friendly products for the home, garden, pets and other stuff.
 - [Barry](https://barry.energy) - Få et smart strømforbrug. Udskift din gamle el-leverandør med en app til din strøm.
+- [Cooling Scout](https://coolingscout.com/) - Free comparison tool for portable air conditioners so you can pick a more efficient cooling option instead of oversizing wasteful units.
 - [Domestic Renewable Heat Incentive (RHI)](https://www.gov.uk/domestic-renewable-heat-incentive) - You could get money towards renewable heating costs in your home. You can claim for biomass boilers, solar water heating, heat pumps. Payments are made for 7 years and are based on the amount of renewable heat made by your heating system.
 - [EPA's Responsible Appliance Disposal](https://www.epa.gov/rad) - RAD is a voluntary partnership program that works with utilities, retailers, manufacturers, state and local government agencies, affiliates, and others to dispose of old refrigerated appliances using the best environmental practices available.
 - [Ecobee](https://www.ecobee.com/) - Improve how people consume energy to create a more sustainable future. Live in harmony with a thermostat and sensor that learn and adapt to your schedule. _Lower the manufacturing footprint by buying one of their refurbished products._
