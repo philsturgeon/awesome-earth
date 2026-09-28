@@ -430,6 +430,7 @@ The world is simultaneously underwater and on fire, and people want to know what
 - [The Rotten Fruit Box](https://therottenfruitbox.com/) - 100% Natural Freeze-Dried Fruit Snacks from Spain and Portugal shipped to you. The fruit you’re enjoying would have otherwise gone unused and rotted away on the ground. We also think that the name "Rotten" helps bring attention to the serious issue of food waste. Delicious, healthy, 100% natural, with a long shelf life, our freeze dried fruit snack pouches are ideal for home, work, office, to take to school, camping or just about anywhere. Help reduce food waste. Help small local farmers. 100% compostable packaging, ships with your local postal service because it is the lowest carbon footprint option.
 - [Too Good To Go](https://toogoodtogo.co.uk/) - Sell your surplus food, easily and sustainably! Save delicious food and fight food waste. Find your favorite food and go rescue it.
 - [Vegware](https://vegware.co.uk/) - Napkins, carrier bags, salad boxes, sushi trays, cutlery, disposable coffee cups, all made from plants using renewable, lower carbon, recycled or reclaimed materials, and designed to be commercially compostable with food waste, where accepted.
+- [yattapick](https://yattapick.com) - Neighbours give away the objects they no longer use and people nearby pick them up for free, with no selling and no fees. Active in Milan, London and New York, on the web, Android and iPhone.
 
 ## YouTube Channels
 
